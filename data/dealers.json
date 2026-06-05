@@ -10,6 +10,7 @@
       "Benna Ford and Benna CDJR share a cross-lot inventory pool — some VINs may appear under both rooftops.",
       "Shared-pool rooftops recorded once to avoid double-counting: Genesis of St. Cloud (under St. Cloud Hyundai), Dondelinger Hyundai (under Dondelinger Chevrolet), Eich Mazda (under Eich VW), Lake Woods CDJR (absorbed into Dondelinger Ford CDJR), Atwater Motors Baxter (under Atwater Chevrolet GMC).",
       "Confirmed closed during research: Gustafson Motors (Cook), CarHop St. Cloud (April 2026).",
+      "New Duluth Auto sells rebuilt-title (branded) Subarus — its prices are not comparable to clean-title stock.",
       "Prices/mileage are null where the dealer did not list them (\"call for price\") — never estimated."
     ]
   },
@@ -37502,14 +37503,14 @@
       "phone": "218-310-6626",
       "website": "https://newduluthauto.net",
       "specialties": [
-        "Subaru specialist",
+        "rebuilt-title Subarus",
         "AWD/4WD",
-        "Japanese imports",
-        "certified pre-owned style"
+        "late-model low-mileage",
+        "in-house financing"
       ],
       "coverage": "full",
       "method": "html",
-      "notes": "CMS: WordPress (confirmed via Link: rel=https://api.w.org/ header and nginx server) with AutoDealersDigital inventory plugin (cdn-websites.autodealersdigital.com CDN, dealer ID 104463). WordPress REST API probed: /wp-json/wp/v2/posts returned 500; /wp-json/wp/v2/types returned 500 (server error, not CORS). No inventory post type exposed via REST. AutoDealersDigital has no public JSON endpoint discoverable. Extracted from /all-inventory/ paginated HTML (3 pages, 25+25+15=65 vehicles). Vehicle URLs encode year/make/model as /vehicles/{id}-{year}-{make}-{model}/. Drivetrain and trim not available in listing cards (would require individual VDP fetches). 65 vehicles dominated by Subaru (Forester, Outback, Crosstrek, Impreza, Ascent) — heavy Subaru specialist.",
+      "notes": "CMS: WordPress (confirmed via Link: rel=https://api.w.org/ header and nginx server) with AutoDealersDigital inventory plugin (cdn-websites.autodealersdigital.com CDN, dealer ID 104463). WordPress REST API probed: /wp-json/wp/v2/posts returned 500; /wp-json/wp/v2/types returned 500 (server error, not CORS). No inventory post type exposed via REST. AutoDealersDigital has no public JSON endpoint discoverable. Extracted from /all-inventory/ paginated HTML (3 pages, 25+25+15=65 vehicles). Vehicle URLs encode year/make/model as /vehicles/{id}-{year}-{make}-{model}/. Drivetrain and trim not available in listing cards (would require individual VDP fetches). 65 vehicles dominated by Subaru (Forester, Outback, Crosstrek, Impreza, Ascent) — heavy Subaru specialist. | IMPORTANT: dealer specializes in REBUILT-TITLE vehicles — listings carry 'Title: Rebuilt' (verified 2026-06-05 on VDP pages). Prices reflect branded-title discount vs clean-title market; do not compare directly against clean-title stock.",
       "inventory": [
         {
           "year": 2012,

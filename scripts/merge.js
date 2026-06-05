@@ -57,6 +57,7 @@ const out = {
       'Benna Ford and Benna CDJR share a cross-lot inventory pool — some VINs may appear under both rooftops.',
       'Shared-pool rooftops recorded once to avoid double-counting: Genesis of St. Cloud (under St. Cloud Hyundai), Dondelinger Hyundai (under Dondelinger Chevrolet), Eich Mazda (under Eich VW), Lake Woods CDJR (absorbed into Dondelinger Ford CDJR), Atwater Motors Baxter (under Atwater Chevrolet GMC).',
       'Confirmed closed during research: Gustafson Motors (Cook), CarHop St. Cloud (April 2026).',
+      'New Duluth Auto sells rebuilt-title (branded) Subarus — its prices are not comparable to clean-title stock.',
       'Prices/mileage are null where the dealer did not list them ("call for price") — never estimated.',
     ],
   },
