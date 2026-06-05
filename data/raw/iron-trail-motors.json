@@ -842,7 +842,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "trim": "2.5 S Carbon Edition",
-      "price": 0,
+      "price": null,
       "mileage": 113225,
       "drivetrain": "AWD",
       "url": "https://www.irontrail.com/used-vehicles/jm3kfbcm0n0550055/"
@@ -852,7 +852,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "trim": "SR5",
-      "price": 0,
+      "price": null,
       "mileage": 128662,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/jtebu5jr3k5656282/"
@@ -862,7 +862,7 @@
       "make": "Chevrolet",
       "model": "Silverado 2500HD",
       "trim": "LT",
-      "price": 0,
+      "price": null,
       "mileage": 162993,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1gc1kveg2gf209426/"
@@ -872,7 +872,7 @@
       "make": "Ford",
       "model": "F-150",
       "trim": "XLT",
-      "price": 0,
+      "price": null,
       "mileage": 214229,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1ftew1ef9hkc20275/"
@@ -882,7 +882,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "trim": "LT",
-      "price": 0,
+      "price": null,
       "mileage": 83296,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/3gcukrec5jg476096/"
@@ -892,7 +892,7 @@
       "make": "Jeep",
       "model": "Renegade",
       "trim": "Trailhawk",
-      "price": 0,
+      "price": null,
       "mileage": 88291,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/zaccjbcb4jpj08164/"
@@ -902,7 +902,7 @@
       "make": "Ford",
       "model": "F-150",
       "trim": "XLT",
-      "price": 0,
+      "price": null,
       "mileage": 82908,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1ftew1epxjfa17760/"
@@ -912,7 +912,7 @@
       "make": "Toyota",
       "model": "Sequoia",
       "trim": "Platinum",
-      "price": 0,
+      "price": null,
       "mileage": 153028,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/5tddw5g17gs140274/"
@@ -922,7 +922,7 @@
       "make": "Jeep",
       "model": "Compass",
       "trim": "Latitude",
-      "price": 0,
+      "price": null,
       "mileage": 63211,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/3c4njdbnxrt111478/"
@@ -932,7 +932,7 @@
       "make": "Jeep",
       "model": "Compass",
       "trim": "Latitude",
-      "price": 0,
+      "price": null,
       "mileage": 65452,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/3c4njdbn3rt154429/"
@@ -942,7 +942,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "trim": "LT",
-      "price": 0,
+      "price": null,
       "mileage": 160005,
       "drivetrain": "FWD",
       "url": "https://www.irontrail.com/used-vehicles/2gnalcek5g1153373/"
@@ -952,7 +952,7 @@
       "make": "Ford",
       "model": "F-150",
       "trim": "XLT",
-      "price": 0,
+      "price": null,
       "mileage": 114380,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1ftew1e55lke38617/"
@@ -962,7 +962,7 @@
       "make": "Ram",
       "model": "1500",
       "trim": "Big Horn/Lone Star",
-      "price": 0,
+      "price": null,
       "mileage": 140901,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1c6srffm7ln212730/"
@@ -972,7 +972,7 @@
       "make": "Ford",
       "model": "F-150",
       "trim": "XLT",
-      "price": 0,
+      "price": null,
       "mileage": 104512,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1ftfw1et2dke98388/"
@@ -982,7 +982,7 @@
       "make": "Ram",
       "model": "1500 Classic",
       "trim": "SLT",
-      "price": 0,
+      "price": null,
       "mileage": 67288,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1c6rr7lt1ks574990/"
@@ -992,7 +992,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "trim": "Custom",
-      "price": 0,
+      "price": null,
       "mileage": 76642,
       "drivetrain": "4x4",
       "url": "https://www.irontrail.com/used-vehicles/1gcuybefxmz414360/"
@@ -1002,7 +1002,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "trim": "",
-      "price": 0,
+      "price": null,
       "mileage": 42089,
       "drivetrain": "",
       "url": "https://www.irontrail.com/used-vehicles/1z87l8s419827/"

@@ -1602,7 +1602,7 @@
       "make": "Ford",
       "model": "F-150",
       "trim": "LARIAT",
-      "price": 0,
+      "price": null,
       "mileage": 26891,
       "drivetrain": "",
       "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw5l52sfb26602/2025-ford-f-150-crew-cab-pickup?type=cash"
@@ -1612,7 +1612,7 @@
       "make": "Honda",
       "model": "Passport",
       "trim": "EX-L",
-      "price": 0,
+      "price": null,
       "mileage": 28626,
       "drivetrain": "",
       "url": "https://www.tenvoordeford.com/viewdetails/used/5fnyf8h59nb026802/2022-honda-passport-sport-utility?type=cash"
@@ -1622,7 +1622,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "trim": "RST",
-      "price": 0,
+      "price": null,
       "mileage": 35181,
       "drivetrain": "",
       "url": "https://www.tenvoordeford.com/viewdetails/used/1gnskrkd1rr182072/2024-chevrolet-tahoe-sport-utility?type=cash"

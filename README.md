@@ -30,12 +30,15 @@ Used/pre-owned inventory only — new vehicles at franchise dealers are excluded
 - Prices and mileage are `null` when the dealer didn't list them — never estimated
 - `titleAudit` (independents only): sampled title-status audit — `rebuilt-specialist` / `mixed` / `clean-advertised` / `unknown`. Most listing platforms don't disclose title status, so `unknown` is common; vehicles individually confirmed rebuilt carry `titleStatus: "rebuilt"` and are flagged Ⓡ in the dashboard
 
-## Rebuilding
+## Refreshing inventory
+
+In a Claude Code session in this repo, invoke the **refresh-inventory** skill (`.claude/skills/refresh-inventory/`) — optionally scoped to a region or dealer slugs. It re-extracts each dealer using the working method documented in its raw file, validates, merges, and publishes. Full refresh ≈ 15 agents / 15 minutes.
 
 ```sh
-node scripts/merge.js   # data/raw/*.json → data/dealers.json + data/dealers.js
+node scripts/validate.js  # pre-merge corruption checks (alignment, placeholder prices, non-vehicles)
+node scripts/merge.js     # data/raw/*.json → data/dealers.json + data/dealers.js
 ```
 
 Then open `index.html` — no build step, no server required. D3 is vendored at `assets/d3.min.js`.
 
-Collected 2026-06-05. Inventory turns over fast at small lots — treat prices as a snapshot, not live data.
+Initial collection 2026-06-05 (`meta.collectedAt` tracks the freshest extraction). Inventory turns over fast at small lots — treat prices as a snapshot, not live data.

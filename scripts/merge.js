@@ -46,9 +46,12 @@ const dealers = files.map(f => {
 
 const totalVehicles = dealers.reduce((n, d) => n + d.inventory.length, 0);
 
+// freshest extraction date across raw files (falls back to merge date)
+const dates = dealers.map(d => d.extractedAt).filter(Boolean).sort();
 const out = {
   meta: {
-    collectedAt: '2026-06-05',
+    collectedAt: dates.length ? dates[dates.length - 1] : new Date().toISOString().slice(0, 10),
+    oldestExtraction: dates.length ? dates[0] : '2026-06-05',
     region: 'Northland: Twin Ports · US-2 east to Ironwood MI · Iron Range · Brainerd Lakes · St. Cloud',
     dealerCount: dealers.length,
     vehicleCount: totalVehicles,
