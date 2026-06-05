@@ -1,0 +1,1021 @@
+{
+  "name": "Eide Chrysler Dodge Jeep Ram St. Cloud",
+  "slug": "eide-cdjr",
+  "type": "franchise",
+  "address": "2020 Frontage Rd S",
+  "city": "Waite Park",
+  "state": "MN",
+  "phone": "320-200-0373",
+  "website": "https://www.cdjrsaintcloud.com/",
+  "specialties": [
+    "Jeep SUVs and off-road",
+    "RAM trucks",
+    "Dodge and Chrysler vehicles",
+    "Multi-make pre-owned"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: Dealer.com / CDK Digital (DDC cookies, Akamai bot detection, ddc_akam_bot cookie set). Native JSON inventory API at /apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_USED:inventory-data-bus1/getInventory. API declares totalCount=128 but returns 100 unique VINs (records repeat after offset 100). 100 deduplicated vehicles retained. Price from internetPrice (fallback askingPrice), mileage from odometer, drivetrain from driveLine.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 40350,
+      "mileage": 25235,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2025-Ram-1500-8bbd56f1ac18475961637c041d381ed2.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "TRX",
+      "price": 68350,
+      "mileage": 68996,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-1500-990a4409ac185971734bf2f68c6887ff.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 32850,
+      "mileage": 39251,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2025-Ram-1500-2c9f3b9aac18168a1686c879c6edf80b.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 40350,
+      "mileage": 51390,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2023-Ram-1500-56854cf2ac184fb5b994269c7d5fcc13.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 42350,
+      "mileage": 33552,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2023-Ram-1500-651ecc64ac182bd95ba357c7c69e2b67.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 32850,
+      "mileage": 80658,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-1500-f5709411ac18231ba22e5f48814fb4f6.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Limited",
+      "price": 30350,
+      "mileage": 95419,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2019-Ram-1500-ae44ace9ac1837f47d123b909a81bc2d.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Rebel",
+      "price": 45350,
+      "mileage": 18768,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-1500-90775a77ac1822a711278b1708ff8a33.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Rebel",
+      "price": 32850,
+      "mileage": 59316,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2020-Ram-1500-9333b814ac1828a5426f66e1ab37ba98.htm"
+    },
+    {
+      "year": 2010,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "SLT",
+      "price": 5350,
+      "mileage": 221466,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2010-Ram-1500-8a7308f0ac18475961637c0449bb4c34.htm"
+    },
+    {
+      "year": 2015,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 13850,
+      "mileage": 123661,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2015-Ram-1500-dc9ad66dac1839c94c8d3a4afeca08d0.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 25350,
+      "mileage": 66133,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2021-Ram-1500-Classic-70b3877cac1826090cabaa51803d74a5.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 25850,
+      "mileage": 91424,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2021-Ram-1500-Classic-ea4db46fac18028b91c6a7b682afe564.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 64350,
+      "mileage": 23713,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2025-Ram-2500-93e3f913ac1802d4edf398e37fe575ce.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 51350,
+      "mileage": 26823,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2024-Ram-2500-78ff4df3ac185bdeff10c7b11d769372.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "3500",
+      "trim": "Limited",
+      "price": 70350,
+      "mileage": 39276,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2023-Ram-3500-c0b7dd4cac1839c94c8d3a4ad365f3f0.htm"
+    },
+    {
+      "year": 2014,
+      "make": "Ram",
+      "model": "Promaster 2500",
+      "trim": "High Roof",
+      "price": 6350,
+      "mileage": 236422,
+      "drivetrain": "FWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2014-Ram-Promaster-2500-89bbc28eac180a216762b6f21508676c.htm"
+    },
+    {
+      "year": 2012,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 5350,
+      "mileage": 210830,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2012-Ram-1500-f4d53ffbac1828a5147488393dd25933.htm"
+    },
+    {
+      "year": 2013,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Sport",
+      "price": 6350,
+      "mileage": 200561,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2013-Ram-1500-2d54a1e9ac1818f0744cd050f9fde650.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 29850,
+      "mileage": 54138,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-1500-6c69273aac180f7172833b10fbff226c.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 25350,
+      "mileage": 86741,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2019-Ram-1500-41359065ac18279a8a8609ac396b2dda.htm"
+    },
+    {
+      "year": 2017,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie Longhorn",
+      "price": 21350,
+      "mileage": 137719,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2017-Ram-1500-1d70e105ac1819a7dfe392b5cd84667c.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 24350,
+      "mileage": 103177,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-1500-Classic-eb290e68ac185e3b261a30385b26bbfb.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 25850,
+      "mileage": 93389,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2020-Ram-1500-Classic-56f2f6e8ac1828b62a7f52c830699fee.htm"
+    },
+    {
+      "year": 2016,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Tradesman",
+      "price": 21350,
+      "mileage": 137508,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2016-Ram-2500-fb1c4eeaac1802a497cc262bb4411f96.htm"
+    },
+    {
+      "year": 2013,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Tradesman",
+      "price": 24350,
+      "mileage": 25210,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2013-Ram-2500-ae44ae4bac18231ba5c0b249a869b0d5.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "3500",
+      "trim": "Limited",
+      "price": 69850,
+      "mileage": 41284,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2023-Ram-3500-4d8271cfac18279a8a8609acada16804.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "Promaster City",
+      "trim": "Base",
+      "price": 23350,
+      "mileage": 56699,
+      "drivetrain": "FWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2022-Ram-Promaster-City-3087e0aaac1826fc4220aec54b38380b.htm"
+    },
+    {
+      "year": 2013,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 6350,
+      "mileage": 231965,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ram/2013-Ram-1500-748f9318ac1835a65334a55f61ebbe77.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Altitude",
+      "price": 26350,
+      "mileage": 22452,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Cherokee-88be55bbac18152efd69438d0effb4e6.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Altitude",
+      "price": 31350,
+      "mileage": 37329,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-L-98311d40ac181a3dcd6e49c3b1d5e136.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 17350,
+      "mileage": 80211,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2019-Jeep-Cherokee-1a025530ac1819a7dfe392b54db27545.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Rubicon",
+      "price": 28350,
+      "mileage": 65914,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2020-Jeep-Gladiator-9d7ef236ac1859b9e07493c62d183968.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 26850,
+      "mileage": 38638,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-4ca6810fac182fc3d8c3037036e2eb6a.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 25850,
+      "mileage": 32696,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-da1270b9ac1859b9e07493c642aa66a1.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 25850,
+      "mileage": 44415,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-3ef33445ac184fa72b8366261551fd40.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 25350,
+      "mileage": 33978,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-92c2c9a6ac1802a42ccf9a90f369fc1d.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": null,
+      "mileage": 75073,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-990a4616ac1822397e42545e4ba81e36.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 24350,
+      "mileage": 42731,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-da1273c2ac180cb6fbf5ec49a76a5fde.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 24850,
+      "mileage": 36652,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-da127be0ac18231ba5c0b24919ba726d.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "4xe",
+      "price": 23850,
+      "mileage": 51294,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2022-Jeep-Grand-Cherokee-dc9acf71ac182d59c0f767e2e0c05bf6.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude",
+      "price": 31850,
+      "mileage": 36778,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2025-Jeep-Grand-Cherokee-7970872dac1853309337a7f13d1ca33c.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 30350,
+      "mileage": 37668,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Grand-Cherokee-1927ab29ac1819a7dfe392b566c80489.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 30850,
+      "mileage": 35818,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Grand-Cherokee-1927acc2ac1822ee18fcc18a6db6ba07.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 29850,
+      "mileage": 46017,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Grand-Cherokee-3e0ec705ac18460841a550254e12e6fc.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 30350,
+      "mileage": 39080,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-4135925cac1826090cabaa51b3a832c6.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 36350,
+      "mileage": 18291,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2025-Jeep-Grand-Cherokee-ae44a1a1ac18028b6a02e97df95da1a5.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 33350,
+      "mileage": 19168,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-0e6ba6cbac18231ba22e5f4894a5b0fe.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 31350,
+      "mileage": 31368,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-42907d87ac182fc3d8c30370fcd55801.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 33850,
+      "mileage": 18939,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-51ccd550ac1849d2c697a70a9156d67b.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 28850,
+      "mileage": 37159,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Cherokee-f91f38e4ac1837f53f8606c6d7a3ad3b.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "trim": "Series II",
+      "price": 48350,
+      "mileage": 41143,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Grand-Wagoneer-e0de96d6ac1802a42ccf9a9039c01d84.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Base 4xe",
+      "price": 25850,
+      "mileage": 49678,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-1927b464ac183e4f3aeca38d0819af1e.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Base 4xe",
+      "price": 25850,
+      "mileage": 35814,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-e0de986fac182d59c0f767e28825a2bc.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Base 4xe",
+      "price": 27350,
+      "mileage": 28179,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-e60427e4ac182d59c0f767e25c5613dd.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Base 4xe",
+      "price": 26350,
+      "mileage": 35409,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-e6042cb7ac1839c94c8d3a4a96d58cf5.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Rubicon 4xe",
+      "price": 28350,
+      "mileage": 30566,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-2c9f3d16ac1841976aff950574dce0db.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sahara 4xe",
+      "price": 31350,
+      "mileage": 31088,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Wrangler-4ca6827eac180e13da5ab05d9939a91b.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon",
+      "price": 29850,
+      "mileage": 65135,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2021-Jeep-Wrangler-1927af81ac183cd0e99f4aeec2a6afd5.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 21850,
+      "mileage": 93547,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2019-Jeep-Wrangler-e074a237ac1828a5426f66e1a04a77b9.htm"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "price": 15850,
+      "mileage": 101787,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2015-Jeep-Wrangler-4ca683c6ac181c211b7627e3ea036c3c.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Willys 4xe",
+      "price": 27850,
+      "mileage": 22397,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Wrangler-92c2c751ac1802a42ccf9a90923d38ac.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Willys 4xe",
+      "price": 28850,
+      "mileage": 30582,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Wrangler-dc9ad1b9ac182d59c0f767e2f5ba61ff.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 24350,
+      "mileage": 38127,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Compass-98311eb6ac18152ec7ee597354ecdde3.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Rubicon",
+      "price": 33850,
+      "mileage": 58700,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Gladiator-756d8ebcac183429101b921f3bd116c4.htm"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 14350,
+      "mileage": 119616,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2017-Jeep-Grand-Cherokee-862aabe9ac183919421268d70d18cf25.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 32850,
+      "mileage": 50213,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Grand-Cherokee-8bbd554aac182108bf40a726d0f7bef6.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 36350,
+      "mileage": 22182,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2024-Jeep-Grand-Cherokee-937639a7ac184453fe66e9357d248ae8.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Mojave",
+      "price": 26350,
+      "mileage": 124120,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2021-Jeep-Gladiator-e4c03b19ac1839c94c8d3a4a07007b67.htm"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Overland",
+      "price": 14350,
+      "mileage": 111427,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2015-Jeep-Grand-Cherokee-718e5130ac181c211b7627e3851983ea.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Base 4xe",
+      "price": 28850,
+      "mileage": 25703,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2023-Jeep-Wrangler-651ecae3ac185f3310451e596d79b6af.htm"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 6350,
+      "mileage": 279888,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Jeep/2014-Jeep-Grand-Cherokee-55ad8c27ac184db46fa63ee485df67af.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "R/T Scat Pack",
+      "price": 42350,
+      "mileage": 12630,
+      "drivetrain": "RWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2023-Dodge-Challenger-12dc62d3ac183eb725aa528aa956dd8c.htm"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "Citadel",
+      "price": 13350,
+      "mileage": 145050,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2015-Dodge-Durango-674d0e2cac1849d2c697a70a5b0af415.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT",
+      "price": 28850,
+      "mileage": 60678,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2024-Dodge-Durango-e1b91c4bac18381b30e2fd5abd0f0575.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 39350,
+      "mileage": 32338,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2025-Dodge-Durango-9ec764dfac1828a5426f66e17077c559.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 40350,
+      "mileage": 38053,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2025-Dodge-Durango-d08f7914ac18381b30e2fd5a0e82f3a0.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 39850,
+      "mileage": 39597,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2025-Dodge-Durango-f570915bac18231ba22e5f488e0fb91a.htm"
+    },
+    {
+      "year": 2003,
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "trim": "SLT",
+      "price": 3350,
+      "mileage": 212006,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Dodge/2003-Dodge-Ram-1500-da127507ac1837f47d123b903a42874a.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited",
+      "price": 26850,
+      "mileage": 60427,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chrysler/2021-Chrysler-Pacifica-4f61b9baac1857715e05f4fdf31f118d.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 24350,
+      "mileage": 61840,
+      "drivetrain": "FWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chrysler/2024-Chrysler-Pacifica-f4d53e90ac18028b91c6a7b69df1ca00.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Select",
+      "price": 38350,
+      "mileage": 14526,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chrysler/2025-Chrysler-Pacifica-7be12906ac1808e420067eb153e4dcb2.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "300",
+      "trim": "Touring",
+      "price": 25850,
+      "mileage": 74201,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chrysler/2023-Chrysler-300-e44db567ac184c418849c2b519c6f3d8.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "Sport",
+      "price": 26850,
+      "mileage": 9139,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Honda/2024-Honda-HR-V-75d9c9f3ac182edcb3e07e9639829b20.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 39850,
+      "mileage": 33656,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2024-Chevrolet-Silverado-1500-7048e933ac182bd95ba357c711c2de4b.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "SX",
+      "price": 24850,
+      "mileage": 83344,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Kia/2022-Kia-Sorento-79b6447aac182bd95ba357c74d72bf51.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Limited",
+      "price": 22350,
+      "mileage": 72497,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Subaru/2020-Subaru-Ascent-9977f9d2ac183e4956f34a83126ef025.htm"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "SR5",
+      "price": 27350,
+      "mileage": 124300,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Toyota/2018-Toyota-4Runner-8f9bc5d8ac181f80ba683c2e984727a2.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 44350,
+      "mileage": 8174,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ford/2025-Ford-F-150-b2843d5dac1845457ae37be8d7255a47.htm"
+    },
+    {
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "trim": "xDrive30i",
+      "price": 37850,
+      "mileage": 28899,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/BMW/2024-BMW-X3-84df2989ac180a216762b6f28added8c.htm"
+    },
+    {
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "trim": "xDrive30i",
+      "price": 37350,
+      "mileage": 30604,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/BMW/2024-BMW-X3-84df2aebac18253135a6da02095ee572.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "trim": "Sport Platinum",
+      "price": 69850,
+      "mileage": 64088,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Cadillac/2023-Cadillac-Escalade-3c57f690ac181c211b7627e32aa0a0ed.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Stingray",
+      "price": 71350,
+      "mileage": 22242,
+      "drivetrain": "RWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2023-Chevrolet-Corvette-7e3d1051ac18577133c2e330b1f657c8.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 31850,
+      "mileage": 45222,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2023-Chevrolet-Silverado-1500-17e068f2ac18452f2e4fe11e08d3a98d.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Trail Boss",
+      "price": 41350,
+      "mileage": 36129,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2023-Chevrolet-Silverado-1500-8a2d82bfac1813adb9f57cc4244f034e.htm"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 27350,
+      "mileage": 60726,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2017-Chevrolet-Silverado-1500-da127d9cac18028bdbc4543e8c1e09ce.htm"
+    },
+    {
+      "year": 2008,
+      "make": "Chevrolet",
+      "model": "Suburban 1500",
+      "trim": "LT",
+      "price": 5350,
+      "mileage": 135678,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2008-Chevrolet-Suburban-1500-1927b109ac1823a312b65d67f18c019a.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "RST",
+      "price": 45350,
+      "mileage": 68639,
+      "drivetrain": "4WD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2021-Chevrolet-Tahoe-55ad8eecac182fab6af0ddda77d4f6d2.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT",
+      "price": 28850,
+      "mileage": 55528,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Chevrolet/2023-Chevrolet-Traverse-56854fccac1828b62a7f52c83efcb87c.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 24850,
+      "mileage": 17675,
+      "drivetrain": "AWD",
+      "url": "https://www.cdjrsaintcloud.com/used/Ford/2025-Ford-Escape-ae44a8b8ac1845457ae37be8aa74f1ab.htm"
+    }
+  ]
+}

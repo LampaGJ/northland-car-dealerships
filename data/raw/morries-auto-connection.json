@@ -1,0 +1,221 @@
+{
+  "name": "Morrie's Auto Connection",
+  "slug": "morries-auto-connection",
+  "type": "independent",
+  "address": "559 US-10 S",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-300-3336",
+  "website": "https://www.morriesautoconnection.com",
+  "specialties": [
+    "pre-owned cars and SUVs",
+    "CPO vehicles",
+    "crossovers",
+    "minivans"
+  ],
+  "coverage": "partial",
+  "method": "html",
+  "notes": "CMS: TeamVelocity (secureoffersites.com CDN, accountId=75856, r1DealerId=ZY5KX). Inventory API at websites.api.teamvelocityportal.com returns empty array [] for all GET variants tried (/inventory/search, /Inventory/GetInventory, /api/inventory). TeamVelocity SPA loads inventory via Vue.js from the same origin API. Local proxy at /api/inventory/search also returns []. Page source shows 37 total vehicles but vehicles are rendered by JavaScript. WebFetch captured 20 of 37 vehicles from the first page render. Page 2 fetch returned same 20 records confirming JS rendering limitation. Coverage partial: 20/37 visible vehicles captured. Drivetrain not surfaced in server-rendered HTML.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "trim": "SEL",
+      "price": 18745,
+      "mileage": 28368,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/JA4ATWAA4SZ004177"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 14845,
+      "mileage": 89041,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/3C4NJDDB3JT169083"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 11247,
+      "mileage": 127719,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1C4PJMBS7GW353022"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Preferred",
+      "price": 21145,
+      "mileage": 24008,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/KL4AMCSL6SB198649"
+    },
+    {
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Select",
+      "price": 63250,
+      "mileage": 30,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/2C4RC1BGXTR203891"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Work Truck",
+      "price": 23345,
+      "mileage": 137678,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/2GC2KREGXK1183945"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 17145,
+      "mileage": 99114,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/5N1BT3AB2PC677704"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71",
+      "price": 18045,
+      "mileage": 138038,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1GCGTDEN1J1155072"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "EcoSport",
+      "trim": "Titanium",
+      "price": 12145,
+      "mileage": 73450,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/MAJ6S3KL7LC363479"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 21845,
+      "mileage": 55972,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/3FMCR9B61MRA79303"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "price": 19045,
+      "mileage": 97646,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/3GKALTEG7PL166598"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 16645,
+      "mileage": 73410,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1G1ZD5ST8PF244625"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SV",
+      "price": 16245,
+      "mileage": 80787,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/5N1AZ2BSXLN116099"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 15645,
+      "mileage": 75089,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1FMCU9G65NUA00555"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Sport",
+      "price": 14245,
+      "mileage": 58997,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1C4PJMAB6HW579409"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude",
+      "price": 16345,
+      "mileage": 79029,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1C4PJLCB7LD543112"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Express",
+      "price": 25845,
+      "mileage": 82700,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1C6RR7KT6KS743516"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "WT",
+      "price": 21845,
+      "mileage": 140643,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/1GCPDAEKXPZ298050"
+    },
+    {
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Select",
+      "price": 63250,
+      "mileage": 20,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/2C4RC1BG6TR177838"
+    },
+    {
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "LE",
+      "price": 70340,
+      "mileage": 5,
+      "drivetrain": null,
+      "url": "https://www.morriesautoconnection.com/inventory/5TDKRKEC7TS296388"
+    }
+  ]
+}

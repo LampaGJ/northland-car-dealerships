@@ -1,0 +1,15 @@
+{
+  "name": "Gustafson Motors Company",
+  "slug": "gustafson-motors",
+  "type": "independent",
+  "address": "10 S Highway 53",
+  "city": "Cook",
+  "state": "MN",
+  "phone": "218-666-5952",
+  "website": null,
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "OPERATIONAL STATUS: Out of business. BBB profile (bbb.org/us/mn/cook/profile/new-car-dealers/gustafson-motors-0704-96002820) states explicitly: 'it appears that this business is no longer in business' and 'BBB has information indicating it is out of business.' BBB rating is Not Rated, business is not BBB accredited. BBB file opened May 1, 2003; owner listed as Lloyd Gustafson. No website exists. Feed/API discovery: not applicable — no web presence. Aggregator checks: usedcarsguru.com and yellowpages.com list the business address but show no active inventory. No inventory was extracted because the business is closed.",
+  "inventory": []
+}

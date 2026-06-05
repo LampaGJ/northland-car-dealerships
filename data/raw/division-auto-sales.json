@@ -1,0 +1,221 @@
+{
+  "name": "Division Auto Sales",
+  "slug": "division-auto-sales",
+  "type": "independent",
+  "address": "1715 1st St S",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-308-7900",
+  "website": "https://www.divisionautosales.com/",
+  "specialties": [
+    "used SUVs",
+    "used sedans",
+    "used trucks",
+    "value pricing"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "Site runs on Dealer Inspire (WordPress-based) with Cloudflare bot protection blocking all direct HTTP access. Inventory sourced from AutosToday aggregator __NEXT_DATA__ JSON payload (dealer ID 11040380). AutosToday caps at 20 unique vehicles; confirmed total is 44. Remaining 24 vehicles not accessible without JS execution.",
+  "inventory": [
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE 4WD",
+      "price": 9991,
+      "mileage": 132230,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FMCU9GD0HUE96139"
+    },
+    {
+      "year": 2009,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Hybrid 2.5L 4WD",
+      "price": null,
+      "mileage": 247419,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FMCU59349KC04664"
+    },
+    {
+      "year": 2014,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "Sport AWD",
+      "price": null,
+      "mileage": 122032,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5XYZUDLB3EG148158"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL 4WD",
+      "price": null,
+      "mileage": 155000,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FMCU9H96DUA01592"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT 1.5T",
+      "price": 14991,
+      "mileage": 97546,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/3GNAXKEVXMS119163"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD LT 1.5T",
+      "price": 17991,
+      "mileage": 85713,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/3GNAXUEV9NL142439"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD LT 1.5T",
+      "price": 17991,
+      "mileage": 90538,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/2GNAXUEV0N6111438"
+    },
+    {
+      "year": 2015,
+      "make": "GMC",
+      "model": "Sierra",
+      "trim": "4WD Crew Cab SLE SWB",
+      "price": 19991,
+      "mileage": 125936,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/3GTU2UEC2FG124622"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "2.0L + 6 A/T",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/KNDJP3A58K7668487"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD LTZ",
+      "price": 11991,
+      "mileage": 113222,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/2GNFLHE31F6436706"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 21991,
+      "mileage": 100139,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/JF2SKADC1PH440772"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "Hybrid",
+      "price": 16991,
+      "mileage": 112207,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1HGCV3F13JA006663"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.0XT Touring AT",
+      "price": 10991,
+      "mileage": 148843,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/JF2SJGPC1EH407074"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 16991,
+      "mileage": 64801,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1G1ZD5ST6PF198566"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "FWD SLE-2",
+      "price": 9990,
+      "mileage": 121421,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/2GKALNEK5H6164256"
+    },
+    {
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Elantra GT",
+      "trim": "GT Auto",
+      "price": 10490,
+      "mileage": 119412,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/KMHH35LE9LU145402"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "1RS",
+      "price": 13991,
+      "mileage": 122637,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/KL77LGE25RC135086"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4x4 SuperCrew 5-1/2 Box",
+      "price": 23991,
+      "mileage": 127257,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FTEW1EP2MFA52023"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium 8 Passenger",
+      "price": 16490,
+      "mileage": 106820,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/4S4WMACD3L3406338"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali AWD",
+      "price": 23990,
+      "mileage": 82828,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1GKKNXLSXLZ234473"
+    }
+  ]
+}

@@ -1,0 +1,1021 @@
+{
+  "name": "Public Auto Wholesale (PAW)",
+  "slug": "public-auto-wholesale",
+  "type": "independent",
+  "address": "3721 Roosevelt Rd",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-407-1688",
+  "website": "https://www.your-paw.com",
+  "specialties": [
+    "budget used vehicles",
+    "high-mileage vehicles",
+    "trucks and SUVs",
+    "wholesale pricing"
+  ],
+  "coverage": "partial",
+  "method": "html",
+  "notes": "CMS: DealerInspire (same x-cars-signature-v1 header as MTH \u2014 affiliated operation confirmed by shared platform). Cloudflare blocks direct curl (403). Inventory extracted via WebFetch from /inventory/. Both pages returned same 100 vehicles confirming 100-vehicle total. VIN overlap check with MTH: 0 shared VINs \u2014 inventories are distinct despite shared DealerInspire platform. Method: html via WebFetch.",
+  "inventory": [
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT-1",
+      "price": 5899,
+      "mileage": 168842,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2GKFLUE33D6415133"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 21599,
+      "mileage": 48173,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4PJMDX0LD525793"
+    },
+    {
+      "year": 2013,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Leather Group",
+      "price": 5950,
+      "mileage": 185024,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/5GAKVCKDXDJ127089"
+    },
+    {
+      "year": 2017,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "SLT",
+      "price": 10799,
+      "mileage": 208066,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7GT9HS641158"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": 10999,
+      "mileage": 100810,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/ZACCJBBB0HPG39974"
+    },
+    {
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "SV",
+      "price": 9950,
+      "mileage": 172858,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1N6AD0CW8EN753047"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "FX4",
+      "price": 7950,
+      "mileage": 204972,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTFX1ET7DKF96359"
+    },
+    {
+      "year": 2014,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Base",
+      "price": 8399,
+      "mileage": 115956,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/KL4CJASB2EB717942"
+    },
+    {
+      "year": 2009,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 S",
+      "price": 3999,
+      "mileage": 175607,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1N4AL21E79C111860"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LTZ",
+      "price": 16899,
+      "mileage": 161511,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GNSKCKC2GR272655"
+    },
+    {
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "Town & Country",
+      "trim": "Touring-L",
+      "price": 10450,
+      "mileage": 138982,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2C4RC1CG0GR189147"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 12950,
+      "mileage": 156538,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTFW1EF6DFC20077"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 28499,
+      "mileage": 126730,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GTU9EET9LG427877"
+    },
+    {
+      "year": 2017,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Preferred",
+      "price": 6799,
+      "mileage": 145470,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/KL4CJASB2HB240398"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "XLE",
+      "price": 13499,
+      "mileage": 158076,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/5TDDK3DC4FS124845"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Transit-250",
+      "trim": "Base",
+      "price": 11499,
+      "mileage": 145535,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1FTYR1ZM8GKA69991"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Rubicon",
+      "price": 15993,
+      "mileage": 128764,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4BJWFG4CL142982"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 11950,
+      "mileage": 202050,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKSECXFG205484"
+    },
+    {
+      "year": 2009,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 7699,
+      "mileage": 161207,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCEK23359G131418"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 11950,
+      "mileage": 146350,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTFW1EF7DKE04287"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Limited",
+      "price": 5799,
+      "mileage": 206672,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/2FMDK4KC5CBA39238"
+    },
+    {
+      "year": 2006,
+      "make": "Volkswagen",
+      "model": "GTI",
+      "trim": "Base",
+      "price": 6799,
+      "mileage": 102279,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/WVWFV71K36W139310"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 13799,
+      "mileage": 154570,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FMJU1JT3HEA12287"
+    },
+    {
+      "year": 2007,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "Sport",
+      "price": 4950,
+      "mileage": 211613,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/JHMGD37687S058773"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SXT",
+      "price": 7799,
+      "mileage": 150733,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2C4RDGCG3GR381033"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "Crossroad",
+      "price": 9399,
+      "mileage": 94429,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/3C4PDDGG9GT111382"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 7499,
+      "mileage": 115156,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/2GNFLFEK7E6102352"
+    },
+    {
+      "year": 1992,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Base",
+      "price": 10899,
+      "mileage": 82430,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1G1YY23P9N5102691"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "LS",
+      "price": 4499,
+      "mileage": 175335,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1G1PA5SH6D7160014"
+    },
+    {
+      "year": 2010,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SE",
+      "price": 4499,
+      "mileage": 198936,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2FMDK3GC6ABA65881"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 7799,
+      "mileage": 239975,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTFW1ETXDFA22933"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Police",
+      "price": 8950,
+      "mileage": 160240,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GNSK2E07CR301346"
+    },
+    {
+      "year": 2015,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 11399,
+      "mileage": 189135,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7LT9FS782735"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Limited",
+      "price": 21999,
+      "mileage": 161057,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6SRFHT2KN553858"
+    },
+    {
+      "year": 2017,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "SLT",
+      "price": 14499,
+      "mileage": 131589,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7LT0HS787194"
+    },
+    {
+      "year": 1987,
+      "make": "Suzuki",
+      "model": "Samurai",
+      "trim": "JA",
+      "price": 13799,
+      "mileage": 62800,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/JS4JC51V1H4126016"
+    },
+    {
+      "year": 2011,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "Mainstreet",
+      "price": 3999,
+      "mileage": 212210,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/3D4PH1FG6BT541287"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT",
+      "price": 14899,
+      "mileage": 120165,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1GNERGKW4MJ126780"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "SE",
+      "price": 9699,
+      "mileage": 87511,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/3C4PDCAB0KT870454"
+    },
+    {
+      "year": 2008,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Sahara",
+      "price": 10199,
+      "mileage": 156825,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1J4GA59198L526698"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "trim": "LT",
+      "price": 15950,
+      "mileage": 109546,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1GAZGPFG7H1142862"
+    },
+    {
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "2.0T SEL R-Line",
+      "price": 13999,
+      "mileage": 91196,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/3VV3B7AX5KM167547"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 18450,
+      "mileage": 160257,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKSECXGG155526"
+    },
+    {
+      "year": 2010,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "TRX",
+      "price": 6499,
+      "mileage": 193096,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1D7RB1GT0AS169051"
+    },
+    {
+      "year": 2001,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 8499,
+      "mileage": 193252,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GTEK19T51Z312508"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LT",
+      "price": 4850,
+      "mileage": 190814,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2G1WB5E31C1187075"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "WT",
+      "price": 23799,
+      "mileage": 50824,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GCRYAEH7LZ200409"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 17999,
+      "mileage": 143876,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6SRFFT2KN539820"
+    },
+    {
+      "year": 2002,
+      "make": "Chevrolet",
+      "model": "Suburban 1500",
+      "trim": "LS",
+      "price": 3799,
+      "mileage": 215573,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GNFK16Z92J194001"
+    },
+    {
+      "year": 2012,
+      "make": "Chrysler",
+      "model": "200",
+      "trim": "Limited",
+      "price": 4299,
+      "mileage": 210453,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1C3CCBCG5CN236812"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "3500",
+      "trim": "Big Horn",
+      "price": 36999,
+      "mileage": 115535,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3C63R3HL7MG637169"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 21499,
+      "mileage": 160815,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GTU2PEJXJG171227"
+    },
+    {
+      "year": 2005,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 6399,
+      "mileage": 141535,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTPX14565FA81760"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 10750,
+      "mileage": 128273,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4PJMBS5FW786630"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 13499,
+      "mileage": 216730,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKSEC3HG397365"
+    },
+    {
+      "year": 2000,
+      "make": "Ford",
+      "model": "Excursion",
+      "trim": "Limited",
+      "price": 6899,
+      "mileage": 269023,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FMNU43S2YED84033"
+    },
+    {
+      "year": 2018,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 17899,
+      "mileage": 130000,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7LT9JS352907"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LS",
+      "price": 11899,
+      "mileage": 185890,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKNEC1GG170577"
+    },
+    {
+      "year": 2012,
+      "make": "Toyota",
+      "model": "RAV4 EV",
+      "trim": "Fully Electric",
+      "price": 13950,
+      "mileage": 67857,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2T3YL4DV0CW001110"
+    },
+    {
+      "year": 2004,
+      "make": "Chrysler",
+      "model": "Sebring",
+      "trim": "LXi",
+      "price": 3450,
+      "mileage": 239670,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1C3EL55R14N101529"
+    },
+    {
+      "year": 2003,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LS",
+      "price": 5599,
+      "mileage": 119746,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GCEK19T33E183629"
+    },
+    {
+      "year": 2012,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Premium Group",
+      "price": 6999,
+      "mileage": 180574,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/5GAKRDED1CJ100108"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 17999,
+      "mileage": 184209,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GC2KXC81BZ204477"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 8950,
+      "mileage": 79814,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/2GNFLEEK8D6312015"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "XL",
+      "price": 24899,
+      "mileage": 63114,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FD8X3B69GEB19370"
+    },
+    {
+      "year": 2020,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "LX",
+      "price": 7499,
+      "mileage": 165294,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/KNDJ23AU7L7017777"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "City Express",
+      "trim": "1LS",
+      "price": 13399,
+      "mileage": 49282,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/3N63M0YN9FK727976"
+    },
+    {
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "Metris",
+      "trim": "Cargo",
+      "price": 8799,
+      "mileage": 176427,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/WD3PG2EA7H3225172"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Transit-350",
+      "trim": "XLT",
+      "price": 21999,
+      "mileage": 49571,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1FBZX2YM9JKA57930"
+    },
+    {
+      "year": 2007,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Base",
+      "price": 7950,
+      "mileage": 187916,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/JTEGD21A670171301"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 9999,
+      "mileage": 136390,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/2GKFLVE35H6174896"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude",
+      "price": 19999,
+      "mileage": 81459,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4RJFAG7LC421073"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Sport",
+      "price": 14799,
+      "mileage": 89716,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/2FMPK4AP8HBC62141"
+    },
+    {
+      "year": 2011,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Sport",
+      "price": 8299,
+      "mileage": 171813,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1D7RV1GTXBS536031"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 24493,
+      "mileage": 105545,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4RJHAG0PC569826"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 23799,
+      "mileage": 147140,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GCUYEED6MZ366291"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 7450,
+      "mileage": 119446,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1GNALCEK8EZ102583"
+    },
+    {
+      "year": 2012,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "price": 8499,
+      "mileage": 180898,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/5FNYF4H57CB009518"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LS",
+      "price": 6450,
+      "mileage": 142571,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/1GNKVFKD3FJ111715"
+    },
+    {
+      "year": 2010,
+      "make": "Nissan",
+      "model": "Maxima",
+      "trim": "3.5 SV",
+      "price": 6899,
+      "mileage": 124306,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1N4AA5AP6AC804772"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LS",
+      "price": 4399,
+      "mileage": 222730,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/1G11B5SA0DF198088"
+    },
+    {
+      "year": 2019,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L Plus",
+      "price": 11499,
+      "mileage": 169326,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2C4RC1EG0KR570146"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 11899,
+      "mileage": 182344,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1GCVKREC4GZ416324"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 27599,
+      "mileage": 102152,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKTEC5JG222613"
+    },
+    {
+      "year": 2010,
+      "make": "Mazda",
+      "model": "CX-7",
+      "trim": "i Sport",
+      "price": 3950,
+      "mileage": 262494,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/JM3ER2W50A0309552"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Limited",
+      "price": 22499,
+      "mileage": 229261,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/5TFBY5F18LX895473"
+    },
+    {
+      "year": 2005,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "Lariat",
+      "price": 9899,
+      "mileage": 239777,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FTWW31P95EB10318"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LS",
+      "price": 2950,
+      "mileage": 339402,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/2G1WF5EK5B1217060"
+    },
+    {
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Santa Fe Sport",
+      "trim": "2.4 Base",
+      "price": 6950,
+      "mileage": 171884,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/5XYZUDLB6GG343285"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 9499,
+      "mileage": 177721,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FM5K8D87HGC77757"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Utility Police Interceptor",
+      "trim": "Base",
+      "price": 7999,
+      "mileage": 119050,
+      "drivetrain": "AWD",
+      "url": "https://www.your-paw.com/inventory/used/1FM5K8AR7EGA55325"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Big Horn",
+      "price": 17799,
+      "mileage": 145175,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7LT1KS550706"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 16499,
+      "mileage": 114284,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKREC4EG133138"
+    },
+    {
+      "year": 2017,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Rebel",
+      "price": 19999,
+      "mileage": 137336,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C6RR7YT4HS698592"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "XLT",
+      "price": 9699,
+      "mileage": 332043,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1FT8W3BT4BEA14502"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Altitude",
+      "price": 14599,
+      "mileage": 66692,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/ZACNJABB3LPL02238"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "WT",
+      "price": 9750,
+      "mileage": 209458,
+      "drivetrain": "RWD",
+      "url": "https://www.your-paw.com/inventory/used/1GCRCNEC2HZ242424"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "LX",
+      "price": 4850,
+      "mileage": 197757,
+      "drivetrain": "FWD",
+      "url": "https://www.your-paw.com/inventory/used/5XXGM4A73EG350394"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "High Altitude",
+      "price": 7999,
+      "mileage": 102689,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/1C4NJDEB3GD579959"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 11899,
+      "mileage": 211617,
+      "drivetrain": "4WD",
+      "url": "https://www.your-paw.com/inventory/used/3GCUKREC0FG344967"
+    }
+  ]
+}

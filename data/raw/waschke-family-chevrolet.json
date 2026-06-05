@@ -1,0 +1,23 @@
+{
+  "name": "Waschke Family Chevrolet",
+  "slug": "waschke-family-chevrolet",
+  "type": "franchise",
+  "address": "126 N Hwy 53",
+  "city": "Cook",
+  "state": "MN",
+  "phone": "218-666-5901",
+  "website": "https://www.waschkechevrolet.com",
+  "specialties": ["GMC trucks", "Chevrolet SUVs", "GM brand used vehicles", "Multi-brand used vehicles"],
+  "coverage": "full",
+  "method": "feed",
+  "notes": "CMS identified as DealerOn v23.47.0 via X-DealerOn response headers and cdn.dlron.us assets, dealerBac=231654. Feed discovery: /robots.txt disclosed /rss-usedinventory.aspx (RSS 2.0, DealerOn platform). All 7 used vehicles confirmed via both RSS feed and ItemList JSON-LD on searchused.aspx. Pricing extracted from schema.org Vehicle + Product JSON-LD on individual VDP pages. 3 vehicles (Equinox LT, Renegade Sport, Yukon Denali) have no offers.price in JSON-LD, confirming they are call-for-price listings. driveWheelConfiguration not present in this dealer's JSON-LD. Small inventory consistent with a rural single-point franchise.",
+  "inventory": [
+    {"year": 2011, "make": "GMC", "model": "Sierra 1500", "trim": "SLE", "price": 10340, "mileage": 131777, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2011-GMC-Sierra+1500-SLE-1GTR2VE31BZ396830"},
+    {"year": 2015, "make": "Chevrolet", "model": "Equinox", "trim": "LT", "price": null, "mileage": 58222, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2015-Chevrolet-Equinox-LT-1GNALBEK2FZ126180"},
+    {"year": 2019, "make": "Jeep", "model": "Renegade", "trim": "Sport", "price": null, "mileage": 183069, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2019-Jeep-Renegade-Sport-ZACNJBAB8KPJ91613"},
+    {"year": 2021, "make": "GMC", "model": "Sierra 1500", "trim": "SLT", "price": 34340, "mileage": 91861, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2021-GMC-Sierra+1500-SLT-3GTU9DET1MG400734"},
+    {"year": 2021, "make": "GMC", "model": "Yukon", "trim": "Denali", "price": null, "mileage": 42736, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2021-GMC-Yukon-Denali-1GKS2DKL3MR138185"},
+    {"year": 2021, "make": "Jeep", "model": "Grand Cherokee", "trim": "Limited", "price": 25345, "mileage": 79580, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2021-Jeep-Grand+Cherokee-Limited-1C4RJFBG9MC564686"},
+    {"year": 2022, "make": "Chevrolet", "model": "Traverse", "trim": "Premier", "price": 30340, "mileage": 90603, "drivetrain": null, "url": "https://www.waschkechevrolet.com/used-Virginia-2022-Chevrolet-Traverse-Premier-1GNEVKKW6NJ157948"}
+  ]
+}

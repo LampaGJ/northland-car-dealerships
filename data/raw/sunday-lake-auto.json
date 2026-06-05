@@ -1,0 +1,15 @@
+{
+  "name": "Sunday Lake Auto",
+  "slug": "sunday-lake-auto",
+  "type": "independent",
+  "address": "105 US-2",
+  "city": "Wakefield",
+  "state": "MI",
+  "phone": "906-224-1160",
+  "website": "https://sundaylakeauto.com",
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Website https://sundaylakeauto.com timed out (no response within 60s). CarGurus: no dealer profile found. Carsforsale.com: no dealer profile found. Cars.com: no dealer profile found. Driverbase shows 0 active listings. Facebook page exists at facebook.com/sundaylakeauto/ but not accessible for inventory scraping. APG-WI marketplace shows business info only, no vehicle listings. CMac.ws shows business info only. BBB profile confirms business is active as of 2025. U-Haul dealer location is confirmed active. No vehicle inventory accessible on any reachable platform at time of extraction.",
+  "inventory": []
+}

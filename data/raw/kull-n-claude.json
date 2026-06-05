@@ -1,0 +1,19 @@
+{
+  "name": "Kull N Claude Auto Sales",
+  "slug": "kull-n-claude",
+  "type": "independent",
+  "address": "585 Franklin Ave NE",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-525-0121",
+  "website": "https://www.kullnclaudeauto.com/",
+  "specialties": [
+    "small independent",
+    "quality over quantity",
+    "car finder service"
+  ],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Site runs on Carsforsale.com platform (URL pattern /cars-for-sale with CFS category IDs, dealer ID d646875 on carsforsale.com). DataDome bot protection (HTTP 403, x-datadome header) blocks all direct HTTP access including with browser UA and JSON Accept headers. Carsforsale.com also blocks with captcha challenge. AutosToday aggregator shows inventoryCount=0 for this dealer. MyNextRide (dealer 10981) renders inventory via Livewire (Laravel) JS-only, no server-side data. Search snippets mention 5 vehicles but cannot verify currency or prices without JS execution. Dealer explicitly states 'quality over quantity' and small inventory.",
+  "inventory": []
+}

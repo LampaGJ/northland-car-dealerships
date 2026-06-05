@@ -1,0 +1,15 @@
+{
+  "name": "Eclipse Automotive",
+  "slug": "eclipse-automotive",
+  "type": "independent",
+  "address": "210 NW 5th St",
+  "city": "Brainerd",
+  "state": "MN",
+  "phone": "218-282-7365",
+  "website": "https://www.eclipseautomotivemn.com",
+  "specialties": ["used SUVs", "used pickup trucks", "Jeep Wranglers", "budget-priced used cars"],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Site hosted on Carsforsale.com platform (URL pattern /cars-for-sale, /ford-for-sale-c137146 confirms CMS). All requests to eclipseautomotivemn.com return HTTP 403. Carsforsale.com dealer page also returns 403. iSeeCars showed 0 active listings (likely stale index). No embedded structured data accessible. Aggregator search data (Carsforsale.com search snippet, iSeeCars profile) confirms approximately 19 vehicles as of crawl date, priced $5,995–$28,995, body-type mix: SUVs (14), trucks (11), sedans (7), wagons (5), coupes (2), minivans (1). Popular makes include Jeep Wrangler (8), Chevrolet Silverado 1500 (2), Ford F-150 (2), Honda Accord (2), Subaru Outback (2). No individual VIN/stock/price/mileage records could be extracted from any source. Inventory array is empty; this is a confirmed-active dealer with real inventory that is inaccessible due to platform-level 403 blocks.",
+  "inventory": []
+}

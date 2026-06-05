@@ -1,0 +1,127 @@
+{
+  "collectedAt": "2026-06-05",
+  "corridor": "US-2 east: Superior WI to Ironwood MI",
+  "dealers": [
+    {
+      "name": "Wentworth Auto Sales",
+      "type": "independent",
+      "address": "4976 S County Rd P",
+      "city": "Poplar",
+      "state": "WI",
+      "phone": "715-529-0035",
+      "website": "https://wentworth-autosales.com/",
+      "focusNote": "Small used-only independent lot in Poplar; affordable cars and trucks with active site and Facebook presence.",
+      "uncertain": false
+    },
+    {
+      "name": "Marthaler Honda Toyota of Ashland",
+      "type": "franchise",
+      "address": "2301 Lake Shore Dr E",
+      "city": "Ashland",
+      "state": "WI",
+      "phone": "715-682-5252",
+      "website": "https://www.ashlandhondatoyota.com/",
+      "focusNote": "Single dual-brand Honda/Toyota rooftop (rebranded Marthaler 2021); large new plus certified pre-owned/used inventory serving Ashland to Ironwood.",
+      "uncertain": false
+    },
+    {
+      "name": "Von Holzen Chevrolet GMC",
+      "type": "franchise",
+      "address": "1606 Lake Shore Dr E",
+      "city": "Ashland",
+      "state": "WI",
+      "phone": "715-682-8141",
+      "website": "https://www.vonholzen.com/",
+      "focusNote": "GM franchise (Chevrolet/Buick/GMC) with new and used inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Ashland Ford Chrysler",
+      "type": "franchise",
+      "address": "28715 US-2",
+      "city": "Ashland",
+      "state": "WI",
+      "phone": "715-682-8400",
+      "website": "https://www.ashlandfordchrysler.com/",
+      "focusNote": "Multi-franchise (Ford + Chrysler/Dodge/Jeep/Ram) with new and certified pre-owned inventory; serves Washburn/Bayfield/Ironwood.",
+      "uncertain": false
+    },
+    {
+      "name": "Bayfront Auto Sales",
+      "type": "independent",
+      "address": "1114 Lake Shore Dr W",
+      "city": "Ashland",
+      "state": "WI",
+      "phone": "715-682-6003",
+      "website": "https://www.bayfrontautosales.com/",
+      "focusNote": "Independent used cars, trucks and vans lot on the Ashland lakefront.",
+      "uncertain": false
+    },
+    {
+      "name": "Porkys Northwoods Auto Traders",
+      "type": "independent",
+      "address": "809 Thomas St",
+      "city": "Mellen",
+      "state": "WI",
+      "phone": "715-274-2886",
+      "website": null,
+      "focusNote": "Small independent used-car lot with financing in Mellen; Cars.com/Yelp listings, no confirmed standalone site.",
+      "uncertain": false
+    },
+    {
+      "name": "Red's Auto of Ironwood",
+      "type": "independent",
+      "address": "1231 E Cloverland Dr",
+      "city": "Ironwood",
+      "state": "MI",
+      "phone": "906-932-4449",
+      "website": "https://redsautosales.com/",
+      "focusNote": "Largest used-car dealer in the area (since 1973) with main and budget lots, plus rentals, financing and Goodyear tire service.",
+      "uncertain": false
+    },
+    {
+      "name": "Cloverland Motors, Inc.",
+      "type": "independent",
+      "address": "300 E Cloverland Dr",
+      "city": "Ironwood",
+      "state": "MI",
+      "phone": "906-932-1202",
+      "website": "http://cloverlandmotorsmi.com/",
+      "focusNote": "Used car/truck/SUV sales and rentals; co-located/affiliated with Cloverland Motorsports (Polaris powersports). Car-sales site intermittently offline - verify current inventory.",
+      "uncertain": true
+    },
+    {
+      "name": "Lahti Towing & Sales, Inc.",
+      "type": "independent",
+      "address": "E5696 US-2",
+      "city": "Ironwood",
+      "state": "MI",
+      "phone": "906-932-1100",
+      "website": "https://www.lahtitowingandsales.com/",
+      "focusNote": "Repair/body/towing shop on US-2 that also sells selected pre-owned vehicles; sales are secondary to service.",
+      "uncertain": false
+    },
+    {
+      "name": "Vinci's Auto Sales Inc.",
+      "type": "independent",
+      "address": "509 W Lead St Ste A",
+      "city": "Bessemer",
+      "state": "MI",
+      "phone": "906-663-2044",
+      "website": "https://www.vinciautosalesinc.com/",
+      "focusNote": "Independent pre-owned dealer in Bessemer; reliable used cars and trucks across multiple brands with financing.",
+      "uncertain": false
+    },
+    {
+      "name": "Sunday Lake Auto",
+      "type": "independent",
+      "address": "105 US-2",
+      "city": "Wakefield",
+      "state": "MI",
+      "phone": "906-224-1160",
+      "website": null,
+      "focusNote": "Independent used auto sales and repair (since 2003) on US-2 with in-house dealer financing; no standalone site, active Facebook/BBB listing.",
+      "uncertain": false
+    }
+  ]
+}

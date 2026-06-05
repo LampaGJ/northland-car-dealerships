@@ -1,0 +1,18 @@
+{
+  "name": "Genesis of Saint Cloud",
+  "slug": "genesis-of-st-cloud",
+  "type": "franchise",
+  "address": "900 2nd St S",
+  "city": "Waite Park",
+  "state": "MN",
+  "phone": "320-251-8200",
+  "website": "https://www.genesisofstcloud.com",
+  "specialties": [
+    "Genesis luxury vehicles",
+    "pre-owned multi-brand"
+  ],
+  "coverage": "summary-only",
+  "method": "embedded-structured-data",
+  "notes": "CMS: Team Velocity (tid=88dfb1c1). Co-located at 900 2nd St S, Waite Park MN with St. Cloud Hyundai (same ownership/phone). VIN overlap check: 74 of 74 Genesis used VINs (100%) are identical to St. Cloud Hyundai's used inventory feed. The Genesis rooftop mirrors the same physical lot's used vehicle inventory with slightly different listed prices (markup differential observed). Inventory set to empty to avoid double-counting against st-cloud-hyundai.json.",
+  "inventory": []
+}

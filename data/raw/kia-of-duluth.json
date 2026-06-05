@@ -1,0 +1,451 @@
+{
+  "name": "Kia of Duluth",
+  "slug": "kia-of-duluth",
+  "type": "franchise",
+  "address": "1701 W Michigan St",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-722-4542",
+  "website": "https://www.kiaofduluth.com/",
+  "specialties": [
+    "Kia certified pre-owned",
+    "Kia Sportage and Seltos specialist",
+    "SUV and crossover inventory",
+    "Hybrid and plug-in hybrid vehicles"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: Kestrel/.NET (server: Kestrel in response headers). Native JSON feed at /inventory-used.json discovered via /inventorysitemap.xml sitemap index. Single page of 43 unique vehicles (totalPages: 1). CPO feed (/inventory-cpo.json) is a full subset \u2014 all 19 CPO vehicles already present in used feed (confirmed by VIN deduplication). All fields including price, mileage, drivetrain extracted directly from JSON.",
+  "inventory": [
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "SX X-Line",
+      "price": 39779,
+      "mileage": 41872,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyp5dgc3pg363677/2023-kia-telluride-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Wilderness",
+      "price": 38999,
+      "mileage": 15436,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/4s4btgud4s3166086/2025-subaru-outback-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "S",
+      "price": 38889,
+      "mileage": 15189,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyp6dgc4sg645462/2025-kia-telluride-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 38765,
+      "mileage": 63398,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/1gc5yne7xlf325922/2020-chevrolet-silverado-2500hd-extended-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "S",
+      "price": 38599,
+      "mileage": 24617,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyp6dgc9rg487954/2024-kia-telluride-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage Plug-In Hybrid",
+      "trim": "X-Line",
+      "price": 37877,
+      "mileage": 9381,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndpyddh7r7143305/2024-kia-sportage-plug-in-hybrid-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Pro",
+      "price": 31989,
+      "mileage": 52256,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyk7caf6pg024543/2023-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "K5",
+      "trim": "GT",
+      "price": 30588,
+      "mileage": 18638,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/knag44j81s5340808/2025-kia-k5-4dr-car"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "LX",
+      "price": 29899,
+      "mileage": 11479,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyrg4jc9sg370511/2025-kia-sorento-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "EX",
+      "price": 28998,
+      "mileage": 23678,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyk3caf8pg118273/2023-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Line",
+      "price": 28789,
+      "mileage": 25633,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyk6caf9pg038181/2023-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "4WD Z71",
+      "price": 27999,
+      "mileage": 82148,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/1gcgtden9l1243161/2020-chevrolet-colorado-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "EX",
+      "price": 27989,
+      "mileage": 11306,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndercaa9s7690104/2025-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "EX",
+      "price": 27777,
+      "mileage": 5911,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndercaa8r7628283/2024-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "SX",
+      "price": 26777,
+      "mileage": 92678,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyrkdlf8ng127525/2022-kia-sorento-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Line",
+      "price": 25999,
+      "mileage": 89814,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyk6caf7pg114867/2023-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "X-Line S",
+      "price": 25989,
+      "mileage": 88475,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyrldlc0ng144855/2022-kia-sorento-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "S",
+      "price": 25989,
+      "mileage": 8305,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndeucaa5s7786665/2025-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "RS",
+      "price": 25988,
+      "mileage": 82007,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/3gnkbkrs8ns123328/2022-chevrolet-blazer-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "S",
+      "price": 25689,
+      "mileage": 28844,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndeucaa5p7406022/2023-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "trim": "LE",
+      "price": 24977,
+      "mileage": 83996,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/7mubaabgxnv039565/2022-toyota-corolla-cross-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Outer Banks",
+      "price": 24899,
+      "mileage": 59007,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/3fmcr9c67prd25127/2023-ford-bronco-sport-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "K5",
+      "trim": "LXS",
+      "price": 23963,
+      "mileage": 20501,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/knag24j75s5305069/2025-kia-k5-4dr-car"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "LX",
+      "price": 22989,
+      "mileage": 34745,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndepcaa2p7451927/2023-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 22877,
+      "mileage": 70751,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/2c4rc1bg2nr214760/2022-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "LS",
+      "price": 22589,
+      "mileage": 22290,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kl79mnsl4sb198683/2025-chevrolet-trailblazer-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "S",
+      "price": 21789,
+      "mileage": 32651,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndeucaa9n7262939/2022-kia-seltos-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LXS",
+      "price": 20999,
+      "mileage": 15852,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/3kpf24ad6re841225/2024-kia-forte-4dr-car"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Niro",
+      "trim": "LX",
+      "price": 20989,
+      "mileage": 60550,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndcb3lc6n5515450/2022-kia-niro-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "LX",
+      "price": 19999,
+      "mileage": 62462,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndj23au1p7892519/2023-kia-soul-hatchback"
+    },
+    {
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "trim": "ES",
+      "price": 18933,
+      "mileage": 21943,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/ja4aruau3su001023/2025-mitsubishi-outlander-sport-sport-utility"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 18889,
+      "mileage": 108285,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/1ftfw1efxefc28586/2014-ford-f-150-crew-cab-pickup"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "SX Turbo",
+      "price": 18469,
+      "mileage": 94741,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndprca62k7616575/2019-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Kia",
+      "model": "Niro",
+      "trim": "LXS SE",
+      "price": 17888,
+      "mileage": 95295,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndcb3lc5n5516136/2022-kia-niro-sport-utility"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 17477,
+      "mileage": 93653,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/1c4rjfbg0kc781850/2019-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LTZ",
+      "price": 16999,
+      "mileage": 152474,
+      "drivetrain": "4WD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/1gnskkkc7fr238722/2015-chevrolet-suburban-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LXS",
+      "price": 14889,
+      "mileage": 98944,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/3kpf24ad1pe516723/2023-kia-forte-4dr-car"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "SEL",
+      "price": 13999,
+      "mileage": 208107,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5nmjbcae6ph173512/2023-hyundai-tucson-sport-utility"
+    },
+    {
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe Sport",
+      "trim": "2.4L",
+      "price": 12999,
+      "mileage": 85494,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyztdlb3jg526458/2018-hyundai-santa-fe-sport-sport-utility"
+    },
+    {
+      "year": 2017,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 11977,
+      "mileage": 102622,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndpmcac5h7292292/2017-kia-sportage-sport-utility"
+    },
+    {
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe Sport",
+      "trim": "2.4L",
+      "price": 10989,
+      "mileage": 134359,
+      "drivetrain": "AWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/5xyztdlb7jg532330/2018-hyundai-santa-fe-sport-sport-utility"
+    },
+    {
+      "year": 2016,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "+",
+      "price": 9987,
+      "mileage": 85210,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndjp3a57g7836580/2016-kia-soul-hatchback"
+    },
+    {
+      "year": 2015,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "+",
+      "price": 7599,
+      "mileage": 151910,
+      "drivetrain": "FWD",
+      "url": "https://www.kiaofduluth.com/viewdetails/used/kndjp3a59f7225979/2015-kia-soul-hatchback"
+    }
+  ]
+}

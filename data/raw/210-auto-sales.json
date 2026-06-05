@@ -1,0 +1,15 @@
+{
+  "name": "210 Auto Sales & Repair",
+  "slug": "210-auto-sales",
+  "type": "independent",
+  "address": "413 Washington St NE",
+  "city": "Brainerd",
+  "state": "MN",
+  "phone": "218-454-3295",
+  "website": "https://210autosales.com",
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "210autosales.com DNS does not resolve (NXDOMAIN \u2014 domain is expired or not active as of 2026-06-05). Feed/API probes exhausted: /wp-json/ (DNS fail), /products.json (DNS fail), sitemap.xml (DNS fail). Carsforsale.com aggregator probe for '210 auto sales brainerd mn' returned Cloudflare interactive challenge (CF chl_page v1), blocking automated access. No inventory data recoverable from any source.",
+  "inventory": []
+}

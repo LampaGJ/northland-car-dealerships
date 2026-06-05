@@ -1,0 +1,271 @@
+{
+  "name": "Marthaler Honda Toyota of Ashland",
+  "slug": "marthaler-honda-toyota",
+  "type": "franchise",
+  "address": "2301 Lake Shore Dr E",
+  "city": "Ashland",
+  "state": "WI",
+  "phone": "715-682-5252",
+  "website": "https://www.ashlandhondatoyota.com",
+  "specialties": [
+    "Honda",
+    "Toyota",
+    "Used trucks and SUVs",
+    "AWD/4WD vehicles"
+  ],
+  "coverage": "full",
+  "method": "feed",
+  "notes": "CMS: DealerOn platform (x-dealeron headers, dealer ID 22047, sincrowebId motp-ashland-wi-inv). Inventory sourced from native DealerOn RSS feed at /rss-usedinventory.aspx (25 items). Prices extracted from schema.org Vehicle JSON-LD (offers.price) on individual listing detail pages. 23/25 prices retrieved successfully; 2 page timeouts resolved on retry. No HTML selector parsing used.",
+  "inventory": [
+    {
+      "year": 2009,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "R/T",
+      "price": 20297,
+      "mileage": 51989,
+      "drivetrain": "RWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2009-Dodge-Challenger-RT+RWD+57L+V8+HEMI-2B3LJ54T19H624489"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "LX",
+      "price": 9916,
+      "mileage": 156853,
+      "drivetrain": "FWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2013-Honda-Accord-LX+FWD-1HGCR2F35DA120345"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "price": 13779,
+      "mileage": 115870,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2013-Honda-Pilot-EX+L+4WD-5FNYF4H59DB033370"
+    },
+    {
+      "year": 2014,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Limited",
+      "price": 18099,
+      "mileage": 99950,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2014-Toyota-RAV4-Limited+AWD-2T3DFREV1EW197837"
+    },
+    {
+      "year": 2015,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX",
+      "price": 17149,
+      "mileage": 95150,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2015-Honda-CR+V-EX+AWD-2HKRM4H58FH666036"
+    },
+    {
+      "year": 2016,
+      "make": "Mazda",
+      "model": "CX-9",
+      "trim": "Sport",
+      "price": 12116,
+      "mileage": 102838,
+      "drivetrain": "FWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2016-+-Mazda+CX+9-Sport+FWD-JM3TCABY9G0111872"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "COROLLA",
+      "trim": "LE Premium",
+      "price": 16085,
+      "mileage": 56714,
+      "drivetrain": "FWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2017-Toyota-COROLLA-LE+Premium+FWD-2T1BURHE8HC749549"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 18247,
+      "mileage": 105810,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2017-Honda-CR+V-EX+L+AWD-5J6RW2H87HL073429"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 11290,
+      "mileage": 226743,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2017-Honda-CR+V-EX+L+AWD-5J6RW2H81HL049238"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cutaway Jayco Redhawk SE Class C Motor Home",
+      "price": 37198,
+      "mileage": 21820,
+      "drivetrain": null,
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2017-Chevrolet-Express-Cutaway+Jayco+Redhawk+SE+Class+C+Motor+Home-1HA6GUCG2HN008567"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 20288,
+      "mileage": 43284,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2017-Jeep-Cherokee-Trailhawk+4WD-1C4PJMBS1HW587027"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71 Crew Cab",
+      "price": 21179,
+      "mileage": 113949,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2018-Chevrolet-Colorado-Z71+Crew+Cab+4WD-1GCGTDENXJ1138402"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 15288,
+      "mileage": 120973,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Jeep-Cherokee-Trailhawk+4WD-1C4PJMBX6KD102038"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Premium",
+      "price": 21179,
+      "mileage": 51551,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Subaru-Outback-25i+Premium+AWD-4S4BSAFC2K3323988"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Hybrid XSE",
+      "price": 28290,
+      "mileage": 79082,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Toyota-RAV4+Hybrid-XSE+AWD-JTMEWRFV0KD506094"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Adventure",
+      "price": 21189,
+      "mileage": 131928,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Toyota-RAV4-Adventure+AWD-2T3J1RFV9KW070698"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "ZR2 Crew Cab",
+      "price": 32287,
+      "mileage": 46016,
+      "drivetrain": "4X4",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Chevrolet-Colorado-ZR2+Crew+Cab+4x4+36L+V6-1GCGTEEN5K1264660"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Warlock Quad Cab HEMI",
+      "price": 22726,
+      "mileage": 113348,
+      "drivetrain": "4X4",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-RAM-1500-Warlock+Quad+Cab+4x4+HEMI+57L+V8-1C6RR7GT7KS737023"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Sport",
+      "price": 20099,
+      "mileage": 34519,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Hyundai-Tucson-Sport+AWD-KM8J3CAL8KU889725"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Limited",
+      "price": 23199,
+      "mileage": 128956,
+      "drivetrain": null,
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Toyota-RAV4-Limited-2T3N1RFVXKW063874"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 21099,
+      "mileage": 52096,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2019-Jeep-Cherokee-Trailhawk+4WD-1C4PJMBX6KD186443"
+    },
+    {
+      "year": 2020,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "LX",
+      "price": 17779,
+      "mileage": 70884,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2020-Honda-HR+V-LX+AWD-3CZRU6H36LM726163"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 25296,
+      "mileage": 46915,
+      "drivetrain": "4WD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2020-Ford-Explorer-XLT+4WD-1FMSK8DH2LGA59978"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "price": 16297,
+      "mileage": 115320,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2020-GMC-Terrain-SLT+AWD-3GKALVEV1LL127414"
+    },
+    {
+      "year": 2020,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Avenir",
+      "price": 22099,
+      "mileage": 109608,
+      "drivetrain": "AWD",
+      "url": "https://www.ashlandhondatoyota.com/used-Ashland-2020-Buick-Enclave-Avenir+AWD-5GAEVCKW4LJ245636"
+    }
+  ]
+}

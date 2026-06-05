@@ -1,0 +1,271 @@
+{
+  "name": "Lakes Area Auto Solutions",
+  "slug": "lakes-area-auto-solutions",
+  "type": "independent",
+  "address": "8337 State Hwy 210 W",
+  "city": "Baxter",
+  "state": "MN",
+  "phone": "218-454-3700",
+  "website": "https://www.lakesareaautosolutions.com",
+  "specialties": [
+    "Chevy/GMC trucks and SUVs",
+    "vans and work vehicles",
+    "premium and luxury SUVs",
+    "4WD/AWD vehicles"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "DealerCarSearch platform (imagescdn.dealercarsearch.com, dealer ID 26522, 'site_platform':'dcs'). Price and make/model/trim extracted from compareChecked() JS calls in SRP HTML. Mileage from VDP pages. 1 SRP page (25 total vehicles) + 25 VDP pages fetched. Feed/API: same DCS probes as Motors N More \u2014 no JSON API available. Carfax VIN links present on SRP confirming real inventory.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "1RS",
+      "price": 22400,
+      "mileage": 22347,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23734547/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "",
+      "price": 20350,
+      "mileage": 147884,
+      "drivetrain": "RWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23699695/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "RS AWD",
+      "price": 19400,
+      "mileage": 49922,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23901377/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL SuperCrew 6.5-ft. Bed 4WD",
+      "price": null,
+      "mileage": 99854,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23941749/"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Crew Cab SWB 4WD",
+      "price": 37450,
+      "mileage": 57471,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23517020/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Trail Boss Crew Cab 4WD",
+      "price": 35950,
+      "mileage": 99903,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23822460/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE AWD V6",
+      "price": 30950,
+      "mileage": 84762,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/22961378/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier 4WD",
+      "price": 36950,
+      "mileage": 76028,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23445921/"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Limited Crew Cab SWB 4WD",
+      "price": 26950,
+      "mileage": 142411,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23561759/"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali Crew Cab 4WD",
+      "price": 29950,
+      "mileage": 143268,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23791023/"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "NV200",
+      "trim": "S",
+      "price": 12950,
+      "mileage": 108809,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23917043/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "LS Auto",
+      "price": 6950,
+      "mileage": 131010,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23607667/"
+    },
+    {
+      "year": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX 4WD 5-Speed AT",
+      "price": 10950,
+      "mileage": 188275,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23737276/"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "2LT",
+      "price": 7950,
+      "mileage": 130589,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23561765/"
+    },
+    {
+      "year": 2012,
+      "make": "Nissan",
+      "model": "Juke",
+      "trim": "S AWD",
+      "price": 7950,
+      "mileage": 132267,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23806412/"
+    },
+    {
+      "year": 2012,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": "2.0i Sport Premium",
+      "price": 10950,
+      "mileage": 93584,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23115529/"
+    },
+    {
+      "year": 2011,
+      "make": "Nissan",
+      "model": "Quest",
+      "trim": "3.5 S",
+      "price": 6750,
+      "mileage": 173469,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/22961377/"
+    },
+    {
+      "year": 2010,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL 4D SUV AWD",
+      "price": 6950,
+      "mileage": 169584,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23561784/"
+    },
+    {
+      "year": 2010,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "Base 4-Speed AT",
+      "price": 7950,
+      "mileage": 172718,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23115524/"
+    },
+    {
+      "year": 2009,
+      "make": "Lexus",
+      "model": "GX 470",
+      "trim": "Sport Utility",
+      "price": 13950,
+      "mileage": 181998,
+      "drivetrain": "AWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23766320/"
+    },
+    {
+      "year": 2008,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SE",
+      "price": null,
+      "mileage": 163544,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23950517/"
+    },
+    {
+      "year": 2008,
+      "make": "Toyota",
+      "model": "Camry Solara",
+      "trim": "SLE 2D Convertible V6",
+      "price": 15950,
+      "mileage": 46301,
+      "drivetrain": "FWD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23856349/"
+    },
+    {
+      "year": 2007,
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "trim": "",
+      "price": 9950,
+      "mileage": 273170,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23305199/"
+    },
+    {
+      "year": 2004,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "XE King Cab 4WD",
+      "price": 7950,
+      "mileage": 173981,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23317581/"
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "Explorer Sport Trac",
+      "trim": "",
+      "price": 6950,
+      "mileage": 180612,
+      "drivetrain": "4WD",
+      "url": "https://www.lakesareaautosolutions.com/vdp/23695299/"
+    }
+  ]
+}

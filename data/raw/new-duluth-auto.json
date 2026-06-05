@@ -1,0 +1,671 @@
+{
+  "name": "New Duluth Auto",
+  "slug": "new-duluth-auto",
+  "type": "independent",
+  "address": "1415 Commonwealth Ave",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-310-6626",
+  "website": "https://newduluthauto.net",
+  "specialties": [
+    "Subaru specialist",
+    "AWD/4WD",
+    "Japanese imports",
+    "certified pre-owned style"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: WordPress (confirmed via Link: rel=https://api.w.org/ header and nginx server) with AutoDealersDigital inventory plugin (cdn-websites.autodealersdigital.com CDN, dealer ID 104463). WordPress REST API probed: /wp-json/wp/v2/posts returned 500; /wp-json/wp/v2/types returned 500 (server error, not CORS). No inventory post type exposed via REST. AutoDealersDigital has no public JSON endpoint discoverable. Extracted from /all-inventory/ paginated HTML (3 pages, 25+25+15=65 vehicles). Vehicle URLs encode year/make/model as /vehicles/{id}-{year}-{make}-{model}/. Drivetrain and trim not available in listing cards (would require individual VDP fetches). 65 vehicles dominated by Subaru (Forester, Outback, Crosstrek, Impreza, Ascent) \u2014 heavy Subaru specialist.",
+  "inventory": [
+    {
+      "year": 2012,
+      "make": "Cadillac",
+      "model": "SRX",
+      "trim": null,
+      "price": 9999,
+      "mileage": 80746,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11995464-2012-Cadillac-SRX/"
+    },
+    {
+      "year": 2004,
+      "make": "Ford",
+      "model": "Thunderbird",
+      "trim": null,
+      "price": 14999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10811963-2004-Ford-Thunderbird/"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": null,
+      "price": 17999,
+      "mileage": 48252,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11928568-2022-Honda-HR-V/"
+    },
+    {
+      "year": 2014,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": null,
+      "price": 7999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11340674-2014-Honda-Odyssey/"
+    },
+    {
+      "year": 2019,
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11907903-2019-Land Rover-Range Rover Evoque/"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": null,
+      "price": 10999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10745373-2018-Nissan-Rogue/"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": null,
+      "price": 23999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11760830-2022-Subaru-Ascent/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11063140-2020-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 19999,
+      "mileage": 53597,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10936606-2019-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10659590-2024-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11928471-2020-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 22999,
+      "mileage": 24714,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/9530644-2019-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11987363-2019-Subaru-Crosstrek/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 21999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11791460-2019-Subaru-Forester/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": 68218,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11368751-2019-Subaru-Forester/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11200090-2019-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11416144-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 12999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11727664-2017-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 21999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11199317-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11791405-2018-Subaru-Forester/"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11235992-2021-Subaru-Forester/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 22999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11866296-2023-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11876922-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11882441-2018-Subaru-Forester/"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": 60520,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11928237-2021-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11928813-2018-Subaru-Forester/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11988199-2017-Subaru-Forester/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 26999,
+      "mileage": 16270,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10801793-2023-Subaru-Forester/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 15999,
+      "mileage": 75048,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/9155437-2017-Subaru-Forester/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 29999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/9350480-2024-Subaru-Forester/"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 29999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10536359-2025-Subaru-Forester/"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10574036-2021-Subaru-Forester/"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 29999,
+      "mileage": 5653,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10607583-2022-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10620232-2018-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10745262-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 21999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10745344-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10839894-2019-Subaru-Forester/"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 29999,
+      "mileage": 10380,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11107447-2025-Subaru-Forester/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10886886-2020-Subaru-Forester/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 25999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11988286-2023-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/12000116-2018-Subaru-Forester/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/12000854-2017-Subaru-Forester/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 13999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11563985-2018-Subaru-Impreza/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11539170-2024-Subaru-Impreza/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11727789-2024-Subaru-Impreza/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10804421-2019-Subaru-Impreza/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11130029-2024-Subaru-Impreza/"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 16999,
+      "mileage": 44700,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11183452-2022-Subaru-Impreza/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11498298-2024-Subaru-Impreza/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 17999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11063184-2023-Subaru-Impreza/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11874359-2019-Subaru-Impreza/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": null,
+      "price": 17999,
+      "mileage": 20516,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10990519-2023-Subaru-Impreza/"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": null,
+      "price": 22999,
+      "mileage": 23921,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11684064-2024-Subaru-Legacy/"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10632824-2015-Subaru-Outback/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10607515-2017-Subaru-Outback/"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 16999,
+      "mileage": 77839,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11868791-2018-Subaru-Outback/"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 19999,
+      "mileage": 58000,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/8436008-2019-Subaru-Outback/"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11941996-2017-Subaru-Outback/"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11416472-2015-Subaru-Outback/"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "price": 20999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11988331-2020-Subaru-Outback/"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "trim": null,
+      "price": 13999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/10692184-2015-Subaru-XV Crosstrek/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11923196-2017-Toyota-Camry/"
+    },
+    {
+      "year": 2007,
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "trim": null,
+      "price": 12999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11788712-2007-Toyota-FJ Cruiser/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": null,
+      "price": 16999,
+      "mileage": 78137,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/12000205-2017-Toyota-RAV4/"
+    },
+    {
+      "year": 2017,
+      "make": "Volkswagen",
+      "model": "Golf Alltrack",
+      "trim": null,
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://newduluthauto.net/vehicles/11908561-2017-Volkswagen-Golf Alltrack/"
+    }
+  ]
+}

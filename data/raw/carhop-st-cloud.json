@@ -1,0 +1,18 @@
+{
+  "name": "CarHop Auto Sales of St. Cloud",
+  "slug": "carhop-st-cloud",
+  "type": "independent",
+  "address": "2225 Roosevelt Rd",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": null,
+  "website": "https://www.carhopstcloud.com/",
+  "specialties": [
+    "buy-here-pay-here",
+    "subprime financing"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "Site runs on Dealer Inspire (WordPress-based, confirmed by robots.txt wp-admin/wp-content disallows and Cloudflare error referencing retail.websites.dealerinspire.com). Direct HTTP access blocked by Cloudflare. Search results show Yelp listing marked CLOSED (April 2026) and the /used-vehicles/ page title reads '0 Used Cars, Trucks, SUVs in Stock in St. Cloud'. Location appears permanently closed; customers redirected to CarHop Blaine or Crystal locations per their website.",
+  "inventory": []
+}

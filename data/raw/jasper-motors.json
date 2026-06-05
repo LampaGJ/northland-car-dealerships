@@ -1,0 +1,19 @@
+{
+  "name": "Jasper Motors",
+  "slug": "jasper-motors",
+  "type": "independent",
+  "address": "965 N Benton Dr",
+  "city": "Sauk Rapids",
+  "state": "MN",
+  "phone": "(320) 336-2277",
+  "website": "https://jaspermotors.net",
+  "specialties": ["budget vehicles", "high-mileage value cars", "trucks", "import brands"],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS confirmed as DealerCarSearch (footer login link 'Dealer Car Search Login', image CDN imagescdn.dealercarsearch.com/DealerImages/). Inventory page at /inventory?clearall=1 fetched directly — DealerCarSearch renders server-side HTML with full vehicle data. All 3 current listings extracted with VINs, stock numbers, price, mileage. This appears to be complete inventory (very small lot). VINs available: 1D7HU18N14J116259 (Dodge), JF2SH64649H712949 (Subaru), YV1992AH2A1121342 (Volvo).",
+  "inventory": [
+    {"year": 2004, "make": "Dodge", "model": "Ram 1500", "trim": "SLT Quad Cab 4WD", "price": 2995, "mileage": 122197, "drivetrain": "4WD", "url": "https://jaspermotors.net/vdp/23888723"},
+    {"year": 2009, "make": "Subaru", "model": "Forester", "trim": "2.5X Limited", "price": 2995, "mileage": 159815, "drivetrain": "AWD", "url": "https://jaspermotors.net/vdp/23892008"},
+    {"year": 2010, "make": "Volvo", "model": "S80", "trim": "T6 AWD", "price": 1295, "mileage": 216701, "drivetrain": "AWD", "url": "https://jaspermotors.net/vdp/23918343"}
+  ]
+}

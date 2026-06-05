@@ -1,0 +1,661 @@
+{
+  "name": "Hibbing Chrysler Center",
+  "slug": "hibbing-chrysler-center",
+  "type": "franchise",
+  "address": "1321 E 39th St",
+  "city": "Hibbing",
+  "state": "MN",
+  "phone": "218-231-4497",
+  "website": "https://www.hibbingchryslercenter.net",
+  "specialties": [
+    "RAM trucks",
+    "Jeep SUVs",
+    "Chrysler/Dodge/RAM brand depth",
+    "Late-model luxury trucks"
+  ],
+  "coverage": "full",
+  "method": "feed",
+  "notes": "CMS: DealerOn identified via x-dealeron response headers and cdn.dlron.us asset CDN. Primary discovery: RSS feed at /rss-usedinventory.aspx (listed in robots.txt Disallow, accessible). RSS provides year/make/model/VIN/mileage for 25 items; sitemap.xml provides all 64 VDP URLs; each VDP fetched for price (found in info__value span) and drivetrain. No native JSON inventory API found on /api/* paths \u2014 all 404. Mileage also available in additional_details data attribute. Price labeled 'Hibbing Price' on VDP pages. 3 vehicles had null price (no price listed on their VDP at time of fetch).",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "",
+      "price": 17995,
+      "mileage": 34259,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-Kia-Soul-LX-KNDJ23AU6S7243842"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "",
+      "price": 26795,
+      "mileage": 60035,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Toyota-RAV4-LE-2T3F1RFVXRW481317"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "",
+      "price": 30495,
+      "mileage": 110878,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2017-Toyota-Tundra-SR5+CrewMax-5TFDW5F1XHX668761"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "",
+      "price": 37490,
+      "mileage": 126030,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-RAM-2500-Laramie-3C6UR5FL2MG557152"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "",
+      "price": 25990,
+      "mileage": 66655,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2022-Jeep-Grand+Cherokee-Limited-1C4RJHBG0N8611944"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "",
+      "price": 32495,
+      "mileage": 56714,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Dodge-Durango-GT+Plus-1C4RDJDGXRC153120"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 21995,
+      "mileage": 47032,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Chevrolet-Equinox-LT-3GNAXUEG9RL279677"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 20695,
+      "mileage": 114426,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2018-RAM-1500-Big+Horn-1C6RR7LT2JS323829"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "",
+      "price": 29995,
+      "mileage": 38960,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-GMC-Acadia-SLT-1GKKNUL41PZ136633"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 14995,
+      "mileage": 147500,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2016-RAM-1500-Big+Horn-3C6RR7LT7GG365235"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "",
+      "price": 49995,
+      "mileage": 8993,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Grand+Cherokee+L-Overland-1C4RJKDT4R8587967"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 32990,
+      "mileage": 78162,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2022-Ford-F+150-XLT-1FTFW1EDXNFA71088"
+    },
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "",
+      "price": 23195,
+      "mileage": 47817,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Hyundai-Tucson-SEL-5NMJBCDE2RH422516"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer L",
+      "trim": "",
+      "price": 39395,
+      "mileage": 67059,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Wagoneer+L-Series+II-1C4SJSBP5RS144205"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 29995,
+      "mileage": 108705,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-GMC-Sierra+1500-Elevation-3GTU9CETXMG265750"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "",
+      "price": 5995,
+      "mileage": 122664,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2012-Ford-Fusion-SE-3FAHP0HAXCR365310"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 23495,
+      "mileage": 175219,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2020-GMC-Sierra+1500-Denali-1GTU9FED9LZ112754"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 31495,
+      "mileage": 97544,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Chevrolet-Silverado+1500-LT+LT1-2GCUDDED4P1130659"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "",
+      "price": 35995,
+      "mileage": 50940,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-GMC-Sierra+2500HD-+-1GT59LE74MF230842"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 27195,
+      "mileage": 101326,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-RAM-1500-Big+HornLone+Star-1C6SRFMT5MN579136"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "",
+      "price": 27995,
+      "mileage": 85210,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Jeep-Grand+Cherokee+L-Limited-1C4RJKBG8P8819697"
+    },
+    {
+      "year": 2013,
+      "make": "Harley-Davidson",
+      "model": "CVO Ultra Classic Electra Glide",
+      "trim": "",
+      "price": null,
+      "mileage": 38000,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2013-Harley+Davidson-CVO+Ultra+Classic+Electra+Glide-+-1HD1PR817DB955324"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 17495,
+      "mileage": 61096,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2020-Chevrolet-Equinox-LS-2GNAXSEV2L6228245"
+    },
+    {
+      "year": 2015,
+      "make": "Volkswagen",
+      "model": "Touareg",
+      "trim": "",
+      "price": 13995,
+      "mileage": 123535,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2015-Volkswagen-Touareg-V6+TDI+Sport-WVGEP9BP6FD007824"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 13595,
+      "mileage": 51001,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2017-Chevrolet-Equinox-LT-2GNFLFEK8H6324094"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "",
+      "price": 17999,
+      "mileage": 55237,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Chevrolet-Malibu-LT+1LT-1G1ZD5ST5RF106124"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "",
+      "price": 39990,
+      "mileage": 29135,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Dodge-Durango-RT+Plus-1C4SDJCT7PC657346"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "",
+      "price": 23999,
+      "mileage": 40797,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-Chevrolet-Trailblazer-LT-KL79MRSL8SB035039"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 29495,
+      "mileage": 109000,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-Chevrolet-Silverado+1500-RST-3GCUYEED4MG378987"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "",
+      "price": 12995,
+      "mileage": 107962,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2019-Ford-Edge-SEL-2FMPK4J98KBB98594"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "",
+      "price": 19695,
+      "mileage": 59435,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Compass-Latitude-3C4NJDBN5RT604758"
+    },
+    {
+      "year": 2025,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "",
+      "price": 45850,
+      "mileage": 11045,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-Honda-Pilot-Touring-5FNYG1H73SB002626"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "",
+      "price": 23495,
+      "mileage": 35331,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-GMC-Terrain-SLE-3GKALTEG3PL118659"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "",
+      "price": 31995,
+      "mileage": 27736,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Ford-Ranger-XLT-1FTER1FH1PLE26349"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer L",
+      "trim": "",
+      "price": 40495,
+      "mileage": 59440,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Wagoneer+L-Series+II-1C4SJSBP7RS144335"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "",
+      "price": 20095,
+      "mileage": 110000,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-Subaru-Outback-Touring+XT-4S4BTGPD9M3146642"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "",
+      "price": 26395,
+      "mileage": 59422,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Jeep-Grand+Cherokee+L-Laredo-1C4RJKAG0P8865946"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 25995,
+      "mileage": 81499,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2019-RAM-1500-Big+HornLone+Star-1C6SRFMT8KN901149"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "",
+      "price": 18895,
+      "mileage": 110800,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-Ford-Ranger-XL-1FTER1FH8MLD71118"
+    },
+    {
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "",
+      "price": 30395,
+      "mileage": 59340,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2022-Nissan-Armada-SV-JN8AY2AD8N9677282"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "",
+      "price": 21995,
+      "mileage": 29175,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-Buick-Encore+GX-Preferred-KL4AMCSL1SB157989"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "",
+      "price": 29295,
+      "mileage": 113001,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-Ford-Expedition-XLT-1FMJK1JT6MEA24787"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 26295,
+      "mileage": 62467,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Chrysler-Pacifica-Touring+L-2C4RC1BG5RR143740"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "",
+      "price": 17999,
+      "mileage": 58759,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Chevrolet-Malibu-LT+1LT-1G1ZD5ST2RF140618"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "Passport",
+      "trim": "",
+      "price": 24495,
+      "mileage": 96000,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2022-Honda-Passport-EX+L-5FNYF8H51NB009783"
+    },
+    {
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Voyager",
+      "trim": "",
+      "price": 36995,
+      "mileage": 7468,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2026-Chrysler-Voyager-LX-2C4RC1CG8TR152213"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "",
+      "price": 24495,
+      "mileage": 32566,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Ford-Edge-SEL-2FMPK4J93RBA93102"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 21495,
+      "mileage": 64456,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2018-RAM-1500-Express-1C6RR7FT0JS286808"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "",
+      "price": 30995,
+      "mileage": 39013,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Ford-Explorer-XLT-1FMSK8DH1PGC01694"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "",
+      "price": null,
+      "mileage": 63795,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Compass-Latitude-3C4NJDBN0RT598934"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "",
+      "price": 46995,
+      "mileage": 7415,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-Toyota-Tundra-SR5-5TFLA5DB5SX303644"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "",
+      "price": 22495,
+      "mileage": 28726,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Ford-Escape-Active-1FMCU9GN3RUA97221"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "",
+      "price": 21995,
+      "mileage": 135403,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2017-GMC-Yukon+XL-Denali-1GKS2HKJ5HR403555"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "",
+      "price": 22595,
+      "mileage": 28030,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Ford-Escape-Active-1FMCU9GN8RUA97053"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Voyager",
+      "trim": "",
+      "price": 24495,
+      "mileage": 54878,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Chrysler-Voyager-LX-2C4RC1CG9PR602487"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 39490,
+      "mileage": 35521,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2022-Ford-F+150-Lariat-1FTFW1ED8NFB82447"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "",
+      "price": 19695,
+      "mileage": 61392,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2024-Jeep-Compass-Latitude-3C4NJDBN5RT606042"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "",
+      "price": null,
+      "mileage": 27651,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Dodge-Challenger-GT-2C3CDZKG9PH502841"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 39995,
+      "mileage": 15244,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2025-RAM-1500-Big+HornLone+Star-1C6RRFFGXSN573134"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 34998,
+      "mileage": 36516,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2021-RAM-1500-Big+HornLone+Star-1C6SRFMT4MN640282"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Versa",
+      "trim": "",
+      "price": 4995,
+      "mileage": 178941,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2019-Nissan-Versa-16+SV-3N1CN7AP6KL871013"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 24995,
+      "mileage": 63381,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Chrysler-Pacifica-Touring+L-2C4RC1BG8PR615846"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "",
+      "price": 21995,
+      "mileage": 61661,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Nissan-Rogue-SV-5N1BT3BB5PC853739"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 24695,
+      "mileage": 62302,
+      "drivetrain": null,
+      "url": "https://www.hibbingchryslercenter.net/used-Hibbing-2023-Chrysler-Pacifica-Touring+L-2C4RC1BGXPR571686"
+    }
+  ]
+}

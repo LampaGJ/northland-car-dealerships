@@ -1,0 +1,24 @@
+{
+  "name": "O K Used Cars",
+  "slug": "ok-used-cars",
+  "type": "independent",
+  "address": "805 S Benton Dr",
+  "city": "Sauk Rapids",
+  "state": "MN",
+  "phone": "(320) 259-6792",
+  "website": "https://www.okusedcarsmn.com",
+  "specialties": ["affordable SUVs", "minivans", "no-pressure sales", "safety-inspected vehicles"],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "okusedcarsmn.com returns HTTP 403 to non-browser clients. Cars.com dealer 159226 shows dealer profile but no active inventory. Carsoup.com dealer 1633 returned full 8-vehicle inventory with prices and mileage — used as primary source. Carsforsale.com page also returned 403. Founded 1992 per dealer description. No VINs or stock numbers available from Carsoup extraction.",
+  "inventory": [
+    {"year": 2002, "make": "Oldsmobile", "model": "Bravada", "trim": "", "price": 6999, "mileage": 129205, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2009, "make": "Jeep", "model": "Liberty", "trim": "", "price": 8999, "mileage": 99601, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2012, "make": "Jeep", "model": "Liberty", "trim": "", "price": 9990, "mileage": 78281, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2013, "make": "Toyota", "model": "RAV4", "trim": "", "price": 17990, "mileage": 46517, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2012, "make": "Kia", "model": "Sedona", "trim": "", "price": 6999, "mileage": 137392, "drivetrain": "FWD", "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2011, "make": "Mitsubishi", "model": "Outlander Sport", "trim": "", "price": 6900, "mileage": 124059, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2009, "make": "Pontiac", "model": "G6", "trim": "", "price": 9999, "mileage": 43380, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
+    {"year": 2012, "make": "Ford", "model": "Escape", "trim": "", "price": 9999, "mileage": 98226, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"}
+  ]
+}

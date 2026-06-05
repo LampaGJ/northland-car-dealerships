@@ -1,0 +1,270 @@
+{
+  "collectedAt": "2026-06-05",
+  "corridor": "Brainerd Lakes / Aitkin / Little Falls MN",
+  "dealers": [
+    {
+      "name": "Mills Ford Brainerd",
+      "type": "franchise",
+      "address": "512 Laurel St",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-825-3574",
+      "website": "https://www.millsford.com",
+      "focusNote": "Mills Automotive Group Ford/Lincoln rooftop with new and pre-owned inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Mills GM (Buick GMC)",
+      "type": "franchise",
+      "address": "14138 Dellwood Dr",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-829-5293",
+      "website": "https://www.millsgmcbaxter.com",
+      "focusNote": "Mills Automotive Group Buick/GMC rooftop; carries used cars, trucks and SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Mills Honda",
+      "type": "franchise",
+      "address": "8465 State Hwy 210",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-270-7092",
+      "website": "https://www.millshonda.com",
+      "focusNote": "Mills Automotive Group Honda rooftop; new and pre-owned.",
+      "uncertain": false
+    },
+    {
+      "name": "Lake Country Toyota",
+      "type": "franchise",
+      "address": "7036 Lake Forest Rd",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-454-2200",
+      "website": "https://www.lakecountrytoyota.com",
+      "focusNote": "Mills-affiliated Toyota dealer; large used/certified pre-owned selection.",
+      "uncertain": false
+    },
+    {
+      "name": "Dondelinger Chevrolet Cadillac",
+      "type": "franchise",
+      "address": "6720 Pine Beach Rd",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-829-4787",
+      "website": "https://www.dondelingerchev.com",
+      "focusNote": "Chevrolet/Cadillac franchise with extensive pre-owned inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Dondelinger Hyundai",
+      "type": "franchise",
+      "address": "6720 Pine Beach Rd",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-829-4787",
+      "website": "https://www.dondelingerhyundai.com",
+      "focusNote": "Hyundai franchise (shares Dondelinger Pine Beach Rd campus); new and used.",
+      "uncertain": false
+    },
+    {
+      "name": "Tanner Motors",
+      "type": "franchise",
+      "address": "620 W Washington St",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-829-3597",
+      "website": "https://www.tannermotors.net",
+      "focusNote": "Chrysler Dodge Jeep Ram Wagoneer dealer; large used and CPO selection.",
+      "uncertain": false
+    },
+    {
+      "name": "Minnesota Truck Headquarters of Brainerd",
+      "type": "franchise",
+      "address": "16604 State Hwy 371",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-454-2886",
+      "website": "https://www.mthbrainerd.com",
+      "focusNote": "Truck-focused dealer with a broad inspected pre-owned lineup of cars, trucks and SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Ace Auto Sales",
+      "type": "independent",
+      "address": "18316 State Hwy 371",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-454-2345",
+      "website": "https://www.brainerdaceauto.com",
+      "focusNote": "Independent dealer carrying 200+ cars, trucks, SUVs and vans; grew from a repair shop.",
+      "uncertain": false
+    },
+    {
+      "name": "Motors N More",
+      "type": "independent",
+      "address": "510 10th Ave NE",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-824-2277",
+      "website": "https://motorsnmore.com",
+      "focusNote": "Family-owned independent used car and truck lot, 35+ years in business.",
+      "uncertain": false
+    },
+    {
+      "name": "Atwater Motors",
+      "type": "independent",
+      "address": "14775 Edgewood Dr N",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-454-3950",
+      "website": "https://www.atwatermotors.com",
+      "focusNote": "Small family-owned independent used car dealer serving Brainerd/Baxter.",
+      "uncertain": false
+    },
+    {
+      "name": "Lakes Area Auto Solutions",
+      "type": "independent",
+      "address": "8337 State Hwy 210 W",
+      "city": "Baxter",
+      "state": "MN",
+      "phone": "218-454-3700",
+      "website": "https://www.lakesareaautosolutions.com",
+      "focusNote": "Independent used car, truck and SUV dealer.",
+      "uncertain": false
+    },
+    {
+      "name": "210 Auto Sales & Repair",
+      "type": "independent",
+      "address": "413 Washington St NE",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-454-3295",
+      "website": "https://210autosales.com",
+      "focusNote": "Independent used car/truck dealer with on-site repair.",
+      "uncertain": false
+    },
+    {
+      "name": "Eclipse Automotive",
+      "type": "independent",
+      "address": "210 NW 5th St",
+      "city": "Brainerd",
+      "state": "MN",
+      "phone": "218-282-7365",
+      "website": "https://www.eclipseautomotivemn.com",
+      "focusNote": "Independent used car dealer in downtown Brainerd.",
+      "uncertain": false
+    },
+    {
+      "name": "Midwest Trucks & Motorsports",
+      "type": "independent",
+      "address": "21914 County Rd 3",
+      "city": "Merrifield",
+      "state": "MN",
+      "phone": "320-333-1752",
+      "website": "https://www.midwesttrucks371.com",
+      "focusNote": "Family-owned lot in the Brainerd Lakes corridor selling pre-owned trucks, cars and SUVs (plus some motorsports).",
+      "uncertain": true
+    },
+    {
+      "name": "Dotty Auto Company",
+      "type": "independent",
+      "address": "30465 Patriot Ave",
+      "city": "Pequot Lakes",
+      "state": "MN",
+      "phone": "218-568-4540",
+      "website": "https://www.dottyauto.com",
+      "focusNote": "Independent used car dealer in Pequot Lakes.",
+      "uncertain": false
+    },
+    {
+      "name": "Pequot Auto Sales (Mark Schoeb)",
+      "type": "independent",
+      "address": "Pequot Lakes",
+      "city": "Pequot Lakes",
+      "state": "MN",
+      "phone": "218-568-6727",
+      "website": null,
+      "focusNote": "Small independent used car lot; exact street address not confirmed.",
+      "uncertain": true
+    },
+    {
+      "name": "Kimber Creek Ford",
+      "type": "franchise",
+      "address": "2654 State Hwy 371 SW",
+      "city": "Pine River",
+      "state": "MN",
+      "phone": "218-824-9137",
+      "website": "https://www.kimbercreekford.com",
+      "focusNote": "Ford franchise in Pine River since 1941; new and used.",
+      "uncertain": false
+    },
+    {
+      "name": "Sweet Cars",
+      "type": "independent",
+      "address": "112 Front St N, Suite D",
+      "city": "Pine River",
+      "state": "MN",
+      "phone": "218-820-3159",
+      "website": "https://www.buyasweetcar.com",
+      "focusNote": "Independent used car dealer in Pine River.",
+      "uncertain": false
+    },
+    {
+      "name": "Aitkin Motor Co.",
+      "type": "franchise",
+      "address": "108 Second St NE",
+      "city": "Aitkin",
+      "state": "MN",
+      "phone": "218-927-2169",
+      "website": "https://www.aitkinmotorco.com",
+      "focusNote": "Ford franchise in Aitkin; new and used Ford trucks/SUVs plus other pre-owned.",
+      "uncertain": false
+    },
+    {
+      "name": "Atwater Chevrolet GMC",
+      "type": "franchise",
+      "address": "702 2nd St NE",
+      "city": "Aitkin",
+      "state": "MN",
+      "phone": "218-927-2713",
+      "website": "https://www.atwatergm.com",
+      "focusNote": "Chevrolet/Buick/GMC franchise serving Aitkin and McGregor; new and used.",
+      "uncertain": false
+    },
+    {
+      "name": "Brandl Motors (Morrie's Little Falls Chrysler Dodge Jeep RAM)",
+      "type": "franchise",
+      "address": "14873 113th St",
+      "city": "Little Falls",
+      "state": "MN",
+      "phone": "320-632-2908",
+      "website": "https://www.morrieslittlefallschryslerdodgejeepram.com",
+      "focusNote": "CDJR franchise (formerly Brandl Motors, now Morrie's-operated) with used inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Rudolph Auto Solutions",
+      "type": "independent",
+      "address": "1300 Lindbergh Dr NW",
+      "city": "Little Falls",
+      "state": "MN",
+      "phone": "320-632-6623",
+      "website": "https://rudolphautosolutions.net",
+      "focusNote": "Independent pre-owned vehicle dealer in Little Falls.",
+      "uncertain": false
+    },
+    {
+      "name": "Best Buy Auto",
+      "type": "independent",
+      "address": "11245 150th Ave",
+      "city": "Little Falls",
+      "state": "MN",
+      "phone": "320-632-5050",
+      "website": "https://yourbestbuy.com",
+      "focusNote": "Independent used car, truck and SUV dealer for every budget.",
+      "uncertain": false
+    }
+  ]
+}

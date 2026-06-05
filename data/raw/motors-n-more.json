@@ -1,0 +1,591 @@
+{
+  "name": "Motors N More",
+  "slug": "motors-n-more",
+  "type": "independent",
+  "address": "510 10th Ave NE",
+  "city": "Brainerd",
+  "state": "MN",
+  "phone": "218-824-2277",
+  "website": "https://motorsnmore.com",
+  "specialties": [
+    "GM vehicles (Chevy/GMC/Buick/Cadillac)",
+    "trucks and SUVs",
+    "affordable used cars",
+    "4WD/AWD vehicles"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "DealerCarSearch platform (imagescdn.dealercarsearch.com, dealer ID 8668, 'site_platform':'dcs'). Price and make/model/trim extracted from compareChecked() JS function calls in SRP HTML. Mileage extracted from VDP pages via '{X} miles,' text pattern. 3 SRP pages (57 total vehicles) + 57 VDP pages fetched. Feed/API probes: /api/inventory/search (empty response), /InventoryModule/GetInventoryList (empty response), DCS JSON API (404). DCS SRP does not embed mileage in listing HTML; VDP required.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Cabin",
+      "trim": "CABIN",
+      "price": 4995,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645124/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Cottage Shed",
+      "trim": "SHED",
+      "price": 3395,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645147/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Garage",
+      "trim": "GARAGE",
+      "price": 8595,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645614/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Lofted Barn",
+      "trim": "SHED",
+      "price": 3795,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645205/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Lofted Barn Cabin",
+      "trim": "CABIN",
+      "price": 5995,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645264/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Lofted Garage",
+      "trim": "GARAGE",
+      "price": 9495,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645509/"
+    },
+    {
+      "year": 2025,
+      "make": "Premier",
+      "model": "Portable Buildings Utility",
+      "trim": "UTILITY",
+      "price": 3495,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://motorsnmore.com/vdp/20645535/"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn Crew Cab SWB 4WD",
+      "price": 39995,
+      "mileage": 6615,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23403114/"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "N Line",
+      "price": null,
+      "mileage": 53528,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23932942/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation Crew Cab 4WD",
+      "price": 33995,
+      "mileage": 82830,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23764324/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali Crew Cab 4WD",
+      "price": 49995,
+      "mileage": 106268,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23947353/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "Premier AWD",
+      "price": 17995,
+      "mileage": 143579,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23863783/"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali Crew Cab 4WD",
+      "price": 39995,
+      "mileage": 66594,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23326705/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "High Country AWD",
+      "price": 17995,
+      "mileage": 149122,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23903721/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited 4WD",
+      "price": 14995,
+      "mileage": 82415,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23407868/"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn Crew Cab SWB 4WD",
+      "price": 24995,
+      "mileage": 95875,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23758338/"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Crew Cab SWB 4WD",
+      "price": 29995,
+      "mileage": 103906,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23903714/"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Tradesman Quad Cab 4WD",
+      "price": 9995,
+      "mileage": 242509,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23775300/"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "price": 15995,
+      "mileage": 61132,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/22586843/"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk 4WD",
+      "price": 12995,
+      "mileage": 94810,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23038716/"
+    },
+    {
+      "year": 2017,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Essence AWD",
+      "price": null,
+      "mileage": 81171,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23862840/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "LT Auto",
+      "price": 7995,
+      "mileage": 126818,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23828626/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 10995,
+      "mileage": 116187,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23883232/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ Crew Cab 4WD",
+      "price": 13995,
+      "mileage": 195468,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23862859/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Crew Cab 4WD",
+      "price": 17995,
+      "mileage": 138967,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23863110/"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara 4WD",
+      "price": 14995,
+      "mileage": 106054,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/22986593/"
+    },
+    {
+      "year": 2017,
+      "make": "Lincoln",
+      "model": "MKX",
+      "trim": "Reserve AWD",
+      "price": 17995,
+      "mileage": 68797,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23863893/"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium 4WD",
+      "price": 9995,
+      "mileage": 127490,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23804261/"
+    },
+    {
+      "year": 2016,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EXLN 4WD",
+      "price": null,
+      "mileage": 181722,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23863165/"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Crew Cab 4WD",
+      "price": 29995,
+      "mileage": 102801,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23889109/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "1LT Auto",
+      "price": 6950,
+      "mileage": 105912,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23754548/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ Double Cab Short Box 4WD",
+      "price": 16995,
+      "mileage": 148732,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23927729/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LTZ 4WD",
+      "price": 14995,
+      "mileage": 176020,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23951723/"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium 4WD",
+      "price": 9995,
+      "mileage": 112151,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23883211/"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Patriot",
+      "trim": "Latitude 4WD",
+      "price": 9995,
+      "mileage": 68997,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23746641/"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": "2.5i Premium",
+      "price": 11995,
+      "mileage": 105630,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23877976/"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Impala Limited",
+      "trim": "LT",
+      "price": 10995,
+      "mileage": 71481,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23862716/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 4995,
+      "mileage": 196410,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23936747/"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport 4WD",
+      "price": 14995,
+      "mileage": 82545,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23862970/"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "LX 2WD",
+      "price": null,
+      "mileage": 163349,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23804270/"
+    },
+    {
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Juke",
+      "trim": "S AWD",
+      "price": 4995,
+      "mileage": 190215,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23957029/"
+    },
+    {
+      "year": 2014,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman Quad Cab 4WD",
+      "price": 9995,
+      "mileage": 116299,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23775340/"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Limited",
+      "price": 9995,
+      "mileage": 114431,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23862657/"
+    },
+    {
+      "year": 2014,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "trim": "SE",
+      "price": 6995,
+      "mileage": 155138,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23804263/"
+    },
+    {
+      "year": 2013,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo 4WD",
+      "price": 8995,
+      "mileage": 159561,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23862947/"
+    },
+    {
+      "year": 2013,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "3.6R Limited",
+      "price": 9995,
+      "mileage": 123214,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23883090/"
+    },
+    {
+      "year": 2012,
+      "make": "Cadillac",
+      "model": "Escalade Hybrid",
+      "trim": "4WD",
+      "price": 9995,
+      "mileage": 146352,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23952526/"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "2LT AWD",
+      "price": null,
+      "mileage": 208961,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23863011/"
+    },
+    {
+      "year": 2012,
+      "make": "Lincoln",
+      "model": "MKS",
+      "trim": "3.7L FWD",
+      "price": 7995,
+      "mileage": 135191,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23873691/"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "HHR",
+      "trim": "2LT",
+      "price": 3995,
+      "mileage": 214432,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23329789/"
+    },
+    {
+      "year": 2011,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT Ext. Cab 4WD",
+      "price": 12995,
+      "mileage": 112299,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23828735/"
+    },
+    {
+      "year": 2010,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "EX-L Sedan AT",
+      "price": 5995,
+      "mileage": 214100,
+      "drivetrain": "FWD",
+      "url": "https://motorsnmore.com/vdp/23939232/"
+    },
+    {
+      "year": 2010,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited 4WD",
+      "price": 6995,
+      "mileage": 121642,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23883114/"
+    },
+    {
+      "year": 2008,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited 4WD",
+      "price": 3995,
+      "mileage": 248198,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23563973/"
+    },
+    {
+      "year": 2007,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Sport V6 4WD",
+      "price": 8995,
+      "mileage": 132606,
+      "drivetrain": "AWD",
+      "url": "https://motorsnmore.com/vdp/23804271/"
+    },
+    {
+      "year": 2006,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "trim": "RTS",
+      "price": null,
+      "mileage": 260717,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23952285/"
+    },
+    {
+      "year": 2004,
+      "make": "Chevrolet",
+      "model": "Avalanche",
+      "trim": "1500 4WD",
+      "price": 9995,
+      "mileage": 129848,
+      "drivetrain": "4WD",
+      "url": "https://motorsnmore.com/vdp/23943302/"
+    }
+  ]
+}

@@ -1,0 +1,1011 @@
+{
+  "name": "Iron Trail Motors",
+  "slug": "iron-trail-motors",
+  "type": "franchise",
+  "address": "1301 17th St S",
+  "city": "Virginia",
+  "state": "MN",
+  "phone": "218-741-2355",
+  "website": "https://www.irontrail.com",
+  "specialties": [
+    "Chevrolet trucks and SUVs",
+    "Toyota cars and SUVs",
+    "Certified pre-owned vehicles",
+    "AWD/4x4 vehicles"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: WordPress with DV Framework (DealerVenom). Inventory extracted via Typesense search API (public key eQUa8iq30l8Tu908Drz9WKqar6tCJGd4, host hjnrb3s21408ezpfp.a1.typesense.net, index vehicles-GRP00033). 99 used vehicles retrieved. Price from internetPrice field.",
+  "inventory": [
+    {
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE V6",
+      "price": 9990,
+      "mileage": 229197,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5tdjkrfh6gs269868/"
+    },
+    {
+      "year": 2017,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "EX",
+      "price": 12991,
+      "mileage": 132479,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/kndpncac2h7251292/"
+    },
+    {
+      "year": 2005,
+      "make": "Chrysler",
+      "model": "Sebring",
+      "trim": "GTC",
+      "price": 6500,
+      "mileage": 91243,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/1c3el75r55n661910/"
+    },
+    {
+      "year": 2014,
+      "make": "Cadillac",
+      "model": "ATS",
+      "trim": "2.0L Turbo Performance",
+      "price": 13991,
+      "mileage": 109688,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/1g6aj5sx7e0115925/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Limited",
+      "price": 12990,
+      "mileage": 218251,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/jtmdfrev5hj710834/"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Kicks",
+      "trim": "S",
+      "price": 14591,
+      "mileage": 87942,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/3n1cp5bv5ll527105/"
+    },
+    {
+      "year": 2012,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 14991,
+      "mileage": 113946,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gtr2we7xcz341089/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 14991,
+      "mileage": 86004,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1fmcu9hdxkua22141/"
+    },
+    {
+      "year": 2012,
+      "make": "Nissan",
+      "model": "370Z",
+      "trim": "Touring",
+      "price": 11990,
+      "mileage": 113903,
+      "drivetrain": "RWD",
+      "url": "https://www.irontrail.com/used-vehicles/jn1az4fh5cm371136/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 15991,
+      "mileage": 80972,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/2gnaxsev3j6118625/"
+    },
+    {
+      "year": 2014,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Express",
+      "price": 14991,
+      "mileage": 118361,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c6rr7ft5es374873/"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 18991,
+      "mileage": 176036,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gks2bkc3jr303779/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LS",
+      "price": 14491,
+      "mileage": 79749,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/1g1zb5st0hf254394/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "LT",
+      "price": 16991,
+      "mileage": 93265,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl79mpsl8sb120404/"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Essence",
+      "price": 19991,
+      "mileage": 123266,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5gaevakw5mj225434/"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 16991,
+      "mileage": 128926,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1ftfw1ef9cfc25109/"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SV",
+      "price": 18991,
+      "mileage": 65667,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/1n4bl4dv8rn331573/"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 22991,
+      "mileage": 108761,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5tdjzrfh6js558090/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 19991,
+      "mileage": 112533,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcukrec5ff201630/"
+    },
+    {
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "trim": "2.0 SE",
+      "price": 18991,
+      "mileage": 60438,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/ja4aruau6ru005366/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 20991,
+      "mileage": 41775,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/3gnaxkeg3rs111298/"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 20491,
+      "mileage": 116132,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4hjxen9jw226596/"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Avalon",
+      "trim": "XLE",
+      "price": 21991,
+      "mileage": 105579,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/4t1jz1fb0nu075687/"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "SLE1",
+      "price": 20691,
+      "mileage": 104278,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gtg6cen2k1266748/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "RS",
+      "price": 21991,
+      "mileage": 83229,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/3gnaxweg5rs108717/"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 22991,
+      "mileage": 2661,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl77lhep0tc078188/"
+    },
+    {
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "trim": "SE",
+      "price": 23991,
+      "mileage": 71781,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/ja4j4va84rz051837/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Work Truck",
+      "price": 21991,
+      "mileage": 97915,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcgtben7n1219822/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 22991,
+      "mileage": 47336,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/3gnaxueg2rl309263/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Limited",
+      "price": 23991,
+      "mileage": 123968,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/jtmn1rfv3kd515807/"
+    },
+    {
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 25691,
+      "mileage": 36657,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5n1az2csxmc112422/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 26991,
+      "mileage": 96848,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5tdjzrfhxks563584/"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 24991,
+      "mileage": 61064,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/2c4rc1bg7pr573928/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "ACTIV",
+      "price": 19591,
+      "mileage": 82103,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl79mssl8nb024523/"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 24991,
+      "mileage": 71319,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4hjxeg9jw176638/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "LS",
+      "price": 24591,
+      "mileage": 21243,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl79mnsl9sb201142/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 25991,
+      "mileage": 62396,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rjhag0pc640345/"
+    },
+    {
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "trim": "2.0 ES",
+      "price": 21591,
+      "mileage": 17101,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/ja4aruau0su009127/"
+    },
+    {
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT Plus",
+      "price": 26991,
+      "mileage": 80294,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rdjdg8mc837348/"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 27691,
+      "mileage": 17867,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5n1az2cs5pc100358/"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "Special Edition",
+      "price": 28991,
+      "mileage": 79899,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5fnyf6h22nb074989/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "AT4 w/Leather",
+      "price": 26991,
+      "mileage": 104207,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gtg6fen7m1215492/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 26991,
+      "mileage": 130606,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3gcuyeed8mg244967/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 26991,
+      "mileage": 137733,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3gcuyeel8lg292233/"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LTZ",
+      "price": 24491,
+      "mileage": 142435,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gc1kye86df245819/"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "2RS",
+      "price": 26991,
+      "mileage": 2375,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl77ljep5tc079988/"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SV",
+      "price": 28591,
+      "mileage": 24867,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5n1az2bs8rc104943/"
+    },
+    {
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "Base",
+      "price": 26991,
+      "mileage": 35009,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3tmlu4enxdm106813/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 27687,
+      "mileage": 78608,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rjhbg1pc539667/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 28465,
+      "mileage": 68502,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rjhbg4pc521339/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 28648,
+      "mileage": 66461,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rjhbg1pc521332/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 28791,
+      "mileage": 51971,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1fter4fh2lla90285/"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 28991,
+      "mileage": 19232,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/3gnaxpeg6tl203598/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "LE",
+      "price": 27991,
+      "mileage": 43946,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/2t3f1rfv1pw368546/"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 27691,
+      "mileage": 50207,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5n1az2ds4pc128103/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 29991,
+      "mileage": 42936,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcuybef9kz298162/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "LS",
+      "price": 23991,
+      "mileage": 20927,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/kl79mnsl2sb200656/"
+    },
+    {
+      "year": 2014,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "XLE",
+      "price": 14991,
+      "mileage": 140441,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/5tdyk3dc8es497256/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee WK",
+      "trim": "Limited",
+      "price": 28591,
+      "mileage": 36427,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c4rjfbg9nc170610/"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "Highlander Hybrid",
+      "trim": "Limited",
+      "price": 36991,
+      "mileage": 54631,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/5tdxbrch1ls010052/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "LE",
+      "price": 32591,
+      "mileage": 21125,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/4t3lwrfv8pu102784/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 33591,
+      "mileage": 67447,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcudded3nz527364/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 35491,
+      "mileage": 41637,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3gcpddekxpg141927/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 35691,
+      "mileage": 22254,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcpdbek2rz148958/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 36991,
+      "mileage": 23781,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcpdbek9rz187434/"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "Elevation",
+      "price": 37991,
+      "mileage": 22686,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gtp6bek2p1245213/"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "SR5",
+      "price": 38991,
+      "mileage": 83847,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/5tfdy5f15lx873973/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 40591,
+      "mileage": 36995,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcukded4sz128710/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 41991,
+      "mileage": 24725,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcpdeek6rz291946/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 43991,
+      "mileage": 18480,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcpkeek3sz203009/"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "AT4",
+      "price": 48991,
+      "mileage": 70156,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gks2ckd3nr358303/"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "Denali",
+      "price": 28991,
+      "mileage": 61970,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gtg6een4l1193735/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "RS",
+      "price": 48991,
+      "mileage": 22131,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/1gnevlksxrj188421/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 45991,
+      "mileage": 20869,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcudeel0pz280806/"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "AT4",
+      "price": 45991,
+      "mileage": 13198,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/1gkenprs1sj211424/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 53991,
+      "mileage": 1924,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcudeel8rz251086/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Custom",
+      "price": 53991,
+      "mileage": 10488,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/2gc4kme74s1151133/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 56491,
+      "mileage": 19011,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/2gc1kney3s1220864/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 58991,
+      "mileage": 59949,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gt19rey2mf286854/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 52991,
+      "mileage": 3906,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcudeel5rz251255/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 53491,
+      "mileage": 766,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcudeel3rz250640/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Z71",
+      "price": 58491,
+      "mileage": 49053,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gnskpkl4pr457507/"
+    },
+    {
+      "year": 2022,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "2.5 S Carbon Edition",
+      "price": 0,
+      "mileage": 113225,
+      "drivetrain": "AWD",
+      "url": "https://www.irontrail.com/used-vehicles/jm3kfbcm0n0550055/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "SR5",
+      "price": 0,
+      "mileage": 128662,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/jtebu5jr3k5656282/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 0,
+      "mileage": 162993,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gc1kveg2gf209426/"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 0,
+      "mileage": 214229,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1ftew1ef9hkc20275/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 0,
+      "mileage": 83296,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3gcukrec5jg476096/"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Trailhawk",
+      "price": 0,
+      "mileage": 88291,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/zaccjbcb4jpj08164/"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 0,
+      "mileage": 82908,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1ftew1epxjfa17760/"
+    },
+    {
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Sequoia",
+      "trim": "Platinum",
+      "price": 0,
+      "mileage": 153028,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/5tddw5g17gs140274/"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 0,
+      "mileage": 63211,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3c4njdbnxrt111478/"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 0,
+      "mileage": 65452,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/3c4njdbn3rt154429/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 0,
+      "mileage": 160005,
+      "drivetrain": "FWD",
+      "url": "https://www.irontrail.com/used-vehicles/2gnalcek5g1153373/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 0,
+      "mileage": 114380,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1ftew1e55lke38617/"
+    },
+    {
+      "year": 2020,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 0,
+      "mileage": 140901,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c6srffm7ln212730/"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 0,
+      "mileage": 104512,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1ftfw1et2dke98388/"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "SLT",
+      "price": 0,
+      "mileage": 67288,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1c6rr7lt1ks574990/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 0,
+      "mileage": 76642,
+      "drivetrain": "4x4",
+      "url": "https://www.irontrail.com/used-vehicles/1gcuybefxmz414360/"
+    },
+    {
+      "year": 1978,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "",
+      "price": 0,
+      "mileage": 42089,
+      "drivetrain": "",
+      "url": "https://www.irontrail.com/used-vehicles/1z87l8s419827/"
+    }
+  ]
+}

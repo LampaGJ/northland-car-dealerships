@@ -1,0 +1,15 @@
+{
+  "name": "Caribou Autos",
+  "slug": "caribou-autos",
+  "type": "independent",
+  "address": "4871 Rice Lake Rd Ste 2",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-590-2220",
+  "website": "https://www.caribouautos.com/",
+  "specialties": ["used cars", "Jeep and truck customization", "lift kits and off-road upgrades", "value used vehicles"],
+  "coverage": "summary-only",
+  "method": "html",
+  "notes": "CMS fingerprint: www.caribouautos.com is protected by DataDome CAPTCHA (captcha-delivery.com challenge type 'fe' fires on every request including /vehicles-for-sale, /honda-for-sale, /sitemap.xml, /robots.txt) — no page content is accessible programmatically. The non-www caribouautos.com domain redirects (301) to www and then hits the same wall. Googlebot UA was also blocked. The domain appears to run on ibuycars.com platform (confirmed by ibuycars.com/places/caribou-autos/ reference and search results showing an ibuycars.com inventory subdomain). Google index shows make-specific paths like /honda-for-sale, suggesting a multi-page inventory exists, but all paths are DataDome-blocked. No CarGurus, Cars.com, or Carsforsale.com listings were found for this dealer. ibuycars.com/places/caribou-autos/ returned a 404. No feeds, sitemaps, JSON-LD, or API endpoints were accessible. The dealer is confirmed operational (open Mon-Fri 9am-4pm, 6 reviews on Birdeye, active as of 2026). Inventory cannot be recovered without a browser capable of solving JavaScript challenges. Scrape-justification: DataDome blocks all non-browser HTTP clients on all paths; no aggregator listings found; ibuycars inventory subdomain not accessible.",
+  "inventory": []
+}

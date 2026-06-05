@@ -1,0 +1,31 @@
+{
+  "name": "Dotty Auto Company",
+  "slug": "dotty-auto",
+  "type": "independent",
+  "address": "30465 Patriot Ave",
+  "city": "Pequot Lakes",
+  "state": "MN",
+  "phone": "218-568-4540",
+  "website": "https://www.dottyauto.com",
+  "specialties": ["used trucks", "used SUVs", "Toyota vehicles", "Ford vehicles"],
+  "coverage": "full",
+  "method": "html",
+  "notes": "Platform identified as AutoManager (footer: 'Car Dealer Website by AutoManager', login references wm.automanager.com). No native JSON feed or API found. Inventory extracted from /view-inventory paginated HTML across pages 1-2 (pages 3-4 showed only sold vehicles). 15 active (non-sold) vehicles found. Page 3 and 4 contents were all sold, confirming 15 is the complete active inventory. AutoManager does not expose a public JSON endpoint.",
+  "inventory": [
+    {"year": 2002, "make": "Ford", "model": "F-350 Super Duty", "trim": "Lariat Crew Cab", "price": 9600, "mileage": 345120, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2002-ford-f-350-super-dut-lariat-crew-c-1fe3016d469ec24a90ffb92c70c228bc"},
+    {"year": 2011, "make": "Toyota", "model": "Corolla", "trim": "S Sedan", "price": 8995, "mileage": 131408, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2011-toyota-corolla-s-sedan-e4125ccfa1eb4efcbfae63b76256aa81"},
+    {"year": 2012, "make": "Toyota", "model": "Tundra", "trim": "Grade Truck", "price": 11995, "mileage": 190553, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2012-toyota-tundra-grade-truck-42fe8d966b0b44a6972dc5fdfddce642"},
+    {"year": 2013, "make": "Toyota", "model": "4Runner", "trim": "Limited SUV", "price": null, "mileage": 187859, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2013-toyota-4runner-limited-suv-2d1b260e51914e4aa2cf96d4ad4dcc8e"},
+    {"year": 2014, "make": "GMC", "model": "Sierra 2500HD", "trim": "SLT Truck", "price": 13995, "mileage": 210498, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2014-gmc-sierra-2500hd-slt-truck-165bf349f60845239c56166428313ae1"},
+    {"year": 2015, "make": "Chevrolet", "model": "Tahoe", "trim": "LT SUV", "price": 11995, "mileage": 180561, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2015-chevrolet-tahoe-lt-suv-ae2ae468132748229b97b658fe035f1c"},
+    {"year": 2016, "make": "Toyota", "model": "4Runner", "trim": "Limited SUV", "price": 23495, "mileage": 140350, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2016-toyota-4runner-limited-suv-135b02f8946f4ba3bbbc0aac97d251b9"},
+    {"year": 2017, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT Z71 Truck", "price": 20995, "mileage": 110239, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2017-chevrolet-silverado-1500-lt-z71-truck-dc56020e178f4cba90dabe35e4234c51"},
+    {"year": 2018, "make": "Chevrolet", "model": "Equinox", "trim": "LT SUV", "price": 8750, "mileage": 156544, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2018-chevrolet-equinox-lt-suv-7623e45d1a2240f98299488c2eacf482"},
+    {"year": 2018, "make": "Ford", "model": "F-150", "trim": "Lariat Truck", "price": 22250, "mileage": 130805, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2018-ford-f-150-lariat-truck-edcee09b3d3743deae38eec5b0abdd1b"},
+    {"year": 2020, "make": "Ford", "model": "F-150", "trim": "XLT Truck", "price": 20995, "mileage": 134863, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2020-ford-f-150-xlt-truck-88a3c86a28ba4f53bdca59007f2c5315"},
+    {"year": 2021, "make": "GMC", "model": "Yukon", "trim": "Denali SUV", "price": 40995, "mileage": 98131, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2021-gmc-yukon-denali-suv-9d89bebb97184a36943682c4f4e3f2e1"},
+    {"year": 2021, "make": "Jeep", "model": "Grand Cherokee", "trim": "80th Anniversary Edition SUV", "price": 17995, "mileage": 140437, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2021-jeep-grand-cherokee-80th-anniversary-edition-suv-543feab380ae40eeb404d9636de84e9b"},
+    {"year": 2022, "make": "Ford", "model": "F-250", "trim": "Lariat Truck", "price": 64995, "mileage": 19712, "drivetrain": null, "url": "https://www.dottyauto.com/vehicle-details/2022-ford-f-250-lariat-truck-51ea712ad0df469ba91ecb63bca32a4c"},
+    {"year": 2024, "make": "BMW", "model": "X3", "trim": "xDrive30i SUV", "price": 31995, "mileage": 43455, "drivetrain": "AWD", "url": "https://www.dottyauto.com/vehicle-details/2024-bmw-x3-xdrive30i-suv-1cf7ea44b0b94c3d916cf3d3935ecc32"}
+  ]
+}

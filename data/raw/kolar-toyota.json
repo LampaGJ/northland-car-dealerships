@@ -1,0 +1,971 @@
+{
+  "name": "Kolar Toyota",
+  "slug": "kolar-toyota",
+  "type": "franchise",
+  "address": "4781 Miller Trunk Hwy",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": null,
+  "website": "https://www.kolartoyota.com/",
+  "specialties": [
+    "Toyota SUVs/trucks (Highlander/4Runner/Tundra)",
+    "Toyota RAV4 Hybrid/hybrids",
+    "off-road trucks and SUVs",
+    "pre-owned mixed-make lot"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: Dealer Inspire/Gearbox (same platform as kolarhyundai.com and kolarauto.com; /resrc/xmlsitemap/ and /resrc/searchabledata/ endpoints confirm). Direct site (kolartoyota.com) blocked by Cloudflare JS challenge on all content paths; sitemap endpoint at /resrc/xmlsitemap/sitemap-inventory-search/ bypasses challenge and returned 95 used vehicle URLs. Individual listing pages fetched via WebFetch (handles CF JS challenge). All 95 URLs fetched. Data sourced from listing page HTML/JSON-LD.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Tundra Hybrid",
+      "trim": "Capstone",
+      "price": 66340,
+      "mileage": 11491,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-toyota-tundra-hybrid-capstone-near-duluth-mn/106922599/"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Black Diamond",
+      "price": 27699,
+      "mileage": 84679,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-ford-bronco-black-diamond-near-duluth-mn/112158077/"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 42990,
+      "mileage": 30490,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-ram-1500-laramie-near-duluth-mn/112271390/"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "SL",
+      "price": 16990,
+      "mileage": 95803,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-nissan-armada-sl-near-duluth-mn/113730593/"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 50998,
+      "mileage": 78527,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-ram-2500-laramie-near-duluth-mn/115159181/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "trim": "First Edition",
+      "price": 69990,
+      "mileage": 9262,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-land-cruiser-first-edition-near-duluth-mn/116378426/"
+    },
+    {
+      "year": 2025,
+      "make": "Lexus",
+      "model": "ES 350",
+      "trim": "350",
+      "price": 40848,
+      "mileage": 15365,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-lexus-es-350-near-duluth-mn/116470979/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Overland 4xe",
+      "price": 26499,
+      "mileage": 56939,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-jeep-grand-cherokee-overland-4xe-near-duluth-mn/116621681/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 23100,
+      "mileage": 29489,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-chevrolet-equinox-lt-near-duluth-mn/116661887/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 38399,
+      "mileage": 36881,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/116769179/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "1794",
+      "price": 56995,
+      "mileage": 24516,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-tundra-1794-near-duluth-mn/116895038/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 39949,
+      "mileage": 42263,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/116937773/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "SR5",
+      "price": 45346,
+      "mileage": 32147,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-tundra-sr5-near-duluth-mn/116937779/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XSE",
+      "price": 40587,
+      "mileage": 39037,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xse-near-duluth-mn/116989934/"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "TRD Pro",
+      "price": 68998,
+      "mileage": 16651,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-toyota-tundra-hybrid-trd-pro-near-duluth-mn/116989940/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "L",
+      "price": 38867,
+      "mileage": 31551,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-l-near-duluth-mn/117398120/"
+    },
+    {
+      "year": 2018,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Power Wagon",
+      "price": 34348,
+      "mileage": 89003,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-ram-2500-power-wagon-near-duluth-mn/117406826/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 42348,
+      "mileage": 106637,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-gmc-yukon-xl-denali-near-duluth-mn/117492341/"
+    },
+    {
+      "year": 2013,
+      "make": "Cadillac",
+      "model": "Escalade EXT",
+      "trim": "Premium",
+      "price": 20990,
+      "mileage": 120429,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2013-cadillac-escalade-ext-premium-near-duluth-mn/117545957/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "Limited",
+      "price": 46800,
+      "mileage": 41792,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-4runner-limited-near-duluth-mn/117857216/"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 37839,
+      "mileage": 31059,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-toyota-highlander-xle-near-duluth-mn/118070279/"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 23340,
+      "mileage": 120105,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2019-ram-1500-big-hornlone-star-near-duluth-mn/118173224/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "Limited",
+      "price": 28345,
+      "mileage": 103581,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-toyota-4runner-limited-near-duluth-mn/118488758/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "LE",
+      "price": 37838,
+      "mileage": 60452,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-highlander-le-near-duluth-mn/118776101/"
+    },
+    {
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T",
+      "price": 31100,
+      "mileage": 87925,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-dodge-durango-rt-near-duluth-mn/118872458/"
+    },
+    {
+      "year": 2016,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Outdoorsman",
+      "price": 31998,
+      "mileage": 102759,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2016-ram-2500-outdoorsman-near-duluth-mn/119053697/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 20802,
+      "mileage": 161556,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2019-toyota-highlander-xle-near-duluth-mn/119134607/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "RS",
+      "price": 46998,
+      "mileage": 39121,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-chevrolet-traverse-rs-near-duluth-mn/119174261/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 42100,
+      "mileage": 32663,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/119174267/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "L",
+      "price": 40340,
+      "mileage": 31619,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-l-near-duluth-mn/119239967/"
+    },
+    {
+      "year": 2009,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE",
+      "price": 10340,
+      "mileage": 132036,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2009-toyota-corolla-le-near-duluth-mn/119245208/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "Limited 7 Passenger",
+      "price": 52287,
+      "mileage": 33850,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-sienna-limited-7-passenger-near-duluth-mn/119245211/"
+    },
+    {
+      "year": 2021,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "EX",
+      "price": 17200,
+      "mileage": 57085,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-kia-soul-ex-near-duluth-mn/119453246/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 31100,
+      "mileage": 61148,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2019-ford-f-150-xlt-near-duluth-mn/119478896/"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 15830,
+      "mileage": 90530,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-jeep-grand-cherokee-laredo-near-duluth-mn/119512769/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 45338,
+      "mileage": 18930,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/119557745/"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 18492,
+      "mileage": 149771,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2016-ford-f-150-xlt-near-duluth-mn/119720870/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Corolla Hatchback",
+      "trim": "SE",
+      "price": 23840,
+      "mileage": 29975,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-corolla-hatchback-se-near-duluth-mn/119762066/"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Prius",
+      "trim": "Two",
+      "price": 14840,
+      "mileage": 144196,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-toyota-prius-two-near-duluth-mn/119784260/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE Premium",
+      "price": 39840,
+      "mileage": 44174,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-rav4-hybrid-xle-premium-near-duluth-mn/119814653/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 45340,
+      "mileage": 33310,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-highlander-xle-near-duluth-mn/119820191/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "LE",
+      "price": 28340,
+      "mileage": 74404,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2019-toyota-highlander-le-near-duluth-mn/119822930/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 30990,
+      "mileage": 74008,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-chevrolet-silverado-1500-custom-near-duluth-mn/119830943/"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Cruz",
+      "trim": "SEL",
+      "price": 29995,
+      "mileage": 5450,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-hyundai-santa-cruz-sel-near-duluth-mn/119856740/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 45340,
+      "mileage": 31253,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/119879786/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 42990,
+      "mileage": 35175,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/120001199/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 44340,
+      "mileage": 27032,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-highlander-xle-near-duluth-mn/120001205/"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 29990,
+      "mileage": 28715,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-ram-1500-classic-warlock-near-duluth-mn/120059765/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 34338,
+      "mileage": 131689,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-gmc-sierra-1500-at4-near-duluth-mn/120191768/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "Nightshade",
+      "price": 40340,
+      "mileage": 88909,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-toyota-4runner-nightshade-near-duluth-mn/120191801/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Grand Highlander Hybrid",
+      "trim": "Limited",
+      "price": 56340,
+      "mileage": 34545,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-grand-highlander-hybrid-limited-near-duluth-mn/120215594/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "TRD OFF-ROAD",
+      "price": 38338,
+      "mileage": 73077,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-toyota-4runner-trd-offroad-near-duluth-mn/120321584/"
+    },
+    {
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "Hybrid Sport-L",
+      "price": 39800,
+      "mileage": 1098,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2026-honda-cr-vhybrid-sportl-near-duluth-mn/120424169/"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 17287,
+      "mileage": 132928,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-jeep-grand-cherokee-limited-near-duluth-mn/120471722/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "4D SuperCrew",
+      "price": 10340,
+      "mileage": 210277,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2014-ford-f-150-near-duluth-mn/120500321/"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "trim": "Limited",
+      "price": 26254,
+      "mileage": 51170,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-hyundai-sonata-hybrid-limited-near-duluth-mn/120500324/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Prius",
+      "trim": "Limited",
+      "price": 35297,
+      "mileage": 19775,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-prius-limited-near-duluth-mn/120548528/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "TRD Off-Road Premium",
+      "price": 40800,
+      "mileage": 63970,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-toyota-4runner-trd-offroad-premium-near-duluth-mn/120569252/"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 30302,
+      "mileage": 63866,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-ram-1500-big-hornlone-star-near-duluth-mn/120598727/"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Sport Utility",
+      "price": 19349,
+      "mileage": 70353,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-nissan-murano-near-duluth-mn/120598733/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Willys",
+      "price": 31254,
+      "mileage": 58126,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-jeep-wrangler-unlimited-willys-near-duluth-mn/120618233/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT LT2",
+      "price": 21990,
+      "mileage": 119318,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-chevrolet-silverado-1500-lt-lt2-near-duluth-mn/120618236/"
+    },
+    {
+      "year": 2014,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "SR5",
+      "price": 20840,
+      "mileage": 150342,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2014-toyota-4runner-sr5-near-duluth-mn/120618278/"
+    },
+    {
+      "year": 2017,
+      "make": "Buick",
+      "model": "Cascada",
+      "trim": "Premium",
+      "price": 19490,
+      "mileage": 49667,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-buick-cascada-premium-near-duluth-mn/120644600/"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport S",
+      "price": 24297,
+      "mileage": 71758,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-jeep-wrangler-sport-s-near-duluth-mn/120677195/"
+    },
+    {
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE",
+      "price": 11840,
+      "mileage": 133201,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2011-toyota-corolla-le-near-duluth-mn/120677198/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "SE",
+      "price": 22495,
+      "mileage": 45807,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-toyota-corolla-se-near-duluth-mn/120677201/"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "Nightshade",
+      "price": 40235,
+      "mileage": 86256,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-toyota-4runner-nightshade-near-duluth-mn/120683411/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 40254,
+      "mileage": 57072,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-chevrolet-silverado-1500-rst-near-duluth-mn/120731573/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XSE",
+      "price": 43297,
+      "mileage": 27199,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-rav4-hybrid-xse-near-duluth-mn/120731576/"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Avenir",
+      "price": 37233,
+      "mileage": 33419,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-buick-envision-avenir-near-duluth-mn/120731579/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 28454,
+      "mileage": 77895,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-ford-f-150-xlt-near-duluth-mn/120795377/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "RS",
+      "price": 27843,
+      "mileage": 48300,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2021-chevrolet-blazer-rs-near-duluth-mn/120795380/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LTZ",
+      "price": 19340,
+      "mileage": 128044,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2015-chevrolet-tahoe-ltz-near-duluth-mn/120861572/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 35340,
+      "mileage": 10851,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-ford-ranger-xlt-near-duluth-mn/120921605/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT LT2",
+      "price": 21401,
+      "mileage": 136279,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-chevrolet-silverado-1500-lt-lt2-near-duluth-mn/120921608/"
+    },
+    {
+      "year": 2012,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "price": 7845,
+      "mileage": 234944,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2012-honda-pilot-exl-near-duluth-mn/120921611/"
+    },
+    {
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SR",
+      "price": 21338,
+      "mileage": 57683,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-nissan-altima-25-sr-near-duluth-mn/120955979/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Venza",
+      "trim": "XLE",
+      "price": 41628,
+      "mileage": 9039,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-toyota-venza-xle-near-duluth-mn/120975722/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport S",
+      "price": 40338,
+      "mileage": 8641,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-jeep-wrangler-sport-s-near-duluth-mn/121022183/"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "EX",
+      "price": 18825,
+      "mileage": 83199,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2018-honda-hr-v-ex-near-duluth-mn/121022186/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Big Bend",
+      "price": 40253,
+      "mileage": 12041,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2024-ford-bronco-big-bend-near-duluth-mn/121130048/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 46340,
+      "mileage": 3313,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-chevrolet-silverado-1500-rst-near-duluth-mn/121182809/"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Limited",
+      "price": 19940,
+      "mileage": 135497,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2015-toyota-highlander-limited-near-duluth-mn/121182812/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Limited",
+      "price": 21175,
+      "mileage": 131850,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-toyota-highlander-limited-near-duluth-mn/121188581/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Wildtrak",
+      "price": 42278,
+      "mileage": 52342,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2022-ford-bronco-wildtrak-near-duluth-mn/121207481/"
+    },
+    {
+      "year": 2008,
+      "make": "Toyota",
+      "model": "Sequoia",
+      "trim": "Limited",
+      "price": 10990,
+      "mileage": 182714,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2008-toyota-sequoia-limited-near-duluth-mn/121227965/"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Crown Signia",
+      "trim": "Limited",
+      "price": 50279,
+      "mileage": 10148,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2025-toyota-crown-signia-limited-near-duluth-mn/121227974/"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "LE",
+      "price": 25297,
+      "mileage": 76506,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2019-toyota-rav4-le-near-duluth-mn/121230227/"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "TRD Off-Road Premium",
+      "price": 39278,
+      "mileage": 67005,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-toyota-4runner-trd-offroad-premium-near-duluth-mn/121230242/"
+    },
+    {
+      "year": 2020,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE",
+      "price": 31838,
+      "mileage": 54239,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-toyota-rav4-hybrid-xle-near-duluth-mn/121275173/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE",
+      "price": 39327,
+      "mileage": 33967,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-rav4-hybrid-xle-near-duluth-mn/121275176/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Sequoia",
+      "trim": "Platinum",
+      "price": 67227,
+      "mileage": 38997,
+      "drivetrain": "4WD",
+      "url": "https://www.kolartoyota.com/auto/used-2023-toyota-sequoia-platinum-near-duluth-mn/121275179/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium",
+      "price": 24490,
+      "mileage": 16466,
+      "drivetrain": "AWD",
+      "url": "https://www.kolartoyota.com/auto/used-2020-ford-escape-titanium-near-duluth-mn/121373537/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Avalon",
+      "trim": "Limited",
+      "price": 22795,
+      "mileage": 75540,
+      "drivetrain": "FWD",
+      "url": "https://www.kolartoyota.com/auto/used-2017-toyota-avalon-limited-near-duluth-mn/121447202/"
+    }
+  ]
+}

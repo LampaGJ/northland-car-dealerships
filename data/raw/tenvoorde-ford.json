@@ -1,0 +1,1631 @@
+{
+  "name": "Tenvoorde Ford",
+  "slug": "tenvoorde-ford",
+  "type": "franchise",
+  "address": "185 Roosevelt Rd",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-337-8234",
+  "website": "https://www.tenvoordeford.com/",
+  "specialties": [
+    "Ford trucks and SUVs",
+    "Ford Certified pre-owned",
+    "Multi-make pre-owned",
+    "Work trucks"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: Team Velocity (teamvelocityportal.com APIs in page source, accountId=37550, Kestrel server). Each SRP page /inventory/used?page=N embeds per-vehicle schema.org Vehicle JSON-LD (single-quoted type attribute) with price in offers.price and mileage in mileageFromOdometer.value. 6 pages fetched, 161 unique VINs. Drivetrain not present in Vehicle JSON-LD.",
+  "inventory": [
+    {
+      "year": 2024,
+      "make": "Honda",
+      "model": "Passport",
+      "trim": "EX-L",
+      "price": 30249,
+      "mileage": 50233,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5fnyf8h55rb008092/2024-honda-passport-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 30849,
+      "mileage": 82770,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1e8xnke89645/2022-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 17340,
+      "mileage": 94153,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6rr7gm5gs132787/2016-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty F-250 SRW",
+      "trim": "LARIAT",
+      "price": 53749,
+      "mileage": 69385,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft7w2bt4nef21202/2022-ford-super-duty-f-250-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Express",
+      "price": 26340,
+      "mileage": 67196,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6rr7ktxks633682/2019-ram-1500-classic-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26349,
+      "mileage": 23298,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j9xnba97237/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active",
+      "price": 26049,
+      "mileage": 3620,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9gn9sua76332/2025-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active",
+      "price": 21249,
+      "mileage": 43424,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9gnxrua00886/2024-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "SLE",
+      "price": 48349,
+      "mileage": 45161,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gt49te70rf142423/2024-gmc-sierra-3500hd-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 42049,
+      "mileage": 23233,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw3l84rke51980/2024-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 32349,
+      "mileage": 15555,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dh6ngb65126/2022-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 24049,
+      "mileage": 37002,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9ja9rua90182/2024-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE",
+      "price": 10340,
+      "mileage": 73176,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fadp3f21jl316553/2018-ford-focus-4dr-car?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Preferred",
+      "price": 22749,
+      "mileage": 38724,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/lrbazlr44pd127921/2023-buick-envision-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 32849,
+      "mileage": 38880,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dh4pga00338/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 37149,
+      "mileage": 60548,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw1e89pkd40355/2023-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "price": 40349,
+      "mileage": 27463,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2lmpj8kp4pbl04283/2023-lincoln-nautilus-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 31340,
+      "mileage": 57118,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1e51kfa24709/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 26340,
+      "mileage": 85766,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1ep1kfd11582/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 27340,
+      "mileage": 82201,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1ep0kfb26231/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "LT1",
+      "price": 35049,
+      "mileage": 55919,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1g1fe1r73p0100985/2023-chevrolet-camaro-2dr-car?type=cash"
+    },
+    {
+      "year": 2012,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "price": 8340,
+      "mileage": 211830,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5fnyf4h61cb023326/2012-honda-pilot-sport-utility?type=cash"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 15340,
+      "mileage": 185401,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1ef6ffc94182/2015-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "price": 17740,
+      "mileage": 76484,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gkaltev7kl243560/2019-gmc-terrain-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 23749,
+      "mileage": 20194,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9h67nub34272/2022-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500 Limited",
+      "trim": "Elevation",
+      "price": 36049,
+      "mileage": 29865,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gtp9cek4ng116787/2022-gmc-sierra-1500-limited-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2015,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "EX",
+      "price": 10149,
+      "mileage": 95017,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5xxgn4a7xfg397808/2015-kia-optima-4dr-car?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Badlands",
+      "price": 27049,
+      "mileage": 18905,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/3fmcr9d96mra66439/2021-ford-bronco-sport-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 39049,
+      "mileage": 92344,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gtuudet5ng564696/2022-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 17340,
+      "mileage": 90020,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9g68mua13931/2021-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 18340,
+      "mileage": 78163,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9g67mua39789/2021-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 13340,
+      "mileage": 109531,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2c4rdgbg2kr794054/2019-dodge-grand-caravan-mini-van,-passenger?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 20340,
+      "mileage": 80748,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5n1bt3bb4pc793470/2023-nissan-rogue-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 20340,
+      "mileage": 80957,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5n1bt3bb3pc790155/2023-nissan-rogue-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 21049,
+      "mileage": 28888,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9g65nua38688/2022-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 52349,
+      "mileage": 41045,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gtuuee83rg290812/2024-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 22340,
+      "mileage": 85757,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftex1ep2gfc87717/2016-ford-f-150-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 28340,
+      "mileage": 85761,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1e40kfa87968/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 18340,
+      "mileage": 72806,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5n1at2mv6jc796536/2018-nissan-rogue-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 40349,
+      "mileage": 36776,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtuubed3rz245493/2024-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "SLE",
+      "price": 52049,
+      "mileage": 31011,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gt49te71rf141927/2024-gmc-sierra-3500hd-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 38349,
+      "mileage": 34454,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtuubedxpz234732/2023-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 22349,
+      "mileage": 49002,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5n1bt3bb4nc726896/2022-nissan-rogue-sport-utility?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 12849,
+      "mileage": 156835,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fm5k8f87hgb81947/2017-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L w/Navi &amp; RES",
+      "price": 18349,
+      "mileage": 150755,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5fnyf6h49kb038116/2019-honda-pilot-sport-utility?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": 15849,
+      "mileage": 59622,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/zaccjbbb9hpf94551/2017-jeep-renegade-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 18340,
+      "mileage": 74657,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9g66nua93571/2022-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2009,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SE",
+      "price": 7340,
+      "mileage": 106773,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5nmsh73e49h230395/2009-hyundai-santa-fe-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 24340,
+      "mileage": 93156,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftex1ep9jfd65093/2018-ford-f-150-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 18340,
+      "mileage": 66245,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9g6xnub54467/2022-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Express",
+      "price": 19340,
+      "mileage": 110055,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3c6rr7kt3gg383801/2016-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Transit Van",
+      "trim": "Base",
+      "price": 23340,
+      "mileage": 91481,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftbw2ym2kka21126/2019-ford-transit-van-full-size-cargo-van?type=cash"
+    },
+    {
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "trim": "SEL",
+      "price": 23340,
+      "mileage": 92222,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/km8r4dhe3lu073195/2020-hyundai-palisade-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 28349,
+      "mileage": 60733,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftex1ep4jkd56325/2018-ford-f-150-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 35349,
+      "mileage": 75434,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtuubed9pz267933/2023-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-250 SRW",
+      "trim": "XLT",
+      "price": 49349,
+      "mileage": 27059,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft7w2bn3pec59550/2023-ford-super-duty-f-250-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "Platinum",
+      "price": 71349,
+      "mileage": 13810,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmjk1m80sea23056/2025-ford-expedition-max-sport-utility?type=cash"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 15549,
+      "mileage": 93674,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9g60luc45082/2020-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "price": 50349,
+      "mileage": 33001,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft8w3bn7rec04631/2024-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 36349,
+      "mileage": 62212,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtuubed3pz268379/2023-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Big Horn",
+      "price": 55849,
+      "mileage": 36996,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3c63r3hl9rg299801/2024-ram-3500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "AWD Premium Luxury",
+      "price": 31349,
+      "mileage": 51571,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gykndrs4pz127372/2023-cadillac-xt5-sport-utility?type=cash"
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Limited",
+      "price": 14349,
+      "mileage": 172394,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6rr7pm1fs707921/2015-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 30340,
+      "mileage": 68695,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1ep9lfc59541/2020-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 9340,
+      "mileage": 151888,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtr2ve72dz245498/2013-gmc-sierra-1500-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 26340,
+      "mileage": 67026,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fter4fh0klb15280/2019-ford-ranger-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 31340,
+      "mileage": 60747,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gcuyded3kg260419/2019-chevrolet-silverado-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 20140,
+      "mileage": 131405,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6rr7nt8hs745496/2017-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Badlands",
+      "price": 45049,
+      "mileage": 15333,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmee5dpxplb54800/2023-ford-bronco-convertible?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active",
+      "price": 18849,
+      "mileage": 68454,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu0gn7pua60116/2023-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "Platinum",
+      "price": 69349,
+      "mileage": 20338,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmjk1m89sea23685/2025-ford-expedition-max-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "Platinum",
+      "price": 67849,
+      "mileage": 17699,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmjk1m86sea27788/2025-ford-expedition-max-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Active",
+      "price": 58049,
+      "mileage": 18459,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmju1j82sea09450/2025-ford-expedition-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Active",
+      "price": 57049,
+      "mileage": 23483,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmju1j88sea09548/2025-ford-expedition-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT Premium",
+      "price": 45049,
+      "mileage": 17385,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fa6p8cf8n5149289/2022-ford-mustang-2dr-car?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "price": 53849,
+      "mileage": 31024,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw5l85rfa84639/2024-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "price": 38349,
+      "mileage": 63260,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftew1ep9mkd38295/2021-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2016,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "Select",
+      "price": 24349,
+      "mileage": 90328,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5lmjj2jt8gel08013/2016-lincoln-navigator-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Rubicon",
+      "price": 33049,
+      "mileage": 73763,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6jjtbg2nl135314/2022-jeep-gladiator-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 29349,
+      "mileage": 89395,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1e46lke38522/2020-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 42049,
+      "mileage": 22756,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw1l81skd93515/2025-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 42049,
+      "mileage": 15200,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw1l8xskd75501/2025-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 41749,
+      "mileage": 11750,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfw1l89skd73819/2025-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 17340,
+      "mileage": 51684,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/knmat2mv9kp548666/2019-nissan-rogue-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 33049,
+      "mileage": 49659,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1c6rrffgxnn288180/2022-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium",
+      "price": 13649,
+      "mileage": 103782,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmcu9j96juc21840/2018-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2016,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "",
+      "price": 11349,
+      "mileage": 73144,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/kndjn2a2xg7351968/2016-kia-soul-hatchback?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 28349,
+      "mileage": 58804,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftfx1e54jfa32044/2018-ford-f-150-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "price": 52349,
+      "mileage": 33924,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft8w3bn0red32211/2024-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Work Truck",
+      "price": 9340,
+      "mileage": 140321,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gcncpeh5ez178395/2014-chevrolet-silverado-1500-regular-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "price": 49349,
+      "mileage": 15027,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft8w3bn4pec38605/2023-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "price": 47349,
+      "mileage": 32464,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft8w3bn1ped28214/2023-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "price": 48349,
+      "mileage": 22884,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ft8w3bn2ped28285/2023-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier",
+      "price": 28849,
+      "mileage": 103739,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gnskjkc3jr352638/2018-chevrolet-suburban-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26849,
+      "mileage": 22939,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j94nbb11598/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26849,
+      "mileage": 26375,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j94nbb15215/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26849,
+      "mileage": 27914,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j90pba12604/2023-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 34849,
+      "mileage": 36837,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8fh7pga29149/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26649,
+      "mileage": 21252,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j9xnbb15414/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 37149,
+      "mileage": 22804,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dh1rga13874/2024-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 25349,
+      "mileage": 37215,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j94pba10449/2023-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 17840,
+      "mileage": 178628,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gcukrec0hg497657/2017-chevrolet-silverado-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "XLE Premium",
+      "price": 26340,
+      "mileage": 79229,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2t3a1rfv6kc048126/2019-toyota-rav4-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 29340,
+      "mileage": 63532,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1ep5jfc96566/2018-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 27340,
+      "mileage": 88618,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fter4fh8mld33910/2021-ford-ranger-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 31349,
+      "mileage": 94204,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1ftew1ep9nke44716/2022-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 15340,
+      "mileage": 79960,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9hd5jud57628/2018-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 30240,
+      "mileage": 66524,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1e45kfc58556/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Value",
+      "price": 17840,
+      "mileage": 65086,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/km8j3ca45ku057624/2019-hyundai-tucson-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 33849,
+      "mileage": 45547,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8fh7pga05594/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 34349,
+      "mileage": 31742,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8fh2ngc34861/2022-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 27849,
+      "mileage": 19217,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j90pba12067/2023-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 28149,
+      "mileage": 18509,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/2fmpk4j9xpba09337/2023-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 30649,
+      "mileage": 61219,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dh6pga53221/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX",
+      "price": 23849,
+      "mileage": 42232,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5j6rw2h53jl020741/2018-honda-cr-v-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 35849,
+      "mileage": 18642,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dh8pgc16354/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT6",
+      "trim": "AWD Sport",
+      "price": 36849,
+      "mileage": 70030,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gykpgrs3pz227796/2023-cadillac-xt6-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 34349,
+      "mileage": 37917,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/cpo/1fmsk8dhxpgb82658/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 16849,
+      "mileage": 98092,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1efxekf75309/2014-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "GT",
+      "price": 13340,
+      "mileage": 134279,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2c4rdgeg4kr739388/2019-dodge-grand-caravan-mini-van,-passenger?type=cash"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Taurus",
+      "trim": "SEL",
+      "price": 17349,
+      "mileage": 52483,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fahp2h82fg166028/2015-ford-taurus-4dr-car?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SL",
+      "price": 10849,
+      "mileage": 134273,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1n4al3ap4hc127231/2017-nissan-altima-4dr-car?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 23849,
+      "mileage": 145734,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gtu9bed5kz243882/2019-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 22340,
+      "mileage": 102001,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3c6rr7lt3hg689316/2017-ram-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 71049,
+      "mileage": 15496,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gks2jrl7sr321459/2025-gmc-yukon-xl-sport-utility?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 17349,
+      "mileage": 160263,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gnskhkc5hr348478/2017-chevrolet-suburban-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 71049,
+      "mileage": 15831,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gks2jrlxsr341995/2025-gmc-yukon-xl-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 LD",
+      "trim": "LT",
+      "price": 22149,
+      "mileage": 107380,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2gcvkpec8k1167810/2019-chevrolet-silverado-1500-ld-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "XLT",
+      "price": 33349,
+      "mileage": 2606,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3fttw8ja7srb75916/2025-ford-maverick-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Platinum",
+      "price": 31349,
+      "mileage": 102516,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftew1e41kfb81731/2019-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Premium",
+      "price": 17049,
+      "mileage": 71092,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/jf2gpabcxhh242042/2017-subaru-crosstrek-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "ST Line",
+      "price": 30349,
+      "mileage": 29063,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2fmpk4j92pba07436/2023-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "S",
+      "price": 13349,
+      "mileage": 79413,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3fa6p0g75kr164703/2019-ford-fusion-4dr-car?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "price": 49349,
+      "mileage": 33172,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1e80pfa53494/2023-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 26149,
+      "mileage": 87419,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh4ngb44906/2022-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 30829,
+      "mileage": 35395,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh7ngc39122/2022-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Platinum",
+      "price": 51849,
+      "mileage": 16234,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmwk8hc0sga30400/2025-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 24349,
+      "mileage": 52644,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2fmpk4j9xnba97156/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 35049,
+      "mileage": 27540,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh2pgc40150/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26349,
+      "mileage": 31405,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/2fmpk4j95nbb00299/2022-ford-edge-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 36349,
+      "mileage": 17184,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh0pgc13111/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 32849,
+      "mileage": 44125,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh9pga24747/2023-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 34349,
+      "mileage": 92116,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3gtu9eet0mg381910/2021-gmc-sierra-1500-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 29349,
+      "mileage": 61073,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw1e57jfe68650/2018-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 25849,
+      "mileage": 18404,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3fmcr9b6xprd51285/2023-ford-bronco-sport-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "Calligraphy",
+      "price": 34349,
+      "mileage": 17906,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5nms5dalxph569040/2023-hyundai-santa-fe-sport-utility?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "ST",
+      "price": 33049,
+      "mileage": 72047,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fm5k8gc8mgb64166/2021-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Outer Banks",
+      "price": 28049,
+      "mileage": 26918,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/3fmcr9c64prd52933/2023-ford-bronco-sport-sport-utility?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "LT",
+      "price": 17849,
+      "mileage": 75051,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/kl79mpsl9mb022016/2021-chevrolet-trailblazer-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 10549,
+      "mileage": 113934,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmcu9gd1jua45114/2018-ford-escape-sport-utility?type=cash"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 29349,
+      "mileage": 49392,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftex1ep9jkd56322/2018-ford-f-150-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "price": 57349,
+      "mileage": 28452,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw5l81rfa51458/2024-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 27349,
+      "mileage": 93189,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gnskhkc9kr330721/2019-chevrolet-suburban-sport-utility?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 28849,
+      "mileage": 61421,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fmsk8dh6ngc38270/2022-ford-explorer-sport-utility?type=cash"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 17349,
+      "mileage": 88769,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/jf2sjaec6hh571442/2017-subaru-forester-sport-utility?type=cash"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 29349,
+      "mileage": 58319,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1fter4fh4mld89214/2021-ford-ranger-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 12349,
+      "mileage": 142284,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftzr45e03pb66412/2003-ford-ranger-extended-cab-pickup?type=cash"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "LARIAT",
+      "price": 65849,
+      "mileage": 50734,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ft8w3bm7pec25192/2023-ford-super-duty-f-350-srw-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "price": 0,
+      "mileage": 26891,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1ftfw5l52sfb26602/2025-ford-f-150-crew-cab-pickup?type=cash"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "Passport",
+      "trim": "EX-L",
+      "price": 0,
+      "mileage": 28626,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/5fnyf8h59nb026802/2022-honda-passport-sport-utility?type=cash"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "RST",
+      "price": 0,
+      "mileage": 35181,
+      "drivetrain": "",
+      "url": "https://www.tenvoordeford.com/viewdetails/used/1gnskrkd1rr182072/2024-chevrolet-tahoe-sport-utility?type=cash"
+    }
+  ]
+}

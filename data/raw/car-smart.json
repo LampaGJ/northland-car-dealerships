@@ -1,0 +1,111 @@
+{
+  "name": "Car Smart of St. Cloud",
+  "slug": "car-smart",
+  "type": "independent",
+  "address": "106 Lincoln Ave SE",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-230-9898",
+  "website": "https://carsmartmn.com/",
+  "specialties": [
+    "trucks",
+    "luxury vehicles",
+    "SUVs",
+    "European imports"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "WordPress site (wp-json/ present, REST API blocked for public queries). Platform is autodealersdigital.com (dealer ID 105296, CDN images from cdn-thumbor.autodealersdigital.com). Inventory extracted from HTML listing page /all-inventory/ (9 vehicle IDs) then VIN and price confirmed from detail pages via data-priceprimary and dollar-sign span. Mileage not exposed in HTML data attributes on these pages.",
+  "inventory": [
+    {
+      "year": 2018,
+      "make": "BMW",
+      "model": "4 Series",
+      "trim": "",
+      "price": 15999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/10773147-2018-BMW-4 Series/"
+    },
+    {
+      "year": 2015,
+      "make": "BMW",
+      "model": "X5",
+      "trim": "",
+      "price": 14499,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11176359-2015-BMW-X5/"
+    },
+    {
+      "year": 2011,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "",
+      "price": 6977,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11841191-2011-Buick-Enclave/"
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "",
+      "price": 19977,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11448265-2022-Buick-Encore GX/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat 4x4",
+      "price": 42999,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://carsmartmn.com/vehicles/10428044-2022-Ford-F-150/"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 34999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11313416-2020-GMC-Sierra 1500/"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 34499,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11327916-2020-GMC-Sierra 1500/"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "",
+      "price": 13977,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11791573-2016-Jeep-Cherokee/"
+    },
+    {
+      "year": 2014,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "trim": "",
+      "price": 9477,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://carsmartmn.com/vehicles/11693608-2014-Porsche-Cayenne/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dondelinger Hyundai",
+  "slug": "dondelinger-hyundai",
+  "type": "franchise",
+  "address": "6720 Pine Beach Rd",
+  "city": "Baxter",
+  "state": "MN",
+  "phone": "218-829-4787",
+  "website": "https://www.dondelingerhyundai.com",
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "json-endpoint",
+  "notes": "CMS: Dealer.com (DDC) confirmed via DDC.postalCode cookie and Akamai CDN headers. Inventory probed via DDC WIAPI at /apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_USED:inventory-data-bus1/getInventory. Total: 99 used vehicles listed. VIN overlap check against dondelinger-chevrolet.json: 90 of 99 VINs (91%) are identical to the Chevrolet rooftop feed, confirming shared campus pooled used inventory. 9 VINs unique to the Hyundai feed appear to be the same physical stock not yet reflected in the Chev feed (or vice versa) at time of extraction. To avoid double-counting in any aggregate analysis, this file is marked summary-only \u2014 full inventory is in dondelinger-chevrolet.json.",
+  "inventory": []
+}

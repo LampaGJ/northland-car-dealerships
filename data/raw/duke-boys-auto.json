@@ -1,0 +1,19 @@
+{
+  "name": "Duke Boys Auto Sales",
+  "slug": "duke-boys-auto",
+  "type": "independent",
+  "address": "6110 Grand Ave",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-722-8885",
+  "website": "https://www.dukeboys.us",
+  "specialties": [
+    "used cars and trucks",
+    "24/7 towing",
+    "auto repair"
+  ],
+  "coverage": "summary-only",
+  "method": "html",
+  "notes": "CMS: Hibu website builder (confirmed via Server: Pepyaka header, static-res-cdn.websites.hibu.com assets, hibuwebsites.com CDN). Inventory feed probes: site has no native inventory system. Homepage and /auto-sales page link to autofind.com/dealer/listing/155754 (stale external link, returns 'Results 1 to 0 of 0' \u2014 dead/empty). CarGurus dealer page (cargurus.com/Cars/m-Duke-Boys-Auto-Sales-sp341830) confirmed 0 vehicles listed. AutosToday shows 0 inventory. No JSON-LD, no __NEXT_DATA__, no API surface found. Duke Boys is primarily an auto repair and towing shop that also sells a small number of vehicles, but maintains no active online inventory listing on any platform.",
+  "inventory": []
+}

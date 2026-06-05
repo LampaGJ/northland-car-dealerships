@@ -1,0 +1,193 @@
+{
+  "collectedAt": "2026-06-05",
+  "corridor": "Iron Range MN: Grand Rapids to Ely",
+  "dealers": [
+    {
+      "name": "Grand Rapids Chevrolet (Buick GMC)",
+      "type": "franchise",
+      "address": "1610 South Pokegama Avenue",
+      "city": "Grand Rapids",
+      "state": "MN",
+      "phone": "218-212-1132",
+      "website": "https://www.grandrapidschev.com/",
+      "focusNote": "Chevrolet/Buick/GMC franchise with 130+ pre-owned vehicles; largest used inventory in Grand Rapids.",
+      "uncertain": false
+    },
+    {
+      "name": "Lake Woods Chrysler Dodge Jeep Ram",
+      "type": "franchise",
+      "address": "815 NW 4th St",
+      "city": "Grand Rapids",
+      "state": "MN",
+      "phone": "218-326-9421",
+      "website": "https://www.dondelingerfordcdjr.com/",
+      "focusNote": "CDJR franchise in Grand Rapids selling new and used cars, trucks, SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Dondelinger Ford CDJR",
+      "type": "franchise",
+      "address": "25964 Bear Ridge Dr",
+      "city": "Cohasset",
+      "state": "MN",
+      "phone": "218-326-0551",
+      "website": "https://www.dondelingerford.com/",
+      "focusNote": "Ford/Chrysler/Dodge/Jeep/Ram dealer serving Grand Rapids from adjacent Cohasset; large used inventory with lifetime powertrain warranty.",
+      "uncertain": false
+    },
+    {
+      "name": "Ford of Hibbing",
+      "type": "franchise",
+      "address": "2627 13th Ave E",
+      "city": "Hibbing",
+      "state": "MN",
+      "phone": "218-262-3881",
+      "website": "https://www.fordofhibbing.com/",
+      "focusNote": "Ford franchise with full used inventory of cars, trucks, vans, SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Hibbing Chrysler Center",
+      "type": "franchise",
+      "address": "1321 E 39th St",
+      "city": "Hibbing",
+      "state": "MN",
+      "phone": "218-231-4497",
+      "website": "https://www.hibbingchryslercenter.net/",
+      "focusNote": "Family-owned Chrysler/Dodge/Jeep/Ram dealer serving northern MN 25+ years; new and used.",
+      "uncertain": false
+    },
+    {
+      "name": "North Country Chevrolet GMC",
+      "type": "franchise",
+      "address": "1502 E Howard St",
+      "city": "Hibbing",
+      "state": "MN",
+      "phone": "218-231-9001",
+      "website": "https://www.cars.com/dealers/5396906/north-country-chevrolet-gmc/",
+      "focusNote": "Chevrolet/Buick/GMC franchise (formerly Ranger Chevrolet); new and used sales, service, parts.",
+      "uncertain": false
+    },
+    {
+      "name": "Precision Motors",
+      "type": "independent",
+      "address": "835 E 41st St",
+      "city": "Hibbing",
+      "state": "MN",
+      "phone": "218-550-5621",
+      "website": "https://www.precisionmotorsmn.com/",
+      "focusNote": "Independent used-car lot offering hand-selected cars, vans, SUVs, and pickups.",
+      "uncertain": false
+    },
+    {
+      "name": "TB Automotive",
+      "type": "independent",
+      "address": "1302 E 11th St",
+      "city": "Hibbing",
+      "state": "MN",
+      "phone": "218-403-1899",
+      "website": "https://www.tbautomotivellc.com/vehicle-sales",
+      "focusNote": "Independent used cars and trucks, inspected and serviced; small growing inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Iron Trail Motors (Chevrolet / Toyota)",
+      "type": "franchise",
+      "address": "1301 17th St S",
+      "city": "Virginia",
+      "state": "MN",
+      "phone": "218-741-2355",
+      "website": "https://www.irontrail.com/",
+      "focusNote": "Combined Chevrolet and Toyota franchise (Iron Trail Chevrolet / Iron Trail Toyota); large pre-owned selection, anchor Range dealer.",
+      "uncertain": false
+    },
+    {
+      "name": "Waschke Family Chrysler Dodge Jeep Ram",
+      "type": "franchise",
+      "address": "910 N 6th Ave",
+      "city": "Virginia",
+      "state": "MN",
+      "phone": "218-741-9925",
+      "website": "https://www.waschkefamilycdjr.com/",
+      "focusNote": "CDJR franchise in Virginia; new and used cars, trucks, SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Ken Waschke Auto Plaza",
+      "type": "franchise",
+      "address": "501 9th St N",
+      "city": "Virginia",
+      "state": "MN",
+      "phone": "218-741-6000",
+      "website": "https://www.kensautoplaza.com/",
+      "focusNote": "Buick/GMC franchise (separate rooftop from Waschke CDJR) serving Virginia since 1983; new and certified used.",
+      "uncertain": false
+    },
+    {
+      "name": "Iron Range Customs",
+      "type": "independent",
+      "address": "110 S 15th Ave",
+      "city": "Virginia",
+      "state": "MN",
+      "phone": "218-749-8657",
+      "website": "https://ironrangecustoms.com/",
+      "focusNote": "Independent lot selling quality used cars and trucks.",
+      "uncertain": false
+    },
+    {
+      "name": "K&L Auto Sales",
+      "type": "independent",
+      "address": null,
+      "city": "Virginia",
+      "state": "MN",
+      "phone": null,
+      "website": null,
+      "focusNote": "Independent used-car dealer in Virginia (ZIP 55792), established 2013; no own website found and address not confirmed.",
+      "uncertain": true
+    },
+    {
+      "name": "Martin Motors, Inc.",
+      "type": "independent",
+      "address": "12 Central Ave N",
+      "city": "Chisholm",
+      "state": "MN",
+      "phone": "218-421-8646",
+      "website": "https://www.martinmotorsmn.com/",
+      "focusNote": "Independent used-car dealer (office 12 Central Ave N, display lot 800 3rd Ave NW); trucks/SUVs and budget cars from ~$1,500.",
+      "uncertain": false
+    },
+    {
+      "name": "Lundgren Ford",
+      "type": "franchise",
+      "address": "900 Old Highway 53",
+      "city": "Eveleth",
+      "state": "MN",
+      "phone": "218-744-4821",
+      "website": "https://www.lundgrenford.com/",
+      "focusNote": "Fourth-generation Ford franchise (since 1929); new Ford plus used/certified pre-owned cars, trucks, SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Waschke Family Chevrolet",
+      "type": "franchise",
+      "address": "126 N Hwy 53",
+      "city": "Cook",
+      "state": "MN",
+      "phone": "218-666-5901",
+      "website": "https://www.waschkechevrolet.com/",
+      "focusNote": "Chevrolet franchise in Cook serving Cook/Orr/International Falls/Hibbing; new and used vehicles.",
+      "uncertain": false
+    },
+    {
+      "name": "Gustafson Motors Company",
+      "type": "independent",
+      "address": "10 S Highway 53",
+      "city": "Cook",
+      "state": "MN",
+      "phone": "218-666-5952",
+      "website": null,
+      "focusNote": "Long-standing Cook used/new car dealer; BBB records suggest it may no longer be in business - verify before relying on.",
+      "uncertain": true
+    }
+  ]
+}

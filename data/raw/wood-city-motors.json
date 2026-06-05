@@ -1,0 +1,721 @@
+{
+  "name": "Wood City Motors",
+  "slug": "wood-city-motors",
+  "type": "franchise",
+  "address": "701 Washington Ave",
+  "city": "Cloquet",
+  "state": "MN",
+  "phone": "218-878-5171",
+  "website": "https://www.woodcitymotors.com",
+  "specialties": [
+    "Ford trucks and SUVs",
+    "Jeep and CDJR vehicles",
+    "Chevrolet and GM trucks",
+    "Multi-brand used inventory"
+  ],
+  "coverage": "full",
+  "method": "sitemap",
+  "notes": "CMS: WordPress with Dealer Alchemist plugin (vehicle-sitemap.xml, bucket.dealeralchemist.com CDN). All 70 used vehicle URLs extracted from /vehicle-sitemap.xml. Each listing page parsed for data-vehicle JSON on <body> tag (Dealer Alchemist pattern). vehicles/v1 WP REST namespace found but returned 401 Unauthorized. 18 of 70 vehicles show price=null (Call for Price). VIN embedded in URL path and data-vehicle attribute.",
+  "inventory": [
+    {
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "Town & Country",
+      "trim": "Touring-L",
+      "price": null,
+      "mileage": 153964,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2016/Chrysler/Town-&-Country/2C4RC1CG4GR255635/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": null,
+      "mileage": 182415,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2014/Ford/F-150/1FTFW1EF3EKF63728/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom",
+      "price": 27841,
+      "mileage": 70087,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2018/Chevrolet/Silverado-1500/3GCUKPEC0JG556944/"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Patriot",
+      "trim": "Sport",
+      "price": null,
+      "mileage": 159339,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2016/Jeep/Patriot/1C4NJRBB3GD510254/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "AT4 w/Leather",
+      "price": null,
+      "mileage": 102969,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2021/GMC/Canyon/1GTG6FEN6M1255420/"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Impala Limited",
+      "trim": "LT",
+      "price": null,
+      "mileage": 162822,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2014/Chevrolet/Impala-Limited/2G1WB5E30E1168360/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": null,
+      "mileage": 159305,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2018/Chevrolet/Silverado-1500/3GCUKREH7JG236530/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": null,
+      "mileage": 55679,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ford/F-150/1FTEW2LP1RKD57505/"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": null,
+      "mileage": 116715,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2020/Nissan/Rogue/5N1AT2MV2LC815621/"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": null,
+      "mileage": 151279,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2013/Chevrolet/Equinox/2GNFLNEK8D6278660/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": null,
+      "mileage": 68263,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Ford/Edge/2FMPK4J93KBB32521/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": null,
+      "mileage": 68819,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHBG4PC539534/"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE",
+      "price": null,
+      "mileage": 96740,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2012/Ford/Focus/1FAHP3F24CL294990/"
+    },
+    {
+      "year": 2020,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Launch Edition",
+      "price": null,
+      "mileage": 82640,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2020/Chrysler/Pacifica/2C4RC3BG7LR288300/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 25586,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Ford/F-150/1FTFW1E8XPKF84628/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 35341,
+      "mileage": 92465,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Chevrolet/Silverado-1500/1GCUYHEL7KZ368234/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom Trail Boss",
+      "price": 36841,
+      "mileage": 43130,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chevrolet/Silverado-1500/3GCPDCEK8NG545784/"
+    },
+    {
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "trim": "2.0 SE",
+      "price": null,
+      "mileage": 52929,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Mitsubishi/Outlander-Sport/JA4ARUAU3RU019161/"
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "F-450SD",
+      "trim": null,
+      "price": null,
+      "mileage": 71593,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2001/Ford/F-450SD/1FDXF47S61EC17094/"
+    },
+    {
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Voyager",
+      "trim": "LX",
+      "price": null,
+      "mileage": 118568,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chrysler/Voyager/2C4RC1CG2NR158060/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "High Altitude",
+      "price": 25341,
+      "mileage": 29619,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Jeep/Compass/3C4NJDCB2NT206437/"
+    },
+    {
+      "year": 2011,
+      "make": "Dodge",
+      "model": "Caliber",
+      "trim": "Mainstreet",
+      "price": null,
+      "mileage": 45000,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2011/Dodge/Caliber/1B3CB3HA7BD126178/"
+    },
+    {
+      "year": 2006,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT Premium",
+      "price": 17341,
+      "mileage": 71704,
+      "drivetrain": "RWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2006/Ford/Mustang/1ZVHT85H465114177/"
+    },
+    {
+      "year": 2019,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 18841,
+      "mileage": 72882,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Chrysler/Pacifica/2C4RC1BG7KR597347/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 23341,
+      "mileage": 63859,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Ford/Escape/1FMCU9JA7PUA32049/"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 14341,
+      "mileage": 156735,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2018/Jeep/Grand-Cherokee/1C4RJFBG0JC378272/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 18344,
+      "mileage": 59636,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Chevrolet/Malibu/1G1ZD5ST6PF228892/"
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 7741,
+      "mileage": 141536,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2007/Ford/F-150/1FTPX14V97FB19999/"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 42341,
+      "mileage": 53817,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Dodge/Durango/1C4SDJCT6RC146701/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 29160,
+      "mileage": 64095,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHBG4PC539632/"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "XLT",
+      "price": 53341,
+      "mileage": 6999,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2025/Ford/F-250SD/1FT7X2BAXSED54352/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 29341,
+      "mileage": 67639,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHBG5PC565009/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 17841,
+      "mileage": 56685,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chevrolet/Malibu/1G1ZD5ST8NF182706/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 33341,
+      "mileage": 43103,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Ford/Explorer/1FMSK8DH0PGA63338/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 28341,
+      "mileage": 42697,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHAG1PC619164/"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 26341,
+      "mileage": 30344,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2020/Nissan/Murano/5N1AZ2DSXLN128234/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee WK",
+      "trim": "Laredo X",
+      "price": 28341,
+      "mileage": 76775,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Jeep/Grand-Cherokee-WK/1C4RJFAG5NC109367/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 30341,
+      "mileage": 66510,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHBG5PC523715/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "XL",
+      "price": 55341,
+      "mileage": 12487,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ford/F-350SD/1FTRF3BA4REF03947/"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 32274,
+      "mileage": 59774,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Ram/1500-Classic/1C6RR7LG7NS131265/"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 42341,
+      "mileage": 18086,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Ram/1500/1C6SRFFT8PN621168/"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited",
+      "price": 22341,
+      "mileage": 93484,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2021/Subaru/Outback/4S4BTANCXM3127928/"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Limited",
+      "price": 34341,
+      "mileage": 106213,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Ram/1500/1C6SRFPT0NN384042/"
+    },
+    {
+      "year": 2025,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 41341,
+      "mileage": 12003,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2025/Ram/1500/1C6RRFFG4SN506125/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 29981,
+      "mileage": 60300,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Jeep/Grand-Cherokee/1C4RJHAG4PC565018/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "RS",
+      "price": 20126,
+      "mileage": 97069,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chevrolet/Equinox/2GNAXWEV4N6147533/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 18541,
+      "mileage": 92624,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chevrolet/Equinox/2GNAXKEV7N6104507/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 21041,
+      "mileage": 92163,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Ford/Edge/2FMPK4J98NBA33441/"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Kicks",
+      "trim": "SV",
+      "price": 11341,
+      "mileage": 104493,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Nissan/Kicks/3N1CP5CU2KL495640/"
+    },
+    {
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Voyager",
+      "trim": "LX",
+      "price": 22141,
+      "mileage": 70150,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Chrysler/Voyager/2C4RC1CG9NR226435/"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 20341,
+      "mileage": 100250,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2021/Ford/Explorer/1FMSK8DH4MGC00650/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 21841,
+      "mileage": 108264,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2020/Ford/Explorer/1FMSK8DH2LGA65036/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 18641,
+      "mileage": 50983,
+      "drivetrain": "FWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Chevrolet/Malibu/1G1ZD5ST6PF136035/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 30341,
+      "mileage": 81325,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2020/Ford/F-150/1FTEW1E45LFB83015/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 19341,
+      "mileage": 110303,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2016/Chevrolet/Silverado-1500/1GCVKREC8GZ224842/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Altitude",
+      "price": 17041,
+      "mileage": 82866,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Jeep/Cherokee/1C4PJMLN0KD459258/"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 25541,
+      "mileage": 54016,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Nissan/Murano/5N1AZ2CS4PC105499/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 22261,
+      "mileage": 58013,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ford/Edge/2FMPK4J98RBA79924/"
+    },
+    {
+      "year": 2024,
+      "make": "Ram",
+      "model": "3500",
+      "trim": "Big Horn",
+      "price": 49861,
+      "mileage": 58169,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ram/3500/3C63R3HL5RG338920/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 41641,
+      "mileage": 31778,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ford/F-150/1FTFW3L89RKE03679/"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 37841,
+      "mileage": 14301,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2025/Ford/Explorer/1FMUK8DH3SGB66688/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "XLT",
+      "price": 52691,
+      "mileage": 39433,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2024/Ford/F-250SD/1FT7W2BT6RED85872/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Platinum",
+      "price": 26941,
+      "mileage": 116037,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Ford/F-150/1FTEW1E44KFB82839/"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 37642,
+      "mileage": 14569,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2025/Ford/Explorer/1FMUK8DH1SGB64258/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 27141,
+      "mileage": 74121,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Ford/Explorer/1FMSK8DH9NGB56405/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 24041,
+      "mileage": 54250,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2022/Ford/Escape/1FMCU9H95NUA50011/"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Express",
+      "price": 25841,
+      "mileage": 82674,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Ram/1500-Classic/1C6RR7KT1KS602160/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 20341,
+      "mileage": 109340,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Jeep/Grand-Cherokee/1C4RJFBG3KC641792/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Summit",
+      "price": 26641,
+      "mileage": 70014,
+      "drivetrain": "4WD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2019/Jeep/Grand-Cherokee/1C4RJFJT2KC719204/"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT",
+      "price": 28341,
+      "mileage": 52727,
+      "drivetrain": "AWD",
+      "url": "https://www.woodcitymotors.com/vehicle/Used/2023/Dodge/Durango/1C4RDJDG4PC617399/"
+    }
+  ]
+}

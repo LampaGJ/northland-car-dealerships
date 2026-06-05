@@ -1,0 +1,51 @@
+{
+  "name": "TB Automotive",
+  "slug": "tb-automotive",
+  "type": "independent",
+  "address": "1302 E 11th St",
+  "city": "Hibbing",
+  "state": "MN",
+  "phone": "218-403-1899",
+  "website": "https://www.tbautomotivellc.com",
+  "specialties": [
+    "Recreational vehicles and ATVs",
+    "Light trucks",
+    "Budget vehicles under $10k",
+    "Powersports and mopeds"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: Duda CMS identified via window.Parameters.SiteAlias='9589cae8', dmAPI globals, and lirp.cdn-website.com asset CDN. Feed discovery: no RSS/Atom/JSON Feed links found, /feed and /feed.xml return 404. No structured JSON:API, GraphQL, or OpenAPI endpoints found. No __NEXT_DATA__ or SPA framework hydration payloads. Embedded JSON-LD: schema.org AutoDealer markup only, no Vehicle listings. Inventory is presented as plain-text list items in Duda gallery widget — each entry in format 'YEAR MAKE MODEL - $PRICE'. 7 listings total extracted via HTML text parsing after stripping scripts/styles. Mileage not listed anywhere on the page. Note: inventory includes non-automobile items (powersports, boat trailer, moped). | Non-automobile items (boat, motorcycle, ATV, moped) removed in post-processing: 4 dropped.",
+  "inventory": [
+    {
+      "year": 2006,
+      "make": "Lincoln",
+      "model": "Mark",
+      "trim": "LT Pickup",
+      "price": 6995,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.tbautomotivellc.com/vehicle-sales"
+    },
+    {
+      "year": 1995,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee SE Sport Utility",
+      "price": 3995,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.tbautomotivellc.com/vehicle-sales"
+    },
+    {
+      "year": 2001,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500",
+      "price": 6500,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.tbautomotivellc.com/vehicle-sales"
+    }
+  ]
+}

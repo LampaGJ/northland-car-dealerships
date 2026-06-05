@@ -1,0 +1,1861 @@
+{
+  "name": "Miller Auto Plaza",
+  "slug": "miller-auto-plaza",
+  "type": "franchise",
+  "address": "2930 2nd St S",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-308-1423",
+  "website": "https://www.millerautoplaza.com/",
+  "specialties": [
+    "GMC trucks and SUVs",
+    "Nissan crossovers",
+    "Lincoln luxury vehicles",
+    "Certified pre-owned"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerOn (x-dealeron headers). SRP pages /searchused.aspx embed schema.org ItemList JSON-LD (VINs/URLs, no pricing). All 184 VDP pages fetched individually; price extracted from Product JSON-LD offers.price, mileage from info__value HTML span. 184 unique VINs, no truncation.",
+  "inventory": [
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV Carbravo Certified",
+      "price": 24538,
+      "mileage": 24935,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV+Carbravo+Certified-JN8BT3BB6PW351068"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 24738,
+      "mileage": 32427,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-JN8BT3BB8PW350598"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SE Carbravo Certified",
+      "price": 24838,
+      "mileage": 23966,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Ford-Edge-SE+Carbravo+Certified-2FMPK4G90RBA41689"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 64638,
+      "mileage": 40861,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Yukon+XL-Denali-1GKS2JKL7RR230714"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500 Limited",
+      "trim": "Elevation Carbravo Certified",
+      "price": 28638,
+      "mileage": 98995,
+      "drivetrain": "Double Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Sierra+1500+Limited-Elevation+Carbravo+Certified-1GTR9CEDXNZ198843"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "AT4 Carbravo Certified",
+      "price": 63338,
+      "mileage": 73921,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Sierra+3500HD-AT4+Carbravo+Certified-1GT49VEY8RF292915"
+    },
+    {
+      "year": 1999,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Base",
+      "price": 19300,
+      "mileage": 40243,
+      "drivetrain": "2D Convertible",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-1999-Chevrolet-Corvette-+-1G1YY32G3X5117097"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 16810,
+      "mileage": 52723,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Jeep-Grand+Cherokee-Laredo-1C4RJFAG4GC398728"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited",
+      "price": 42300,
+      "mileage": 17451,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chrysler-Pacifica-Limited-2C4RC3GG5RR202077"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "AT4",
+      "price": 36120,
+      "mileage": 28056,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Acadia-AT4-1GKKNLLS2PZ251878"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Base",
+      "price": 15310,
+      "mileage": 82335,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Ford-Explorer-+-1FM5K8B85HGD23993"
+    },
+    {
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": "Reserve Certified Pre Owned",
+      "price": 52320,
+      "mileage": 20074,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Lincoln-Nautilus-Reserve+Certified+Pre+Owned-5LMPJ8KA3RJ825546"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "High Country",
+      "price": 34810,
+      "mileage": 65255,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Chevrolet-Traverse-High+Country-1GNEVNKW4PJ114391"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 37300,
+      "mileage": 94300,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-Chevrolet-Silverado+1500-LTZ-2GCUKGED3S1109902"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 21520,
+      "mileage": 140893,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-GMC-Sierra+1500-SLT-3GTU2NEC6HG123398"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation Carbravo Certified",
+      "price": 40810,
+      "mileage": 29800,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-Elevation+Carbravo+Certified-1GTPUCEK6PZ150330"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Essence",
+      "price": 26310,
+      "mileage": 13745,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Buick-Encore+GX-Essence-KL4MMGSL7PB084932"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL Carbravo CPO",
+      "price": 24220,
+      "mileage": 76266,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL+Carbravo+CPO-5N1BT3CB3PC767733"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "trim": "Limited",
+      "price": 26810,
+      "mileage": 93180,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Hyundai-Palisade-Limited-KM8R5DHE5NU390668"
+    },
+    {
+      "year": 2023,
+      "make": "Audi",
+      "model": "Q7",
+      "trim": "55 Premium Plus Carbravo Certified",
+      "price": 36620,
+      "mileage": 51679,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Audi-Q7-55+Premium+Plus+Carbravo+Certified-WA1LXBF74PD010536"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 14260,
+      "mileage": 198900,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-GMC-Sierra+1500-SLT-3GTU2NEC7HG409809"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 56820,
+      "mileage": 27908,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-Chevrolet-Silverado+1500-High+Country-1GCUKJEL2SZ222526"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SL Carbravo Certified",
+      "price": 36020,
+      "mileage": 26949,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Pathfinder-SL+Carbravo+Certified-5N1DR3CC9PC248119"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "LX",
+      "price": 6820,
+      "mileage": 166225,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2014-Kia-Sorento-LX-5XYKTDA72EG503856"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLE",
+      "price": 31120,
+      "mileage": 23869,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Acadia-SLE-1GKKNRL41PZ249785"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Tremor",
+      "price": 45720,
+      "mileage": 77612,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Ford-F+150-Tremor-1FTEW1E88PFB15137"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 32820,
+      "mileage": 115080,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+1500-AT4-3GTP9EED3MG476130"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "High Country",
+      "price": 72320,
+      "mileage": 26009,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-Chevrolet-Silverado+3500HD-High+Country-2GC4KVEY1S1166493"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 42920,
+      "mileage": 44350,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Ford-F+150-XLT-1FTFW1E50NFA20286"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "High Country",
+      "price": 63820,
+      "mileage": 73660,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chevrolet-Silverado+3500HD-High+Country-2GC4YVEYXR1157039"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum Carbravo CPO",
+      "price": 31620,
+      "mileage": 44630,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Nissan-Murano-Platinum+Carbravo+CPO-5N1AZ2DS2RC124635"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 16320,
+      "mileage": 154425,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Ford-F+150-XLT-1FTEW1EPXFKF18033"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV Carbravo Certified",
+      "price": 25020,
+      "mileage": 26244,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV+Carbravo+Certified-5N1BT3BB0PC811852"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "High Country",
+      "price": 58320,
+      "mileage": 102236,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chevrolet-Silverado+3500HD-High+Country-1GC4YVEY7RF159372"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 28320,
+      "mileage": 130252,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-GMC-Sierra+1500-SLT-3GTU9DEL4KG156557"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV Carbravo Certified",
+      "price": 22820,
+      "mileage": 49211,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV+Carbravo+Certified-5N1BT3BB2PC817734"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV Carbravo Certified",
+      "price": 25230,
+      "mileage": 27851,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV+Carbravo+Certified-JN8BT3BB0PW484702"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 23830,
+      "mileage": 162180,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-GMC-Yukon+XL-Denali-1GKS2HKJXKR405888"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "LS Carbravo Certified",
+      "price": 21320,
+      "mileage": 32011,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Chevrolet-TrailBlazer-LS+Carbravo+Certified-KL79MNSL0PB015044"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra Hybrid",
+      "trim": "Platinum",
+      "price": 56330,
+      "mileage": 24174,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Toyota-Tundra+Hybrid-Platinum-5TFNC5DB7RX061775"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 36820,
+      "mileage": 83149,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+1500-AT4-1GTU9EETXMZ369747"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL Carbravo Certified",
+      "price": 28530,
+      "mileage": 26411,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL+Carbravo+Certified-5N1BT3CB7PC821261"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 32130,
+      "mileage": 54735,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Jeep-Grand+Cherokee-Limited-1C4RJHBG5RC697786"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "SLT Carbravo Certified",
+      "price": 63330,
+      "mileage": 30567,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Yukon+XL-SLT+Carbravo+Certified-1GKS2GKD1RR238142"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 50330,
+      "mileage": 16776,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-SLT-3GTUUDED0PG270473"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT LT2",
+      "price": 19830,
+      "mileage": 126612,
+      "drivetrain": "4D Double Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Chevrolet-Silverado+1500-LT+LT2-1GCVKREC6HZ199537"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "2LS",
+      "price": 14330,
+      "mileage": 88449,
+      "drivetrain": "2D Coupe",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2012-Chevrolet-Camaro-2LS-2G1FA1E30C9187677"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT Carbravo Certified",
+      "price": 44130,
+      "mileage": 23342,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Ford-F+150-XLT+Carbravo+Certified-1FTFW3L8XRKE38005"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Platinum",
+      "price": 29230,
+      "mileage": 120098,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Ford-F+150-Platinum-1FTEW1E46LFA49775"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 20130,
+      "mileage": 135699,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-F+150-XLT-1FTEW1EG5JFC30003"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LTZ",
+      "price": 8830,
+      "mileage": 127765,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2013-Chevrolet-Equinox-LTZ-2GNFLGEK2D6419542"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 45830,
+      "mileage": 46901,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-SLT-3GTUUDE89PG252783"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 21130,
+      "mileage": 79996,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Ford-Bronco+Sport-Big+Bend-3FMCR9B60NRD17028"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Premium Group",
+      "price": 32830,
+      "mileage": 56785,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Buick-Enclave-Premium+Group-5GAEVBKW5PJ202567"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "TRD V6",
+      "price": 33330,
+      "mileage": 62075,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Toyota-Camry-TRD+V6-4T1KZ1AK5PU076431"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "trim": "LT Passenger",
+      "price": 25830,
+      "mileage": 81134,
+      "drivetrain": "Extended Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Chevrolet-Express+3500-LT+Passenger-1GAZGPFF0H1270772"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "LT Carbravo Certified",
+      "price": 29130,
+      "mileage": 51656,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Chevrolet-Blazer-LT+Carbravo+Certified-3GNKBJRS3PS114260"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4 Carbravo Certified",
+      "price": 49830,
+      "mileage": 53159,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-AT4+Carbravo+Certified-1GTUUEEL3PZ274191"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "SLT Carbravo GM CPO",
+      "price": 48830,
+      "mileage": 81181,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Yukon+XL-SLT+Carbravo+GM+CPO-1GKS2GKD2PR314786"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71 Carbravo Certified",
+      "price": 39030,
+      "mileage": 28166,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chevrolet-Colorado-Z71+Carbravo+Certified-1GCPTDEK6R1117192"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Avenir",
+      "price": 24840,
+      "mileage": 90253,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-Buick-Envision-Avenir-LRBFZSR45MD127955"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 20835,
+      "mileage": 91280,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Nissan-Murano-SL-5N1AZ2CS2LN110411"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV Carbravo Certified",
+      "price": 26630,
+      "mileage": 13375,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV+Carbravo+Certified-5N1BT3BB7PC929185"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "Denali",
+      "price": 55840,
+      "mileage": 78654,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+3500HD-Denali-1GT49WEY6MF168043"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 53330,
+      "mileage": 86440,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+2500HD-Denali-1GT49REY6MF158162"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 32030,
+      "mileage": 107067,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Sierra+1500-Elevation-3GTPUCEK4NG588101"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL Carbravo Certified",
+      "price": 28330,
+      "mileage": 30494,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL+Carbravo+Certified-JN8BT3CB7PW471458"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 37830,
+      "mileage": 82696,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-GMC-Sierra+1500-Denali-1GTU9FEL5LZ269317"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Platinum",
+      "price": 29330,
+      "mileage": 40832,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-Platinum-JN8BT3DD6PW307845"
+    },
+    {
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Navigator L",
+      "trim": "Reserve",
+      "price": 56830,
+      "mileage": 58240,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Lincoln-Navigator+L-Reserve-5LMJJ3LG8PEL04551"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 18335,
+      "mileage": 100118,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-Explorer-XLT-1FM5K8D83JGA91428"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 19330,
+      "mileage": 117963,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Ford-F+150-XLT-1FTFW1EG7HKE51527"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SL",
+      "price": 35030,
+      "mileage": 30395,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Pathfinder-SL-5N1DR3CC8PC258964"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SL",
+      "price": 17830,
+      "mileage": 84864,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Nissan-Altima-25+SL-1N4BL4EW8LN306039"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 39340,
+      "mileage": 85708,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Sierra+1500-SLT-3GTUUDED3NG585121"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 26335,
+      "mileage": 23122,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-5N1BT3BB4PC820652"
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Avenir",
+      "price": 28330,
+      "mileage": 51913,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Buick-Envision-Avenir-LRBFZSR42ND168948"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "Denali",
+      "price": 44830,
+      "mileage": 34627,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Canyon-Denali-1GTP6FEK7R1287337"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 12840,
+      "mileage": 113761,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Kia-Sportage-LX-KNDPMCAC7K7535172"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 25530,
+      "mileage": 66515,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL-5N1BT3CB5PC759360"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "Denali",
+      "price": 72335,
+      "mileage": 31941,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Sierra+3500HD-Denali-1GT49WEY1RF338140"
+    },
+    {
+      "year": 2006,
+      "make": "Pontiac",
+      "model": "Solstice",
+      "trim": "Base",
+      "price": 9260,
+      "mileage": 66864,
+      "drivetrain": "2D Convertible",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2006-Pontiac-Solstice-+-1G2MB35B76Y113739"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 22330,
+      "mileage": 47696,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Jeep-Cherokee-Trailhawk-1C4PJMBX3LD573226"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 34340,
+      "mileage": 112395,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+1500-Denali-3GTU9FEL1MG196674"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28530,
+      "mileage": 33433,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL-5N1BT3CB3PC834833"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 23340,
+      "mileage": 35139,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-S-5N1BT3AB1PC885539"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 26840,
+      "mileage": 22711,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-5N1BT3BB6PC834875"
+    },
+    {
+      "year": 2021,
+      "make": "Lincoln",
+      "model": "Navigator L",
+      "trim": "Reserve",
+      "price": 40340,
+      "mileage": 84062,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-Lincoln-Navigator+L-Reserve-5LMJJ3LTXMEL20968"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "trim": "SR",
+      "price": 25840,
+      "mileage": 8977,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-Nissan-Kicks-SR-3N8AP6DB3SL329946"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 26330,
+      "mileage": 21786,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-JN8BT3BBXPW201951"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 22830,
+      "mileage": 119599,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-RAM-1500-Laramie-1C6RR7NTXHS507939"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo E",
+      "price": 19840,
+      "mileage": 99977,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-Jeep-Grand+Cherokee-Laredo+E-1C4RJFAGXMC780550"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "ST",
+      "price": 27335,
+      "mileage": 93303,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Ford-Explorer-ST-1FM5K8GC2LGD06199"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 78835,
+      "mileage": 16150,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-GMC-Yukon+XL-Denali-1GKS2JR87SR296798"
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 25840,
+      "mileage": 52124,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Honda-CR+V-EX+L-5J6RW2H89KL025213"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 26840,
+      "mileage": 48164,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL-5N1BT3CB4PC820567"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28340,
+      "mileage": 34888,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL-JN8BT3CB2PW200694"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "SR5 CrewMax",
+      "price": 20840,
+      "mileage": 188708,
+      "drivetrain": "4D CrewMax",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Toyota-Tundra-SR5+CrewMax-5TFDY5F14FX459507"
+    },
+    {
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 23335,
+      "mileage": 7104,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Dodge-Grand+Caravan-SE-2C4RDGBG0JR339914"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE",
+      "price": 13335,
+      "mileage": 51965,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-Focus-SE-1FADP3F23JL327294"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ 1LZ",
+      "price": 14260,
+      "mileage": 141708,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2014-Chevrolet-Silverado+1500-LTZ+1LZ-3GCUKSEC1EG311742"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT LT2",
+      "price": 20840,
+      "mileage": 106366,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Chevrolet-Silverado+1500-LT+LT2-3GCUKREC7FG278949"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LS",
+      "price": 13335,
+      "mileage": 57487,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Chevrolet-Trax-LS-3GNCJNSBXHL255945"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 61340,
+      "mileage": 14344,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-Ford-F+150-Lariat-1FTFW5LD8SFA23871"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Avenir",
+      "price": 38835,
+      "mileage": 67886,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Buick-Enclave-Avenir-5GAEVCKW2RJ105125"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Limited",
+      "price": 44340,
+      "mileage": 65232,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-RAM-1500-Limited-1C6SRFHT2PN602290"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 45335,
+      "mileage": 16219,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Toyota-Highlander-XLE-5TDKDRBH0RS558588"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4X",
+      "price": 60345,
+      "mileage": 42715,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Sierra+1500-AT4X-3GTUUFELXRG214708"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "AT4",
+      "price": 51340,
+      "mileage": 98921,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Yukon-AT4-1GKS2CKL6PR389877"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Patriot",
+      "trim": "Latitude",
+      "price": 13840,
+      "mileage": 45535,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Jeep-Patriot-Latitude-1C4NJRFB2HD112254"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali",
+      "price": 35840,
+      "mileage": 42664,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Acadia-Denali-1GKKNXLS8NZ166340"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 13840,
+      "mileage": 141531,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2012-Ford-F+150-Lariat-1FTFW1ET4CFA05401"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT Leather",
+      "price": 26345,
+      "mileage": 83748,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Chevrolet-Traverse-LT+Leather-1GNEVHKW3NJ112551"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali Ultimate",
+      "price": 95340,
+      "mileage": 17343,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-GMC-Yukon-Denali+Ultimate-1GKS2ERL3SR115420"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "Denali",
+      "price": 27845,
+      "mileage": 84020,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-GMC-Canyon-Denali-1GTG6EEN0K1337246"
+    },
+    {
+      "year": 2020,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "price": 27845,
+      "mileage": 44000,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Cadillac-XT5-Premium+Luxury-1GYKNDRS8LZ148123"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "80th Special Edition",
+      "price": 17840,
+      "mileage": 77973,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-Jeep-Compass-80th+Special+Edition-3C4NJDEB0MT539571"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Sentra",
+      "trim": "SV",
+      "price": 21845,
+      "mileage": 13709,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Sentra-SV-3N1AB8CV0PY321253"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 44345,
+      "mileage": 53510,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Sierra+1500-SLT-3GTUUDED3RG277131"
+    },
+    {
+      "year": 2021,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "Reserve",
+      "price": 46840,
+      "mileage": 56081,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-Lincoln-Navigator-Reserve-5LMJJ2LT6MEL05426"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 12260,
+      "mileage": 120560,
+      "drivetrain": "4D SuperCrew",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2014-Ford-F+150-XLT-1FTFW1EF1EKD00525"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28840,
+      "mileage": 27798,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SL-5N1BT3CB4PC857540"
+    },
+    {
+      "year": 2024,
+      "make": "Mazda",
+      "model": "Mazda CX-90",
+      "trim": "CX-90 3.3 Turbo Premium Plus",
+      "price": 34845,
+      "mileage": 45375,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-+-Mazda+CX+90-33+Turbo+Premium+Plus-JM3KKEHD3R1100440"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE Plus",
+      "price": 15840,
+      "mileage": 53246,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Dodge-Grand+Caravan-SE+Plus-2C4RDGBG2GR352169"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Base",
+      "price": 20845,
+      "mileage": 57054,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-Explorer-+-1FM5K8B81JGC45508"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Sport Touring",
+      "price": 33340,
+      "mileage": 8998,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Buick-Envision-Sport+Touring-LRBFZPE44RD061649"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo E",
+      "price": 21345,
+      "mileage": 68684,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Jeep-Grand+Cherokee-Laredo+E-1C4RJFAG6KC754251"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "trim": "LT Passenger",
+      "price": 28345,
+      "mileage": 7331,
+      "drivetrain": "Extended Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2012-Chevrolet-Express+3500-LT+Passenger-1GAZG1FA7C1178861"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 46345,
+      "mileage": 97568,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-GMC-Sierra+2500HD-Denali-1GT12SEY2KF212018"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LS",
+      "price": 30345,
+      "mileage": 68904,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Chevrolet-Suburban-LS-1GNSKGEC9KR337514"
+    },
+    {
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 23345,
+      "mileage": 13674,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Dodge-Grand+Caravan-SE-2C4RDGBG1JR273387"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 50845,
+      "mileage": 49739,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-Denali-1GTUUGE81PZ220735"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 19345,
+      "mileage": 36369,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Dodge-Grand+Caravan-SE-2C4RDGBG0HR780517"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 19845,
+      "mileage": 33894,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Dodge-Grand+Caravan-SE-2C4RDGBG2HR724174"
+    },
+    {
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 23845,
+      "mileage": 3777,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Dodge-Grand+Caravan-SE-2C4RDGBG8JR356413"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE Plus",
+      "price": 19345,
+      "mileage": 21608,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Dodge-Grand+Caravan-SE+Plus-2C4RDGBG5GR354160"
+    },
+    {
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SXT",
+      "price": 19845,
+      "mileage": 75880,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Dodge-Grand+Caravan-SXT-2C4RDGCGXLR212444"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LS",
+      "price": 16345,
+      "mileage": 43951,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Chevrolet-Equinox-LS-2GNFLEEK8H6331380"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 17345,
+      "mileage": 79615,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Chevrolet-Equinox-LT-2GNAXUEV0K6271489"
+    },
+    {
+      "year": 2016,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Luxury",
+      "price": 8760,
+      "mileage": 164484,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Cadillac-XTS-Luxury-2G61M5S35G9161735"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE Plus",
+      "price": 19345,
+      "mileage": 31787,
+      "drivetrain": "4D Passenger Van",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Dodge-Grand+Caravan-SE+Plus-2C4RDGBG0GR358195"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Fusion Hybrid",
+      "trim": "S",
+      "price": 21345,
+      "mileage": 11834,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-Fusion+Hybrid-S-3FA6P0UU3JR209453"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "S",
+      "price": 18345,
+      "mileage": 26734,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Ford-Fusion-S-3FA6P0G72LR201112"
+    },
+    {
+      "year": 2022,
+      "make": "Lexus",
+      "model": "RX",
+      "trim": "350 F Sport Handling",
+      "price": 48340,
+      "mileage": 35905,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Lexus-RX-350+F+Sport+Handling-2T2YZMDA7NC329757"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 38345,
+      "mileage": 49007,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Sierra+1500-Elevation-3GTPUCEK4NG600537"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Preferred",
+      "price": 26845,
+      "mileage": 10660,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Buick-Encore+GX-Preferred-KL4AMCSL1RB064027"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 7345,
+      "mileage": 191668,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Nissan-Murano-SL-5N1AZ2MH0FN230215"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 27340,
+      "mileage": 22209,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-5N1BT3BB8PC831900"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 25845,
+      "mileage": 39747,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-5N1BT3BB9PC840556"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "AT4",
+      "price": 47345,
+      "mileage": 23690,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-GMC-Acadia-AT4-1GKENPRS4SJ216634"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 67845,
+      "mileage": 43733,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-GMC-Yukon-Denali-1GKS2DKL8RR173263"
+    },
+    {
+      "year": 2022,
+      "make": "Audi",
+      "model": "Q3",
+      "trim": "Premium Plus S Line quattro",
+      "price": 28840,
+      "mileage": 39487,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Audi-Q3-Premium+Plus+S+Line+quattro-WA1EECF31N1145473"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "Lariat",
+      "price": 51340,
+      "mileage": 81071,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2018-Ford-F+350SD-Lariat-1FT8W3BT4JEB36064"
+    },
+    {
+      "year": 2015,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "Touring",
+      "price": 16345,
+      "mileage": 95684,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Honda-Accord-Touring-1HGCR3F98FA008071"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 23845,
+      "mileage": 26500,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-S-5N1BT3AB9PC932851"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "SLE",
+      "price": 38345,
+      "mileage": 91460,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-GMC-Yukon+XL-SLE-1GKS2FKD1NR297423"
+    },
+    {
+      "year": 2009,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "LE",
+      "price": 9260,
+      "mileage": 167008,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2009-Nissan-Titan-LE-1N6BA07C29N316356"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 11760,
+      "mileage": 107905,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2013-Chevrolet-Silverado+1500-LT-3GCPKSE76DG378920"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 18845,
+      "mileage": 85049,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2013-GMC-Sierra+1500-SLE-3GTP2VE71DG329402"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 42845,
+      "mileage": 68965,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-SLT-3GTUUDE84PG281334"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Sentra",
+      "trim": "SV",
+      "price": 20845,
+      "mileage": 22184,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Sentra-SV-3N1AB8CV5PY310667"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 39845,
+      "mileage": 59106,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+1500-AT4-3GTU9EET9MG388225"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Avenir",
+      "price": 40845,
+      "mileage": 59015,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Buick-Enclave-Avenir-5GAEVCKW4RJ126073"
+    },
+    {
+      "year": 2025,
+      "make": "Mazda",
+      "model": "Mazda CX-5",
+      "trim": "CX-5 2.5 S Premium Plus Package",
+      "price": 34845,
+      "mileage": 2690,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-+-Mazda+CX+5-25+S+Premium+Plus+Package-JM3KFBEM4S0649714"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 27845,
+      "mileage": 38361,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Ford-Ranger-XLT-1FTER4FH5KLA10539"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "AT4",
+      "price": 38845,
+      "mileage": 126413,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Yukon+XL-AT4-1GKS2HKD8MR383127"
+    },
+    {
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "SL",
+      "price": 27345,
+      "mileage": 63367,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2017-Nissan-Titan-SL-1N6AA1E58HN505999"
+    },
+    {
+      "year": 2020,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Essence",
+      "price": 10345,
+      "mileage": 192401,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Buick-Encore+GX-Essence-KL4MMGSL9LB127984"
+    },
+    {
+      "year": 2020,
+      "make": "Lincoln",
+      "model": "Navigator L",
+      "trim": "Reserve",
+      "price": 39345,
+      "mileage": 74191,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Lincoln-Navigator+L-Reserve-5LMJJ3LT8LEL14097"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 49345,
+      "mileage": 49019,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chevrolet-Silverado+1500-High+Country-1GCUDJED5RZ110834"
+    },
+    {
+      "year": 2015,
+      "make": "Chrysler",
+      "model": "200",
+      "trim": "C",
+      "price": 10845,
+      "mileage": 92042,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Chrysler-200-C-1C3CCCCB1FN558684"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "Denali",
+      "price": 59345,
+      "mileage": 49186,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2021-GMC-Sierra+3500HD-Denali-1GT49WEY5MF189000"
+    },
+    {
+      "year": 2011,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "Express",
+      "price": 8345,
+      "mileage": 187477,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2011-Dodge-Durango-Express-1D4RE2GG9BC733823"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 42345,
+      "mileage": 31829,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-GMC-Sierra+1500-Elevation-1GTPUCEK8PZ238473"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "Crossroad",
+      "price": 12345,
+      "mileage": 111868,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2019-Dodge-Journey-Crossroad-3C4PDDGG3KT759194"
+    },
+    {
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "trim": "3.6L V6 SE w/Technology",
+      "price": 27345,
+      "mileage": 55338,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2022-Volkswagen-Atlas+Cross+Sport-36L+V6+SE+wTechnology-1V2HE2CA9NC216826"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 43345,
+      "mileage": 9616,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2025-RAM-1500-Big+HornLone+Star-1C6SRFFPXSN736740"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 15845,
+      "mileage": 88447,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Nissan-Murano-Platinum-5N1AZ2MH8FN244718"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "2RS",
+      "price": 23345,
+      "mileage": 36610,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Chevrolet-Trax-2RS-KL77LJE24RC245687"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 24845,
+      "mileage": 158334,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2020-Chevrolet-Silverado+1500-RST-3GCUYEEDXLG400201"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Envista",
+      "trim": "Preferred",
+      "price": 23845,
+      "mileage": 30196,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2024-Buick-Envista-Preferred-KL47LAE27RB022630"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ 1LZ",
+      "price": 22345,
+      "mileage": 107000,
+      "drivetrain": "4D Crew Cab",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2015-Chevrolet-Silverado+1500-LTZ+1LZ-3GCUKSECXFG200561"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LTZ 2LZ",
+      "price": 9345,
+      "mileage": 188973,
+      "drivetrain": "4D Sedan",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2016-Chevrolet-Impala-LTZ+2LZ-2G1145S3XG9139817"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 26845,
+      "mileage": 15572,
+      "drivetrain": "4D Sport Utility",
+      "url": "https://www.millerautoplaza.com/used-Saint+Cloud-2023-Nissan-Rogue-SV-5N1BT3BB7PC844489"
+    }
+  ]
+}

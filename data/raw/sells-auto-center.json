@@ -1,0 +1,19 @@
+{
+  "name": "Sell's Auto Center",
+  "slug": "sells-auto-center",
+  "type": "independent",
+  "address": "3018 W Division St",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-253-8053",
+  "website": "https://sellsauto.com",
+  "specialties": [
+    "used cars under $10k",
+    "budget vehicles",
+    "financing"
+  ],
+  "coverage": "summary-only",
+  "method": "html",
+  "notes": "CMS: Lovable (lovable.app) \u2014 React SPA deployed on Lovable's hosting, canonical URL sellsauto.lovable.app. Feed discovery exhausted: no /wp-json/ (404), no /feed or /feed.xml, robots.txt Sitemap directive points to static-page sitemap with no inventory slugs (only /inventory top-level page, /finance, /service, /contact, and city landing pages). No embedded JSON-LD vehicle data in page HTML \u2014 only AutoDealer org schema without listing entries. No __NEXT_DATA__ or hydration globals. Lovable apps use Supabase as backend; Supabase project ID not exposed in page source. Inventory is loaded entirely client-side via Supabase JS SDK \u2014 inaccessible without browser JS execution or Supabase API key. No inventory data could be extracted. Coverage: summary-only.",
+  "inventory": []
+}

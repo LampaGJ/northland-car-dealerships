@@ -1,0 +1,2321 @@
+{
+  "name": "Ace Auto Sales",
+  "slug": "ace-auto-sales",
+  "type": "independent",
+  "address": "18316 State Hwy 371",
+  "city": "Brainerd",
+  "state": "MN",
+  "phone": "218-454-2345",
+  "website": "https://www.brainerdaceauto.com",
+  "specialties": [
+    "budget vehicles under $10k",
+    "Arizona rust-free imports",
+    "trucks and SUVs",
+    "diverse inventory including powersports"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "AutoManager CMS (automanagerprodcdn.azureedge.net, client 028619). Inventory list pages embed vehicle data in data-display* attributes (year, make, model, trim, mileage, drivetrain). Prices not in list-page data-attributes (data-displayprice='$'); extracted from individual VDP pages via .internetvalue span. 20 paginated list pages fetched + 231 VDP pages. Feed/API probes: /vehiclefeed.xml (redirect 404), /inventory.xml (invalid security ID), /api/inventory (empty response), /InventorySearch (empty response). Scrape-justification: no documented JSON feed, API, or XML export found; AutoManager does not expose a public data endpoint.",
+  "inventory": [
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "SEL Convenience",
+      "price": 26999,
+      "mileage": 4027,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2025-hyundai-tucson-sel-convenience-suv-5d58273b369549bfb20dfa03d491de07"
+    },
+    {
+      "year": 2024,
+      "make": "Mazda",
+      "model": "Other",
+      "trim": "3.3 Turbo Preferred Plus",
+      "price": 29999,
+      "mileage": 21190,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2024-mazda-cx-90-3-3-turbo-preferred-plus-suv-0549b95261ea4e5781faff1e820280ef"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Big Bend",
+      "price": 19999,
+      "mileage": 88664,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2023-ford-bronco-big-bend-suv-73d4e8dd3a224f41b1aba3f2362c6516"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "XL Denali",
+      "price": 39999,
+      "mileage": 124191,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2022-gmc-yukon-xl-denali-suv-6f632e16169243f98e12ff8a9faa2814"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Sport",
+      "price": 21999,
+      "mileage": 74757,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2022-ford-bronco-sport--big-bend-suv-59e569ed59c64946b6d455dd0a7c006c"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LS Fleet",
+      "price": 12999,
+      "mileage": 122883,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2022-chevrolet-malibu-ls-fleet-sedan-dd24049882e04197bedb181e947121d2"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE",
+      "price": 19999,
+      "mileage": 60789,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2022-toyota-corolla-le-sedan-d8bb7c2796d940fdaabaf686a22a0efe"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "King Ranch",
+      "price": 29999,
+      "mileage": 116203,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-ford-expedition-king-ranch-suv-9c7ab2e925ff4376bf740738bd8e6fe8"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "80th Anniversary Edition",
+      "price": 14999,
+      "mileage": 106813,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-jeep-compass-80th-anniversary-edition-suv-155c21cfd7f84090a136036851c1f409"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 27999,
+      "mileage": 100929,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-ram-1500-laramie-truck-795b05e229a84325a0062a71859d53f4"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali",
+      "price": 25999,
+      "mileage": 85902,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-gmc-acadia-denali-suv-c246f92858ca4ed1acb27364d28ae0f7"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XL",
+      "price": 24999,
+      "mileage": 79559,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-ford-expedition-xl-suv-447e8186bb8546f5be376ebc75b4fc59"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 18999,
+      "mileage": 123282,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-jeep-grand-cherokee-limited-suv-ba6769a6bc91467c9ff342058c7e026f"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 14999,
+      "mileage": 126830,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-jeep-compass-limited-suv-736c00f89eca4cf7aa40773464e2662b"
+    },
+    {
+      "year": 2021,
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "trim": "Sprint",
+      "price": 19999,
+      "mileage": 35306,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-alfa-romeo-stelvio-sprint-wagon-545030657c7e4b1180581223c311cdf1"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Preferred",
+      "price": 11999,
+      "mileage": 122004,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2021-buick-encore-preferred-suv-5130fe28fa8042bf8569947393dfc79d"
+    },
+    {
+      "year": 2020,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "Sport",
+      "price": 17999,
+      "mileage": 99238,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-honda-accord-sport-sedan-c7ca87878c604443ba0d70d128232c7e"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "S",
+      "price": 12999,
+      "mileage": 76314,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ford-fusion-s-sedan-5d7275abfd26455bb4baf4623a183f4f"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": 11999,
+      "mileage": 137155,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-jeep-renegade-latitude-suv-1607bc037daf4d1392908c5018802b4c"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude",
+      "price": 14999,
+      "mileage": 74116,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-jeep-cherokee-latitude-suv-026e94bdd69e4df5a3910dcc5248c010"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 11499,
+      "mileage": 115559,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ford-fusion-se-sedan-629208c5ec99454c8f5c180f1a452bf1"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 21999,
+      "mileage": 125748,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ford-expedition-xlt-suv-dab90baa791e49f69c371f12127a09d1"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "price": 17499,
+      "mileage": 79845,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-gmc-terrain-slt-suv-996b8281917c446a8bb455b6cdc8299c"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 17999,
+      "mileage": 71298,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-jeep-cherokee-trailhawk-suv-aa77db62c5e44abb9aa9b2123eb37001"
+    },
+    {
+      "year": 2020,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "EX-L",
+      "price": 21999,
+      "mileage": 110732,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-honda-odyssey-ex-l-van-537e444466c04b91ace3bcf64b266811"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 17999,
+      "mileage": 60779,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-jeep-compass-trailhawk-suv-8024c886433b40eeb9c47902f6642edc"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Maxima",
+      "trim": "3.5 SV",
+      "price": 16999,
+      "mileage": 106053,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-nissan-maxima-3-5-sv-sedan-03dc1d14a1e54622ae72c8bec5c7c255"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "Other",
+      "trim": "Warlock",
+      "price": 29999,
+      "mileage": 29117,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ram-ram-pickup-1500-classic-warlock-truck-507b7b75028d45cc8e71cee185817648"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "EcoBoost",
+      "price": 21999,
+      "mileage": 9397,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ford-mustang-ecoboost-coupe-e03cada166954573a516d8cf670887e5"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 14999,
+      "mileage": 170895,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-ford-f-150-xlt-truck-3ff12445d03b4b2fbb1be7710d39071a"
+    },
+    {
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT Plus",
+      "price": 25999,
+      "mileage": 70959,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-dodge-durango-gt-plus-suv-ef8597971a0a4d52919f5871cfea3d9a"
+    },
+    {
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Other",
+      "trim": "SEL",
+      "price": 13999,
+      "mileage": 69151,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-hyundai-venue-sel-wagon-cc770bc2846a4d4b8bf70ad423694145"
+    },
+    {
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Other",
+      "trim": "Limited",
+      "price": 23999,
+      "mileage": 99719,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-hyundai-palisade-limited-suv-0d87cd9dfbf84fa895dbd100c58b9c33"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 19999,
+      "mileage": 146448,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-chevrolet-silverado-1500-lt-truck-560dedeebd514973a0cde3daaab21b54"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "LT",
+      "price": 20999,
+      "mileage": 90830,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-chevrolet-colorado-lt-truck-bdad2fc4fab442ce9fe1f77a5c436f7a"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 13999,
+      "mileage": 103661,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2020-jeep-compass-latitude-suv-0334932970ca48a3ae0117dac31c12b6"
+    },
+    {
+      "year": 2019,
+      "make": "Polaris",
+      "model": "Ranger",
+      "trim": "1000",
+      "price": 23999,
+      "mileage": 1997,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-polaris-ranger-1000-578dd8e2e84d40eca025245da68c60c0"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 19999,
+      "mileage": 130320,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ram-1500-big-horn-truck-828fd9a566794439ba23497095cad28f"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 24999,
+      "mileage": 120805,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-gmc-yukon-slt-suv-695f920942dd41df945da4e4d987deab"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 15999,
+      "mileage": 74962,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-chevrolet-equinox-lt-suv-b91e8a422dbe41d6b30ac3dd3cd2770e"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "Premier",
+      "price": 9999,
+      "mileage": 132960,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-chevrolet-trax-premier-wagon-f73dbdf184e448c895e40d7e109c5201"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 22999,
+      "mileage": 93020,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-f-150-xl-truck-ad773fb5bcd3483995063024debd4c2b"
+    },
+    {
+      "year": 2019,
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "trim": "",
+      "price": 15999,
+      "mileage": 68921,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-alfa-romeo-stelvio-wagon-c482a0d9c3bd4ee684dcc3758806ce28"
+    },
+    {
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "price": 18499,
+      "mileage": 116609,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-cadillac-xt5-premium-luxury-suv-18b8e862a3c548a894eff46d37f15cc2"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 14999,
+      "mileage": 119299,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-cherokee-trailhawk-suv-0e467358696c4c7d87eeecc1836a65f9"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 22999,
+      "mileage": 112755,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ram-1500-big-horn-truck-61c5a692bf454d3b87aa5c5932cc5334"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 14999,
+      "mileage": 82051,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-compass-latitude-suv-d49204fe7c50489993f49beb5c56daa7"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "LX",
+      "price": 9499,
+      "mileage": 144690,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-kia-optima-lx-sedan-c2c652561e374d9eb6c77469cb7261cb"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "S",
+      "price": 15999,
+      "mileage": 87489,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-nissan-murano-s-suv-8bba20997cf84df4955305201d904ee5"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 16999,
+      "mileage": 78293,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-compass-trailhawk-suv-54b954591b0e4d00bf8203e827c2d496"
+    },
+    {
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Luxury",
+      "price": 15999,
+      "mileage": 102031,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-cadillac-xts-luxury-sedan-1f60af4a7640470fb5dcd2621e2ef1c4"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SV",
+      "price": 15999,
+      "mileage": 67442,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-nissan-altima-2-5-sv-sedan-125e8c7ff44949ccacd997f52ef06e78"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 18999,
+      "mileage": 154819,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-expedition-xlt-suv-502abbfee9934a64b6c706284298d72c"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 16999,
+      "mileage": 108228,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-grand-cherokee-laredo-suv-b21c1a8dec594faf92bc960dc61f0966"
+    },
+    {
+      "year": 2019,
+      "make": "Other",
+      "model": "Sportsman",
+      "trim": "XP",
+      "price": 8499,
+      "mileage": 2097,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-polaris-sportsman-xp--1000-d8eedc24ed694a218202eee95e156681"
+    },
+    {
+      "year": 2019,
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "trim": "",
+      "price": 15999,
+      "mileage": 74693,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-alfa-romeo-giulia-sedan-8422d1c2c02646ff8a3499184a0b7b0b"
+    },
+    {
+      "year": 2019,
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "trim": "Ti",
+      "price": 18999,
+      "mileage": 52279,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-alfa-romeo-giulia-ti-sedan-b4350ba566234324a740242be6aa1ddb"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 12999,
+      "mileage": 129249,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-cherokee-trailhawk-suv-7945756e4ce149908cf86263e333749f"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "R/T Scat Pack",
+      "price": 29999,
+      "mileage": 84549,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-dodge-charger-r-t-scat-pack-sedan-1a1b8b77a63c4b41af4e5f3e5d9eb084"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 31999,
+      "mileage": 107285,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-gmc-yukon-denali-suv-c435e112ae9a440fa9d0485da288d0f5"
+    },
+    {
+      "year": 2019,
+      "make": "Other",
+      "model": "Other",
+      "trim": "ATI",
+      "price": 19999,
+      "mileage": 0,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-prime-time-ati-ati--27dbs--b46d6ab8f92d4e0785b3fde898823c6f"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": 19999,
+      "mileage": 115664,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-f-150-stx-truck-1a18f3c96af04f538f92da72246b8a74"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SXT",
+      "price": 9999,
+      "mileage": 133278,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-dodge-grand-caravan-sxt-van-27616dc099cd49868246d30d2120054e"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 22999,
+      "mileage": 154760,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-f-150-lariat-truck-0cf7e2af96a44306b645dc29eb464366"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT-1",
+      "price": 14999,
+      "mileage": 121740,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-gmc-acadia-slt-1-suv-584f4c13b24d432c8b51e509e9c554bd"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 15999,
+      "mileage": 103245,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-cherokee-limited-suv-6475270412ee499484432b06f8ad8d81"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "SXT",
+      "price": 13999,
+      "mileage": 142700,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-dodge-charger-sxt-sedan-e718870101b24fe7bc27b0fc0c7953ed"
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "LX",
+      "price": 14999,
+      "mileage": 150645,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-honda-pilot-lx-suv-14453214006941088dcbb5574e339a50"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Limited",
+      "price": 29999,
+      "mileage": 85643,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-expedition-limited-suv-3f93522f4ec54383abfd0a7117cdd0de"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 11999,
+      "mileage": 144174,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-jeep-compass-trailhawk-suv-fae8eb722423471fa047526dcc0746bb"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "LX",
+      "price": 12999,
+      "mileage": 80920,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-kia-optima-lx-sedan-a3202fc5a69044d9b682b7dead9919c3"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "GT",
+      "price": 13999,
+      "mileage": 85597,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-dodge-grand-caravan-gt-minivan-c4a79d109dc3465b9683d04ea81db036"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "SE",
+      "price": 9999,
+      "mileage": 134166,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-hyundai-elantra-se-sedan-d8189b5bd5844c60ba8a46f51cf0fc68"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 22999,
+      "mileage": 94591,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ford-expedition-xlt--max-suv-6d935b8aea704c38a31e78e64cd5a5db"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT-1",
+      "price": 11999,
+      "mileage": 165116,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-gmc-acadia-slt-1-suv-2228818308f749c59ab5ab0b88c6c519"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 21999,
+      "mileage": 125498,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-ram-1500-big-horn-truck-8d4a2c4424b347e19fbb160a0e4b2824"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 27999,
+      "mileage": 101023,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-gmc-yukon-denali-suv-688bd0d57b644f2081f1b821751101f9"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 11999,
+      "mileage": 117770,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2019-dodge-grand-caravan-se-van-2c0e543a73dd4bf3a1c9256e3fe4c4d1"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Limited",
+      "price": 17799,
+      "mileage": 174434,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-toyota-highlander-limited-suv-41cad4e8032b490caee15a744f34da1f"
+    },
+    {
+      "year": 2018,
+      "make": "Chrysler",
+      "model": "300 Series",
+      "trim": "S",
+      "price": 17999,
+      "mileage": 90099,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chrysler-300-series-s-sedan-509cb917740f4ff9932622d4be21e2e6"
+    },
+    {
+      "year": 2018,
+      "make": "Cadillac",
+      "model": "Other",
+      "trim": "Platinum",
+      "price": 22999,
+      "mileage": 94087,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-cadillac-ct6-platinum-sedan-cae3d14f850d4536bdbbc5962aac94a7"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "SR5 V6",
+      "price": 26999,
+      "mileage": 87586,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-toyota-tacoma-sr5-v6-truck-edef364555e24f42af607cd6750c95cc"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 21999,
+      "mileage": 116654,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ford-f-150-xlt-truck-3643422dd7ae43e8b75dd42cab69d739"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 29999,
+      "mileage": 100268,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chevrolet-silverado-1500-high-country-truck-c392b5dfedd441aebdee5fd10fed51d3"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 14999,
+      "mileage": 184673,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chevrolet-silverado-1500-lt-truck-508211537dee493fb60dc3a559bfb734"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71",
+      "price": null,
+      "mileage": 105376,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chevrolet-colorado-z71-truck-a07811d088b84fa5abfb82907305810d"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 24999,
+      "mileage": 124543,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-gmc-sierra-1500-slt-truck-386245ee86c5440d81b6a2a9ab068b05"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Sport",
+      "price": 9999,
+      "mileage": 169442,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-jeep-compass-sport-suv-a6b323597202428495b6c48844e65759"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 24999,
+      "mileage": 119363,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-gmc-sierra-1500-slt-truck-61cd3a88a6494c1ba6340bdb9e46040f"
+    },
+    {
+      "year": 2018,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX",
+      "price": 7999,
+      "mileage": 154649,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-kia-forte-lx-sedan-a0a0a1256c6943999990a8d6c1fa293f"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Transit Connect",
+      "trim": "XL",
+      "price": 19999,
+      "mileage": 152301,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ford-transit-connect-xl-van-14ef29a72204416493d0ec6191a2b033"
+    },
+    {
+      "year": 2018,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Premium I",
+      "price": 15999,
+      "mileage": 99148,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-buick-envision-premium-i-suv-5b8c9254436d4be8a5219539e59bf5e5"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": "2.0i Sport",
+      "price": 19999,
+      "mileage": 45012,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-subaru-impreza-2-0i-sport-wagon-07971bd87eac442b979adf4150f31c47"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Platinum",
+      "price": 24999,
+      "mileage": 101187,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ford-expedition-platinum-suv-06ef108c75be44e59437c600a1be0011"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 21999,
+      "mileage": 137811,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ford-f-150-xlt-truck-182cae52761c419bbe90e0ddd4d5e818"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 18999,
+      "mileage": 80517,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-jeep-grand-cherokee-limited-suv-ab6e51099f5c440c902060a051d3f405"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT",
+      "price": 28999,
+      "mileage": 68881,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ford-mustang-gt-coupe-040bc754ad3b4053951f6de06f5d9c0e"
+    },
+    {
+      "year": 2018,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Premium",
+      "price": 16999,
+      "mileage": 101983,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-buick-enclave-premium-suv-54761475c0434a3ba33b6eadfcf6a50d"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Tradesman",
+      "price": 29999,
+      "mileage": 134898,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-ram-2500-tradesman-truck-f3c9171e9b0240ffa03eded53f98d4cf"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 8999,
+      "mileage": 164745,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chevrolet-malibu-lt-sedan-160625a5151e4dc5998b78f77da11e84"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 13999,
+      "mileage": 90970,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-jeep-compass-latitude-suv-cfd00498822a4ecdbd84be7b99df5182"
+    },
+    {
+      "year": 2018,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX",
+      "price": 7999,
+      "mileage": 154724,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-kia-forte-lx-sedan-0634dd9a1dc94d499835235ee2f81099"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 19999,
+      "mileage": 174595,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-gmc-sierra-1500-slt-truck-80dbec599c3440e79d5e8734a201d572"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Maxima",
+      "trim": "3.5 S",
+      "price": 11999,
+      "mileage": 115317,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-nissan-maxima-3-5-s-sedan-ccaebdf5a44d4e9ba0a7e51d785c161e"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LS",
+      "price": 10999,
+      "mileage": 106711,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-chevrolet-malibu-ls-sedan-138aff2232b34f4095816c480ac0dcf4"
+    },
+    {
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "SEL",
+      "price": 9999,
+      "mileage": 144796,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-hyundai-sonata-sel-sedan-a4e56e3be22347c186c2d238d70135ab"
+    },
+    {
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "SE",
+      "price": 11499,
+      "mileage": 60598,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-hyundai-elantra-se-sedan-0d82d790987b48ee86b103b412397402"
+    },
+    {
+      "year": 2018,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX",
+      "price": 8999,
+      "mileage": 130205,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2018-kia-forte-lx-sedan-abcb88ea3f384653a3e7a41febe8d770"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 14999,
+      "mileage": 101177,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-jeep-cherokee-trailhawk-suv-0b85f04ff1654cb7a6b3238a23c35359"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 29999,
+      "mileage": 83001,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-gmc-yukon-denali-suv-66644380ab6b4ed4b5261de9d235a4e9"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Rebel",
+      "price": 19999,
+      "mileage": 145969,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ram-1500-rebel-truck-61eaa9ccc3ee47749e07fa1de4a7a654"
+    },
+    {
+      "year": 2017,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "trim": "Platinum",
+      "price": 24999,
+      "mileage": 122686,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-cadillac-escalade-platinum-suv-646c9c595d1f42f9879c60be2f1e03d7"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "Touring",
+      "price": 16999,
+      "mileage": 124622,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-honda-cr-v-touring-suv-102736d2ed514c209321e28d68377536"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "SLT",
+      "price": 19999,
+      "mileage": 127992,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ram-1500-slt-truck-6f017a5ad7a4432582012efcbe36b5fe"
+    },
+    {
+      "year": 2017,
+      "make": "Land Rover",
+      "model": "Other",
+      "trim": "SE Premium",
+      "price": 18999,
+      "mileage": 85315,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-land-rover-range-rover-evoque-se-premium-suv-b642865b9180429d9bf6898d535f0550"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Trailhawk",
+      "price": 18999,
+      "mileage": 76778,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-jeep-grand-cherokee-trailhawk-suv-21be573921fa40d485cee245739f277b"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 9999,
+      "mileage": 130681,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-fusion-se-sedan-124f96416fd74e598db3441eee2f6641"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Sport",
+      "price": 9999,
+      "mileage": 142076,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-jeep-cherokee-sport-suv-869160eaf7da4f1791b2757f10f54f4a"
+    },
+    {
+      "year": 2017,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX",
+      "price": 9999,
+      "mileage": 100135,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-kia-forte-lx-sedan-cb5fadc72a7241bf833e4c2e8f2319aa"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Transit Connect",
+      "trim": "XL",
+      "price": 10999,
+      "mileage": 109100,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-transit-connect-xl-van-7811f07672ce4581a71b9e5ceb81a688"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "Touring",
+      "price": 21999,
+      "mileage": 90084,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-honda-pilot-touring-suv-67aeee87ed6743c594ca72b216e99574"
+    },
+    {
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "trim": "GLE 43 AMG&#174; 4MATIC&#174;",
+      "price": 24999,
+      "mileage": 116612,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-mercedes-benz-gle-43-amg--174--4matic--174--suv-29b0d2a1423d4ef2bfde86f8ddf1bd34"
+    },
+    {
+      "year": 2017,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring-L Plus",
+      "price": 11999,
+      "mileage": 125430,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-chrysler-pacifica-touring-l-plus-van-b18834bd382145678215e55ab5737e5a"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 17999,
+      "mileage": 145347,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-f-150-xlt-truck-cd02eb21d7194eb38bb8dda775615670"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon",
+      "price": 29999,
+      "mileage": 35353,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-jeep-wrangler-unlimited-rubicon-suv-d1b36efb9d4a4814aaeecfdbd0b7544d"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude",
+      "price": 13999,
+      "mileage": 94183,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-jeep-cherokee-latitude-suv-8286b2bcf6bf4fbcbf3b3c47cc2a8605"
+    },
+    {
+      "year": 2017,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "Select",
+      "price": 12999,
+      "mileage": 188612,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-lincoln-navigator-select-suv-59758743d29b4d55ac1786c49d78ec64"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier",
+      "price": 24999,
+      "mileage": 101927,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-chevrolet-tahoe-premier-suv-93b99cf754404438b56565efb166b299"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 12999,
+      "mileage": 147449,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-expedition-xlt-suv-a43afc34ebdc40649e90c5f2c28dd85a"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 18999,
+      "mileage": 134166,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-chevrolet-silverado-1500-lt-truck-612622e6f4884057990b4c5b4611547c"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 9999,
+      "mileage": 105214,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-fusion-se-sedan-0943c18674ba4937bcb2525db0fe8867"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 14999,
+      "mileage": 116169,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-ford-expedition-xlt--el-suv-cc9f3239174446df831ac76e0debe62b"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 17999,
+      "mileage": 189592,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-gmc-sierra-1500-denali-truck-50b5b77b2d6e4ecc9dcd24a0cdd1c645"
+    },
+    {
+      "year": 2017,
+      "make": "Lincoln",
+      "model": "MKC",
+      "trim": "Black Label",
+      "price": 21999,
+      "mileage": 60799,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2017-lincoln-mkc-black-label-suv-749f2505be9e45f4bd5ad1634f2fdb73"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 12999,
+      "mileage": 105389,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-jeep-grand-cherokee-laredo-suv-761a5fbf98534467824c6d2a2c62b8c1"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": 11499,
+      "mileage": 92695,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-jeep-renegade-latitude-suv-d8da5e2de0434c699cb50ba9f4f3f138"
+    },
+    {
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "Other",
+      "trim": "S",
+      "price": 9999,
+      "mileage": 111080,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-chrysler-200-s-sedan-0c55ac6885c940188793dfd6cc171b88"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 8999,
+      "mileage": 134701,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-ford-fusion-se-sedan-ee41a52f73c943149bf223db05b726c5"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "price": 14999,
+      "mileage": 140734,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-jeep-wrangler-unlimited-sport-suv-e2b0467c7f8649fd8b5833a59a9fee72"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude",
+      "price": 11999,
+      "mileage": 109825,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-jeep-cherokee-latitude-suv-b685af8af24541269f3faa361c5b3bc3"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 11999,
+      "mileage": 173794,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-chevrolet-suburban-lt-suv-2df69b499cfc4a24a76cd1187c2c9db8"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 13999,
+      "mileage": 126131,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-ford-explorer-limited-suv-073b747852ff4165b42cdf7a916a6136"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "SXT",
+      "price": 12999,
+      "mileage": 125160,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-dodge-charger-sxt-sedan-5538af3f154148cc80e65fd64f5c7b60"
+    },
+    {
+      "year": 2016,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "trim": "1.8T Sport",
+      "price": 9999,
+      "mileage": 140395,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-volkswagen-jetta-1-8t-sport-sedan-91799c56e89b41fab4f6a4836a2f8017"
+    },
+    {
+      "year": 2016,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 19999,
+      "mileage": 143671,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-gmc-sierra-1500-sle-truck-ed641c5041974cd192cc10d0971ce697"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Power Wagon Laramie",
+      "price": 31999,
+      "mileage": 89487,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-ram-2500-power-wagon-laramie-truck-11ff0867e2ed4d79a382d8a1c4e7b1d7"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "SE",
+      "price": 12999,
+      "mileage": 123590,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-dodge-charger-se-sedan-c846bb86d6c7492ea8ff391a123bfb80"
+    },
+    {
+      "year": 2016,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "EX V6",
+      "price": 9999,
+      "mileage": 128725,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-kia-sorento-ex-v6-suv-b338206ac6574ddea7225132123cb357"
+    },
+    {
+      "year": 2016,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "EX-L",
+      "price": 11999,
+      "mileage": 160811,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-honda-odyssey-ex-l-van-5a2dc57e384e4d70addf27638bb94e4b"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 9999,
+      "mileage": 201741,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-ford-f-150-xlt-truck-7ba1416b944648a4ac990b8ed5949dd9"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 11999,
+      "mileage": 92377,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-ford-fusion-se-sedan-9b97287badb741318147873a985da931"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 13999,
+      "mileage": 92114,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-jeep-cherokee-trailhawk-suv-3e88becb43c040a2863bdfdac5bd9a58"
+    },
+    {
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Sequoia",
+      "trim": "Platinum",
+      "price": 23999,
+      "mileage": 183205,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-toyota-sequoia-platinum-suv-decf7744116342cdba14a0bedff9579e"
+    },
+    {
+      "year": 2016,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali",
+      "price": 12999,
+      "mileage": 124130,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-gmc-acadia-denali-suv-4715ec2ebb114144bc06d3661bd46135"
+    },
+    {
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Eco",
+      "price": 10999,
+      "mileage": 108530,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2016-hyundai-tucson-eco-suv-b1977bd7cede48c5a6d8846025d3dcc6"
+    },
+    {
+      "year": 2015,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX",
+      "price": 11999,
+      "mileage": 164456,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-honda-cr-v-ex-suv-248bc6210ffc4f4a8f8561b0dae8db47"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Platinum",
+      "price": 12999,
+      "mileage": 146108,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-ford-expedition-platinum-suv-e24f9ff5d5e14ef69c66d5eb203df345"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Yaris",
+      "trim": "5-Door L",
+      "price": 8999,
+      "mileage": 132575,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-toyota-yaris-5-door-l-hatchback-727819df9a634b16bd4ff9615f989a3c"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 11999,
+      "mileage": 203027,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-ford-f-150-xlt-truck-78d21bfddba34bc3aaa20118f270fc6c"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "SR5",
+      "price": 23999,
+      "mileage": 129909,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-toyota-4runner-sr5-suv-136eb01900fd461695b1213d5440d39f"
+    },
+    {
+      "year": 2015,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 22999,
+      "mileage": 118237,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-gmc-yukon-denali-suv-907a76c745ca4b33881ade92c72e50ef"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 14999,
+      "mileage": 170765,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-ford-f-150-xl-truck-a835cfaf460345ab91b090952e273cf7"
+    },
+    {
+      "year": 2015,
+      "make": "Ski-Doo",
+      "model": "Summit SP 860",
+      "trim": "154",
+      "price": 6999,
+      "mileage": 3815,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-ski-doo-summit-sp-860-154-6744beffdef84dcf8a183129a332b21d"
+    },
+    {
+      "year": 2015,
+      "make": "Ski-Doo",
+      "model": "Summit X 800",
+      "trim": "174",
+      "price": 6999,
+      "mileage": 1943,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-ski-doo-summit-x-800-174-a2e281f4b6694eb59ea42a019c3a92cf"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 14999,
+      "mileage": 106738,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-jeep-grand-cherokee-limited-suv-3917445976c1448ab463a57eec3cdfbd"
+    },
+    {
+      "year": 2015,
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "trim": "HSE",
+      "price": 16999,
+      "mileage": 83684,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-land-rover-range-rover-sport-hse-suv-a83bbb50f81045e6841a6278424634e7"
+    },
+    {
+      "year": 2015,
+      "make": "Cadillac",
+      "model": "CTS",
+      "trim": "2.0L Turbo Premium",
+      "price": 16999,
+      "mileage": 70004,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-cadillac-cts-2-0l-turbo-premium-sedan-3d7113698dd34ca2a3b326e372a9fbc2"
+    },
+    {
+      "year": 2015,
+      "make": "Chrysler",
+      "model": "200 Series",
+      "trim": "C",
+      "price": 11999,
+      "mileage": 71176,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chrysler-200-series-c-sedan-1cb3510efd81456b87bc44d7cc89aa70"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "SXT",
+      "price": 11999,
+      "mileage": 140191,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-dodge-challenger-sxt-coupe-3f0d40788f6c41b3b40cbb01ead41213"
+    },
+    {
+      "year": 2015,
+      "make": "Chrysler",
+      "model": "200 Series",
+      "trim": "C",
+      "price": 10999,
+      "mileage": 87851,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chrysler-200-series-c-sedan-7d8d1864b5e3422da7f0c8dfd879de10"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "R/T Plus",
+      "price": 21999,
+      "mileage": 91370,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-dodge-challenger-r-t-plus-coupe-dddb2f56c76b4829bc81edb2ad25a333"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "R/T",
+      "price": 8999,
+      "mileage": 123154,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-dodge-grand-caravan-r-t-van-c3c099f705e84ffbb51baa879457a3eb"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LTZ",
+      "price": 9999,
+      "mileage": 57820,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chevrolet-trax-ltz-wagon-9e00f0bcfd664d1faf9ea8c7fe232191"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 10999,
+      "mileage": 216580,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chevrolet-silverado-1500-lt-truck-c953788b8312445a90ab07a5df78a734"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Stingray",
+      "price": 33999,
+      "mileage": 92664,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chevrolet-corvette-stingray-convertible-0bdb48e53d514adc884cfc3011bf1b10"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 7999,
+      "mileage": 109191,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-chevrolet-equinox-lt-suv-0e1c7548651647c5b6dbc56f87df8014"
+    },
+    {
+      "year": 2015,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "EX",
+      "price": 9999,
+      "mileage": 71552,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2015-kia-optima-ex-sedan-0ac0ac55bdbb45ae89914ac3970dde39"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 15999,
+      "mileage": 116354,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-ford-f-150-lariat-truck-1956c21911084e108ee8bb3075d319ab"
+    },
+    {
+      "year": 2014,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Longhorn",
+      "price": 16999,
+      "mileage": 150193,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-ram-1500-laramie-longhorn-truck-ad653254b7b742e4894ea5ce933eb9ef"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 10999,
+      "mileage": 135367,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-jeep-grand-cherokee-laredo-suv-ee3147719a454d6dbe3ad8f5bd34c819"
+    },
+    {
+      "year": 2014,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 47999,
+      "mileage": 124930,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-ram-2500-laramie-truck-24d5354262d644b9a966bf783b1cda9b"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "LX",
+      "price": 8999,
+      "mileage": 112470,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-kia-sorento-lx-suv-0a2c04ed03914cdfb4e3cdf783bfbfe2"
+    },
+    {
+      "year": 2014,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Premium Collection",
+      "price": 11499,
+      "mileage": 133756,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-cadillac-xts-premium-collection-sedan-9f72ba4319fc4fed84e98a78846331f1"
+    },
+    {
+      "year": 2014,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 6999,
+      "mileage": 182108,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-gmc-terrain-denali-suv-1cb297f624834ce6a5696448ea77afac"
+    },
+    {
+      "year": 2014,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SXT",
+      "price": 6999,
+      "mileage": 152161,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-dodge-grand-caravan-sxt-van-fe6d7c6946aa4b92a769417b4addcdd9"
+    },
+    {
+      "year": 2014,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Leather",
+      "price": 8999,
+      "mileage": 121548,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-buick-encore-leather-suv-de2364709e7e48da9e8eabd2b8c0acf4"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude",
+      "price": 8999,
+      "mileage": 161387,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2014-jeep-cherokee-latitude-suv-e2a23c59b52e48a9b6c444cf17e92601"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT",
+      "price": 13999,
+      "mileage": 143537,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ford-mustang-gt-coupe-4d3c5ec7445f4864a9b031174085975a"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 11999,
+      "mileage": 127867,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-chevrolet-silverado-1500-lt-truck-1e0ba0d025764e53a2c9532b08c0ab21"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT",
+      "price": 22999,
+      "mileage": 43982,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ford-mustang-gt-convertible-7e1a4f47554f448f92d9fae87ad847b4"
+    },
+    {
+      "year": 2013,
+      "make": "Ski-Doo",
+      "model": "Summit SP 860",
+      "trim": "154",
+      "price": 5999,
+      "mileage": 8530,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ski-doo-summit-sp-860-154-35a84d795b2a43cf8ca622819a93757a"
+    },
+    {
+      "year": 2013,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Premium Collection",
+      "price": 11999,
+      "mileage": 99104,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-cadillac-xts-premium-collection-sedan-b94f4ea16bfc40d8beede29d644c9634"
+    },
+    {
+      "year": 2013,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "SLT",
+      "price": null,
+      "mileage": 161880,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ram-3500-slt-truck-e804b0946b83425499ea808747172320"
+    },
+    {
+      "year": 2013,
+      "make": "Lincoln",
+      "model": "MKZ/Zephyr",
+      "trim": "",
+      "price": 9999,
+      "mileage": 102700,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-lincoln-mkz-zephyr-sedan-1f4b142891a248779a4f662050a768ce"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-350",
+      "trim": "King Ranch DRW",
+      "price": 47999,
+      "mileage": 130217,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ford-f-350-king-ranch-drw-truck-c8e4bd1993024182908ebb3907142be7"
+    },
+    {
+      "year": 2013,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 6999,
+      "mileage": 158916,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-kia-sportage-lx-suv-d10ac65cf2414b82bfca016f9dbd7d02"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 8999,
+      "mileage": 155347,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-ford-explorer-xlt-suv-a3428e9983a74a5793bdf1bb4fa9dc21"
+    },
+    {
+      "year": 2013,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "trim": "EXT Premium",
+      "price": 15999,
+      "mileage": 171911,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-cadillac-escalade-ext-premium-truck-80dabc5f8dcc4b6a9d0c76d931b039e4"
+    },
+    {
+      "year": 2013,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "",
+      "price": 4499,
+      "mileage": 193000,
+      "drivetrain": "FWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2013-kia-soul-wagon-dd35a9f352ef47e181c7dc1bf799cbcf"
+    },
+    {
+      "year": 2012,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "",
+      "price": 9999,
+      "mileage": 197571,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2012-lincoln-navigator-suv-3c5374adf60443269478714f8766c165"
+    },
+    {
+      "year": 2012,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "",
+      "price": 11999,
+      "mileage": 125864,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2012-lincoln-navigator-suv-615724e61d2d4ad399f6f1d6279769a7"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon",
+      "price": 15999,
+      "mileage": 122512,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2012-jeep-wrangler-unlimited-rubicon-suv-47611a274fd24f6ebdc9381282b6da50"
+    },
+    {
+      "year": 2011,
+      "make": "Polaris",
+      "model": "PRO RMK 800",
+      "trim": "163",
+      "price": 3799,
+      "mileage": 9999,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2011-polaris-pro-rmk-800-163-376a0aff20924934ad99cd372ef649d0"
+    },
+    {
+      "year": 2011,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 8999,
+      "mileage": 171513,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2011-honda-cr-v-ex-l-suv-170b1bc48f034d9eb86b05c9755d6e62"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": 9999,
+      "mileage": 179394,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2011-chevrolet-tahoe-lt-suv-3d90effde7b04a53a1b50bdf82eee286"
+    },
+    {
+      "year": 2010,
+      "make": "Jeep",
+      "model": "Liberty",
+      "trim": "Sport",
+      "price": 7999,
+      "mileage": 143707,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2010-jeep-liberty-sport-suv-0c269009ebb14b99a71f24144979b067"
+    },
+    {
+      "year": 2009,
+      "make": "Toyota",
+      "model": "Venza",
+      "trim": "AWD V6",
+      "price": 8999,
+      "mileage": 190540,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2009-toyota-venza-awd-v6-wagon-dd4eb413146d4da9b5e4e27c7d0b772e"
+    },
+    {
+      "year": 2009,
+      "make": "Other",
+      "model": "All Models",
+      "trim": "",
+      "price": 6999,
+      "mileage": 11979,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2009-harley-davidson-v-rod-2cc1f7dda2284f0b821d946f1453a1a0"
+    },
+    {
+      "year": 2009,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": 10999,
+      "mileage": 180715,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2009-chevrolet-tahoe-lt-suv-74034f5036c64829ad9d44895e537245"
+    },
+    {
+      "year": 2009,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5 X Premium",
+      "price": 5499,
+      "mileage": 198149,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2009-subaru-forester-2-5-x-premium-wagon-8b515b2206854af29dfdd32946b4a17a"
+    },
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Limited",
+      "price": 4999,
+      "mileage": 218909,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2008-ford-expedition-limited-suv-026bd95a61a642b99d0626b59c650a31"
+    },
+    {
+      "year": 2008,
+      "make": "Cadillac",
+      "model": "SRX",
+      "trim": "V6",
+      "price": 4999,
+      "mileage": 205616,
+      "drivetrain": "AWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2008-cadillac-srx-v6-suv-353c23a68bd9417da91659c29c22f7bc"
+    },
+    {
+      "year": 2008,
+      "make": "Hummer",
+      "model": "H2",
+      "trim": "",
+      "price": 21999,
+      "mileage": 137968,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2008-hummer-h2-suv-8e318b6d31574533bae0e1b4de742441"
+    },
+    {
+      "year": 2006,
+      "make": "Nissan",
+      "model": "350Z",
+      "trim": "Enthusiast",
+      "price": 9999,
+      "mileage": 136940,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2006-nissan-350z-enthusiast-coupe-613731b6906b419096487584986b5a22"
+    },
+    {
+      "year": 2006,
+      "make": "Hummer",
+      "model": "H3",
+      "trim": "4dr SUV",
+      "price": 8999,
+      "mileage": 171998,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2006-hummer-h3-4dr-suv-suv-6bdd982f326e4b7689e1da4706c33429"
+    },
+    {
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "",
+      "price": 22999,
+      "mileage": 76431,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2005-chevrolet-corvette-coupe-54c782fca0aa4380bcb4d11ad81bf36b"
+    },
+    {
+      "year": 2004,
+      "make": "Dodge",
+      "model": "Other",
+      "trim": "2dr Regular Cab",
+      "price": null,
+      "mileage": 16987,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2004-dodge-ram-1500-srt-10-2dr-regular-cab-truck-bd8e49d1c9724b31824768dde54b5ce7"
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT",
+      "price": 37999,
+      "mileage": 12821,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2001-ford-mustang-gt--bullit-coupe-1b67728dc8bc4a5bab66cdb61f49cd36"
+    },
+    {
+      "year": 2001,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SL",
+      "price": 9999,
+      "mileage": 0,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/2001-gmc-sierra-1500-sl-truck-9f5dcabca30f45d3af13742c2240392f"
+    },
+    {
+      "year": 1999,
+      "make": "Plymouth",
+      "model": "Prowler",
+      "trim": "Base",
+      "price": 39999,
+      "mileage": 7468,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1999-plymouth-prowler-convertible-f9e4147dc16c48c2a05fdce32bf6b4bb"
+    },
+    {
+      "year": 1998,
+      "make": "Chevrolet",
+      "model": "C/K Pickup 1500",
+      "trim": "K1500 Cheyenne 2dr K1500 Cheyenne",
+      "price": 5999,
+      "mileage": 202376,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1998-chevrolet-k1500-cheyenne-2dr-k1500-cheyenne-truck-e5bd8be8498e42acbabadd6d4a4b20d9"
+    },
+    {
+      "year": 1991,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "ZR1",
+      "price": null,
+      "mileage": 28194,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1991-chevrolet-corvette-zr1-coupe-78844fabf5404f98a34d064ecc096a93"
+    },
+    {
+      "year": 1989,
+      "make": "A.M. General Corp.",
+      "model": "HMMWV",
+      "trim": "1 1/4 TON 4X4",
+      "price": 25000,
+      "mileage": 0,
+      "drivetrain": null,
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1989-a-m--general-corp--hmmwv-1-1-4-ton-4x4-9d6eda4882c5431ba6706a70258b0b7b"
+    },
+    {
+      "year": 1986,
+      "make": "Chevrolet",
+      "model": "C/K Pickup 1500",
+      "trim": "K10",
+      "price": 24999,
+      "mileage": 0,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1986-chevrolet-k10-truck-4d465a0557504cf59c9ac6f03fe89c8b"
+    },
+    {
+      "year": 1979,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "",
+      "price": 34999,
+      "mileage": 59707,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1979-gmc-sierra-3500-sedan-73514b481bd044b2b42365faf4a001c3"
+    },
+    {
+      "year": 1979,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 44999,
+      "mileage": 0,
+      "drivetrain": "4WD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1979-ford-f-150-truck-fa2d6cbf032e4281b74714a02aeb08fb"
+    },
+    {
+      "year": 1969,
+      "make": "Chevrolet",
+      "model": "C-10",
+      "trim": "",
+      "price": 39999,
+      "mileage": 7925,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1969-chevrolet-c-10-truck-8c00ff3287bb4fb58395b6dbfa77a831"
+    },
+    {
+      "year": 1968,
+      "make": "GMC",
+      "model": "Other",
+      "trim": "",
+      "price": 49999,
+      "mileage": 1,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1968-gmc-c15-truck-034ee8b871ee4ecb9e50008baef9f396"
+    },
+    {
+      "year": 1963,
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "trim": "",
+      "price": 28999,
+      "mileage": 22442,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1963-pontiac-grand-prix-sedan-cd1f6cd78f06498a8dda7be0eccc1da6"
+    },
+    {
+      "year": 1961,
+      "make": "Chevrolet",
+      "model": "Other",
+      "trim": "",
+      "price": 44999,
+      "mileage": 0,
+      "drivetrain": "RWD",
+      "url": "https://www.brainerdaceauto.com/vehicle-details/1961-chevrolet-bel-air-coupe-6f66cb72710d49d0af2be35570c477bd"
+    }
+  ]
+}

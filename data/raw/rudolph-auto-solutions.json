@@ -1,0 +1,181 @@
+{
+  "name": "Rudolph Auto Solutions",
+  "slug": "rudolph-auto-solutions",
+  "type": "independent",
+  "address": "1300 Lindbergh Dr NW",
+  "city": "Little Falls",
+  "state": "MN",
+  "phone": "320-632-6623",
+  "website": "https://rudolphautosolutions.net",
+  "specialties": [
+    "used SUVs",
+    "used trucks",
+    "used cars under $20k",
+    "AWD/4WD vehicles"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch confirmed via imagescdn.dealercarsearch.com assets, site_platform='dcs', site_id=24733, site_internal_id=15246 in page source. No JSON-LD, no JSON API endpoints found (/api/inventory 404, /CarSearch/Search 404, /InventoryModule/RefreshInventoryModule POST returns empty). Inventory module is AJAX-driven (data-ajax-update='#vehicles', action='/InventoryModule/RefreshInventoryModule') but full vehicle list is server-rendered in initial HTML for first page. Page 1 of 1 confirmed (pager shows '1 of 1 (16 vehicles)'). Page 2 request returns identical VINs \u2014 confirmed 16 unique vehicles total. Extracted via HTML parsing of i10r_vehicleTitle blocks.",
+  "inventory": [
+    {
+      "year": 2016,
+      "make": "Audi",
+      "model": "A3",
+      "trim": "2.0T Premium Plus Sedan quattro S tronic",
+      "url": "https://rudolphautosolutions.net/vdp/23839593/Used-2016-Audi-A3-20T-Premium-Plus-Sedan-quattro-S-tronic-for-sale-in-Little-Falls-MN-56345",
+      "price": 10990,
+      "mileage": 111927,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2018,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Essence AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23884247/Used-2018-Buick-Enclave-Essence-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": 16990,
+      "mileage": 110233,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23821081/Used-2014-Chevrolet-Equinox-1LT-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": 11990,
+      "mileage": 74487,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier 4WD",
+      "url": "https://rudolphautosolutions.net/vdp/18234366/Used-2020-Chevrolet-Suburban-Premier-4WD-for-sale-in-Little-Falls-MN-56345",
+      "price": null,
+      "mileage": 149841,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2019,
+      "make": "Chrysler",
+      "model": "300",
+      "trim": "Limited AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23832547/Used-2019-Chrysler-300-Limited-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": null,
+      "mileage": 85231,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand",
+      "trim": "Caravan SXT",
+      "url": "https://rudolphautosolutions.net/vdp/23888780/Used-2019-Dodge-Grand-Caravan-SXT-for-sale-in-Little-Falls-MN-56345",
+      "price": 15990,
+      "mileage": 97584,
+      "drivetrain": "FWD"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE 4WD",
+      "url": "https://rudolphautosolutions.net/vdp/23772072/Used-2018-Ford-Escape-SE-4WD-for-sale-in-Little-Falls-MN-56345",
+      "price": 12990,
+      "mileage": 102220,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "url": "https://rudolphautosolutions.net/vdp/23680187/Used-2020-GMC-Terrain-SLT-for-sale-in-Little-Falls-MN-56345",
+      "price": 15990,
+      "mileage": 102532,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2013,
+      "make": "Infiniti",
+      "model": "JX35",
+      "trim": "AWD 4dr",
+      "url": "https://rudolphautosolutions.net/vdp/23902448/Used-2013-Infiniti-JX35-AWD-4dr-for-sale-in-Little-Falls-MN-56345",
+      "price": 9990,
+      "mileage": 117102,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude Lux 4WD",
+      "url": "https://rudolphautosolutions.net/vdp/23680179/Used-2022-Jeep-Cherokee-Latitude-Lux-4WD-for-sale-in-Little-Falls-MN-56345",
+      "price": 25650,
+      "mileage": 29812,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe Summit Reserve",
+      "url": "https://rudolphautosolutions.net/vdp/23838089/Used-1997-Jeep-Grand-Cherokee-Laredo-4WD-for-sale-in-Little-Falls-MN-56345",
+      "price": null,
+      "mileage": 74535,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe Summit Reserve",
+      "url": "https://rudolphautosolutions.net/vdp/23357057/Used-2022-Jeep-Grand-Cherokee-4xe-Summit-Reserve-for-sale-in-Little-Falls-MN-56345",
+      "price": 33990,
+      "mileage": 31284,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport Altitude 4x4",
+      "url": "https://rudolphautosolutions.net/vdp/23694439/Used-2022-Jeep-Wrangler-Unlimited-Sport-Altitude-4x4-for-sale-in-Little-Falls-MN-56345",
+      "price": 32990,
+      "mileage": 19322,
+      "drivetrain": "4WD"
+    },
+    {
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23862049/Used-2017-Nissan-Rogue-SV-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": 12990,
+      "mileage": 99909,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23408046/Used-2019-Nissan-Rogue-SV-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": 15990,
+      "mileage": 69703,
+      "drivetrain": "AWD"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL AWD",
+      "url": "https://rudolphautosolutions.net/vdp/23832548/Used-2023-Nissan-Rogue-SL-AWD-for-sale-in-Little-Falls-MN-56345",
+      "price": 27990,
+      "mileage": 16927,
+      "drivetrain": "AWD"
+    }
+  ]
+}

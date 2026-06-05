@@ -1,0 +1,15 @@
+{
+  "name": "Twin Ports Auto Sales",
+  "slug": "twin-ports-auto-sales",
+  "type": "independent",
+  "address": "921 E Railroad Ave",
+  "city": "Proctor",
+  "state": "MN",
+  "phone": "218-624-0303",
+  "website": "https://www.twinportsautosales.com/",
+  "specialties": ["used cars", "trucks and SUVs", "budget vehicles"],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "CMS fingerprint: twinportsautosales.com uses Carsforsale.com as its inventory backend (confirmed by redirect of /cars-for-sale to carsforsale.com and Carsforsale branding). The site itself is behind DataDome bot-protection (captcha-delivery.com CAPTCHA challenge served to all non-browser requests; SSL cert uses a Carsforsale.com SAN, exit code 60 on curl without --insecure). Feed/API discovery: Carsforsale.com's dealer page (d317393) returns a DataDome CAPTCHA page (HTTP 200 with title 'Check The Box To Continue Shopping') for all programmatic requests; no JSON endpoint, sitemap, RSS, or OpenAPI surface was discoverable. /sitemap.xml returned an empty urlset. CarGurus dealer page (sp351173) shows 0 listings. Driverbase shows 0 listings. Cars.com dealer page (5256117) timed out or returned empty body. Google search result snippets confirm the site currently displays 'No Vehicles Found'. The dealership is confirmed active (BBB listing current, Yelp updated December 2024, phone number operational per directory listings). No inventory accessible via any feed or aggregator path as of 2026-06-05.",
+  "inventory": []
+}

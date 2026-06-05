@@ -1,0 +1,951 @@
+{
+  "name": "Atwater Chevrolet GMC",
+  "slug": "atwater-chevrolet-gmc",
+  "type": "franchise",
+  "address": "702 2nd St NE",
+  "city": "Aitkin",
+  "state": "MN",
+  "phone": "218-927-2713",
+  "website": "https://www.atwatergm.com",
+  "specialties": [
+    "Chevrolet trucks",
+    "GMC trucks",
+    "RAM trucks",
+    "heavy-duty work trucks"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "CMS: DealerOn confirmed via x-dealeron response headers, cdn.dlron.us assets, dealeron.js bundle. DealerOn inventory search APIs (/api/inventory/search, /Inventory/GetInventoryList, /api/Inventory/SearchInventory) all return 404. Inventory listing page (searchused.aspx) contains JSON-LD ItemList with VIN and name but no price or mileage (those fields are JS-rendered). Individual VDP pages include price in schema.org Vehicle JSON-LD but mileage is also JS-rendered. Fallback to Cars.com aggregator (dealer ID 6073587). 93 unique vehicles captured across pages 1-4 (page 5 empty). 2 vehicles have no listed price.",
+  "inventory": [
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 21237,
+      "mileage": 50461,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Base",
+      "price": 13982,
+      "mileage": 79852,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "WT",
+      "price": 15261,
+      "mileage": 110814,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 18328,
+      "mileage": 68187,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "FWD Preferred",
+      "price": 20570,
+      "mileage": 76569,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn Crew Cab 4x4",
+      "price": 37437,
+      "mileage": 83869,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 34047,
+      "mileage": 127741,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Overland",
+      "price": 33798,
+      "mileage": 39559,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 29463,
+      "mileage": 22384,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 47223,
+      "mileage": 69187,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 16845,
+      "mileage": 87556,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Luxury",
+      "price": 16283,
+      "mileage": 73671,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "Work Truck",
+      "price": 23045,
+      "mileage": 44693,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "XL",
+      "price": 25504,
+      "mileage": 51342,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "S",
+      "price": 21467,
+      "mileage": 98516,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "IONIQ Hybrid",
+      "trim": "Blue",
+      "price": 15563,
+      "mileage": 60943,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "1500 LT",
+      "price": 8349,
+      "mileage": 209674,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 26031,
+      "mileage": 82330,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "LX",
+      "price": 23570,
+      "mileage": 29639,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "WT",
+      "price": 16136,
+      "mileage": 65282,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "Base",
+      "price": 30190,
+      "mileage": 116220,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT Plus",
+      "price": 19865,
+      "mileage": 117527,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "High Country",
+      "price": 41051,
+      "mileage": 18254,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2016,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "price": 10349,
+      "mileage": 144056,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "Premier w/1LZ",
+      "price": 22572,
+      "mileage": 80500,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST-Line Select",
+      "price": 25034,
+      "mileage": 39580,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "WT",
+      "price": 46193,
+      "mileage": 36477,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier",
+      "price": 33907,
+      "mileage": 131701,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 21201,
+      "mileage": 21815,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "SLT",
+      "price": 27340,
+      "mileage": 39898,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 23767,
+      "mileage": 30002,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 22034,
+      "mileage": 111179,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 30791,
+      "mileage": 61642,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 47456,
+      "mileage": 43417,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 26347,
+      "mileage": 81134,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn Crew Cab 4x4",
+      "price": 41111,
+      "mileage": 51995,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2007,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "Work Truck",
+      "price": 14483,
+      "mileage": 65696,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "4WD Z71",
+      "price": 39772,
+      "mileage": 106113,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "XL",
+      "price": 24882,
+      "mileage": 51954,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "AT4",
+      "price": 75741,
+      "mileage": 14011,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "High Country",
+      "price": 55871,
+      "mileage": 69754,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 14349,
+      "mileage": 110440,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 21368,
+      "mileage": 26561,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 23780,
+      "mileage": 39248,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Utility Police Interceptor",
+      "trim": "",
+      "price": 13208,
+      "mileage": 93808,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 1995,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "trim": "Trans Am",
+      "price": 16349,
+      "mileage": 81933,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Sedan Police Interceptor",
+      "trim": "Base",
+      "price": 8647,
+      "mileage": 113593,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2006,
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "trim": "ST",
+      "price": 6349,
+      "mileage": 142382,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 8251,
+      "mileage": 108264,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2010,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 13349,
+      "mileage": 48626,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2009,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "W/T",
+      "price": 9590,
+      "mileage": 71468,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Elevation 4WD",
+      "price": 70296,
+      "mileage": 25792,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 10347,
+      "mileage": 94750,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 49973,
+      "mileage": 32790,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier",
+      "price": 65072,
+      "mileage": 37904,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Limited",
+      "price": 16282,
+      "mileage": 59369,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Base",
+      "price": 15243,
+      "mileage": 37481,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 18963,
+      "mileage": 45909,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "XL",
+      "price": 22945,
+      "mileage": 73555,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "LTZ",
+      "price": 48195,
+      "mileage": 82967,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "LT",
+      "price": 21484,
+      "mileage": 138284,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 20259,
+      "mileage": 66664,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 12349,
+      "mileage": 215058,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "Work Truck",
+      "price": 28043,
+      "mileage": 87884,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Base",
+      "price": 19034,
+      "mileage": 87385,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 18349,
+      "mileage": 76165,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 39207,
+      "mileage": 34107,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 17327,
+      "mileage": 79467,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "Denali",
+      "price": 56422,
+      "mileage": 57589,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "LT",
+      "price": 57373,
+      "mileage": 46963,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 17257,
+      "mileage": 87029,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 41113,
+      "mileage": 85780,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 40177,
+      "mileage": 48284,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 17507,
+      "mileage": 80797,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 25397,
+      "mileage": 80573,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "Denali",
+      "price": 61665,
+      "mileage": 32582,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 20996,
+      "mileage": 50231,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 55846,
+      "mileage": 20106,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "trim": "Denali",
+      "price": 49318,
+      "mileage": 99351,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 31312,
+      "mileage": 111509,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 30363,
+      "mileage": 96965,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman",
+      "price": 16471,
+      "mileage": 123663,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 44158,
+      "mileage": 10850,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn/Lone Star",
+      "price": 25810,
+      "mileage": 92026,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 31052,
+      "mileage": 99438,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 39246,
+      "mileage": 76439,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "High Country",
+      "price": 70197,
+      "mileage": 10365,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 23139,
+      "mileage": 121996,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "High Country",
+      "price": 71379,
+      "mileage": 7215,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "High Country",
+      "price": 60626,
+      "mileage": 37324,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 2500",
+      "trim": "Denali",
+      "price": 40861,
+      "mileage": 122487,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 170895,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Sport",
+      "price": null,
+      "mileage": 138005,
+      "drivetrain": "4WD",
+      "url": ""
+    }
+  ]
+}

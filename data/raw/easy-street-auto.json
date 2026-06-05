@@ -1,0 +1,71 @@
+{
+  "name": "Easy Street Auto LLC",
+  "slug": "easy-street-auto",
+  "type": "independent",
+  "address": "5663 Miller Trunk Hwy",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-591-2351",
+  "website": "https://easystreetautollc.com",
+  "specialties": [
+    "specialty/collector vehicles",
+    "AWD/4WD trucks and SUVs",
+    "low-mileage",
+    "eclectic mix"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch (dealer ID 25376, confirmed via imagescdn.dealercarsearch.com/DealerImages/25376/ and ASP.NET/IIS headers). Feed probes: /newandusedcars?clearall=1 returned the homepage (zero inventory hits); correct inventory URL is /inventory?clearall=1 which yielded 5 vehicles. Uses i17r template with lblPriceH2 price span. Two of 5 vehicles show no price (Dodge Durango, Jeep Gladiator) \u2014 listed as null per schema rules. 5-vehicle lot is consistent with a small-batch specialty dealer.",
+  "inventory": [
+    {
+      "year": 2017,
+      "make": "Cadillac",
+      "model": "CT6",
+      "trim": "3.0L Platinum Twin Turbo AWD",
+      "price": 19999,
+      "mileage": 79000,
+      "drivetrain": "AWD",
+      "url": "https://easystreetautollc.com/vdp/23516139/Used-2017-Cadillac-CT6-30L-Platinum-Twin-Turbo-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500 Limited LT Trail Boss Crew Cab Long Box 4WD",
+      "price": 34999,
+      "mileage": 48500,
+      "drivetrain": "4WD",
+      "url": "https://easystreetautollc.com/vdp/23872143/Used-2022-Chevrolet-Silverado-1500-Limited-LT-Trail-Boss-Crew-Cab-Long-Box-4WD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2013,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "SXT AWD",
+      "price": null,
+      "mileage": 141754,
+      "drivetrain": "AWD",
+      "url": "https://easystreetautollc.com/vdp/23875363/Used-2013-Dodge-Durango-SXT-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Rubicon",
+      "price": null,
+      "mileage": 27005,
+      "drivetrain": "4WD",
+      "url": "https://easystreetautollc.com/vdp/23875431/Used-2023-Jeep-Gladiator-Rubicon-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 1984,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "trim": "Trans Am",
+      "price": null,
+      "mileage": 54623,
+      "drivetrain": "RWD",
+      "url": "https://easystreetautollc.com/vdp/21845991/Used-1984-Pontiac-Firebird-Trans-Am-for-sale-in-Duluth-MN-55811"
+    }
+  ]
+}

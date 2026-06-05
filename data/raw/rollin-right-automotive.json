@@ -1,0 +1,15 @@
+{
+  "name": "Rollin' Right Automotive",
+  "slug": "rollin-right-automotive",
+  "type": "independent",
+  "address": "1025 Rook Rd NE Ste B",
+  "city": "Sauk Rapids",
+  "state": "MN",
+  "phone": "(320) 493-7738",
+  "website": "https://www.rollinrightautomotive.com",
+  "specialties": ["affordable SUVs", "used domestic vehicles", "auto repair", "inspected vehicles"],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "rollinrightautomotive.com returns Cloudflare JS challenge (DataDome-style, 'Please enable JS and disable any ad blocker') to all non-browser clients including curl with Chrome UA. carsforsale.com returned 403. iSeeCars showed 0 active listings (may be stale index). cruz.com returned 403. No CarGurus dealer page found for this dealer. AutosToday page returned no vehicle data. Facebook page content truncated. Web search snippets confirm approximately 14 vehicles currently listed: SUVs (11 — Chevrolet Equinox x3, GMC Terrain x3, Ford Escape x1, Ford Edge x1, Jeep Compass x1, Dodge Durango x1, Dodge Journey x1), Full Size van (1 — Ford E-Series), Minivan (1 — Chrysler Voyager), Sedan (1 — Chevrolet Malibu). Starting price $3,950. No individual vehicle prices, mileage, or VINs recoverable without a JS-capable browser. Scrape-justification: every upstream path exhausted — native site (Cloudflare block), Carsforsale (403), iSeeCars (0 results), Cruz.com (403), CarGurus (no dealer page found), Cars.com (no listings), AutosToday (no data), Facebook (truncated). No embedded structured data accessible.",
+  "inventory": []
+}

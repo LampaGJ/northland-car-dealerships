@@ -1,0 +1,581 @@
+{
+  "name": "Dondelinger Ford CDJR",
+  "slug": "dondelinger-ford-cdjr",
+  "type": "franchise",
+  "address": "25964 Bear Ridge Dr",
+  "city": "Cohasset",
+  "state": "MN",
+  "phone": "218-326-0551",
+  "website": "https://www.dondelingerfordcdjr.com/",
+  "specialties": [
+    "Ford trucks",
+    "Jeep",
+    "Ram",
+    "light-duty trucks"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: Dealer.com (DDC) confirmed via DDC.postalCode cookies and Akamai signatures. Fetched /used-inventory/index.htm with full sec-ch-ua browser headers (Accept-Encoding: gzip, not brotli) to obtain 350KB page + ak_bmsc cookie. Extracted POST body from inline decodeURI()-encoded JS targeting /api/widget/ws-inv-data/getInventory with siteId=dondelingergrandrapidsgroup. Called API with captured cookies; returned full JSON inventory. pageSize set to 300; API returned 56 used/CPO vehicles (54 Used + 2 Certified Pre-Owned). dondelingerford.com (siteId: rapidfordfd) confirmed as 100% VIN-identical; not double-counted.",
+  "inventory": [
+    {
+      "year": 2022,
+      "make": "Acura",
+      "model": "MDX",
+      "trim": null,
+      "price": 39000,
+      "mileage": 54590,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Acura/2022-Acura-MDX-e93c742cac185108adfb79f29d65accc.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": null,
+      "price": 36000,
+      "mileage": 68848,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chrysler/2023-Chrysler-Pacifica-6ea39a35ac184db46fa63ee4f9cb753a.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ram",
+      "model": "1500",
+      "trim": null,
+      "price": 50000,
+      "mileage": 24787,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2025-Ram-1500-938d5bcdac184a011a5bb41bd5d91e55.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": null,
+      "price": 62000,
+      "mileage": 1456,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2024-Chevrolet-Suburban-2430f2eaac18019ca870a91fb65cd329.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": null,
+      "price": 70000,
+      "mileage": 2800,
+      "drivetrain": "RWD",
+      "url": "https://www.dondelingerfordcdjr.com/certified/Ford/2025-Ford-Mustang-7bbce842ac185bdeff10c7b1acdf328e.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": null,
+      "price": 49000,
+      "mileage": 8001,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Toyota/2024-Toyota-Sienna-032a6ef9ac180f9eca6503cfcae6e699.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Cadillac",
+      "model": "XT4",
+      "trim": null,
+      "price": 21250,
+      "mileage": 94877,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Cadillac/2022-Cadillac-XT4-0850e4b6ac18580562418436e0b093ce.htm"
+    },
+    {
+      "year": 2002,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": null,
+      "price": 28500,
+      "mileage": 11621,
+      "drivetrain": "RWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2002-Chevrolet-Corvette-c66a09e9ac18347b8bc59a214015510c.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": null,
+      "price": 21000,
+      "mileage": 49966,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2024-Chevrolet-Equinox-a678d240ac1837d0dfe2868ddf7150a4.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": null,
+      "price": 14500,
+      "mileage": 109312,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2021-Chevrolet-Trax-404b7ab2ac1826090cabaa51fcd69826.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": null,
+      "price": 24500,
+      "mileage": 98982,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Dodge/2022-Dodge-Durango-6ba7dfcaac1818839faaa56f779a0249.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": null,
+      "price": 30000,
+      "mileage": 33230,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Dodge/2021-Dodge-Durango-e399c5b8ac182d59c0f767e28a1d4907.htm"
+    },
+    {
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": null,
+      "price": 12500,
+      "mileage": 94335,
+      "drivetrain": "FWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Dodge/2018-Dodge-Grand-Caravan-5ae66270ac1849d2c697a70a85372809.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": null,
+      "price": 52000,
+      "mileage": 34404,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2024-Ford-Bronco-30d7bd4aac183ba3afde46e97cd41f40.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": null,
+      "price": 21000,
+      "mileage": 65770,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2021-Ford-Bronco-Sport-30d7beb1ac18535f2fef472b9b66a108.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": null,
+      "price": 23500,
+      "mileage": 37383,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2023-Ford-Escape-107389d0ac1846b2c5d9aed6f594390f.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": null,
+      "price": 30000,
+      "mileage": 98325,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2020-Ford-Expedition-Max-c9d94d0cac18162841248f68d4c6567b.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": null,
+      "price": 49000,
+      "mileage": 39914,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2025-Ford-Explorer-027ea15cac182d59c0f767e2b624436d.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": null,
+      "price": 46000,
+      "mileage": 35186,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2025-Ford-Explorer-21643ed4ac180e2a8d365f14cefeb624.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": null,
+      "price": 40000,
+      "mileage": 47692,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2025-Ford-Explorer-d98e3f30ac183df3c4e550169e9e9388.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 42000,
+      "mileage": 87287,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2021-Ford-F-150-404b7c05ac180e13da5ab05d19775c4f.htm"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 56500,
+      "mileage": 25304,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-certified/Ford/2025-Ford-F-150-c9d94e4cac18028bdbc4543ee33dfc0f.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 40000,
+      "mileage": 68953,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2022-Ford-F-150-8cae5f10ac182108bf40a7260fb6c740.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 50000,
+      "mileage": 53159,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2020-Ford-F-150-886449bdac1802145ae4dc7405838695.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 47250,
+      "mileage": 17392,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2024-Ford-F-150-6d25f49fac184197d0fdba052d8e9d39.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-250",
+      "trim": null,
+      "price": 61000,
+      "mileage": 52898,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2023-Ford-Super-Duty-F-250-6237da30ac182c9638ed58ff40575bff.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Super Duty F-350",
+      "trim": null,
+      "price": 71000,
+      "mileage": 42993,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2024-Ford-Super-Duty-F-350-2ad5bd10ac180cb63ce9036f20cf9c99.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty F-350",
+      "trim": null,
+      "price": 64500,
+      "mileage": 82069,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2022-Ford-Super-Duty-F-350-bf8bda30ac1802a42ccf9a906cafdbd1.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Super Duty F-450 DRW",
+      "trim": null,
+      "price": 50000,
+      "mileage": 80019,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2021-Ford-Super-Duty-F-450-DRW-6ea39b8aac185f33af7212172699bbf5.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": null,
+      "price": 37500,
+      "mileage": 20093,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Hyundai/2023-Hyundai-Santa-Fe-2430f85dac185bde898737404ed82627.htm"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": null,
+      "price": 24250,
+      "mileage": 113560,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2020-Jeep-Gladiator-f8ddb7f8ac18128e574f3172caa7a976.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": null,
+      "price": 25000,
+      "mileage": 96705,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2021-Jeep-Grand-Cherokee-69b78a52ac1844adf5875e2bd623720c.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": null,
+      "price": 23000,
+      "mileage": 110532,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2021-Jeep-Grand-Cherokee-35fdda85ac183dae9eb0de64dff9714c.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": null,
+      "price": 48000,
+      "mileage": 30377,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2023-Jeep-Wagoneer-e3d14b22ac183da746fed0836db2d910.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer L",
+      "trim": null,
+      "price": 45000,
+      "mileage": 46465,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2024-Jeep-Wagoneer-L-45713a7dac18279a8a8609ac2316c319.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": null,
+      "price": 33000,
+      "mileage": 18423,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2024-Jeep-Wrangler-e74091b2ac1807bdc0458511164680a7.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": null,
+      "price": 18000,
+      "mileage": 118748,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2019-Jeep-Wrangler-Unlimited-e5c29cb6ac180fbbb5a0852f98c20abf.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Corsair",
+      "trim": null,
+      "price": 28500,
+      "mileage": 24769,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Lincoln/2022-Lincoln-Corsair-b6f686e9ac1845457ae37be8073f166e.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": null,
+      "price": 35250,
+      "mileage": 37310,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Lincoln/2022-Lincoln-Nautilus-b6f6880bac184c418849c2b5f13f4482.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": null,
+      "price": 35500,
+      "mileage": 31612,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Lincoln/2022-Lincoln-Nautilus-fe33ce6aac181319b0e774b966046593.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Nissan",
+      "model": "NV Cargo",
+      "trim": null,
+      "price": 22000,
+      "mileage": 70438,
+      "drivetrain": "RWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Nissan/2021-Nissan-NV-Cargo-e7409303ac18507099e703834a9346d2.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "trim": null,
+      "price": 19500,
+      "mileage": 131554,
+      "drivetrain": "Other",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2021-Ram-1500-1fe6758dac183fb2609a9babdd2c62e8.htm"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": null,
+      "price": 23000,
+      "mileage": 162798,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2019-Ram-1500-78f12322ac182edcb3e07e9676cdec7c.htm"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "2500",
+      "trim": null,
+      "price": 48000,
+      "mileage": 38626,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2021-Ram-2500-d94b6fb4ac180cb6fbf5ec49774548eb.htm"
+    },
+    {
+      "year": 2016,
+      "make": "Ram",
+      "model": "2500",
+      "trim": null,
+      "price": 37000,
+      "mileage": 88400,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2016-Ram-2500-7bbce9bfac1852f701569decbd6756ef.htm"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "price": 25750,
+      "mileage": 68399,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Subaru/2024-Subaru-Forester-957d42d5ac180cb6fbf5ec494ea06df9.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "trim": null,
+      "price": 30500,
+      "mileage": 41606,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Volkswagen/2023-Volkswagen-Atlas-Cross-Sport-38cab3afac183c2079906929d40cb7ac.htm"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": null,
+      "price": 14500,
+      "mileage": 182511,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2016-Chevrolet-Suburban-af76d7a6ac183da746fed08372f4f832.htm"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": null,
+      "price": 5000,
+      "mileage": 201359,
+      "drivetrain": "AWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2014-Ford-Edge-b0f4f39dac1802a42ccf9a90de25e2b9.htm"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": null,
+      "price": 7993,
+      "mileage": 133608,
+      "drivetrain": "FWD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2015-Ford-Fusion-7b1aa6d1ac180d30ba9795a9da636f39.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": null,
+      "price": 25000,
+      "mileage": 67073,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Jeep/2022-Jeep-Cherokee-c9d95156ac18231ba5c0b24962436b08.htm"
+    },
+    {
+      "year": 2016,
+      "make": "Ram",
+      "model": "1500",
+      "trim": null,
+      "price": 16000,
+      "mileage": 118946,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ram/2016-Ram-1500-4b73f0c0ac1849d2c697a70a47c08caf.htm"
+    },
+    {
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": null,
+      "price": null,
+      "mileage": 141194,
+      "drivetrain": "Other",
+      "url": "https://www.dondelingerfordcdjr.com/used/Chevrolet/2006-Chevrolet-Trailblazer-7ef369eeac181588e4b749d940d4ce78.htm"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": null,
+      "mileage": 67344,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2023-Ford-F-150-8cae6002ac18152efd69438d9c5cb877.htm"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": null,
+      "price": null,
+      "mileage": 79792,
+      "drivetrain": "4WD",
+      "url": "https://www.dondelingerfordcdjr.com/electric-used/Ford/2022-Ford-Explorer-30d7bff0ac180bad879f339d82f229dc.htm"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": null,
+      "mileage": 168153,
+      "drivetrain": "4-Wheel Drive",
+      "url": "https://www.dondelingerfordcdjr.com/used/Ford/2012-Ford-F-150-8cae5dcfac1856b84c641a010c664d8e.htm"
+    }
+  ]
+}

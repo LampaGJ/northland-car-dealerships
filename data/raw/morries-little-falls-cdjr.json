@@ -1,0 +1,481 @@
+{
+  "name": "Morrie's Little Falls CDJR",
+  "slug": "morries-little-falls-cdjr",
+  "type": "franchise",
+  "address": "14873 113th St",
+  "city": "Little Falls",
+  "state": "MN",
+  "phone": "320-632-2908",
+  "website": "https://www.morrieslittlefallschryslerdodgejeepram.com",
+  "specialties": [
+    "Jeep SUVs",
+    "RAM trucks",
+    "Dodge",
+    "Chrysler/Pacifica"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: Team Velocity confirmed via window.inventoryApiBaseUrl='https://websites.api.teamvelocityportal.com/', accountId=33906, campaignId=8071 in page source. Sitemap.xml revealed native JSON inventory feed at /inventory-used.json. Feed returns all 46 used vehicles in single page with full data including VIN, price, mileage, drivetrain, VDP URL. No scraping required.",
+  "inventory": [
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 11490,
+      "mileage": 145459,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdbb9kt661668/2019-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 12980,
+      "mileage": 143339,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjfbgxhc681702/2017-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 15680,
+      "mileage": 97784,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1g1zd5st7pf140871/2023-chevrolet-malibu-4dr-car"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 16690,
+      "mileage": 74920,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1g1zd5st7pf230599/2023-chevrolet-malibu-4dr-car"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 18290,
+      "mileage": 77417,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1g1zd5st8rf212390/2024-chevrolet-malibu-4dr-car"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "LX",
+      "price": 18480,
+      "mileage": 30413,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/kndj23au0s7941931/2025-kia-soul-hatchback"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 19580,
+      "mileage": 65448,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1g1zd5st0rf110730/2024-chevrolet-malibu-4dr-car"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 19680,
+      "mileage": 71707,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/5n1bt3ab0pc830757/2023-nissan-rogue-sport-utility"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 19990,
+      "mileage": 107495,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6rr7tm6js259870/2018-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 20480,
+      "mileage": 63859,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdbn3rt606296/2024-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": 20790,
+      "mileage": 61732,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdbn3rt604595/2024-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Preferred",
+      "price": 21480,
+      "mileage": 36656,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/kl4ambsl1sb134741/2025-buick-encore-gx-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "S",
+      "price": 21960,
+      "mileage": 93525,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/5xyp6dhc3mg158268/2021-kia-telluride-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Premium",
+      "price": 21980,
+      "mileage": 96385,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/5gaevbkw1lj198298/2020-buick-enclave-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 23480,
+      "mileage": 62193,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdcn8rt594922/2024-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Big Horn",
+      "price": 23770,
+      "mileage": 100128,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6rr7lt5ks639355/2019-ram-1500-classic-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 23980,
+      "mileage": 70103,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/2c4rc1bg4pr612555/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 23990,
+      "mileage": 24784,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njddn5st543382/2025-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 23990,
+      "mileage": 39984,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdcn4st523335/2025-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 24390,
+      "mileage": 39493,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njdcn9st508510/2025-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE",
+      "price": 24490,
+      "mileage": 66613,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/4t1t11ak7pu131098/2023-toyota-camry-4dr-car"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 24870,
+      "mileage": 23362,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c4njddn5rt103379/2024-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 25580,
+      "mileage": 25780,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1fmcu9ja7sua72821/2025-ford-escape-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 25890,
+      "mileage": 63296,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/2c4rc1bg7rr140175/2024-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 25990,
+      "mileage": 66625,
+      "drivetrain": "FWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/2c4rc1bg8rr179342/2024-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 27490,
+      "mileage": 130520,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfjt5mn774304/2021-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 29890,
+      "mileage": 127259,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfft4pn688916/2023-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "2.5 Carbon Turbo",
+      "price": 29980,
+      "mileage": 39126,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/jm3kfbay3r0386053/2024-mazda-cx-5-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "SXT",
+      "price": 29990,
+      "mileage": 24605,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/2c3cdxjg7ph511494/2023-dodge-charger-4dr-car"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Laredo X",
+      "price": 30890,
+      "mileage": 44379,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjkag5r8613015/2024-jeep-grand-cherokee-l-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 32490,
+      "mileage": 16769,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjhag9rc243901/2024-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Longhorn",
+      "price": 32790,
+      "mileage": 91535,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfktxln241586/2020-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "SXT Plus",
+      "price": 32880,
+      "mileage": 22161,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rdjag4rc237423/2024-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "SXT Plus",
+      "price": 32990,
+      "mileage": 23491,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rdjag5rc234742/2024-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT Plus",
+      "price": 34590,
+      "mileage": 32068,
+      "drivetrain": "AWD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rdjdg5rc245896/2024-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 34880,
+      "mileage": 78512,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfjt7nn386279/2022-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude",
+      "price": 35990,
+      "mileage": 27246,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjhag5s8699452/2025-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 36490,
+      "mileage": 20193,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjhbg0rc231506/2024-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer L",
+      "trim": "Series II",
+      "price": 39990,
+      "mileage": 64935,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4sjsbpxrs174980/2024-jeep-wagoneer-l-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn",
+      "price": 39990,
+      "mileage": 79861,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c6ur5dl9rg176912/2024-ram-2500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 40470,
+      "mileage": 12897,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4rjhbg0sc268772/2025-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 40480,
+      "mileage": 86556,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/3c6ur5fj7ng186294/2022-ram-2500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series II",
+      "price": 41480,
+      "mileage": 69093,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c4sjvbp9rs132382/2024-jeep-wagoneer-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 48580,
+      "mileage": 13673,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfjp5sn546271/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 50470,
+      "mileage": 16034,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfjpxsn715216/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "TRX",
+      "price": 85790,
+      "mileage": 38565,
+      "drivetrain": "4WD",
+      "url": "https://www.morrieslittlefallschryslerdodgejeepram.com/viewdetails/used/1c6srfu90rn201740/2024-ram-1500-crew-cab-pickup"
+    }
+  ]
+}

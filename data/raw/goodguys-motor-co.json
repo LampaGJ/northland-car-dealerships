@@ -1,0 +1,511 @@
+{
+  "name": "Goodguys Motor Co.",
+  "slug": "goodguys-motor-co",
+  "type": "independent",
+  "address": "1104 Division St",
+  "city": "Waite Park",
+  "state": "MN",
+  "phone": "320-252-2323",
+  "website": "https://www.goodguysmotorco.com",
+  "specialties": [
+    "AWD cargo vans",
+    "AWD passenger vans",
+    "4x4 full-size vans",
+    "handicap-accessible vans"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch (site_id=24338, dealer_id=2585). Inventory listing HTML fully server-rendered. 49 vehicles across 2 pages fetched from /newandusedcars. Prices and mileage extracted from individual VDP pages via /vdp/{id}/. LumEx plugin is payment calculator only, not inventory. DCS JSON API (/VehicleData/GetVehiclesByDealer) returned 302 to HTML shell. Drivetrain inferred from VIN prefix and trim string.",
+  "inventory": [
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "2500 135\" wb conversion van high roof",
+      "price": 42800,
+      "mileage": 48321,
+      "drivetrain": null,
+      "url": "https://www.goodguysmotorco.com/vdp/23945312/Used-2017-Chevrolet-Express-2500-135-wb-conversion-van-high-roof-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Cargo Van T-250 148\" Med Rf 9070 GVWR AWD",
+      "price": 42488,
+      "mileage": 31964,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23580162/Used-2023-Ford-Transit-Cargo-Van-T250-148-Med-Rf-9070-GVWR-AWD-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Cargo Van T-250 148\" Med Rf 9070 GVWR AWD",
+      "price": 40888,
+      "mileage": 34691,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23479943/Used-2023-Ford-Transit-Cargo-Van-T250-148-Med-Rf-9070-GVWR-AWD-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Cargo Van T-250 148\" Med Rf 9070 GVWR AWD",
+      "price": 40880,
+      "mileage": 35502,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23564586/Used-2023-Ford-Transit-Cargo-Van-T250-148-Med-Rf-9070-GVWR-AWD-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Van AWD side lift handicap van",
+      "price": 39999,
+      "mileage": 60858,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23957181/Used-2014-Chevrolet-Express-Van-AWD-side-lift-handicap-van-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Cargo Van T-250 148\" Med Rf 9070 GVWR AWD",
+      "price": 39688,
+      "mileage": 39229,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23564263/Used-2023-Ford-Transit-Cargo-Van-T250-148-Med-Rf-9070-GVWR-AWD-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "GMC",
+      "model": "Savana",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 38999,
+      "mileage": 81079,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/21406487/Used-2014-GMC-Savana-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 37900,
+      "mileage": 26107,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23632463/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 37488,
+      "mileage": 35102,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/21705871/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 36900,
+      "mileage": 31376,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23215483/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LS",
+      "price": 35900,
+      "mileage": 29474,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22304015/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LS-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 34990,
+      "mileage": 66417,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/21603605/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 34400,
+      "mileage": 52322,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23830469/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 33890,
+      "mileage": 50119,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/21617237/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 33888,
+      "mileage": 63648,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23185861/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LS",
+      "price": 32988,
+      "mileage": 59242,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23788427/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LS-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van RWD 3500 155\"",
+      "price": 32900,
+      "mileage": 12880,
+      "drivetrain": "RWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23928749/Used-2017-Chevrolet-Express-Cargo-Van-RWD-3500-155-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\" Access van",
+      "price": 32888,
+      "mileage": 53886,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23069353/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-Access-van-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2012,
+      "make": "GMC",
+      "model": "Savana",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 32600,
+      "mileage": 43400,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23185587/Used-2012-GMC-Savana-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van 4X4 1500 135\" window cargo van",
+      "price": 29999,
+      "mileage": 81313,
+      "drivetrain": "4WD",
+      "url": "https://www.goodguysmotorco.com/vdp/23728328/Used-2013-Chevrolet-Express-Cargo-Van-4X4-1500-135-window-cargo-van-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 29990,
+      "mileage": 53542,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23524700/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van RWD 3500 155\"",
+      "price": 29960,
+      "mileage": 63328,
+      "drivetrain": "RWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23943667/Used-2021-Chevrolet-Express-Cargo-Van-RWD-3500-155-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van RWD 2500 135\"",
+      "price": 29900,
+      "mileage": 25460,
+      "drivetrain": "RWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23911326/Used-2018-Chevrolet-Express-Cargo-Van-RWD-2500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LS",
+      "price": 29890,
+      "mileage": 69736,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23911869/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LS-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 29888,
+      "mileage": 47767,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22082459/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 29400,
+      "mileage": 81290,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22445736/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LT",
+      "price": 28900,
+      "mileage": 75760,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22924863/Used-2013-Chevrolet-Express-Passenger-AWD-1500-135-LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\" Window cargo van",
+      "price": 28888,
+      "mileage": 64894,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23427504/Used-2013-Chevrolet-Express-Cargo-Van-AWD-1500-135-Window-cargo-van-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\" Access PKG",
+      "price": 28800,
+      "mileage": 77516,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23043939/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-Access-PKG-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2012,
+      "make": "GMC",
+      "model": "Savana",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 28550,
+      "mileage": 52440,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23765346/Used-2012-GMC-Savana-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 28288,
+      "mileage": 64405,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23850201/Used-2012-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 27980,
+      "mileage": 78046,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23277870/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" LS",
+      "price": 27888,
+      "mileage": 76058,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/20108760/Used-2014-Chevrolet-Express-Passenger-AWD-1500-135-LS-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 27800,
+      "mileage": 61045,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22661218/Used-2011-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 26988,
+      "mileage": 86942,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23408733/Used-2013-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Econoline",
+      "trim": "Cargo Van E-250 Ext Handicap van , rear lift",
+      "price": 26888,
+      "mileage": 25377,
+      "drivetrain": null,
+      "url": "https://www.goodguysmotorco.com/vdp/22970161/Used-2014-Ford-Econoline-Cargo-Van-E250-Ext-Handicap-van-rear-lift-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Passenger AWD 1500 135\" 1LT",
+      "price": 24900,
+      "mileage": 63788,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23689687/Used-2011-Chevrolet-Express-Passenger-AWD-1500-135-1LT-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Grand",
+      "trim": "Caravan 4dr Wgn SE HANDICAP VAN",
+      "price": 22988,
+      "mileage": 87132,
+      "drivetrain": null,
+      "url": "https://www.goodguysmotorco.com/vdp/23394810/Used-2015-Dodge-Grand-Caravan-4dr-Wgn-SE-HANDICAP-VAN-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "Econoline",
+      "trim": "Wagon E-350 Super Duty XLT 4X4 window cargo van",
+      "price": 21999,
+      "mileage": 145056,
+      "drivetrain": "4WD",
+      "url": "https://www.goodguysmotorco.com/vdp/23878984/Used-2012-Ford-Econoline-Wagon-E350-Super-Duty-XLT-4X4-window-cargo-van-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "2dr Conv 1LT/RS",
+      "price": 21990,
+      "mileage": 39867,
+      "drivetrain": null,
+      "url": "https://www.goodguysmotorco.com/vdp/23943186/Used-2017-Chevrolet-Camaro-2dr-Conv-1LTRS-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 19999,
+      "mileage": 97391,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23746188/Used-2012-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 19990,
+      "mileage": 124059,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23774947/Used-2013-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 19988,
+      "mileage": 134251,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23702602/Used-2013-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Savana",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 18990,
+      "mileage": 100948,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/22669248/Used-2013-GMC-Savana-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 18900,
+      "mileage": 93563,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23746360/Used-2010-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4WD Reg Cab 8&#x27; Box",
+      "price": 18650,
+      "mileage": 85307,
+      "drivetrain": "4WD",
+      "url": "https://www.goodguysmotorco.com/vdp/23793355/Used-2017-Ford-F150-XLT-4WD-Reg-Cab-8-Box-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 18388,
+      "mileage": 145447,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23957943/Used-2014-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2010,
+      "make": "GMC",
+      "model": "Savana",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 17488,
+      "mileage": 109778,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23932417/Used-2010-GMC-Savana-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    },
+    {
+      "year": 2007,
+      "make": "Chevrolet",
+      "model": "Express",
+      "trim": "Cargo Van AWD 1500 135\"",
+      "price": 7950,
+      "mileage": 121331,
+      "drivetrain": "AWD",
+      "url": "https://www.goodguysmotorco.com/vdp/23953057/Used-2007-Chevrolet-Express-Cargo-Van-AWD-1500-135-for-sale-in-St-Cloud-MN-56301"
+    }
+  ]
+}

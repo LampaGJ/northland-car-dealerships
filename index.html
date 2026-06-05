@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Northland Used Car Dealers — MN · WI · MI</title>
+<script src="assets/d3.min.js"></script>
+<script src="data/dealers.js"></script>
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --card: #ffffff;
+    --ink: #1a2330;
+    --muted: #67738a;
+    --line: #e3e7ee;
+    --accent: #1f6feb;
+    --franchise: #1f6feb;
+    --independent: #d4730f;
+    --green: #1a7f37;
+    --amber: #9a6700;
+    --red: #c93c37;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.45;
+  }
+  header {
+    background: var(--card);
+    border-bottom: 1px solid var(--line);
+    padding: 22px 28px 18px;
+  }
+  header h1 { margin: 0 0 4px; font-size: 22px; font-weight: 700; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  main { max-width: 1280px; margin: 0 auto; padding: 20px 28px 60px; }
+
+  .stats { display: flex; gap: 14px; flex-wrap: wrap; margin: 18px 0; }
+  .stat {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 12px 18px;
+    min-width: 150px;
+  }
+  .stat .num { font-size: 24px; font-weight: 700; }
+  .stat .lbl { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+
+  h2 { font-size: 16px; margin: 30px 0 12px; }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 18px;
+  }
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 980px) { .charts { grid-template-columns: 1fr; } }
+  .chart-title { font-weight: 600; margin-bottom: 8px; }
+  .chart-note { color: var(--muted); font-size: 12px; margin-top: 6px; }
+  svg text { font-family: inherit; }
+
+  /* Filters */
+  .filters {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 12px 14px;
+    position: sticky; top: 0; z-index: 5;
+    box-shadow: 0 2px 8px rgba(20,30,50,.04);
+  }
+  .filters label { color: var(--muted); font-size: 12px; }
+  .filters select, .filters input {
+    font: inherit; padding: 6px 8px;
+    border: 1px solid var(--line); border-radius: 7px;
+    background: #fff; color: var(--ink);
+  }
+  .filters input[type="number"] { width: 95px; }
+  .filters input[type="search"] { width: 170px; }
+  .filters .count { margin-left: auto; color: var(--muted); font-size: 13px; }
+  .filters button {
+    font: inherit; padding: 6px 12px; border: 1px solid var(--line);
+    border-radius: 7px; background: #fff; cursor: pointer; color: var(--muted);
+  }
+  .filters button:hover { color: var(--ink); }
+
+  /* Dealer cards */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 14px; }
+  .dcard {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px 16px; cursor: pointer; transition: border-color .12s, box-shadow .12s;
+  }
+  .dcard:hover { border-color: var(--accent); box-shadow: 0 2px 10px rgba(31,111,235,.08); }
+  .dcard.active { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(31,111,235,.25); }
+  .dcard h3 { margin: 0 0 2px; font-size: 14.5px; }
+  .dcard .loc { color: var(--muted); font-size: 12.5px; margin-bottom: 8px; }
+  .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+  .badge {
+    font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
+    border: 1px solid transparent;
+  }
+  .badge.franchise { color: var(--franchise); background: #eaf1fd; }
+  .badge.independent { color: var(--independent); background: #fdf2e5; }
+  .badge.full { color: var(--green); background: #e7f5ea; }
+  .badge.partial { color: var(--amber); background: #fbf0d7; }
+  .badge.summary-only { color: var(--red); background: #fbe9e8; }
+  .chips { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 9px; }
+  .chip {
+    font-size: 11.5px; color: var(--ink); background: var(--bg);
+    border: 1px solid var(--line); padding: 2px 8px; border-radius: 6px;
+  }
+  .dcard .meta { font-size: 12.5px; color: var(--muted); }
+  .dcard .meta b { color: var(--ink); font-weight: 600; }
+  .dcard a { color: var(--accent); text-decoration: none; font-size: 12.5px; }
+  .dcard a:hover { text-decoration: underline; }
+
+  /* Table */
+  .tablewrap { overflow-x: auto; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  thead th {
+    text-align: left; padding: 9px 12px; background: #fbfcfe;
+    border-bottom: 1px solid var(--line); color: var(--muted);
+    font-size: 12px; text-transform: uppercase; letter-spacing: .03em;
+    cursor: pointer; user-select: none; white-space: nowrap;
+    position: sticky; top: 0;
+  }
+  thead th:hover { color: var(--ink); }
+  thead th .arrow { font-size: 10px; }
+  tbody td { padding: 7px 12px; border-bottom: 1px solid #eef1f6; white-space: nowrap; }
+  tbody tr:hover { background: #f4f8ff; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  th.num { text-align: right; }
+  td .mut { color: var(--muted); }
+  td a { color: var(--accent); text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+  .morebar { text-align: center; padding: 10px; }
+  .morebar button {
+    font: inherit; padding: 7px 18px; border: 1px solid var(--line);
+    border-radius: 7px; background: #fff; cursor: pointer;
+  }
+  footer { color: var(--muted); font-size: 12px; margin-top: 34px; }
+  footer ul { margin: 6px 0 0; padding-left: 18px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Northland Used Car Dealers — MN · WI · MI</h1>
+  <div class="sub" id="subtitle"></div>
+</header>
+<main>
+  <div class="stats" id="stats"></div>
+
+  <h2>Market view</h2>
+  <div class="charts">
+    <div class="panel">
+      <div class="chart-title">Price distribution <span class="mut" style="color:var(--muted);font-weight:400">(filtered)</span></div>
+      <div id="histogram"></div>
+      <div class="chart-note" id="histnote"></div>
+    </div>
+    <div class="panel">
+      <div class="chart-title">Inventory captured by dealer <span style="color:var(--muted);font-weight:400">(filtered)</span></div>
+      <div id="bydealer" style="max-height:420px;overflow-y:auto"></div>
+      <div class="chart-note">
+        <span style="color:var(--franchise)">■</span> franchise &nbsp;
+        <span style="color:var(--independent)">■</span> independent
+      </div>
+    </div>
+  </div>
+
+  <h2>Filters</h2>
+  <div class="filters">
+    <input type="search" id="f-search" placeholder="Search make / model / trim…">
+    <label>Region <select id="f-region"><option value="">All</option></select></label>
+    <label>Make <select id="f-make"><option value="">All</option></select></label>
+    <label>Dealer <select id="f-dealer"><option value="">All</option></select></label>
+    <label>Type <select id="f-type">
+      <option value="">All</option><option value="franchise">Franchise</option><option value="independent">Independent</option>
+    </select></label>
+    <label>$ <input type="number" id="f-pmin" placeholder="min" step="1000"> – <input type="number" id="f-pmax" placeholder="max" step="1000"></label>
+    <label>Max mi <input type="number" id="f-mmax" placeholder="any" step="10000" style="width:90px"></label>
+    <button id="f-clear">Clear</button>
+    <span class="count" id="f-count"></span>
+  </div>
+
+  <h2>Dealers <span style="color:var(--muted);font-weight:400;font-size:13px">(click a card to filter the table)</span></h2>
+  <div class="cards" id="cards"></div>
+
+  <h2>Vehicles</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr id="thead"></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="morebar" id="morebar" hidden><button id="more">Show more</button></div>
+  </div>
+
+  <footer id="foot"></footer>
+</main>
+
+<script>
+const DATA = window.DEALER_DATA;
+const dealers = DATA.dealers;
+const dealerBySlug = new Map(dealers.map(d => [d.slug, d]));
+
+// Flatten vehicles with dealer back-reference
+const vehicles = dealers.flatMap(d => d.inventory.map(v => ({ ...v, dealer: d.name, slug: d.slug, dtype: d.type, city: d.city, state: d.state, region: d.region })));
+
+const fmt$ = v => v == null ? '—' : '$' + v.toLocaleString();
+const fmtMi = v => v == null ? '—' : v.toLocaleString();
+
+// ---------- header / stats ----------
+document.getElementById('subtitle').textContent =
+  `${DATA.meta.region} · collected ${DATA.meta.collectedAt} · used/pre-owned inventory only`;
+
+const priced = vehicles.filter(v => v.price != null);
+const median = arr => { const s = [...arr].sort((a, b) => a - b); return s.length ? s[Math.floor(s.length / 2)] : null; };
+const statsEl = document.getElementById('stats');
+[
+  [dealers.length, 'Dealers'],
+  [dealers.filter(d => d.type === 'independent').length, 'Independents'],
+  [dealers.filter(d => d.type === 'franchise').length, 'Franchise'],
+  [vehicles.length.toLocaleString(), 'Vehicles captured'],
+  [fmt$(median(priced.map(v => v.price))), 'Median price'],
+  [fmt$(d3.min(priced, v => v.price)) + ' – ' + fmt$(d3.max(priced, v => v.price)), 'Price range'],
+].forEach(([num, lbl]) => {
+  statsEl.insertAdjacentHTML('beforeend', `<div class="stat"><div class="num">${num}</div><div class="lbl">${lbl}</div></div>`);
+});
+
+// ---------- filter state ----------
+const F = { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null };
+let sortKey = 'price', sortDir = 1, shown = 200;
+
+function filtered() {
+  const q = F.search.toLowerCase();
+  return vehicles.filter(v =>
+    (!q || `${v.year} ${v.make} ${v.model} ${v.trim ?? ''}`.toLowerCase().includes(q)) &&
+    (!F.region || v.region === F.region) &&
+    (!F.make || v.make === F.make) &&
+    (!F.dealer || v.slug === F.dealer) &&
+    (!F.type || v.dtype === F.type) &&
+    (F.pmin == null || (v.price != null && v.price >= F.pmin)) &&
+    (F.pmax == null || (v.price != null && v.price <= F.pmax)) &&
+    (F.mmax == null || (v.mileage != null && v.mileage <= F.mmax))
+  );
+}
+
+// ---------- charts ----------
+function drawHistogram(data) {
+  const el = document.getElementById('histogram');
+  el.innerHTML = '';
+  const pricedData = data.filter(v => v.price != null).map(v => Math.min(v.price, 80000));
+  const W = el.clientWidth || 560, H = 260, m = { t: 8, r: 12, b: 34, l: 44 };
+  const svg = d3.select(el).append('svg').attr('width', W).attr('height', H);
+  if (!pricedData.length) { svg.append('text').attr('x', W / 2).attr('y', H / 2).attr('text-anchor', 'middle').attr('fill', '#67738a').text('No priced vehicles match'); return; }
+  const x = d3.scaleLinear().domain([0, 80000]).range([m.l, W - m.r]);
+  const bins = d3.bin().domain(x.domain()).thresholds(d3.range(0, 80001, 5000))(pricedData);
+  const y = d3.scaleLinear().domain([0, d3.max(bins, b => b.length)]).nice().range([H - m.b, m.t]);
+  svg.append('g').selectAll('rect').data(bins).join('rect')
+    .attr('x', b => x(b.x0) + 1).attr('width', b => Math.max(0, x(b.x1) - x(b.x0) - 2))
+    .attr('y', b => y(b.length)).attr('height', b => y(0) - y(b.length))
+    .attr('fill', '#1f6feb').attr('opacity', .85).attr('rx', 2);
+  svg.append('g').attr('transform', `translate(0,${H - m.b})`)
+    .call(d3.axisBottom(x).tickValues(d3.range(0, 80001, 10000)).tickFormat(v => v >= 80000 ? '$80k+' : '$' + v / 1000 + 'k'))
+    .call(g => g.select('.domain').attr('stroke', '#c8cfdb'))
+    .selectAll('text').attr('fill', '#67738a');
+  svg.append('g').attr('transform', `translate(${m.l},0)`)
+    .call(d3.axisLeft(y).ticks(5))
+    .call(g => g.select('.domain').remove())
+    .call(g => g.selectAll('.tick line').attr('x2', W - m.l - m.r).attr('stroke', '#eef1f6'))
+    .selectAll('text').attr('fill', '#67738a');
+  const over = data.filter(v => v.price != null && v.price > 80000).length;
+  document.getElementById('histnote').textContent =
+    `${data.filter(v => v.price != null).length.toLocaleString()} priced vehicles in $5k bins` +
+    (over ? ` · ${over} above $80k pooled into the last bin` : '') +
+    ` · ${data.filter(v => v.price == null).length} unpriced excluded`;
+}
+
+function drawByDealer(data) {
+  const el = document.getElementById('bydealer');
+  el.innerHTML = '';
+  const counts = d3.rollups(data, v => v.length, v => v.slug)
+    .map(([slug, n]) => ({ slug, n, name: dealerBySlug.get(slug).name, type: dealerBySlug.get(slug).type }))
+    .sort((a, b) => b.n - a.n);
+  const rowH = 21, m = { t: 4, r: 46, b: 4, l: 210 };
+  const W = el.clientWidth || 560, H = m.t + m.b + counts.length * rowH;
+  const svg = d3.select(el).append('svg').attr('width', W).attr('height', Math.max(H, 40));
+  if (!counts.length) { svg.append('text').attr('x', W / 2).attr('y', 25).attr('text-anchor', 'middle').attr('fill', '#67738a').text('No vehicles match'); return; }
+  const x = d3.scaleLinear().domain([0, d3.max(counts, c => c.n)]).range([0, W - m.l - m.r]);
+  const g = svg.selectAll('g').data(counts).join('g')
+    .attr('transform', (c, i) => `translate(${m.l},${m.t + i * rowH})`)
+    .style('cursor', 'pointer')
+    .on('click', (e, c) => { setFilter('dealer', F.dealer === c.slug ? '' : c.slug); });
+  g.append('rect').attr('height', rowH - 5).attr('width', c => Math.max(2, x(c.n))).attr('rx', 3)
+    .attr('fill', c => c.type === 'franchise' ? '#1f6feb' : '#d4730f').attr('opacity', .85);
+  g.append('text').attr('x', -8).attr('y', rowH / 2 + 1).attr('text-anchor', 'end').attr('dominant-baseline', 'middle')
+    .attr('font-size', 11.5).attr('fill', '#1a2330')
+    .text(c => c.name.length > 30 ? c.name.slice(0, 29) + '…' : c.name);
+  g.append('text').attr('x', c => Math.max(2, x(c.n)) + 6).attr('y', rowH / 2 + 1).attr('dominant-baseline', 'middle')
+    .attr('font-size', 11.5).attr('fill', '#67738a').text(c => c.n);
+}
+
+// ---------- dealer cards ----------
+function renderCards() {
+  const el = document.getElementById('cards');
+  el.innerHTML = '';
+  const sorted = [...dealers].sort((a, b) => b.inventory.length - a.inventory.length);
+  for (const d of sorted) {
+    const p = d.inventory.filter(v => v.price != null).map(v => v.price);
+    const range = p.length ? `${fmt$(Math.min(...p))} – ${fmt$(Math.max(...p))}` : 'no listed prices';
+    const site = d.website ? `<a href="${d.website}" target="_blank" rel="noopener">website ↗</a>` : '';
+    el.insertAdjacentHTML('beforeend', `
+      <div class="dcard ${F.dealer === d.slug ? 'active' : ''}" data-slug="${d.slug}">
+        <h3>${d.name}</h3>
+        <div class="loc">${d.city}, ${d.state} · ${d.region}${d.phone ? ' · ' + d.phone : ''}</div>
+        <div class="badges">
+          <span class="badge ${d.type}">${d.type}</span>
+          <span class="badge ${d.coverage}">${d.coverage === 'summary-only' ? 'no online stock' : d.coverage + ' coverage'}</span>
+        </div>
+        <div class="chips">${(d.specialties || []).map(s => `<span class="chip">${s}</span>`).join('')}</div>
+        <div class="meta"><b>${d.inventory.length}</b> vehicles captured · ${range}</div>
+        ${site}
+      </div>`);
+  }
+  el.querySelectorAll('.dcard').forEach(c => c.addEventListener('click', e => {
+    if (e.target.tagName === 'A') return;
+    const slug = c.dataset.slug;
+    setFilter('dealer', F.dealer === slug ? '' : slug);
+  }));
+}
+
+// ---------- table ----------
+const COLS = [
+  ['year', 'Year', false], ['make', 'Make', false], ['model', 'Model', false], ['trim', 'Trim', false],
+  ['price', 'Price', true], ['mileage', 'Mileage', true], ['drivetrain', 'Drive', false],
+  ['dealer', 'Dealer', false], ['city', 'City', false], ['url', '', false],
+];
+function renderHead() {
+  document.getElementById('thead').innerHTML = COLS.map(([k, lbl, num]) =>
+    `<th class="${num ? 'num' : ''}" data-k="${k}">${lbl}${sortKey === k ? ` <span class="arrow">${sortDir > 0 ? '▲' : '▼'}</span>` : ''}</th>`
+  ).join('');
+  document.querySelectorAll('#thead th').forEach(th => th.addEventListener('click', () => {
+    const k = th.dataset.k;
+    if (!k || k === 'url') return;
+    if (sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = 1; }
+    render();
+  }));
+}
+function renderTable(data) {
+  const sorted = [...data].sort((a, b) => {
+    const av = a[sortKey], bv = b[sortKey];
+    if (av == null && bv == null) return 0;
+    if (av == null) return 1;   // nulls last
+    if (bv == null) return -1;
+    return (typeof av === 'number' ? av - bv : String(av).localeCompare(String(bv))) * sortDir;
+  });
+  const slice = sorted.slice(0, shown);
+  document.getElementById('tbody').innerHTML = slice.map(v => `
+    <tr>
+      <td>${v.year ?? '—'}</td><td>${v.make ?? '—'}</td><td>${v.model ?? '—'}</td>
+      <td class="mut">${v.trim ?? ''}</td>
+      <td class="num">${v.price != null ? fmt$(v.price) : '<span class="mut">call</span>'}</td>
+      <td class="num">${fmtMi(v.mileage)}</td>
+      <td class="mut">${v.drivetrain ?? ''}</td>
+      <td>${v.dealer}</td><td class="mut">${v.city}, ${v.state}</td>
+      <td>${v.url ? `<a href="${v.url}" target="_blank" rel="noopener">view ↗</a>` : ''}</td>
+    </tr>`).join('');
+  document.getElementById('morebar').hidden = sorted.length <= shown;
+  document.getElementById('f-count').textContent =
+    `${data.length.toLocaleString()} of ${vehicles.length.toLocaleString()} vehicles` + (sorted.length > shown ? ` · showing ${shown}` : '');
+}
+
+// ---------- wiring ----------
+function setFilter(key, val) {
+  F[key] = val;
+  if (key === 'dealer') document.getElementById('f-dealer').value = val;
+  shown = 200;
+  render();
+}
+function render() {
+  const data = filtered();
+  renderHead();
+  renderTable(data);
+  drawHistogram(data);
+  drawByDealer(data);
+  document.querySelectorAll('.dcard').forEach(c => c.classList.toggle('active', c.dataset.slug === F.dealer));
+}
+
+// populate selects
+const regions = [...new Set(dealers.map(d => d.region))];
+document.getElementById('f-region').innerHTML += regions.map(r => `<option>${r}</option>`).join('');
+const makes = [...new Set(vehicles.map(v => v.make).filter(Boolean))].sort();
+document.getElementById('f-make').innerHTML += makes.map(mk => `<option>${mk}</option>`).join('');
+document.getElementById('f-dealer').innerHTML += regions.map(r =>
+  `<optgroup label="${r}">` + dealers.filter(d => d.region === r).sort((a, b) => a.name.localeCompare(b.name))
+    .map(d => `<option value="${d.slug}">${d.name}</option>`).join('') + '</optgroup>'
+).join('');
+
+const on = (id, ev, fn) => document.getElementById(id).addEventListener(ev, fn);
+on('f-search', 'input', e => { F.search = e.target.value; shown = 200; render(); });
+on('f-region', 'change', e => setFilter('region', e.target.value));
+on('f-make', 'change', e => setFilter('make', e.target.value));
+on('f-dealer', 'change', e => setFilter('dealer', e.target.value));
+on('f-type', 'change', e => setFilter('type', e.target.value));
+on('f-pmin', 'change', e => setFilter('pmin', e.target.value === '' ? null : +e.target.value));
+on('f-pmax', 'change', e => setFilter('pmax', e.target.value === '' ? null : +e.target.value));
+on('f-mmax', 'change', e => setFilter('mmax', e.target.value === '' ? null : +e.target.value));
+on('f-clear', 'click', () => {
+  Object.assign(F, { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null });
+  ['f-search', 'f-region', 'f-make', 'f-dealer', 'f-type', 'f-pmin', 'f-pmax', 'f-mmax'].forEach(id => document.getElementById(id).value = '');
+  shown = 200; render();
+});
+on('more', 'click', () => { shown += 400; render(); });
+
+document.getElementById('foot').innerHTML =
+  `<b>Data notes</b><ul>${DATA.meta.notes.map(n => `<li>${n}</li>`).join('')}</ul>`;
+
+renderCards();
+render();
+</script>
+</body>
+</html>

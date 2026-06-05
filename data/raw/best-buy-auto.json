@@ -1,0 +1,261 @@
+{
+  "name": "Best Buy Auto",
+  "slug": "best-buy-auto",
+  "type": "independent",
+  "address": "11245 150th Ave",
+  "city": "Little Falls",
+  "state": "MN",
+  "phone": "320-632-5050",
+  "website": "https://yourbestbuy.com",
+  "specialties": [
+    "used cars",
+    "used trucks",
+    "used SUVs",
+    "wholesale/budget vehicles"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: dealerwebsite.com / dealercdn.com platform confirmed via SSL cert wildcard *.dealerwebsite.com (TLS handshake), CSS from s3.amazonaws.com/themes.dealercdn.com/T1140/, images from u.dealercdn.com/acct/1507/. Site has no JSON-LD, no API endpoints, no sitemap with JSON feeds. Inventory URL pattern: /inventory/CurrentPage=N,VehicleCategory=330,Make=,... (HTML page-based). All inventory is server-rendered HTML with inventory-item div structure. pageSize=100 returns 25 vehicles which is the full inventory (Wholesale Lot category 330). Extracted via HTML parsing of inventory-item blocks with Price, Mileage, Drive, VIN fields.",
+  "inventory": [
+    {
+      "url": "http://yourbestbuy.com/463535/2015-BMW-428-XI-GRAN-COUPE",
+      "year": 2015,
+      "make": "Bmw",
+      "model": "428",
+      "trim": "Xi Gran Coupe",
+      "price": 8750,
+      "mileage": 129264,
+      "drivetrain": "AWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/339955/2003-BMW-Z4-30",
+      "year": 2003,
+      "make": "Bmw",
+      "model": "Z4",
+      "trim": "3.0",
+      "price": 13000,
+      "mileage": 50298,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/432020/2013-CHEVROLET-CAMARO-CONVT-LT",
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "Convt. Lt",
+      "price": 9995,
+      "mileage": 172229,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/487439/2006-CHEVROLET-COLORADO-LT",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Lt",
+      "price": 3850,
+      "mileage": 175423,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/490265/2016-CHEVROLET-CRUZE-LS",
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "Ls",
+      "price": 3950,
+      "mileage": 140614,
+      "drivetrain": "FWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/487284/2017-CHEVROLET-EQUINOX-LT",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "Lt",
+      "price": 6900,
+      "mileage": 127249,
+      "drivetrain": "AWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/487718/2020-CHEVROLET-EQUINOX-LS",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "Ls",
+      "price": 9950,
+      "mileage": 96374,
+      "drivetrain": "FWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/472355/2016-CHEVROLET-SILVERADO-1500",
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500",
+      "price": 13995,
+      "mileage": 78334,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/477565/2012-CHEVROLET-SILVERADO-1500",
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500",
+      "price": 2450,
+      "mileage": 231337,
+      "drivetrain": "4WD"
+    },
+    {
+      "url": "http://yourbestbuy.com/480991/2015-CHEVROLET-SILVERADO-1500",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500",
+      "price": 9850,
+      "mileage": 151873,
+      "drivetrain": "4WD"
+    },
+    {
+      "url": "http://yourbestbuy.com/483699/2018-CHEVROLET-SILVERADO-1500-LT",
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500 Lt",
+      "price": 14000,
+      "mileage": 181705,
+      "drivetrain": "4WD"
+    },
+    {
+      "url": "http://yourbestbuy.com/480994/2004-CHEVROLET-SILVERADO-3500",
+      "year": 2004,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "3500",
+      "price": 2500,
+      "mileage": 246450,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/413806/2014-CHRYSLER-TOWN-AND-COUNTRY-TOURING",
+      "year": 2014,
+      "make": "Chrysler",
+      "model": "Town",
+      "trim": "&Amp; Country Touring",
+      "price": 4950,
+      "mileage": 214545,
+      "drivetrain": "FWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/369224/2012-DODGE-CHALLENGER-SRT-8",
+      "year": 2012,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "Srt-8",
+      "price": 28000,
+      "mileage": 84248,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/480544/2021-DODGE-CHALLENGER-SXT",
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "Sxt",
+      "price": 11500,
+      "mileage": 73029,
+      "drivetrain": "AWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/489135/2009-DODGE-CHARGER-RT-PERFORMANCE-PACKAGE",
+      "year": 2009,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "R/T Performance Package",
+      "price": 6900,
+      "mileage": 126578,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/490262/2017-DODGE-DURANGO-GT",
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "Gt",
+      "price": 8950,
+      "mileage": 178594,
+      "drivetrain": "AWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/476275/2012-DODGE-RAM-5500-ST",
+      "year": 2012,
+      "make": "Dodge",
+      "model": "Ram",
+      "trim": "5500 St",
+      "price": 35000,
+      "mileage": 430544,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/286309/2000-DODGE-VIPER-RT-10-(Chuck&#39;s)",
+      "year": 2000,
+      "make": "Dodge",
+      "model": "Viper",
+      "trim": "Rt-10 (Chuck&#39;S)",
+      "price": 40000,
+      "mileage": 55077,
+      "drivetrain": "RWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/471051/2013-FIAT-500-POP",
+      "year": 2013,
+      "make": "Fiat",
+      "model": "500",
+      "trim": "Pop",
+      "price": 4450,
+      "mileage": 88100,
+      "drivetrain": "FWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/487283/2018-FORD-EDGE-SE",
+      "year": 2018,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Se",
+      "price": 3950,
+      "mileage": 189169,
+      "drivetrain": "FWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/489932/2014-FORD-EDGE-SPORT",
+      "year": 2014,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Sport",
+      "price": 5950,
+      "mileage": 196821,
+      "drivetrain": "AWD"
+    },
+    {
+      "url": "http://yourbestbuy.com/467698/2011-FORD-F150-SUPERCREW",
+      "year": 2011,
+      "make": "Ford",
+      "model": "F150",
+      "trim": "Supercrew",
+      "price": 8450,
+      "mileage": 172259,
+      "drivetrain": "4WD"
+    },
+    {
+      "url": "http://yourbestbuy.com/489525/2014-FORD-F250-SUPER-DUTY",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F250",
+      "trim": "Super Duty",
+      "price": 9950,
+      "mileage": 183955,
+      "drivetrain": "4WD"
+    }
+  ]
+}

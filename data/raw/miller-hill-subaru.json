@@ -1,0 +1,881 @@
+{
+  "name": "Luther Miller Hill Subaru",
+  "slug": "miller-hill-subaru",
+  "type": "franchise",
+  "address": "4710 Miller Trunk Hwy",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": "218-722-5337",
+  "website": "https://www.millerhillsubaru.com",
+  "specialties": [
+    "Subaru crossovers and SUVs",
+    "Subaru Certified Pre-Owned",
+    "AWD vehicles for northern Minnesota",
+    "Multi-brand used trade-ins"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "CMS: Dealer Inspire (subaru.websites.dealerinspire.com backend, x-cars-signature-v1 header indicating Cars.com platform). ALL requests \u2014 homepage, /inventory/used/, /used-inventory/, /wp-json/, /wp-admin/admin-ajax.php \u2014 returned Cloudflare 403 block targeting IP 23.87.119.212. Probed: /wp-json/wp/v2/ (403), Dealer Inspire admin-ajax (403), sitemap (403), robots.txt (403). Fallback: usedcarsminnesota.com aggregator, 6 pages scraped yielding 86 unique records. Dealer website reports 101 used vehicles; 15 vehicles unaccounted for (aggregator may lag real-time inventory). Listing URLs are inferred from VIN; actual per-listing URLs not available from aggregator.",
+  "inventory": [
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 19347,
+      "mileage": 91663,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BSAFC2K3342640"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Premium",
+      "price": 15230,
+      "mileage": 140278,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GTABC6JH241830"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 11230,
+      "mileage": 158989,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1FM5K8D83JGB35573"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Sport",
+      "price": 19317,
+      "mileage": 105000,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GTHSC0MH306720"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "EX X-Line",
+      "price": 39927,
+      "mileage": 27892,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=5XYP3DGC9RG528642"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium",
+      "price": 11100,
+      "mileage": 141423,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SJAEC8EH478336"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Sport",
+      "price": 21497,
+      "mileage": 78337,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAPC8KH416814"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Premium",
+      "price": 26917,
+      "mileage": 24704,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GUHDC5S8268456"
+    },
+    {
+      "year": 2018,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 11790,
+      "mileage": 100522,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=KNDPMCACXJ7315801"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Premium",
+      "price": 20327,
+      "mileage": 76959,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GTAEC4L8236009"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 12077,
+      "mileage": 78253,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1FMCU9GX5GUA28710"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLT",
+      "price": 25337,
+      "mileage": 26109,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3GKALVEV4ML351634"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Wilderness",
+      "price": 28277,
+      "mileage": 82000,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTGUD4P3146573"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 23937,
+      "mileage": 68695,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTACC6N3252137"
+    },
+    {
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-30",
+      "trim": "2.5 S Select Sport",
+      "price": 24937,
+      "mileage": 47616,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3MVDMBBM8SM758166"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": "5DR WGN CVT",
+      "price": 19347,
+      "mileage": 77248,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF1GUABC8R8364977"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 11230,
+      "mileage": 115253,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3FA6P0H93GR328571"
+    },
+    {
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "LE",
+      "price": 15347,
+      "mileage": 45256,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JN8AZ1MW6EW522333"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited",
+      "price": 24237,
+      "mileage": 66917,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTANC3L3185894"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 37237,
+      "mileage": 16703,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1C4RJHBG4RC123325"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Wilderness",
+      "price": 31237,
+      "mileage": 25052,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAMC6PH514316"
+    },
+    {
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "2SS",
+      "price": 27337,
+      "mileage": 13619,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=2G1FK1EJ0A9156552"
+    },
+    {
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-30",
+      "trim": "2.5 S",
+      "price": 26247,
+      "mileage": 3688,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3MVDMBAM9SM835063"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 16837,
+      "mileage": 56762,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JN8AT2MV6KW372167"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium",
+      "price": 14320,
+      "mileage": 73326,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SJAEC4EH532876"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Touring",
+      "price": 33937,
+      "mileage": 27272,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAMC7RH470782"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "80th Anniversary",
+      "price": 21217,
+      "mileage": 26440,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3C4NJDEB9MT524762"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 28347,
+      "mileage": 15294,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKADC9PH498273"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Premium",
+      "price": 25687,
+      "mileage": 5889,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GUADC4RH211134"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 11020,
+      "mileage": 122020,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1FTEX1CM5BFA43920"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 13220,
+      "mileage": 120929,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=5N1AZ2MH0FN237388"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Onyx Edition",
+      "price": 29857,
+      "mileage": 33700,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTALCXR3293683"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 23237,
+      "mileage": 84763,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTADC9N3219373"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "4WD Platinum",
+      "price": 55237,
+      "mileage": 13140,
+      "drivetrain": "4WD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=5TFWA5DB4RX148009"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Limited",
+      "price": 28037,
+      "mileage": 77034,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAPC8PH414570"
+    },
+    {
+      "year": 2021,
+      "make": "Tesla",
+      "model": "Model 3",
+      "trim": "Long Range",
+      "price": 25037,
+      "mileage": 55131,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=5YJ3E1EB0MF059409"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited",
+      "price": 28147,
+      "mileage": 47850,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTANC1P3164368"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Limited",
+      "price": 32697,
+      "mileage": 43687,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMASD9P3415570"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "4DR SUV CVT",
+      "price": 24337,
+      "mileage": 48303,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GUABC0RH875028"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 19237,
+      "mileage": 89891,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BSAHC7K3387683"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 32227,
+      "mileage": 12412,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SLDBC2SH488338"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Sport",
+      "price": 26347,
+      "mileage": 44760,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4GUHF68R3711532"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "4WD Elevation",
+      "price": 35147,
+      "mileage": 46738,
+      "drivetrain": "4WD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1GTP6BEK5R1166301"
+    },
+    {
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-50",
+      "trim": "Preferred",
+      "price": 26327,
+      "mileage": 44237,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=7MMVABBM3SN308736"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Sport",
+      "price": 26237,
+      "mileage": 48347,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKALC1MH481965"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 26237,
+      "mileage": 19303,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAFC4MH493989"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Wilderness",
+      "price": 30337,
+      "mileage": 22091,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4GUHT69R3731194"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 30227,
+      "mileage": 35102,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMAED4P3451534"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 25337,
+      "mileage": 85923,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKACC5RH435059"
+    },
+    {
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 39645,
+      "mileage": 2594,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMAAD2T3407385"
+    },
+    {
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 35145,
+      "mileage": 2047,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4SLDD68T3021599"
+    },
+    {
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 35345,
+      "mileage": 2158,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4SLDD68T3035065"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "4DR SUV CVT",
+      "price": 24687,
+      "mileage": 32034,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2GUABC9RH869535"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 37947,
+      "mileage": 32277,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1C6SRFJTXNN363546"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 24227,
+      "mileage": 50825,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTACC0L3263017"
+    },
+    {
+      "year": 2019,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Preferred",
+      "price": 12337,
+      "mileage": 87167,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=KL4CJESB3KB798971"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "4DR CVT",
+      "price": 28327,
+      "mileage": 9979,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAACXRH470795"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Touring",
+      "price": 22137,
+      "mileage": 61121,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SJGWC4JH535708"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "4DR SUV 2.5I",
+      "price": 22737,
+      "mileage": 55989,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKADC0LH464300"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 24337,
+      "mileage": 80001,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1C4HJXEN7MW566298"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "XLE",
+      "price": 22747,
+      "mileage": 110772,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=2T3P1RFV5NC324360"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Wilderness",
+      "price": 24637,
+      "mileage": 99628,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAMC7NH488421"
+    },
+    {
+      "year": 2001,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "2DR CPE",
+      "price": 19300,
+      "mileage": 44700,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1G1YY22G315120275"
+    },
+    {
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "S",
+      "price": 22977,
+      "mileage": 21370,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3VVFB7AXXRM177899"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 26227,
+      "mileage": 77079,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKADC2RH445689"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 23737,
+      "mileage": 77961,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTAFC3P3171188"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "4DR CVT",
+      "price": 22737,
+      "mileage": 75320,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAAC8RH433101"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "2WD Z71",
+      "price": 15837,
+      "mileage": 91483,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1GCGSDENXJ1262110"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "4DR AWD",
+      "price": 27647,
+      "mileage": 16081,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SLDAC2SH417822"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Limited",
+      "price": 22637,
+      "mileage": 71449,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SKAUC4MH516609"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "LE",
+      "price": 24270,
+      "mileage": 79270,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=2T3F1RFV0NW284943"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 28237,
+      "mileage": 74224,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=1C6RRFFG5NN405938"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 26237,
+      "mileage": 17193,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=3FMCR9B64RRE70341"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 32237,
+      "mileage": 15067,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SLDDC0SH401498"
+    },
+    {
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Touring",
+      "price": 40685,
+      "mileage": 1660,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4SLDT63T3006039"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium",
+      "price": 10100,
+      "mileage": 208000,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=JF2SJAEC4EH442322"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 23337,
+      "mileage": 89996,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTAFC4P3168512"
+    },
+    {
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 23347,
+      "mileage": 103398,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTADC5R3144628"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Hybrid LE",
+      "price": 25627,
+      "mileage": 70610,
+      "drivetrain": null,
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4T3L6RFV7MU021321"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 34845,
+      "mileage": 23213,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMADD5S3416432"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 35145,
+      "mileage": 23369,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMADD2S3416470"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 35345,
+      "mileage": 17934,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMAAD3S3416725"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium",
+      "price": 35145,
+      "mileage": 18974,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4WMAAD0S3415953"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 22837,
+      "mileage": 83173,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S4BTACC7P3126002"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": "Premium",
+      "price": 25237,
+      "mileage": 41076,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S3BWAD6XS3018261"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": "Premium",
+      "price": 27237,
+      "mileage": 4171,
+      "drivetrain": "AWD",
+      "url": "https://www.millerhillsubaru.com/used-inventory/index.htm?vin=4S3BWAC61S3026735"
+    }
+  ]
+}

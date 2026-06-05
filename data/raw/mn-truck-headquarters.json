@@ -1,0 +1,1021 @@
+{
+  "name": "Minnesota Truck Headquarters of St. Cloud",
+  "slug": "mn-truck-headquarters",
+  "type": "independent",
+  "address": "1805 Hwy 23 E",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-288-1372",
+  "website": "https://www.mthsaintcloud.com",
+  "specialties": [
+    "trucks",
+    "SUVs",
+    "4WD/AWD vehicles",
+    "heavy-duty pickups"
+  ],
+  "coverage": "partial",
+  "method": "html",
+  "notes": "CMS: DealerInspire (retail.websites.dealerinspire.com). Cloudflare blocks all direct curl requests (403 with x-cars-signature-v1 header). Inventory extracted via WebFetch rendering proxy from /inventory/. First page showed 100 vehicles total; second page fetch returned same 100 vehicles confirming 100-vehicle inventory. No JSON endpoint accessible (/api/inventory returns 403, sitemap blocked). Method: html via WebFetch. Affiliated with PAW (Public Auto Wholesale) \u2014 VIN cross-check performed.",
+  "inventory": [
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "LT",
+      "price": 46993,
+      "mileage": 47315,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GB4YTEY7MF252281"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 27993,
+      "mileage": 86000,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3GCUYDET1LG226486"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 37993,
+      "mileage": 23666,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW3L85RKD78022"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler Sahara",
+      "trim": "4xe",
+      "price": 31493,
+      "mileage": 37651,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4RJXP66RW209647"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 38293,
+      "mileage": 26789,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E86NKF00334"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Limited",
+      "price": 51993,
+      "mileage": 35807,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMJU2A86PEA29911"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit-350",
+      "trim": "XLT",
+      "price": 34793,
+      "mileage": 47334,
+      "drivetrain": "RWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FBAX2YG4PKB56431"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 39693,
+      "mileage": 11757,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6RR7LT7PS521119"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 18693,
+      "mileage": 43779,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3C4NJDCB9MT576198"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 40993,
+      "mileage": 20180,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTEW1EPXPFA15063"
+    },
+    {
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "Reserve",
+      "price": 58493,
+      "mileage": 38216,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5LMJJ2LG5REL07095"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 22293,
+      "mileage": 41451,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4RJFBG9JC511210"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500 Big Horn/Lone Star",
+      "trim": "Quad Cab",
+      "price": 26493,
+      "mileage": 81270,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6SRFBTXMN793056"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Platinum",
+      "price": 63993,
+      "mileage": 20874,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW7L86SFA11216"
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Avenir",
+      "price": 36493,
+      "mileage": 21201,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5GAEVCKW4NJ175736"
+    },
+    {
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Genesis",
+      "trim": "3.8",
+      "price": 12993,
+      "mileage": 96607,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/KMHGN4JE9FU099495"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 53993,
+      "mileage": 22851,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW5L87RFC19636"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T",
+      "price": 20993,
+      "mileage": 132182,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4SDJCT8KC717644"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 74493,
+      "mileage": 9279,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GT4UREYXSF302971"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series III",
+      "price": 38393,
+      "mileage": 73729,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4SJVDT4NS119186"
+    },
+    {
+      "year": 2020,
+      "make": "Ram",
+      "model": "5500HD",
+      "trim": "Laramie",
+      "price": 63993,
+      "mileage": 37771,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3C7WRNEL1LG272026"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Z06",
+      "price": 81993,
+      "mileage": 10305,
+      "drivetrain": "RWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1G1YS3D65J5601219"
+    },
+    {
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SL",
+      "price": 13993,
+      "mileage": 67725,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1N4AL3AP5GC155781"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "XLT",
+      "price": 33193,
+      "mileage": 90278,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMJU1JT8NEA57219"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": 16693,
+      "mileage": 128129,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1EF6EKF08643"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 11993,
+      "mileage": 76394,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/KL7CJPSB8LB036106"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "AT4",
+      "price": 66993,
+      "mileage": 20095,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GKS2HKD3RR356702"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "EcoBoost",
+      "price": 23993,
+      "mileage": 49088,
+      "drivetrain": "RWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FA6P8TH6N5140947"
+    },
+    {
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "trim": "Reserve",
+      "price": 66193,
+      "mileage": 16780,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5LMJJ2LGXREL19890"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 28393,
+      "mileage": 90092,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GKS2CKJ4HR185613"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "Lariat",
+      "price": 67493,
+      "mileage": 45148,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT7W2BTXPED84303"
+    },
+    {
+      "year": 2021,
+      "make": "Tesla",
+      "model": "Model S",
+      "trim": "Plaid",
+      "price": 56493,
+      "mileage": 23778,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5YJSA1E69MF436491"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium",
+      "price": 20593,
+      "mileage": 70372,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/2FMPK4K91RBA90620"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 26793,
+      "mileage": 121477,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E86NFB59123"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 40493,
+      "mileage": 39765,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTEW1EP5PFB10663"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Sport Altitude",
+      "price": 25993,
+      "mileage": 32526,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4HJXDG4KW684955"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 46693,
+      "mileage": 34366,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1ED7PFA90166"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 43593,
+      "mileage": 31322,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4SDJCT8RC161586"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "Limited",
+      "price": 45993,
+      "mileage": 71653,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMJK2AT8NEA08940"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 24993,
+      "mileage": 121920,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6SRFRT9MN714174"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "Lariat",
+      "price": 52493,
+      "mileage": 83092,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT8W2BT6NEG01444"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Tradesman",
+      "price": 31993,
+      "mileage": 60868,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3C6UR5CJ3NG320979"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler Rubicon X",
+      "trim": "4xe",
+      "price": 38893,
+      "mileage": 10239,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4RJXR61RW176716"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 50393,
+      "mileage": 44648,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E52PKF08942"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Limited",
+      "price": 51993,
+      "mileage": 32759,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1ED4PFB34513"
+    },
+    {
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "2.5 S Select Package",
+      "price": 24993,
+      "mileage": 19656,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/JM3KFBBMXP0269000"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 47493,
+      "mileage": 48500,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GTUUEE89PZ256645"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 34693,
+      "mileage": 18326,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMSK8DH9RGA08115"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited Rubicon",
+      "trim": "Recon",
+      "price": 21793,
+      "mileage": 106140,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4BJWFG7HL682673"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LTZ",
+      "price": 48493,
+      "mileage": 81906,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GC4YPEYXMF107951"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 53993,
+      "mileage": 46914,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GT49RE77LF151310"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "SLE",
+      "price": 48493,
+      "mileage": 11217,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GT3UTE79SF273155"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sahara",
+      "price": 41493,
+      "mileage": 3057,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4PJXEG1SW569949"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "1500 Big Horn/Lone Star",
+      "trim": "Crew Cab",
+      "price": 23993,
+      "mileage": 111680,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6SRFMT8NN390207"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 31993,
+      "mileage": 104744,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E87NKD28797"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Sport",
+      "price": 26593,
+      "mileage": 63338,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6HJTAG9LL170493"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Versa",
+      "trim": "1.6 S",
+      "price": 15293,
+      "mileage": 34369,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3N1CN8DV2RL834292"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "Denali",
+      "price": 51993,
+      "mileage": 103496,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GT49REY5PF221868"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "Platinum",
+      "price": 31993,
+      "mileage": 148271,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT7W2BT4EEA53648"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series II",
+      "price": 44993,
+      "mileage": 60244,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4SJVBPXPS557672"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 29693,
+      "mileage": 37278,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E58MFD10032"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 34293,
+      "mileage": 104866,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3GCUDEED3PG357550"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SV",
+      "price": 26493,
+      "mileage": 47276,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5N1DR3BAXRC311473"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "XLT",
+      "price": 55293,
+      "mileage": 22544,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT8W3BT4RED57210"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "Lariat",
+      "price": 26493,
+      "mileage": 93757,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTER4FH9NLD31472"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 31293,
+      "mileage": 113037,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GKS2CKJ2LR122762"
+    },
+    {
+      "year": 2022,
+      "make": "Volvo",
+      "model": "S60 Recharge Plug-In Hybrid",
+      "trim": "T8 R-Design",
+      "price": 22593,
+      "mileage": 93325,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/7JRH60FZ8NG192341"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT",
+      "price": 17393,
+      "mileage": 132584,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GNEVGKW7MJ141561"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "ST",
+      "price": 47193,
+      "mileage": 10616,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMWK8GC6SGB11886"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 49993,
+      "mileage": 35442,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GTUUGEL0PZ298525"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "trim": "LT",
+      "price": 21493,
+      "mileage": 60458,
+      "drivetrain": "RWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GAZGPFG7H1179958"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 22593,
+      "mileage": 106730,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTEX1EP1NKE43153"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 33996,
+      "mileage": 41737,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4RJHBGXRC205365"
+    },
+    {
+      "year": 2022,
+      "make": "Ram",
+      "model": "2500",
+      "trim": "Laramie",
+      "price": 45493,
+      "mileage": 77936,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3C6UR5FL0NG168107"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T Plus",
+      "price": 44493,
+      "mileage": 20390,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4SDJCT9RC221231"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 17993,
+      "mileage": 128333,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTEW1E81FFB72195"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 48393,
+      "mileage": 31869,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW1E89PKE48359"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE",
+      "price": 27193,
+      "mileage": 38664,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/4T1S11BK0RU123731"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 16893,
+      "mileage": 50995,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1G1ZD5ST8RF128344"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "Lariat",
+      "price": 38993,
+      "mileage": 57003,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT8X3BT6FEC20276"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-350SD",
+      "trim": "King Ranch",
+      "price": 64993,
+      "mileage": 34175,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT8W3BT8KEC56208"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 LTD",
+      "trim": "LT Trail Boss",
+      "price": 39493,
+      "mileage": 44044,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GCPYFEL5NZ145423"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 16493,
+      "mileage": 63066,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMCU9G65MUA81927"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 20493,
+      "mileage": 94562,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMSK8DH4LGC46929"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 55993,
+      "mileage": 10655,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GTUUEEL8PZ149171"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 77693,
+      "mileage": 12346,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GKS2DRLXSR264949"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "trim": "High Roof",
+      "price": 31593,
+      "mileage": 39573,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3C6LRVDG0PE589163"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "XSE",
+      "price": 49493,
+      "mileage": 24386,
+      "drivetrain": "AWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/5TDGSKFC1RS150943"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 44993,
+      "mileage": 34175,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTFW3L87RFA85831"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "price": 21693,
+      "mileage": 20645,
+      "drivetrain": "FWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3GKALMEG8RL347511"
+    },
+    {
+      "year": 2011,
+      "make": "Ram",
+      "model": "3500HD",
+      "trim": "ST",
+      "price": 17793,
+      "mileage": 80900,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3D6WZ4ET4BG600443"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "XLT",
+      "price": 38793,
+      "mileage": 54127,
+      "drivetrain": "RWD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FMJK1H84REA43413"
+    },
+    {
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "TRX",
+      "price": 64993,
+      "mileage": 62152,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6SRFU9XMN904819"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250SD",
+      "trim": "Lariat",
+      "price": 65493,
+      "mileage": 16134,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FT8W2BT1MEC34158"
+    },
+    {
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 22593,
+      "mileage": 125074,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C6SRFJT9KN577102"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 20793,
+      "mileage": 106934,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/3GCUKREC5JG354354"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 40693,
+      "mileage": 34179,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1FTEW1E51LFB91833"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport",
+      "price": 20993,
+      "mileage": 75201,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1C4GJXAG3LW254335"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier",
+      "price": 68693,
+      "mileage": 2668,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GNS6SRD3SR283802"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Commercial Fleet",
+      "price": 26993,
+      "mileage": 82962,
+      "drivetrain": "4WD",
+      "url": "https://www.mthsaintcloud.com/inventory/used/1GNSKLED3MR389175"
+    }
+  ]
+}

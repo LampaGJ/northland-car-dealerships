@@ -1,0 +1,15 @@
+{
+  "name": "Lahti Towing & Sales",
+  "slug": "lahti-towing-sales",
+  "type": "independent",
+  "address": "E5696 US-2",
+  "city": "Ironwood",
+  "state": "MI",
+  "phone": "906-932-1100",
+  "website": "https://www.lahtitowingandsales.com",
+  "specialties": ["towing", "auto repair", "body shop", "occasional used vehicle sales"],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Website https://www.lahtitowingandsales.com returned ECONNREFUSED - offline at time of extraction. CarGurus profile (https://www.cargurus.com/Cars/m-Lahti-Towing-Sales-Inc-sp337048) shows 0 active listings. Driverbase profile shows 0 vehicles. marketplace.apg-wi.com listed a single 'Volkswagen Vanagon' image with no details (circa 2018 post). Facebook page exists at facebook.com/LahtiTowingandSales/ but not accessible for scraping. Business is primarily a towing and full-service repair/body shop with occasional vehicle sales secondary; inventory is small and unlisted on all reachable aggregators at time of extraction.",
+  "inventory": []
+}

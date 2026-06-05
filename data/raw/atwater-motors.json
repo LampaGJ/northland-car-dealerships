@@ -1,0 +1,20 @@
+{
+  "name": "Atwater Motors",
+  "slug": "atwater-motors",
+  "type": "independent",
+  "address": "14775 Edgewood Dr N",
+  "city": "Baxter",
+  "state": "MN",
+  "phone": "218-454-3950",
+  "website": "https://www.atwatermotors.com",
+  "specialties": [
+    "Chevrolet and GMC vehicles",
+    "trucks and pickups",
+    "SUVs and crossovers",
+    "affiliated with Atwater Chevrolet GMC Aitkin"
+  ],
+  "coverage": "summary-only",
+  "method": "html",
+  "notes": "Inventory is pooled with affiliated Atwater Chevrolet GMC (Aitkin) — the Baxter Wix site directs all inventory to atwatergm.com. Vehicles are recorded under atwater-chevrolet-gmc to avoid double-counting.",
+  "inventory": []
+}

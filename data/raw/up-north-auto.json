@@ -1,0 +1,26 @@
+{
+  "name": "Up North Auto",
+  "slug": "up-north-auto",
+  "type": "independent",
+  "address": "5547 Hwy 2",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": "218-270-8868",
+  "website": null,
+  "specialties": ["affordable used cars", "high-mileage economy vehicles", "Japanese imports", "value pricing"],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "No website found. Facebook page exists (facebook.com/upnorthautosales/) but was inaccessible via WebFetch. CarEdge, Driverbase, BBB, and Yelp all confirm business details but show no inventory. autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto lists 10 vehicles with listings dated 05/20/2026 through 05/29/2026 — these are the most current accessible data. A prior web search surfaced additional vehicles (2012 Hyundai Santa Fe $5,995/147k mi, 2011 Honda Pilot $5,995/211k mi, 2008 Toyota Sienna $4,995/208k mi, 2010 Honda Element $5,995/182k mi, 2009 Pontiac Vibe $4,995/208k mi, 2002 Acura TL $5,995/104k mi) that are not represented on autoyas.com, suggesting those have sold or the autoyas.com list is incomplete. The 10 autoyas.com vehicles are used as the inventory here. Upnorthautosales.com referenced in search results was not resolvable. Coverage is partial.",
+  "inventory": [
+    {"year": 2006, "make": "Ford", "model": "Fusion", "trim": "SE", "price": 4495, "mileage": 180000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2009, "make": "Honda", "model": "Fit", "trim": "Sport", "price": 4995, "mileage": 177000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2006, "make": "Honda", "model": "Civic", "trim": "EX-L", "price": 4495, "mileage": 208000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2012, "make": "Kia", "model": "Sedona", "trim": "LX", "price": 5995, "mileage": 117000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2011, "make": "Acura", "model": "MDX", "trim": null, "price": 5995, "mileage": 190000, "drivetrain": "AWD", "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2004, "make": "Honda", "model": "Accord", "trim": "EX", "price": 5995, "mileage": 147000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2008, "make": "Mazda", "model": "Mazda3", "trim": "S", "price": 5995, "mileage": 137000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2012, "make": "Infiniti", "model": "G37", "trim": "X Coupe AWD", "price": 6995, "mileage": 184000, "drivetrain": "AWD", "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2013, "make": "Chrysler", "model": "Town & Country", "trim": "Touring", "price": 5995, "mileage": 162000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
+    {"year": 2013, "make": "Nissan", "model": "Altima", "trim": "S", "price": 6495, "mileage": 132000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"}
+  ]
+}

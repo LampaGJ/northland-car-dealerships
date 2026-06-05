@@ -1,0 +1,811 @@
+{
+  "name": "Red's Auto of Ironwood",
+  "slug": "reds-auto-ironwood",
+  "type": "independent",
+  "address": "1231 E Cloverland Dr",
+  "city": "Ironwood",
+  "state": "MI",
+  "phone": "906-932-4449",
+  "website": "https://redsautosales.com",
+  "specialties": [
+    "heavy-duty trucks",
+    "medium-duty work trucks",
+    "SUVs and crossovers",
+    "budget vehicles under $10k"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "WordPress (Divi 4.27, Yoast SEO) site embeds AutoFind.com iframe (dealer ID 6227, cdn.getauto.com). WP REST API /wp-json/wp/v2/ has no active vehicle CPT. Inventory extracted by paginating all 4 pages of the AutoFind iframe listing endpoint (https://www.autofind.com/dealer/listing/6227?page=N), then fetching each vehicle detail page for JSON-LD schema.org/Car data (mileage, trim, drivetrain, price). One 2026 Ford F-250 Super Duty (VIN 1FT7W2BN8TEC64575) has no price or mileage on detail page - likely incoming/not yet priced. Operates two lots: main at 1231 E Cloverland Dr and budget lot at 1333 E Cloverland Dr; both share the AutoFind feed.",
+  "inventory": [
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "trim": null,
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT7W2BN8TEC64575/"
+    },
+    {
+      "year": 2025,
+      "make": "Cadillac",
+      "model": "Escalade-V",
+      "trim": "Base",
+      "price": 179995,
+      "mileage": 8644,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GYS9HR99SR360391/"
+    },
+    {
+      "year": 2025,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "price": 49995,
+      "mileage": 14438,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GYKNDRS3SZ139215/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 58995,
+      "mileage": 26369,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC1KNE70SF324244/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 58995,
+      "mileage": 16376,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC1KNE70SF330870/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 65995,
+      "mileage": 25589,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC1KNEY9SF297991/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 58995,
+      "mileage": 16516,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/2GC1KNE77S1232894/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": 61995,
+      "mileage": 17871,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNS6NRD7SR276420/"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "trim": "XLT",
+      "price": 73995,
+      "mileage": 24918,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT8W3BT9SEC33276/"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "AT4",
+      "price": 77995,
+      "mileage": 9142,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GT1UPEY4SF194371/"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "ProMaster",
+      "trim": "Tradesman 2500",
+      "price": 45995,
+      "mileage": 422,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C6LRVDGXSE562089/"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "ProMaster",
+      "trim": "Tradesman 3500",
+      "price": 49995,
+      "mileage": 423,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C6MRVJG1SE563284/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Trail Boss",
+      "price": 39995,
+      "mileage": 16316,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GCPTEEK3R1251356/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "SILVERADO 6500HD",
+      "trim": "Dump Body",
+      "price": 88995,
+      "mileage": 449,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1HTKJPVM1RH794342/"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T",
+      "price": 45995,
+      "mileage": 36389,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1C4SDJCT2RC150065/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium",
+      "price": 32995,
+      "mileage": 18475,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2FMPK4K9XRBA47510/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 44995,
+      "mileage": 11613,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTFW3L85RFA03904/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "trim": "XL",
+      "price": 52995,
+      "mileage": 13699,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT7W2BA3RED93913/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "trim": "XLT",
+      "price": 56995,
+      "mileage": 13116,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT7W2BN7REF12548/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "trim": "XL",
+      "price": 54995,
+      "mileage": 21294,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT8W3BN4REE00753/"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "SLE",
+      "price": 58995,
+      "mileage": 17599,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GT19ME77RF443165/"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "trim": "SLE",
+      "price": 58995,
+      "mileage": 18473,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GT49TE70RF303918/"
+    },
+    {
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "2.5 S Preferred",
+      "price": 29995,
+      "mileage": 29606,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/JM3KFBCL9R0521036/"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "SLT",
+      "price": 67995,
+      "mileage": 12135,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C7WRTCL8RG366324/"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "5500",
+      "trim": "5500",
+      "price": 79995,
+      "mileage": 551,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C7WRNBL5RG262287/"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "5500",
+      "trim": "Regular Cab",
+      "price": 79995,
+      "mileage": 583,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C7WRNBL7RG368420/"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "5500",
+      "trim": "5500",
+      "price": 89995,
+      "mileage": 474,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/3C7WRNFL9RG288546/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": 44995,
+      "mileage": 95530,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC1YNEY0PF250905/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "Premier",
+      "price": 43995,
+      "mileage": 11811,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNEVKKW8PJ159977/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 39995,
+      "mileage": 20233,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FMSK8DH7PGA47279/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Tremor",
+      "price": 53995,
+      "mileage": 47130,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTEW1E84PFB92359/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 48995,
+      "mileage": 15970,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTFW1E8XPKE59239/"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 39995,
+      "mileage": 17495,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1C6SRFFT8PN669012/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 Limited",
+      "trim": "High Country",
+      "price": 45995,
+      "mileage": 45821,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GCUYHED0NZ130142/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": 49995,
+      "mileage": 66439,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNSKNKD4NR270181/"
+    },
+    {
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited",
+      "price": 24995,
+      "mileage": 72307,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2C4RC1GG9NR129505/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "E-Series",
+      "trim": "E-350 SD",
+      "price": 52995,
+      "mileage": 18161,
+      "drivetrain": "RWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FDWE3FN6NDC10887/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 39995,
+      "mileage": 43941,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTFW1E80NKE26361/"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "CR-V Hybrid",
+      "trim": "EX-L",
+      "price": 18995,
+      "mileage": 187641,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/5J6RT6H86NL009054/"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Limited",
+      "price": 27995,
+      "mileage": 88261,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1C4RJKBG1N8567014/"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "ProMaster City",
+      "trim": "Base",
+      "price": 28995,
+      "mileage": 39016,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/ZFBHRFAB6N6Y55255/"
+    },
+    {
+      "year": 2021,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Sport",
+      "price": 25995,
+      "mileage": 88688,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GYKNGRS0MZ113899/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Work Truck",
+      "price": 44995,
+      "mileage": 43735,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC2YLE72MF237374/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Work Truck",
+      "price": 29990,
+      "mileage": 83551,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC2YLE78MF114842/"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 39995,
+      "mileage": 36920,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTFX1E80MKD66710/"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 28995,
+      "mileage": 64373,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTER4FH0MLD94815/"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo X",
+      "price": 29995,
+      "mileage": 45496,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1C4RJFAG6MC800177/"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Sport",
+      "price": 24995,
+      "mileage": 98042,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/JF2SKARC6MH484772/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado Medium 5500",
+      "trim": "Crew Cab",
+      "price": 59995,
+      "mileage": 57404,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1HTKJPVK0LH173356/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "LTZ",
+      "price": 49995,
+      "mileage": 65692,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC4KXEY6KF205325/"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Express",
+      "price": 29995,
+      "mileage": 58353,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1C6RR7KT7KS537668/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 23995,
+      "mileage": 127928,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNSKHKC4JR236356/"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "trim": "XL",
+      "price": 18995,
+      "mileage": 207461,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FT7W2B6XJEB22928/"
+    },
+    {
+      "year": 2017,
+      "make": "Cadillac",
+      "model": "ATS",
+      "trim": "3.6L Premium Luxury",
+      "price": 19995,
+      "mileage": 65803,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1G6AJ5SS7H0196188/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 11995,
+      "mileage": 85401,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2GNFLFEK8H6285698/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "trim": "LT Auto",
+      "price": 10995,
+      "mileage": 98282,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1G1JD6SB1H4107601/"
+    },
+    {
+      "year": 2017,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring",
+      "price": 13995,
+      "mileage": 153951,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2C4RC1DG7HR642891/"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "SXT",
+      "price": 22995,
+      "mileage": 63515,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2C3CDXJG8HH540097/"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Limited",
+      "price": 19995,
+      "mileage": 182914,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FTEW1EGXHFA28235/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "TRD Off-Road",
+      "price": 29995,
+      "mileage": 124201,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/3TMDZ5BN9HM017711/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Cruze Limited",
+      "trim": "1LT Auto",
+      "price": 9995,
+      "mileage": 108354,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1G1PE5SB5G7100584/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": null,
+      "price": 29995,
+      "mileage": 122472,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GC2KWEG5GZ189956/"
+    },
+    {
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "SONATA",
+      "trim": "Sport",
+      "price": 14995,
+      "mileage": 23151,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/5NPE34AF6GH322520/"
+    },
+    {
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 12995,
+      "mileage": 59954,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2C4RDGBGXFR668935/"
+    },
+    {
+      "year": 2015,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "EX",
+      "price": 9995,
+      "mileage": 151999,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/3HGGK5H86FM719941/"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Impala Limited",
+      "trim": "LS Fleet",
+      "price": 7995,
+      "mileage": 122079,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2G1WA5E36E1169936/"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 6995,
+      "mileage": 240465,
+      "drivetrain": "4X2",
+      "url": "https://www.autofind.com/dealer/details/6227/1GCRCREC3EZ284037/"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 9995,
+      "mileage": 148813,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNSKJE77ER194602/"
+    },
+    {
+      "year": 2014,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE 30th Anniversary",
+      "price": 8995,
+      "mileage": 110257,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2C4RDGBG4ER223024/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Sport",
+      "price": 9995,
+      "mileage": 172532,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1FM5K8GTXEGA73076/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Flex",
+      "trim": "SEL",
+      "price": 9995,
+      "mileage": 131300,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/2FMHK6C83EBD00893/"
+    },
+    {
+      "year": 2014,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "trim": "i Touring",
+      "price": 9995,
+      "mileage": 97998,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/JM1BM1L76E1204864/"
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": "2.5i Premium",
+      "price": 8995,
+      "mileage": 167090,
+      "drivetrain": "AWD",
+      "url": "https://www.autofind.com/dealer/details/6227/4S3BMCD67E3035721/"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 7995,
+      "mileage": 118657,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/3FAHP0HA4CR180041/"
+    },
+    {
+      "year": 2012,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "Limited",
+      "price": 13995,
+      "mileage": 112805,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/2T3DF4DV0CW253509/"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT",
+      "price": 8995,
+      "mileage": 98445,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/1GNKRGED4BJ358435/"
+    },
+    {
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Grade",
+      "price": 29995,
+      "mileage": 28191,
+      "drivetrain": "4WD",
+      "url": "https://www.autofind.com/dealer/details/6227/5TFMY5F1XBX193534/"
+    },
+    {
+      "year": 2006,
+      "make": "Scion",
+      "model": "xB",
+      "trim": "Base",
+      "price": 4995,
+      "mileage": 169638,
+      "drivetrain": "FWD",
+      "url": "https://www.autofind.com/dealer/details/6227/JTLKT324164115360/"
+    },
+    {
+      "year": 1962,
+      "make": "Ford",
+      "model": "GALAXIE 500",
+      "trim": "500XL",
+      "price": 59995,
+      "mileage": 32584,
+      "drivetrain": "RWD",
+      "url": "https://www.autofind.com/dealer/details/6227/0000002W69X154141/"
+    }
+  ]
+}

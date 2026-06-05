@@ -1,0 +1,511 @@
+{
+  "name": "Kolar Hyundai",
+  "slug": "kolar-hyundai",
+  "type": "franchise",
+  "address": "5014 Miller Trunk Hwy",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": null,
+  "website": "https://www.kolarhyundai.com/",
+  "specialties": [
+    "Hyundai SUVs/crossovers (Santa Fe/Tucson/Kona)",
+    "Hyundai certified pre-owned",
+    "mixed-make used lot (Toyota/Honda/Jeep)",
+    "budget under $15k available"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: Dealer Inspire/Gearbox (same platform as kolartoyota.com; /resrc/xmlsitemap/ endpoint confirms). Direct site (kolarhyundai.com) blocked by Cloudflare JS challenge on content paths; sitemap endpoint bypasses challenge and returned 49 used vehicle URLs. Individual listing pages fetched via WebFetch. All 49 URLs fetched. 3 listings have null price (call for price or not listed on page). 1 listing has null mileage.",
+  "inventory": [
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "SX-Prestige",
+      "price": 30990,
+      "mileage": 38062,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2023-kia-sorento-sxprestige-hermantown-mn/107716801/"
+    },
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "SEL",
+      "price": 24497,
+      "mileage": 5169,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-hyundai-sonata-sel-hermantown-mn/109260866/"
+    },
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "SEL",
+      "price": 23897,
+      "mileage": 9191,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-hyundai-sonata-sel-hermantown-mn/111474221/"
+    },
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "trim": "Limited",
+      "price": 31490,
+      "mileage": 4602,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-hyundai-sonata-hybrid-limited-hermantown-mn/112116515/"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SE",
+      "price": 33336,
+      "mileage": 3843,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2025-hyundai-santa-fe-se-hermantown-mn/112352639/"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Santa Fe XL",
+      "trim": "Limited",
+      "price": 14756,
+      "mileage": 115221,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2019-hyundai-santa-fe-xl-limited-hermantown-mn/112672934/"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "SE",
+      "price": 21199,
+      "mileage": 3022,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2025-hyundai-elantra-se-hermantown-mn/113762171/"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "trim": "R/T",
+      "price": 26797,
+      "mileage": 3851,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-dodge-hornet-rt-hermantown-mn/113762177/"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Cruz",
+      "trim": "SEL",
+      "price": 21490,
+      "mileage": 74974,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-hyundai-santa-cruz-sel-hermantown-mn/113867147/"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "price": 17749,
+      "mileage": 92657,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2016-jeep-wrangler-unlimited-sport-hermantown-mn/114439520/"
+    },
+    {
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "SEL Premium",
+      "price": 29249,
+      "mileage": 6194,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2026-hyundai-kona-sel-premium-hermantown-mn/115967261/"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 19773,
+      "mileage": 74553,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2018-gmc-terrain-denali-hermantown-mn/116142482/"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SEL",
+      "price": 12277,
+      "mileage": 150680,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2019-hyundai-santa-fe-sel-hermantown-mn/117141128/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "XLE Premium",
+      "price": 36279,
+      "mileage": 39509,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-toyota-rav4-xle-premium-hermantown-mn/118227389/"
+    },
+    {
+      "year": 2025,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX",
+      "price": 33990,
+      "mileage": 15162,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2025-honda-cr-v-ex-hermantown-mn/118343045/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 15699,
+      "mileage": 133009,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2019-jeep-cherokee-limited-hermantown-mn/118451930/"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "price": 16947,
+      "mileage": 145993,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2018-honda-pilot-exl-hermantown-mn/118547657/"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "Limited",
+      "price": 26275,
+      "mileage": 42119,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-hyundai-santa-fe-limited-hermantown-mn/119001863/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 20770,
+      "mileage": 142350,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2018-chevrolet-suburban-lt-hermantown-mn/119204093/"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Venue",
+      "trim": "Limited",
+      "price": 19526,
+      "mileage": 26998,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2023-hyundai-venue-limited-hermantown-mn/119385497/"
+    },
+    {
+      "year": 2016,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE",
+      "price": 19849,
+      "mileage": 83279,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2016-toyota-rav4-hybrid-xle-hermantown-mn/119513975/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Venza",
+      "trim": "Limited",
+      "price": 26893,
+      "mileage": 102052,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2021-toyota-venza-limited-hermantown-mn/119699381/"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 13088,
+      "mileage": 123422,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2017-jeep-cherokee-limited-hermantown-mn/119722988/"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE Premium",
+      "price": 31897,
+      "mileage": 82126,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-toyota-rav4-hybrid-xle-premium-hermantown-mn/119722991/"
+    },
+    {
+      "year": 2020,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "EX",
+      "price": 18990,
+      "mileage": 127371,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2020-kia-telluride-ex-hermantown-mn/119898083/"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Touring",
+      "price": 36399,
+      "mileage": 27385,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2023-subaru-ascent-touring-hermantown-mn/119967986/"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Avalon",
+      "trim": "TRD",
+      "price": 36999,
+      "mileage": 25819,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2021-toyota-avalon-trd-hermantown-mn/119967989/"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "SEL",
+      "price": 21897,
+      "mileage": 58911,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-hyundai-tucson-sel-hermantown-mn/119967992/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 24999,
+      "mileage": 66889,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2020-ford-explorer-xlt-hermantown-mn/120228419/"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude X",
+      "price": 36490,
+      "mileage": 13433,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-jeep-grand-cherokee-altitude-x-hermantown-mn/120359423/"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "price": 17490,
+      "mileage": 108560,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2016-jeep-wrangler-unlimited-sport-hermantown-mn/120366686/"
+    },
+    {
+      "year": 2016,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "Touring",
+      "price": 19087,
+      "mileage": 63402,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2016-mazda-cx-5-touring-hermantown-mn/120609137/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 43999,
+      "mileage": 7634,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2024-chevrolet-silverado-1500-lt-hermantown-mn/120644933/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "Lariat",
+      "price": 34474,
+      "mileage": 51934,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-ford-ranger-lariat-hermantown-mn/120674351/"
+    },
+    {
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "GT",
+      "price": 26999,
+      "mileage": 72838,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2021-dodge-charger-gt-hermantown-mn/120679460/"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "SEL",
+      "price": 23999,
+      "mileage": 8479,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2025-hyundai-kona-sel-hermantown-mn/120679463/"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 29999,
+      "mileage": 48245,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2018-toyota-highlander-xle-hermantown-mn/120833087/"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "Hybrid Limited",
+      "price": 25999,
+      "mileage": 10617,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2025-hyundai-elantra-hybrid-limited-hermantown-mn/120888119/"
+    },
+    {
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SE",
+      "price": 13627,
+      "mileage": 140232,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2019-hyundai-santa-fe-se-hermantown-mn/120914513/"
+    },
+    {
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "SE",
+      "price": null,
+      "mileage": 251445,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2013-toyota-highlander-se-hermantown-mn/120950972/"
+    },
+    {
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Platinum",
+      "price": 34999,
+      "mileage": 50000,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-nissan-pathfinder-platinum-hermantown-mn/121088183/"
+    },
+    {
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LT",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2010-chevrolet-impala-lt-hermantown-mn/121142477/"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "LX",
+      "price": 11999,
+      "mileage": 129737,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2013-honda-cr-v-lx-hermantown-mn/121142480/"
+    },
+    {
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Limited",
+      "price": null,
+      "mileage": 9000,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2026-toyota-tundra-limited-hermantown-mn/121186190/"
+    },
+    {
+      "year": 2021,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "Hybrid EX-L",
+      "price": 19999,
+      "mileage": 146885,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2021-honda-cr-vhybrid-exl-hermantown-mn/121225874/"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "trim": "SEL Convenience",
+      "price": 24999,
+      "mileage": 47618,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2022-hyundai-tucson-hybrid-sel-convenience-hermantown-mn/121225880/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE",
+      "price": 19849,
+      "mileage": 126802,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2017-toyota-camry-se-hermantown-mn/121292993/"
+    },
+    {
+      "year": 2008,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "VP",
+      "price": 16947,
+      "mileage": 230929,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarhyundai.com/auto/used-2008-honda-pilot-vp-hermantown-mn/121341254/"
+    },
+    {
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "SEL Plus",
+      "price": 21190,
+      "mileage": 115254,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarhyundai.com/auto/used-2021-hyundai-kona-sel-plus-hermantown-mn/121447190/"
+    }
+  ]
+}

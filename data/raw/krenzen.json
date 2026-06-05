@@ -1,0 +1,981 @@
+{
+  "name": "Krenzen Honda Nissan Lincoln",
+  "slug": "krenzen",
+  "type": "franchise",
+  "address": "2500 Mall Dr",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-727-2905",
+  "website": "https://www.krenzen.com/",
+  "specialties": [
+    "Honda pre-owned inventory",
+    "Nissan pre-owned inventory",
+    "Multi-brand used vehicles",
+    "Lincoln certified pre-owned"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerOn (x-dealeron header, dealerId 29887). Inventory API is client-rendered XHR only \u2014 no direct JSON endpoint accessible. Used /sitemap.xml to enumerate 102 vehicle VDP URLs; fetched each VDP page to extract price from schema.org Product JSON-LD (offers.price) and mileage from server-rendered info__item span. 6 VDP fetches timed out. Final count: 96 unique vehicles.",
+  "inventory": [
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "Platinum Reserve",
+      "price": 50197,
+      "mileage": 27129,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Titan-Platinum+Reserve-1N6AA1ED8RN102520"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "Platinum",
+      "price": 47197,
+      "mileage": 34050,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Armada-Platinum-JN8AY2CD3P9694216"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Titan",
+      "trim": "PRO 4X",
+      "price": 46999,
+      "mileage": 8138,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Titan-PRO+4X-1N6AA1ED2RN111651"
+    },
+    {
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "trim": "Reserve",
+      "price": 45197,
+      "mileage": 30102,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Lincoln-Aviator-Reserve-5LM5J7XC1NGL09799"
+    },
+    {
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 43999,
+      "mileage": 2204,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2026-Nissan-Murano-Platinum-5N1AZ3DS2TC110425"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Platinum",
+      "price": 43999,
+      "mileage": 8792,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Pathfinder-Platinum-5N1DR3DJ1RC315148"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Platinum",
+      "price": 43197,
+      "mileage": 6173,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Pathfinder-Platinum-5N1DR3DJXRC304892"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 42197,
+      "mileage": 46762,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-GMC-Yukon-Denali-1GKS2CKJ1KR374016"
+    },
+    {
+      "year": 2025,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "Sport",
+      "price": 40999,
+      "mileage": 22273,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Honda-Pilot-Sport-5FNYG1H32SB067710"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "PRO 4X",
+      "price": 40699,
+      "mileage": 8890,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-PRO+4X-1N6ED1EKXPN636297"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "PRO 4X",
+      "price": 40197,
+      "mileage": 26358,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-PRO+4X-1N6ED1EK1PN658656"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "PRO 4X",
+      "price": 39999,
+      "mileage": 7287,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Frontier-PRO+4X-1N6ED1EK9SN641564"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Rock Creek",
+      "price": 39999,
+      "mileage": 11702,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Pathfinder-Rock+Creek-5N1DR3BD9SC227239"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SL",
+      "price": 39699,
+      "mileage": 12245,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Pathfinder-SL-5N1DR3CC2SC212474"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 39699,
+      "mileage": 18623,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Ford-Explorer-Active-1FMUK8DH7SGB80190"
+    },
+    {
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "price": 39699,
+      "mileage": 39428,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Lincoln-Nautilus-Reserve-2LMPJ8K92PBL11153"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SL",
+      "price": 37197,
+      "mileage": 16909,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Murano-SL-5N1AZ3CS2SC128844"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "PRO 4X",
+      "price": 37197,
+      "mileage": 17183,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-PRO+4X-1N6ED1EK6PN617696"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SL",
+      "price": 36699,
+      "mileage": 28070,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Pathfinder-SL-5N1DR3CC0PC264497"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "SV",
+      "price": 36699,
+      "mileage": 9407,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-SV-1N6ED1EK7PN633079"
+    },
+    {
+      "year": 2022,
+      "make": "INFINITI",
+      "model": "QX60",
+      "trim": "AUTOGRAPH",
+      "price": 36197,
+      "mileage": 54613,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-INFINITI-QX60-AUTOGRAPH-5N1DL1HUXNC333202"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "SX X Line",
+      "price": 36197,
+      "mileage": 64611,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Kia-Telluride-SX+X+Line-5XYP5DGC9PG402336"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "SV",
+      "price": 35699,
+      "mileage": 29448,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-SV-1N6ED1EK8PN637559"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "SV",
+      "price": 34999,
+      "mileage": 13411,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Frontier-SV-1N6ED1CM6PN636303"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 33699,
+      "mileage": 8863,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-SL-JN8BT3CB1SW148824"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Rock Creek",
+      "price": 33197,
+      "mileage": 11068,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-Rock+Creek-5N1BT3BB3SC775275"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Venza",
+      "trim": "Nightshade",
+      "price": 33197,
+      "mileage": 48801,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Toyota-Venza-Nightshade-JTEAAAAH1PJ129473"
+    },
+    {
+      "year": 2023,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "trim": "RTL E",
+      "price": 33197,
+      "mileage": 53342,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Honda-Ridgeline-RTL+E-5FPYK3F77PB005993"
+    },
+    {
+      "year": 2023,
+      "make": "INFINITI",
+      "model": "QX50",
+      "trim": "LUXE",
+      "price": 32999,
+      "mileage": 31392,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-INFINITI-QX50-LUXE-3PCAJ5BB1PF110726"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 32999,
+      "mileage": 17441,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-SL-JN8BT3CB9SW410931"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "SL",
+      "price": 32197,
+      "mileage": 55250,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Pathfinder-SL-5N1DR3CC8RC216717"
+    },
+    {
+      "year": 2025,
+      "make": "Honda",
+      "model": "CR V",
+      "trim": "EX",
+      "price": 32197,
+      "mileage": 17761,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Honda-CR+V-EX-2HKRS4H48SH419221"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Platinum",
+      "price": 31999,
+      "mileage": 13724,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-Platinum-JN8BT3DD3PW312100"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SV",
+      "price": 30999,
+      "mileage": 13663,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Murano-SV-5N1AZ2BS6RC127573"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Platinum",
+      "price": 30699,
+      "mileage": 29759,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Rogue-Platinum-JN8BT3DD3RW251222"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SV",
+      "price": 30197,
+      "mileage": 27620,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Murano-SV-5N1AZ2BS9PC135793"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX L",
+      "price": 29999,
+      "mileage": 73755,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Honda-Pilot-EX+L-5FNYF6H55NB026638"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Maxima",
+      "trim": "SV",
+      "price": 29999,
+      "mileage": 11192,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Maxima-SV-1N4AA6CV7PC504734"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT",
+      "price": 29699,
+      "mileage": 29020,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-GMC-Acadia-SLT-1GKKNUL47PZ211772"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 29197,
+      "mileage": 21602,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SL-5N1BT3CBXPC847398"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28999,
+      "mileage": 24488,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SL-5N1BT3CBXPC844274"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "AT4",
+      "price": 28197,
+      "mileage": 30368,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-GMC-Terrain-AT4-3GKALYEG0PL128207"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 28197,
+      "mileage": 17286,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-SV-5N1BT3BBXSC854474"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28197,
+      "mileage": 29642,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SL-5N1BT3CB0PC892236"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 28197,
+      "mileage": 16431,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-SV-JN8BT3BB5SW169919"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 SL",
+      "price": 28197,
+      "mileage": 27463,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Altima-25+SL-1N4BL4EW8RN319947"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "price": 28197,
+      "mileage": 23535,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SL-JN8BT3CB6PW484217"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 27999,
+      "mileage": 36759,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Jeep-Compass-Trailhawk-3C4NJDDN5RT596058"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Envista",
+      "trim": "Avenir",
+      "price": 27999,
+      "mileage": 20695,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Buick-Envista-Avenir-KL47LCEP3SB149095"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 SR",
+      "price": 27197,
+      "mileage": 23395,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Altima-25+SR-1N4BL4CW4RN328017"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 27197,
+      "mileage": 59498,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2018-Chevrolet-Silverado+1500-LT-1GCVKREC4JZ206006"
+    },
+    {
+      "year": 2025,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": "Sport",
+      "price": 27197,
+      "mileage": 12260,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Honda-HR+V-Sport-3CZRZ2H58SM750507"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 26999,
+      "mileage": 17735,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-5N1BT3BB8PC816488"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": 26699,
+      "mileage": 15324,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-Rogue-S-5N1BT3AB0SC762873"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Avenir",
+      "price": 26197,
+      "mileage": 13097,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Buick-Encore+GX-Avenir-KL4AMFSL5RB056112"
+    },
+    {
+      "year": 2023,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": "LX",
+      "price": 26197,
+      "mileage": 4505,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Honda-HR+V-LX-3CZRZ2H36PM743223"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "LE",
+      "price": 26197,
+      "mileage": 55275,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Toyota-RAV4-LE-2T3H1RFV0PW259343"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 25999,
+      "mileage": 21183,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-5N1BT3BB2PC880610"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 25197,
+      "mileage": 30317,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JA9RUA63807"
+    },
+    {
+      "year": 2024,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": "LX",
+      "price": 25197,
+      "mileage": 21916,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Honda-HR+V-LX-3CZRZ2H32RM712389"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 25197,
+      "mileage": 22783,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-5N1BT3BB3PC774800"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE Nightshade",
+      "price": 25197,
+      "mileage": 54953,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Toyota-Camry-SE+Nightshade-4T1T11BK7NU053028"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SEL",
+      "price": 24197,
+      "mileage": 36427,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Hyundai-Santa+Fe-SEL-5NMS2DAJ4PH553505"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 SR",
+      "price": 24197,
+      "mileage": 29689,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Altima-25+SR-1N4BL4CW5PN332722"
+    },
+    {
+      "year": 2025,
+      "make": "Nissan",
+      "model": "LEAF",
+      "trim": "SV PLUS",
+      "price": 24197,
+      "mileage": 12210,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2025-Nissan-LEAF-SV+PLUS-1N4CZ1CVXSC565847"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 SV",
+      "price": 24197,
+      "mileage": 28766,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2024-Nissan-Altima-25+SV-1N4BL4DW9RN382640"
+    },
+    {
+      "year": 2020,
+      "make": "Honda",
+      "model": "Passport",
+      "trim": "EX L",
+      "price": 23999,
+      "mileage": 70510,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-Honda-Passport-EX+L-5FNYF8H55LB010349"
+    },
+    {
+      "year": 2023,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": "LX",
+      "price": 23961,
+      "mileage": 40389,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Honda-HR+V-LX-3CZRZ2H34PM742104"
+    },
+    {
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "SV",
+      "price": 23699,
+      "mileage": 37148,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Nissan-Murano-SV-5N1AZ2BS2NC123644"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 23197,
+      "mileage": 81837,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-GMC-Terrain-Denali-3GKALXEX0LL225962"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 SV",
+      "price": 23197,
+      "mileage": 38606,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Altima-25+SV-1N4BL4DW2PN344521"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "SEL",
+      "price": 23197,
+      "mileage": 45611,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Hyundai-Tucson-SEL-5NMJCCAE1NH120954"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 22999,
+      "mileage": 28911,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-5N1BT3BB0PC673021"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Limited",
+      "price": 21999,
+      "mileage": 84977,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-Subaru-Ascent-Limited-4S4WMALD2L3478907"
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Essence",
+      "price": 21999,
+      "mileage": 53417,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2022-Buick-Encore+GX-Essence-KL4MMGSL0NB133000"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 21197,
+      "mileage": 56718,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-Jeep-Grand+Cherokee-Limited-1C4RJFBG0LC386343"
+    },
+    {
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "20T SE R Line Black",
+      "price": 18999,
+      "mileage": 63642,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-Volkswagen-Tiguan-20T+SE+R+Line+Black-3VV2B7AX7LM154666"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited",
+      "price": 18367,
+      "mileage": 98454,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Subaru-Outback-Limited-4S4BSANC1K3347314"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 17197,
+      "mileage": 75585,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2020-Chevrolet-Equinox-LT-2GNAXUEV9L6200938"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 17197,
+      "mileage": 63800,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2018-Jeep-Compass-Trailhawk-3C4NJDDB6JT284292"
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "EX",
+      "price": 15197,
+      "mileage": 74072,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Honda-Fit-EX-3HGGK5H86KM722042"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX",
+      "price": 15197,
+      "mileage": 105790,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2017-Honda-Pilot-EX-5FNYF6H49HB063848"
+    },
+    {
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 12197,
+      "mileage": 97436,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2017-Nissan-Rogue-SV-KNMAT2MV2HP573109"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Sentra",
+      "trim": "SV",
+      "price": 11999,
+      "mileage": 56704,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Nissan-Sentra-SV-3N1AB7AP5KY371637"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": null,
+      "mileage": 35281,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-JN8BT3BB9PW477022"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": null,
+      "mileage": 30082,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-5N1BT3BB6PC830003"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "trim": "Sport",
+      "price": null,
+      "mileage": 78791,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2013-Honda-Ridgeline-Sport-5FPYK1F73DB017400"
+    },
+    {
+      "year": 2003,
+      "make": "Honda",
+      "model": "Element",
+      "trim": "EX",
+      "price": null,
+      "mileage": 239203,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2003-Honda-Element-EX-5J6YH28543L010700"
+    },
+    {
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "SL",
+      "price": null,
+      "mileage": 3006,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2026-Nissan-Armada-SL-JN8AY3BB3T9124099"
+    },
+    {
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "SE",
+      "price": null,
+      "mileage": 85764,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2017-Hyundai-Sonata-SE-5NPE24AF4HH453241"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "25 Platinum",
+      "price": null,
+      "mileage": 162486,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Nissan-Altima-25+Platinum-1N4BL4FV3KC104452"
+    },
+    {
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "GT",
+      "price": null,
+      "mileage": 105110,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Dodge-Grand+Caravan-GT-2C4RDGEG4KR571462"
+    },
+    {
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LS Fleet",
+      "price": null,
+      "mileage": 146706,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2011-Chevrolet-Impala-LS+Fleet-2G1WF5EK1B1146021"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": null,
+      "mileage": 205000,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2015-Chevrolet-Trax-LT-3GNCJRSB1FL166916"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "SL",
+      "price": null,
+      "mileage": 112826,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2019-Nissan-Armada-SL-JN8AY2ND4K9092009"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": null,
+      "mileage": 19819,
+      "drivetrain": null,
+      "url": "https://www.krenzen.com/used-Duluth-2023-Nissan-Rogue-SV-JN8BT3BB0PW484814"
+    }
+  ]
+}

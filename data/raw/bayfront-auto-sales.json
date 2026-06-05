@@ -1,0 +1,15 @@
+{
+  "name": "Bayfront Auto Sales",
+  "slug": "bayfront-auto-sales",
+  "type": "independent",
+  "address": "1114 Lake Shore Dr W",
+  "city": "Ashland",
+  "state": "WI",
+  "phone": "715-682-6003",
+  "website": "https://www.bayfrontautosales.com",
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Website bayfrontautosales.com has NXDOMAIN — DNS does not resolve. No IP address registered as of 2026-06-05. Probed: HTTP (port 80) and HTTPS (port 443) both timed out with no response. Feed/API discovery not possible without a resolvable host. Aggregator fallback probes: Driverbase.com (driverbase.com/dealers/wi/ashland/bayfront-auto-sales) confirms dealer exists at 1114 Lake Shore Dr W, Ashland WI 54806 but shows 0 vehicles listed. Cars.com search for 'bayfront auto sales ashland wi' returned no matching dealer (only Bayfront Automotive Inc. of Erie PA, dealer 196706). CarGurus has no entry for this dealer. Facebook page (facebook.com/pages/Bayfront-Auto-Sales/221800868580723) exists but shows no inventory. Yahoo Local, Yellow Pages, and Nextdoor confirm business contact but carry no inventory data. Yelp listing (last updated September 2025) confirms the business is operational with hours Mon-Fri 10am-5pm but provides no inventory. No inventory could be obtained from any source.",
+  "inventory": []
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Precision Motors",
+  "slug": "precision-motors",
+  "type": "independent",
+  "address": "835 E 41st St",
+  "city": "Hibbing",
+  "state": "MN",
+  "phone": "218-550-5621",
+  "website": "https://www.precisionmotorsmn.com",
+  "specialties": [
+    "Budget trucks and SUVs",
+    "Ford F-150",
+    "Chevrolet Equinox",
+    "Lower-mileage mid-range inventory"
+  ],
+  "coverage": "partial",
+  "method": "html",
+  "notes": "SCRAPE JUSTIFICATION MEMO: CMS is carsforsale.com platform (identified by cdn09.carsforsale.com asset CDN, GTM-NZQT6FM tag, b-code/c-code URL patterns in sitemap). DataDome anti-bot is deployed on ALL non-JS requests including curl, wget, and Googlebot UA \u2014 every probe returned HTTP 403 with x-datadome: protected header. Probes attempted: (1) /sitemap.xml \u2014 accessible, confirmed platform and returned category-page URLs only, no individual VDP URLs; (2) /robots.txt \u2014 accessible, no feed disallow entries found; (3) /rss-usedinventory.aspx, /feed, /feed.xml, /inventory.json \u2014 all 403; (4) /api/inventory \u2014 403; (5) carsforsale.com /api/inventory?dealerId=666422 \u2014 bot-challenge page; (6) carsforsale.com /used-car-dealer/precision-motors-hibbing-mn-d666422 \u2014 bot-challenge page; (7) AutoTrader dealer search \u2014 not listed; (8) One successful HTML render was captured via curl with valid DataDome session cookie before cookie expiry, yielding 4 JSON-LD Vehicle records from schema.org markup on /cars-for-sale. Session cookie expired before full inventory could be enumerated. Web search indicates approximately 7 vehicles total. Inventory here represents 4 vehicles from that single successful render; mileage not present in JSON-LD.",
+  "inventory": [
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LS AWD 4dr SUV",
+      "price": 6500,
+      "mileage": null,
+      "drivetrain": "AWD",
+      "url": "https://www.precisionmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4x4 4dr SuperCrew Styleside 6.5 ft SB",
+      "price": 15500,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://www.precisionmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat 4x4 4dr SuperCrew Styleside 5.5 ft SB",
+      "price": 9999,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://www.precisionmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "",
+      "price": 3400,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.precisionmotorsmn.com/cars-for-sale"
+    }
+  ]
+}

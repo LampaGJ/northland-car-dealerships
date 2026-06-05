@@ -1,0 +1,251 @@
+{
+  "name": "Ken Waschke Auto Plaza",
+  "slug": "ken-waschke-auto-plaza",
+  "type": "franchise",
+  "address": "501 9th St N",
+  "city": "Virginia",
+  "state": "MN",
+  "phone": "218-741-6000",
+  "website": "https://www.kensautoplaza.com",
+  "specialties": [
+    "Buick SUVs and sedans",
+    "GMC trucks and SUVs",
+    "Certified pre-owned GM vehicles",
+    "Late-model pre-owned vehicles"
+  ],
+  "coverage": "full",
+  "method": "embedded-structured-data",
+  "notes": "CMS: DealerOn platform (x-dealeron headers, dealerId 18767). 23-vehicle ItemList JSON-LD extracted from /searchused.aspx. Prices obtained from schema.org Product/Vehicle detail pages; price field appears to include documentation fee ($340). Mileage sparse in JSON-LD; only captured where mileageFromOdometer present. Drivetrain not available in structured data.",
+  "inventory": [
+    {
+      "year": 2026,
+      "make": "Buick",
+      "model": "Encore GX Sport",
+      "trim": "Touring",
+      "price": 29340,
+      "mileage": 8,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2026-Buick-Encore+GX-Sport+Touring-KL4AMESL9TB007545"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Preferred",
+      "price": 36340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2025-Buick-Envision-Preferred-LRBFZKE40SD019455"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Envision Sport",
+      "trim": "Touring",
+      "price": 36340,
+      "mileage": 17142,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2025-Buick-Envision-Sport+Touring-LRBFZLE46SD023838"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 25340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2025-Jeep-Compass-Limited-3C4NJDCN8ST524438"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 25340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2025-Jeep-Compass-Limited-3C4NJDCN9ST565483"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Preferred",
+      "price": null,
+      "mileage": 7,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2025-Buick-Enclave-Preferred-5GAEVARS4SJ109772"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 27340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2024-Ford-Escape-Platinum-1FMCU9JA5RUA07749"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon Denali",
+      "trim": "Ultimate",
+      "price": 80340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2024-GMC-Yukon-Denali+Ultimate-1GKS2EKL9RR253662"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 34340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2024-Chevrolet-Silverado+1500-LT-3GCPDDEK5RG118820"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 35340,
+      "mileage": 3,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2024-GMC-Terrain-Denali-3GKALXEG9RL293847"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tacoma 4WD",
+      "trim": "SR5",
+      "price": 42340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2024-Toyota-Tacoma+4WD-SR5-3TMLB5JN4RM048075"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "price": 26340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2023-GMC-Terrain-SLE-3GKALTEG4PL160774"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "Denali",
+      "price": 39340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2022-GMC-Canyon-Denali-1GTG6EEN9N1248280"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "trim": "Overland",
+      "price": 27340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2021-Jeep-Gladiator-Overland-1C6HJTFG2ML571619"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 40340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2021-GMC-Sierra+1500-SLT-3GTU9DED4MG152455"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 36340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2021-GMC-Sierra+1500-SLT-3GTU9DED7MG320198"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500 Big",
+      "trim": "Horn",
+      "price": 24340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2020-RAM-1500-Big+Horn-1C6SRFFT4LN135158"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 2500 HD",
+      "trim": "Denali",
+      "price": 47340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2019-GMC-Sierra+2500+HD-Denali-1GT12SEYXKF178572"
+    },
+    {
+      "year": 2019,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Essence",
+      "price": 17340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2019-Buick-Enclave-Essence-5GAEVAKW1KJ176407"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 15340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2018-Ford-Escape-SE-1FMCU9GD0JUD51012"
+    },
+    {
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Eco",
+      "price": 10340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2016-Hyundai-Tucson-Eco-KM8J3CA24GU080737"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 18340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2014-Ford-F+150-XL-1FTFW1ET7EKD06514"
+    },
+    {
+      "year": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 12340,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.kensautoplaza.com/used-Virginia-2014-Honda-CR+V-EX+L-2HKRM4H73EH683827"
+    }
+  ]
+}

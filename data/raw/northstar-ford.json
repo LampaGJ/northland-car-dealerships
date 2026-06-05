@@ -1,0 +1,1251 @@
+{
+  "name": "NorthStar Ford",
+  "slug": "northstar-ford",
+  "type": "franchise",
+  "address": "1420 Miller Trunk Hwy",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-328-2111",
+  "website": "https://www.northstarfordduluth.com/",
+  "specialties": [
+    "Ford pre-owned inventory",
+    "Trucks and SUVs",
+    "Multi-brand used vehicles",
+    "High-value pre-owned"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerOn (x-dealeron header). Inventory API is client-rendered XHR only. Used /sitemap.xml to enumerate 125 vehicle VDP URLs; fetched each VDP to extract price from schema.org Product JSON-LD and mileage from server-rendered info__item spans. 2 VDP fetches timed out. Final count: 123 unique vehicles.",
+  "inventory": [
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Platinum",
+      "price": 75550,
+      "mileage": 65132,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-F+150-Platinum-1FTFW1ED6NFA15424"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "Platinum",
+      "price": 67839,
+      "mileage": 42879,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Expedition+Max-Platinum-1FMJK1M84REA35737"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "RST",
+      "price": 63643,
+      "mileage": 40240,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Chevrolet-Tahoe-RST-1GNSKRKD3RR306858"
+    },
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "F 350SD",
+      "trim": "XL",
+      "price": 62276,
+      "mileage": 2034,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2026-Ford-F+350SD-XL-1FT8W3BN4TED56034"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 250SD",
+      "trim": "Lariat",
+      "price": 60219,
+      "mileage": 52446,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+250SD-Lariat-1FT8W2BN7PEC49902"
+    },
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 52945,
+      "mileage": 2521,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2026-Ford-F+150-XLT-1FTFW3L87TKD22641"
+    },
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 52864,
+      "mileage": 2346,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2026-Ford-F+150-XLT-1FTEW3LP4TKD26004"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Platinum",
+      "price": 51845,
+      "mileage": 52540,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+150-Platinum-1FTFW1E87PFA22744"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Outer Banks",
+      "price": 50348,
+      "mileage": 6433,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2025-Ford-Bronco-Outer+Banks-1FMEE8BP5SLA99444"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 50339,
+      "mileage": 16760,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-F+150-XLT-1FTEW3LP4RKD11821"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn",
+      "price": 50337,
+      "mileage": 21229,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2025-RAM-2500-Big+Horn-3C6UR5DJ8SG521416"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "King Ranch",
+      "price": 49024,
+      "mileage": 57979,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+150-King+Ranch-1FTFW1E86PFB61330"
+    },
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 46388,
+      "mileage": 1983,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2026-Ford-Explorer-Active-1FMUK8DH9TGA43415"
+    },
+    {
+      "year": 2026,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 46219,
+      "mileage": 1777,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2026-Ford-Explorer-Active-1FMUK8DH2TGA09543"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 45178,
+      "mileage": 18868,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+150-XLT-1FTFW1E57PKE56028"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 43344,
+      "mileage": 17436,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Explorer-Limited-1FMSK8FH4PGB45506"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 43298,
+      "mileage": 45827,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+150-XLT-1FTFW1E54PFC04620"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 42838,
+      "mileage": 41597,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-F+150-XLT-1FTFW1E85NKD84642"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "ST Line",
+      "price": 39247,
+      "mileage": 60301,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2025-Ford-Explorer-ST+Line-1FMUK8KH3SGA20939"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Lariat",
+      "price": 37648,
+      "mileage": 82144,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-F+150-Lariat-1FTEW1EP4NKD40795"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 36576,
+      "mileage": 18475,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2025-Ford-Explorer-Active-1FMUK8DH5SGB65834"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 36328,
+      "mileage": 77236,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2021-Ford-F+150-XLT-1FTEW1EP3MFB94378"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 36293,
+      "mileage": 37882,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-F+150-XLT-1FTFX1E84PKE68130"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 35994,
+      "mileage": 42564,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-Ford-F+150-XLT-1FTEW1EP8LKD90225"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 35836,
+      "mileage": 20218,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Explorer-XLT-1FMSK8DH3PGB45449"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "Lariat",
+      "price": 35192,
+      "mileage": 21208,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Maverick-Lariat-3FTTW8S95RRA87025"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 34343,
+      "mileage": 106287,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-F+150-XLT-1FTFW1ED4NFA71085"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 34143,
+      "mileage": 91204,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-RAM-1500-Laramie-1C6SRFJT8LN153332"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 33792,
+      "mileage": 48229,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Explorer-XLT-1FMSK8DH0PGB31962"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Warlock",
+      "price": 32839,
+      "mileage": 40442,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-RAM-1500+Classic-Warlock-1C6RR7GG5PS599380"
+    },
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Santa Cruz",
+      "trim": "NIGHT",
+      "price": 32343,
+      "mileage": 34396,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Hyundai-Santa+Cruz-NIGHT-5NTJCDAF1RH096809"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT LT2 Waldoch",
+      "price": 31743,
+      "mileage": 65187,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2016-Chevrolet-Silverado+1500-LT+LT2+Waldoch-3GCUKRECXGG206547"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 31348,
+      "mileage": 64696,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-Explorer-XLT-1FMSK8DH9NGB04904"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "XLT",
+      "price": 31244,
+      "mileage": 16324,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Maverick-XLT-3FTTW8J94RRA56396"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 30247,
+      "mileage": 80313,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-Ford-F+150-XLT-1FTEW1EP8LFC59322"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 30137,
+      "mileage": 6893,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Bronco+Sport-Big+Bend-3FMCR9B63RRE73022"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Expedition Max",
+      "trim": "XLT",
+      "price": 30024,
+      "mileage": 111012,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2021-Ford-Expedition+Max-XLT-1FMJK1JT5MEA74581"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST Line",
+      "price": 28996,
+      "mileage": 8063,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Escape-ST+Line-1FMCU9MN1PUB32467"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 28789,
+      "mileage": 75074,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Explorer-XLT-1FMSK8DH3PGA65858"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Outer Banks",
+      "price": 28739,
+      "mileage": 26143,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Bronco+Sport-Outer+Banks-3FMCR9C63PRE28884"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 28324,
+      "mileage": 19465,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Bronco+Sport-Big+Bend-3FMCR9B6XPRE02235"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 28283,
+      "mileage": 16820,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Bronco+Sport-Big+Bend-3FMCR9B67PRE12141"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 28216,
+      "mileage": 29026,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Bronco+Sport-Big+Bend-3FMCR9B69PRD19363"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 27728,
+      "mileage": 84377,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2018-Ford-F+150-XLT-1FTEW1E58JKF38269"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XL",
+      "price": 27699,
+      "mileage": 26899,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-Ford-F+150-XL-1FTMF1EB3LKE33644"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Platinum",
+      "price": 27334,
+      "mileage": 71333,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Nissan-Murano-Platinum-5N1AZ2DS5PC124979"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Lariat",
+      "price": 27319,
+      "mileage": 112165,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2018-Ford-F+150-Lariat-1FTEX1EP7JKE75065"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "ST Line",
+      "price": 26828,
+      "mileage": 52701,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Edge-ST+Line-2FMPK4J96PBA09674"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Badlands",
+      "price": 26779,
+      "mileage": 49395,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-Bronco+Sport-Badlands-3FMCR9D90NRE11207"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon",
+      "price": 26682,
+      "mileage": 51340,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Jeep-Wrangler-Unlimited+Rubicon-1C4BJWFG2HL592332"
+    },
+    {
+      "year": 2018,
+      "make": "Acura",
+      "model": "MDX",
+      "trim": "35L SH AWD wAdvance Package",
+      "price": 26334,
+      "mileage": 73060,
+      "drivetrain": "AWD",
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2018-Acura-MDX-35L+SH+AWD+wAdvance+Package-5J8YD4H82JL012077"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 26228,
+      "mileage": 45373,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JA0RUA52176"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 26138,
+      "mileage": 46110,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JA7RUA51798"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 26036,
+      "mileage": 43041,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JAXRUA71169"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 25843,
+      "mileage": 46100,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JA3RUA71448"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 25839,
+      "mileage": 44302,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JAXRUA71432"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "King Ranch",
+      "price": 25832,
+      "mileage": 179148,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2019-Ford-F+150-King+Ranch-1FTEW1E41KFB17446"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 25798,
+      "mileage": 59954,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Jeep-Grand+Cherokee-Laredo-1C4RJHAGXPC640322"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 25793,
+      "mileage": 61307,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Edge-SEL-2FMPK4J96RBA67111"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Platinum",
+      "price": 25613,
+      "mileage": 48590,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Escape-Platinum-1FMCU9JA3RUA71434"
+    },
+    {
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 25044,
+      "mileage": 20568,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2021-Nissan-Rogue-SV-5N1AT3BB7MC844497"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F 250SD",
+      "trim": "Lariat",
+      "price": 24344,
+      "mileage": 153638,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Ford-F+250SD-Lariat-1FT7W2BT0EEB02019"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 24324,
+      "mileage": 106912,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2019-Ford-F+150-XLT-1FTEW1E46KFC08759"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 23347,
+      "mileage": 77347,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Ford-Bronco+Sport-Big+Bend-3FMCR9B65NRE31591"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Platinum",
+      "price": 23337,
+      "mileage": 107733,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-Ford-F+150-Platinum-1FTEW1EG7FFB83435"
+    },
+    {
+      "year": 2022,
+      "make": "Honda",
+      "model": "HR V",
+      "trim": "LX",
+      "price": 22842,
+      "mileage": 45250,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2022-Honda-HR+V-LX-3CZRU6H3XNM770783"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST Line",
+      "price": 22832,
+      "mileage": 38966,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2023-Ford-Escape-ST+Line-1FMCU9MN9PUA56755"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 22341,
+      "mileage": 134245,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2016-Ford-F+150-XLT-1FTEW1EG0GKD18425"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 22242,
+      "mileage": 101467,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-Ford-Explorer-XLT-1FMSK8DH0LGC81340"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 21837,
+      "mileage": 88548,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Ford-F+150-XLT-1FTFW1EF9EKF24979"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "price": 21124,
+      "mileage": 97358,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Jeep-Wrangler-Unlimited+Sport-1C4BJWDG9HL512446"
+    },
+    {
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV",
+      "price": 20747,
+      "mileage": 65837,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2021-Nissan-Rogue-SV-5N1AT3BB3MC764193"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71",
+      "price": 19644,
+      "mileage": 167761,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2018-Chevrolet-Colorado-Z71-1GCGTDEN6J1168206"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 19638,
+      "mileage": 97966,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Ford-F+150-XLT-1FTFX1EF0EKE22404"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "WT",
+      "price": 19237,
+      "mileage": 142480,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Chevrolet-Silverado+1500-WT-3GCUKNEC3HG196275"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 19138,
+      "mileage": 108078,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Jeep-Wrangler-Unlimited+Sahara-1C4BJWEG3EL282347"
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Express",
+      "price": 18239,
+      "mileage": 126569,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-RAM-1500-Express-1C6RR7KTXFS667188"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 18118,
+      "mileage": 84975,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2021-Chevrolet-Trax-LT-KL7CJPSB8MB327237"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 17847,
+      "mileage": 130341,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2016-Ford-F+150-XLT-1FTEW1EP0GFB01840"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 17348,
+      "mileage": 120055,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2018-Ford-Edge-SEL-2FMPK4J84JBB71611"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 16847,
+      "mileage": 90139,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2020-Ford-Escape-SE-1FMCU9G66LUC15729"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "Lariat",
+      "price": 16824,
+      "mileage": 108928,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2011-Ford-F+150-Lariat-1FTFW1ET3BFB27987"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F 250SD",
+      "trim": "XL",
+      "price": 16348,
+      "mileage": 170158,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-Ford-F+250SD-XL-1FT7X2B68FEC77045"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 16029,
+      "mileage": 129907,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2013-Ford-F+150-XLT-1FTFW1ET6DFA79808"
+    },
+    {
+      "year": 2014,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Vsport Premium",
+      "price": 16024,
+      "mileage": 121529,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Cadillac-XTS-Vsport+Premium-2G61V5S87E9136020"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 15348,
+      "mileage": 127642,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Ford-Explorer-XLT-1FM5K8D89HGA85563"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium",
+      "price": 13348,
+      "mileage": 168214,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2016-Ford-Edge-Titanium-2FMPK4K99GBB57722"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 13341,
+      "mileage": 63273,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Kia-Sportage-LX-KNDPBCAC8E7578848"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 13034,
+      "mileage": 143018,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Jeep-Cherokee-Limited-1C4PJMDS4EW187469"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 12348,
+      "mileage": 118955,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Chevrolet-Equinox-LT-2GNFLFEK1H6305662"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 12323,
+      "mileage": 179046,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Ford-F+150-XLT-1FTFW1EF9EKE00890"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 11338,
+      "mileage": 167781,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2016-Jeep-Cherokee-Trailhawk-1C4PJMBS6GW109992"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 11247,
+      "mileage": 111922,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Ford-Escape-SE-1FMCU0GD7HUB40928"
+    },
+    {
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "LT",
+      "price": 11241,
+      "mileage": 151830,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2006-Chevrolet-Colorado-LT-1GCDT136368198078"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT 1LT",
+      "price": 11163,
+      "mileage": 51605,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2013-Chevrolet-Malibu-LT+1LT-1G11C5SA8DF184050"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 10914,
+      "mileage": 161859,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-Ford-Explorer-Limited-1FM5K8F87FGB63204"
+    },
+    {
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "trim": "LT Passenger",
+      "price": 10237,
+      "mileage": 118235,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2010-Chevrolet-Express+3500-LT+Passenger-1GA2G1DGXA1135038"
+    },
+    {
+      "year": 2015,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE 1",
+      "price": 10128,
+      "mileage": 136731,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-GMC-Terrain-SLE+1-2GKFLVEK4F6142056"
+    },
+    {
+      "year": 2006,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "King Ranch",
+      "price": 10047,
+      "mileage": 121216,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2006-Ford-F+150-King+Ranch-1FTPW14546KB84493"
+    },
+    {
+      "year": 2002,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LS",
+      "price": 9624,
+      "mileage": 135380,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2002-Chevrolet-Silverado+1500-LS-2GCEK19T721220892"
+    },
+    {
+      "year": 1988,
+      "make": "",
+      "model": "Mazda RX 7",
+      "trim": null,
+      "price": 9047,
+      "mileage": 119395,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-1988-+-Mazda+RX+7-+-JM1FC3512J0108156"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Patriot",
+      "trim": "Sport",
+      "price": 8344,
+      "mileage": 108728,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Jeep-Patriot-Sport-1C4NJPBA3ED732169"
+    },
+    {
+      "year": 2004,
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "trim": "SLT",
+      "price": 8232,
+      "mileage": 201318,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2004-Dodge-Ram+1500-SLT-1D7HU18D44J265157"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT 1LT",
+      "price": 7993,
+      "mileage": 191125,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2015-Chevrolet-Malibu-LT+1LT-1G11C5SL0FF354910"
+    },
+    {
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "trim": "SLT",
+      "price": 7848,
+      "mileage": 123806,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2007-Dodge-Ram+1500-SLT-1D7HU18257J591925"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Limited",
+      "price": 7696,
+      "mileage": 173618,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2011-Ford-Escape-Limited-1FMCU9EG0BKA56079"
+    },
+    {
+      "year": 2008,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 7248,
+      "mileage": 99977,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2008-Kia-Sportage-LX-KNDJE723287548977"
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": 7234,
+      "mileage": 141392,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2007-Ford-F+150-XLT-1FTPX14V67FB19586"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "ECO",
+      "price": 6998,
+      "mileage": 174564,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2012-Chevrolet-Cruze-ECO-1G1PK5SC3C7323041"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 5998,
+      "mileage": 201865,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2014-Ford-Escape-SE-1FMCU9GX1EUD80521"
+    },
+    {
+      "year": 2008,
+      "make": "Volvo",
+      "model": "XC90",
+      "trim": "V8",
+      "price": 5684,
+      "mileage": 215783,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2008-Volvo-XC90-V8-YV4CZ852281428862"
+    },
+    {
+      "year": 2000,
+      "make": "",
+      "model": "Mazda Protege",
+      "trim": "ES",
+      "price": 5619,
+      "mileage": 139527,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2000-+-Mazda+Protege-ES-JM1BJ2219Y0284554"
+    },
+    {
+      "year": 2001,
+      "make": "Toyota",
+      "model": "Echo",
+      "trim": null,
+      "price": 5229,
+      "mileage": 0,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2001-Toyota-Echo-+-JTDBT123410166696"
+    },
+    {
+      "year": 1996,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 4904,
+      "mileage": 149628,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-1996-Jeep-Grand+Cherokee-Laredo-1J4GZ58Y0TC328964"
+    },
+    {
+      "year": 2006,
+      "make": "Volvo",
+      "model": "XC90",
+      "trim": "V8",
+      "price": 4139,
+      "mileage": 334708,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2006-Volvo-XC90-V8-YV4CZ852761289387"
+    },
+    {
+      "year": 2008,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "CE",
+      "price": 3779,
+      "mileage": 299999,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2008-Toyota-Corolla-CE-1NXBR32E08Z969046"
+    },
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE",
+      "price": 3576,
+      "mileage": 378256,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2008-Ford-Focus-SE-1FAHP35N28W300819"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE Plus",
+      "price": null,
+      "mileage": 153842,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-Dodge-Grand+Caravan-SE+Plus-2C4RDGBG4HR617787"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT 2",
+      "price": null,
+      "mileage": 70834,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2017-GMC-Acadia-SLT+2-1GKKNWLS4HZ133608"
+    },
+    {
+      "year": 2011,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "25i Limited",
+      "price": null,
+      "mileage": 119837,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2011-Subaru-Outback-25i+Limited-4S4BRBKC2B3346999"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": null,
+      "mileage": 122369,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2019-Jeep-Renegade-Latitude-ZACNJBBB5KPK48140"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "F 150",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 4871,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2025-Ford-F+150-XLT-1FTFW3LD3SFB18049"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": null,
+      "mileage": 62347,
+      "drivetrain": null,
+      "url": "https://www.northstarfordduluth.com/used-Duluth-2024-Ford-Edge-SEL-2FMPK4J97RBA92924"
+    }
+  ]
+}

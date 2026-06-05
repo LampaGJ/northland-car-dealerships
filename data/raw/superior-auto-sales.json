@@ -1,0 +1,15 @@
+{
+  "name": "Superior Auto Sales",
+  "slug": "superior-auto-sales",
+  "type": "independent",
+  "address": "327 Tower Ave",
+  "city": "Superior",
+  "state": "WI",
+  "phone": "715-395-2886",
+  "website": null,
+  "specialties": ["used cars", "used trucks"],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "No dealer website confirmed. Feed/API discovery: No website to probe for CMS, feeds, or API endpoints. Aggregator checks: Cars.com dealer page (104140) timed out. Driverbase shows 0 cars/trucks/SUVs. CarGurus does not list this dealer individually. Yelp profile updated August 2024 (no inventory listed). YellowPages, Manta, CMac.ws, Loc8NearMe all confirm the address and phone but list no inventory. No Facebook business page found for this specific dealer (a different business 'Superior Automotive LLC' appeared but is not the same entity). The dealership appears to be a small cash-and-carry independent lot that does not post inventory to any online aggregator or feed. Business appears operational per directory listings (hours Mon-Fri 9AM-5PM, revenue estimate $1-2.5M, 1-4 staff per Manta/Driverbase). No inventory data obtainable from any source as of 2026-06-05.",
+  "inventory": []
+}

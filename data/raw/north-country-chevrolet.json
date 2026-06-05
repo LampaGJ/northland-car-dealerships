@@ -1,0 +1,511 @@
+{
+  "name": "North Country Chevrolet GMC",
+  "slug": "north-country-chevrolet",
+  "type": "franchise",
+  "address": "1502 E Howard St",
+  "city": "Hibbing",
+  "state": "MN",
+  "phone": "218-231-9001",
+  "website": "https://www.northcountrychev.com",
+  "specialties": [
+    "GM brands (Chevy/GMC/Buick)",
+    "Trucks and full-size SUVs",
+    "Multi-brand trade-ins",
+    "Wide price range budget to premium"
+  ],
+  "coverage": "full",
+  "method": "feed",
+  "notes": "CMS: DealerOn identified via x-dealeron response headers. Canonical domain is northcountrychev.com (northcountrychevroletgmc.com and northcountrygmc.com both 301-redirect here). RSS feed at /rss-usedinventory.aspx provides 25 items; sitemap.xml provides all 49 VDP URLs for complete inventory. Each VDP fetched for price (info__value span title attribute) and mileage (additional_details data attribute). No JSON inventory API available \u2014 all /api/* paths 404. Price is labeled dealer price (not MSRP). Website also known as northcountrygmc.com (separate DealerOn site for GMC branding).",
+  "inventory": [
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Low Cab Forward 4500 HG",
+      "trim": "",
+      "price": 19481,
+      "mileage": 73362,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2019-Chevrolet-Low+Cab+Forward+4500+HG-2WD+Reg+Cab+150-54DCDW1B8KS809303"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 21704,
+      "mileage": 73204,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2018-RAM-1500-Big+Horn-1C6RR7LT9JS250734"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 29704,
+      "mileage": 57903,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2022-RAM-1500-Big+Horn-1C6SRFBT1NN327808"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "",
+      "price": 12978,
+      "mileage": 85272,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2017-Jeep-Cherokee-Latitude-1C4PJMCSXHW545339"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "",
+      "price": 29980,
+      "mileage": 32782,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Chevrolet-Blazer-3LT-3GNKBJR44RS177257"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 19991,
+      "mileage": 93644,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2019-Chevrolet-Silverado+1500-RST-1GCRYEED3KZ191520"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "",
+      "price": 24991,
+      "mileage": 52654,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2023-GMC-Terrain-SLE-3GKALTEG4PL103233"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "",
+      "price": 5991,
+      "mileage": 125285,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2020-GMC-Terrain-SLT-3GKALVEX9LL330584"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "",
+      "price": 53971,
+      "mileage": 80025,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2020-RAM-2500-Limited-3C6UR5TL8LG197159"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "",
+      "price": 29398,
+      "mileage": 50065,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2021-GMC-Acadia-AT4-1GKKNLLS8MZ162599"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 36984,
+      "mileage": 57135,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2022-Chevrolet-Silverado+1500-RST-2GCUDEED1N1518550"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "",
+      "price": 36978,
+      "mileage": 23343,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2025-Buick-Enclave-Preferred-5GAEVARS2SJ115621"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Canyon",
+      "trim": "",
+      "price": 39987,
+      "mileage": 21550,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-GMC-Canyon-AT4-1GTP6DEKXR1115677"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "",
+      "price": 19341,
+      "mileage": 94698,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2019-GMC-Terrain-Denali-3GKALXEX5KL110109"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "",
+      "price": 10691,
+      "mileage": 135566,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2016-Jeep-Cherokee-Limited-1C4PJMDSXGW139588"
+    },
+    {
+      "year": 2011,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "",
+      "price": 10487,
+      "mileage": 184890,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2011-Jeep-Wrangler+Unlimited-Sport-1J4BA3H14BL583074"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "",
+      "price": 25980,
+      "mileage": 52383,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2019-Chevrolet-Traverse-LT+Cloth-1GNEVHKW2KJ308444"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "",
+      "price": 11441,
+      "mileage": 78341,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2018-Subaru-Forester-25i+CVT-JF2SJABC9JH402137"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 19991,
+      "mileage": 101545,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2016-Ford-F+150-XLT-1FTFX1EF1GFB70335"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "trim": "",
+      "price": 67656,
+      "mileage": 21656,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Jeep-Grand+Wagoneer-Series+II+Obsidian-1C4SJVFP3RS162956"
+    },
+    {
+      "year": 2020,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 13991,
+      "mileage": 52884,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2020-Chrysler-Pacifica-Red+S-2C4RC1GG9LR236213"
+    },
+    {
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "",
+      "price": 31974,
+      "mileage": 36084,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2023-Dodge-Durango-GT+Launch+Edition-1C4RDJDG8PC554419"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "",
+      "price": 39798,
+      "mileage": 95041,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2022-GMC-Yukon-SLT-1GKS2BKD4NR241551"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 24991,
+      "mileage": 86336,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2015-Chevrolet-Silverado+1500-LT-1GCVKREC3FZ433422"
+    },
+    {
+      "year": 2013,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "",
+      "price": 17491,
+      "mileage": 79073,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2013-Subaru-Forester-25X+Limited-JF2SHAEC3DH403084"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 20598,
+      "mileage": 111111,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2018-Chevrolet-Silverado+1500-LT-3GCUKREC4JG603677"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "",
+      "price": 39497,
+      "mileage": 12890,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2025-Chevrolet-Silverado+1500-LT-1GCPKDEK1SZ110743"
+    },
+    {
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "",
+      "price": 21704,
+      "mileage": 148935,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2016-Toyota-Tacoma-SR5-5TFDZ5BN5GX005144"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "",
+      "price": 17591,
+      "mileage": 46546,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2018-Jeep-Renegade-Limited-ZACCJBDB2JPH35530"
+    },
+    {
+      "year": 2018,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 27548,
+      "mileage": 108779,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2018-Chrysler-Pacifica-Touring+L-2C4RC1BG0JR130317"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "",
+      "price": 64387,
+      "mileage": 28065,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Chevrolet-Silverado+3500+HD-High+Country-1GC4YVE72RF144558"
+    },
+    {
+      "year": 2014,
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "trim": "",
+      "price": 33951,
+      "mileage": 94618,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2014-Toyota-FJ+Cruiser-4WD+4dr+Man+Natl-JTEBU4BF0EK204343"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "",
+      "price": 25398,
+      "mileage": 30226,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2023-Chevrolet-Blazer-2LT-3GNKBHR43PS152663"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "",
+      "price": 5991,
+      "mileage": 153456,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2015-Jeep-Cherokee-Latitude-1C4PJMCSXFW642019"
+    },
+    {
+      "year": 2022,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "",
+      "price": 21598,
+      "mileage": 43689,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2022-Buick-Encore+GX-Essence-KL4MMGSL3NB122444"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "",
+      "price": 13991,
+      "mileage": 68400,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Chrysler-Pacifica-Touring+L-2C4RC1BG1RR149504"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "",
+      "price": 21704,
+      "mileage": 77167,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2017-RAM-1500-Big+Horn-3C6RR7LT6HG593597"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "",
+      "price": 11991,
+      "mileage": 118487,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2016-Dodge-Grand+Caravan-SXT-2C4RDGCG1GR351903"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 22991,
+      "mileage": 43905,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Chevrolet-Equinox-LT-3GNAXTEG8RL221389"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "",
+      "price": 27991,
+      "mileage": 49929,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2022-Chevrolet-Blazer-Premier-3GNKBLR40NS213385"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "",
+      "price": 19798,
+      "mileage": 87067,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2020-Chevrolet-Blazer-LT-3GNKBHRS7LS689934"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 36991,
+      "mileage": 93316,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2021-GMC-Sierra+1500-AT4-1GTP9EEL0MZ223418"
+    },
+    {
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "",
+      "price": 11441,
+      "mileage": 41375,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2025-Kia-Sportage-X+Line-5XYK6CDF8SG285194"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 5991,
+      "mileage": 143572,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2012-Chevrolet-Equinox-LT+w1LT-2GNALDEK6C6148024"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 19991,
+      "mileage": 98384,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2021-GMC-Sierra+1500-SLE-1GTR9BED1MZ380617"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "",
+      "price": 23974,
+      "mileage": 48501,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2023-GMC-Terrain-SLT-3GKALVEG8PL221202"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "",
+      "price": 39991,
+      "mileage": 64500,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2021-GMC-Sierra+1500-AT4-1GTP9EEL5MZ123511"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "",
+      "price": 11991,
+      "mileage": 101106,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2014-Ford-Explorer-XLT-1FM5K8D81EGA81115"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "",
+      "price": 48341,
+      "mileage": 40675,
+      "drivetrain": null,
+      "url": "https://www.northcountrychev.com/used-HIBBING-2024-Chevrolet-Silverado+2500+HD-Custom-1GC4YME76RF321784"
+    }
+  ]
+}

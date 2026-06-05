@@ -1,0 +1,221 @@
+{
+  "name": "United Motors",
+  "slug": "united-motors",
+  "type": "independent",
+  "address": "30 Lincoln Ave SE Ste B",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-405-8290",
+  "website": "https://www.unitedmotorsmn.com/",
+  "specialties": [
+    "used sedans",
+    "used SUVs",
+    "budget vehicles",
+    "diverse makes"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "Site runs on Carsforsale.com platform with DataDome bot protection blocking direct access. Inventory sourced from AutosToday aggregator __NEXT_DATA__ JSON payload (dealer ID 10035484). AutosToday caps at 20 unique vehicles; confirmed total is 31. Remaining 11 vehicles not accessible without JS execution.",
+  "inventory": [
+    {
+      "year": 2011,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali - AWD",
+      "price": 6499,
+      "mileage": 209674,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1GKS2EEF5BR252536"
+    },
+    {
+      "year": 2019,
+      "make": "Tesla",
+      "model": "Model 3",
+      "trim": "Dual Motor All-Whel Drive Long Range",
+      "price": 17999,
+      "mileage": 54642,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5YJ3E1EB8KF432452"
+    },
+    {
+      "year": 2016,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Leather AWD",
+      "price": 9850,
+      "mileage": 138040,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5GAKVBKD6GJ203017"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "Premier",
+      "price": 10999,
+      "mileage": 115612,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/2G1125S34J9174267"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT-1 AWD",
+      "price": 14999,
+      "mileage": 70673,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1GKKNULS1KZ213945"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 5999,
+      "mileage": 157934,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1G11C5SL5FF266788"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Sport 4WD",
+      "price": 10999,
+      "mileage": 134253,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FM5K8GT9GGB82910"
+    },
+    {
+      "year": 2020,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "4WD EX-L",
+      "price": 21999,
+      "mileage": 56852,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5FNYF6H57LB047407"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "2.5 Auto SE Nightshade",
+      "price": 19999,
+      "mileage": 43408,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/4T1G11AKXMU441579"
+    },
+    {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "2.5 Auto XSE",
+      "price": 20999,
+      "mileage": 92495,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/4T1B61HK9KU761183"
+    },
+    {
+      "year": 2015,
+      "make": "Buick",
+      "model": "LaCrosse",
+      "trim": "Leather",
+      "price": 7999,
+      "mileage": 113992,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1G4GB5GR9FF156002"
+    },
+    {
+      "year": 2015,
+      "make": "Lincoln",
+      "model": "MKZ",
+      "trim": "All Wheel Drive",
+      "price": 7999,
+      "mileage": 142200,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/3LN6L2J99FR605861"
+    },
+    {
+      "year": 2011,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited 4WD",
+      "price": 8999,
+      "mileage": 136501,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1J4RR5GT3BC619620"
+    },
+    {
+      "year": 2017,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX CVT",
+      "price": 12850,
+      "mileage": 99675,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/2HGFC2F57HH536808"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "4WD Touring",
+      "price": 15500,
+      "mileage": 147518,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5FNYF6H96JB005858"
+    },
+    {
+      "year": 2003,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Limited 4x4 V6",
+      "price": 5999,
+      "mileage": 169853,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/JTEHF21A530148780"
+    },
+    {
+      "year": 2009,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Sport w/3rd Row Seat 4x4 V6",
+      "price": 9850,
+      "mileage": 103486,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/JTEES43AX92150366"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE 4WD",
+      "price": 7999,
+      "mileage": 124763,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/1FMCU9GD1HUD79346"
+    },
+    {
+      "year": 2013,
+      "make": "Lexus",
+      "model": "ES 350",
+      "trim": "350",
+      "price": 10999,
+      "mileage": 106839,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/JTHBK1GG2D2039600"
+    },
+    {
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "2.0 SEL IVT",
+      "price": 16999,
+      "mileage": 36328,
+      "drivetrain": null,
+      "url": "https://www.autostoday.com/vehicles/5NPLN4AG1MH020347"
+    }
+  ]
+}

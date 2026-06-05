@@ -1,0 +1,931 @@
+{
+  "name": "Grand Rapids Chevrolet Buick GMC",
+  "slug": "grand-rapids-chevrolet",
+  "type": "franchise",
+  "address": "1610 S Pokegama Ave",
+  "city": "Grand Rapids",
+  "state": "MN",
+  "phone": "218-212-1132",
+  "website": "https://www.grandrapidschev.com/",
+  "specialties": [
+    "trucks",
+    "SUVs",
+    "GM certified pre-owned",
+    "full-size trucks"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "CMS: DealerOn (x-dealeron headers confirmed). Native DealerOn vhcliaa SRP API discovered (/api/vhcliaa/vehicle-pages/cosmos/srp/vehicles/30498/3) but returned 404 on all probe combinations - API requires undocumented session parameters not obtainable without browser execution. Fallback: Cars.com dealer page (ID 181698) scraped across 10 pages. Cars.com reports 230 total vehicles including new inventory; used vehicles extracted from pages 1-10 where identifiable by mileage. Total used vehicles captured: 91. 230 total listed on Cars.com; approximately 70-80 are new 2026 vehicles. Partial coverage due to Cars.com pagination mixing new+used.",
+  "inventory": [
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "price": 35972,
+      "mileage": 20927,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/2484d4bc-148a-4698-822d-84b52f228b10/"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Laramie Crew Cab 4x4",
+      "price": 37954,
+      "mileage": 128425,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/cb89828b-fa18-4069-a336-41cd8ae7c999/"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4",
+      "price": 51874,
+      "mileage": 35916,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/9c870037-b84d-4206-ad40-ba5061bd58e9/"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 25480,
+      "mileage": 120361,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/bef7e61e-6f9d-40d8-abc3-2c2d30d258cb/"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "FX4",
+      "price": 10980,
+      "mileage": 163712,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/8c6c5113-32b3-48f6-a006-15fc11dbfba0/"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 44971,
+      "mileage": 19713,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/a12bf5c9-2b29-44a0-8a57-5d8258368e3d/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 25972,
+      "mileage": 132356,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/c5dd2a6c-f896-44f7-ad3e-2c4a89eaee1d/"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "AWD Essence",
+      "price": 25784,
+      "mileage": 49505,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/062b37a1-f3f8-45da-a57e-2843281640a4/"
+    },
+    {
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "XLE",
+      "price": 19975,
+      "mileage": 55989,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/5fc9e4ad-a9b4-403b-bdb6-277651f17a2d/"
+    },
+    {
+      "year": 2013,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "LX",
+      "price": 7240,
+      "mileage": 145001,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/dd5146b0-b262-42a6-a593-064fcd349f53/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude",
+      "price": 17397,
+      "mileage": 95892,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/41dd62b1-e9f2-4b96-b013-139982caa8c2/"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": 27980,
+      "mileage": 51930,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/cdac318b-9d53-4f7d-a45d-52392dcf0e49/"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "AWD Preferred",
+      "price": 19704,
+      "mileage": 84420,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/5dc3085c-0f02-43c9-9997-8857aabfe5a7/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 42978,
+      "mileage": 25166,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/bc64edf2-694b-4fd7-984f-93790a30be7a/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier",
+      "price": 37954,
+      "mileage": 96119,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/2c5986ed-7b3a-4a33-807e-a4ec2d6ec00f/"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LTZ",
+      "price": 15980,
+      "mileage": 86883,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/26939aa2-4447-46c8-868c-755452a458fc/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 14381,
+      "mileage": 62448,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/f6b94620-bcc0-4f66-97a2-edd25707e24c/"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "trim": "SE",
+      "price": 14778,
+      "mileage": 89007,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/e1b5a4d3-cf07-4866-a229-c2463c4f3f21/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LS",
+      "price": 16980,
+      "mileage": 151349,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/3d98b05b-e8fb-4a86-87d7-36678be6d9a5/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series II",
+      "price": 39704,
+      "mileage": 58659,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/3751dd08-50ab-4dee-8346-cd27cbec3f50/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": 20397,
+      "mileage": 56064,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/659cbb68-0ae7-4b90-80ec-9008b102fd97/"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "trim": "LT",
+      "price": 19704,
+      "mileage": 90822,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/c9ae62b3-be54-40f6-ba88-df663b6538f6/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 12397,
+      "mileage": 77833,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/8cdeaeda-94f7-4da1-a18c-8f6cd42942c0/"
+    },
+    {
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE",
+      "price": 13397,
+      "mileage": 114043,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/55e9a0a1-af3f-4817-8099-0650086db8bd/"
+    },
+    {
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT",
+      "price": 15398,
+      "mileage": 107915,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/6abb2f59-4fa1-471c-adc4-5f01ce0e3473/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "Lariat",
+      "price": 35978,
+      "mileage": 118050,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/281a9b37-94c9-4b87-88c4-5db81eabc1f5/"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "SR5",
+      "price": 43980,
+      "mileage": 35728,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/ff9e4f45-9cf0-4e29-ab47-9fe260f0769a/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Z71",
+      "price": 15972,
+      "mileage": 160356,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/e48c55d1-d327-4025-88f0-4145c5bcee1a/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "Premier",
+      "price": 31397,
+      "mileage": 35976,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/e9f13209-5029-4511-bc17-50c375cc64a8/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 10784,
+      "mileage": 121715,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/c702a28e-894d-4ee0-957e-b36c0856d298/"
+    },
+    {
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "trim": "Limited",
+      "price": 21597,
+      "mileage": 97655,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/06f336cb-c82c-4813-a941-9c1ef43bdd1a/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT Leather",
+      "price": 21398,
+      "mileage": 90185,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/8e51ce43-4f17-42fc-aa4c-4e5e12ca7aab/"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 21784,
+      "mileage": 64780,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/b22f115c-aa10-44dd-85fc-90e57563f67a/"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "price": 40980,
+      "mileage": 30459,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/49038bf5-ad29-4856-a753-c0ac4a08dbe1/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 18397,
+      "mileage": 34919,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/4a2209dd-f3fc-424d-a054-1f52e2d9b5bc/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 Limited",
+      "trim": "RST",
+      "price": 34874,
+      "mileage": 76454,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/6f639831-dacf-4ae6-b9e6-d7ed5b2f411b/"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": 18250,
+      "mileage": 70188,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/fbfde4dd-fd35-4375-94f4-2e1ad0890ca9/"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "price": 22391,
+      "mileage": 39357,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/3097472e-8b4c-4ffa-8af7-f0022629b1df/"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Essence",
+      "price": 26980,
+      "mileage": 15103,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/6b52a24f-21a9-436c-91a1-a57b05888a8f/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Badlands",
+      "price": 27398,
+      "mileage": 22308,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/4b49e191-f363-4c09-8564-3370d55eb073/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "trim": "LTZ",
+      "price": 31274,
+      "mileage": 112809,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/ba534991-0583-4534-bdc9-f768a9be1944/"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Sahara",
+      "price": 26984,
+      "mileage": 89884,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/4923e95d-3a22-4977-a89c-46c8dfbbfa2a/"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 21974,
+      "mileage": 56264,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/a5c4b0e1-149c-4495-8ea9-cd663a09d37d/"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "2LT",
+      "price": 23480,
+      "mileage": 102732,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/b867f837-581f-4baf-9a47-7c5376289949/"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "4WD AT4",
+      "price": 65397,
+      "mileage": 31177,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/594c9a75-bacd-434b-8223-17cae73e0836/"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 29700,
+      "mileage": 94003,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/5a880bc7-c29f-49d5-9ad2-be8d3ea726e8/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE",
+      "price": 26980,
+      "mileage": 33512,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/9b5678b0-9913-4fc5-a0fb-85578d0a2d4a/"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 32974,
+      "mileage": 76825,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/457dbd83-2e69-4fdd-b8f0-5a7bd1beaec4/"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Essence AWD",
+      "price": 32971,
+      "mileage": 36206,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/58709580-f7f1-4960-aa69-fe1c82a5ab07/"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 10490,
+      "mileage": 143100,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/987050b5-9c6c-4a9d-a848-82f8391a2201/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "RST",
+      "price": 49387,
+      "mileage": 71451,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/13eecd7d-a6aa-49f9-88fd-16a6bf7ca0cc/"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series II Carbide 4x4",
+      "price": 47300,
+      "mileage": 48385,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/6678571e-0e49-4e8f-aac5-fa96b2004a57/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 16702,
+      "mileage": 86129,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/f9612d61-aee1-4e3e-852f-b558c7bb3471/"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "Platinum",
+      "price": 62981,
+      "mileage": 48191,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/2f1daef5-360f-4c2e-968a-ab414093d20a/"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE",
+      "price": 19391,
+      "mileage": 57910,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/31d7f824-6664-433a-87c1-c0fced819176/"
+    },
+    {
+      "year": 2014,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "SXT",
+      "price": 11980,
+      "mileage": 142388,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/075cbf5f-3a4a-4187-860f-585497d9d1ec/"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium",
+      "price": 20741,
+      "mileage": 49958,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/0e50ec37-b9df-4419-bc67-39b819facb30/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 18980,
+      "mileage": 62983,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/31d0744f-373d-4f43-901c-08f59e41f836/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "RS",
+      "price": 23981,
+      "mileage": 90925,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/c2749932-7546-47da-8c6f-6461091bfc5d/"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": 22987,
+      "mileage": 36010,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/f95f1748-5656-491c-b18b-c45b458ccf19/"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500 Denali",
+      "trim": "Ultimate",
+      "price": 58974,
+      "mileage": 23435,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/9c217c20-4d3b-4f86-aa23-24f635a8e8db/"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 46391,
+      "mileage": 73854,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/34f7913f-332c-4cd9-845e-cc5355b0e65b/"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 37980,
+      "mileage": 29179,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/4eafd4e3-7891-4270-906e-d13480ea53ef/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 23980,
+      "mileage": 23905,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/d3c98be1-7655-47d3-aa0b-9275f66fc6fc/"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 27980,
+      "mileage": 111071,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/9d2a18dd-45eb-4d88-957f-3c787658ae47/"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 43987,
+      "mileage": 35355,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/0903e6e6-eb32-4c26-92db-3b41247b9891/"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 13681,
+      "mileage": 96234,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/26034527-73e0-4535-81ee-7892430249ff/"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 36480,
+      "mileage": 81850,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/5ce5a27e-ecbc-4258-a501-e98870c083fa/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 42980,
+      "mileage": 38600,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/7ad363fc-6551-4d22-a20c-056422934c45/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 29397,
+      "mileage": 73741,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/f357a5b6-7660-4099-b615-c8426cd3153c/"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 14978,
+      "mileage": 71463,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/964e7aea-56ca-4926-9d69-791d3a19d78c/"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 24398,
+      "mileage": 118142,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/8c640829-3a01-4497-a9c2-556fbba904ef/"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 27980,
+      "mileage": 21924,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/190c973b-1281-460b-bcc3-d5baa6d1677b/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 16497,
+      "mileage": 61041,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/ddab5450-e2f7-40cb-95ed-cebc3cdd9deb/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 21487,
+      "mileage": 26102,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/18cfddf4-202a-497d-b7ce-35ad74cfca48/"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "2LT",
+      "price": 18410,
+      "mileage": 129634,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/bf43a991-5df3-497d-9a23-317efe4ec0f1/"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 18971,
+      "mileage": 35161,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/620a2e6f-7a25-44bf-9d52-bcbfa3a5936d/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT Cloth",
+      "price": 27851,
+      "mileage": 60136,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/67b7bb99-6d41-4022-b572-5556c9dc7e88/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 20980,
+      "mileage": 56066,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/af92aa43-a1d7-42af-a1ca-5f95477ddcb0/"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 46398,
+      "mileage": 5750,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/cee7d9e0-1e78-4f95-885a-92266f389c1a/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 19702,
+      "mileage": 59191,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/66e3e737-48c9-4adc-8718-d395553060e7/"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 31974,
+      "mileage": 53183,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/501ae680-c1f1-4bcc-93b0-68ec452186ec/"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 16397,
+      "mileage": 155403,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/60438fc4-64cc-45c9-a98e-ea9bfc8a35fc/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 37712,
+      "mileage": 56489,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/8a355aa5-07fb-4874-a3bf-6d20b0ae9c6b/"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "1LT",
+      "price": 18703,
+      "mileage": 57964,
+      "drivetrain": "FWD",
+      "url": "https://www.cars.com/vehicledetail/2bf2dfaf-a7ea-4cab-9526-ab301f5ae94b/"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 29987,
+      "mileage": 44092,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/46b6620e-7307-4564-ad53-75882cfb38bd/"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 20480,
+      "mileage": 55148,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/273572b6-434b-4af6-870c-be4c879c468d/"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 38480,
+      "mileage": 73255,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/6264de1f-e975-4d7b-a666-5ea47a1abcfe/"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "1LT",
+      "price": 16704,
+      "mileage": 78625,
+      "drivetrain": "AWD",
+      "url": "https://www.cars.com/vehicledetail/8e1d98b3-23ed-4ad6-bebb-33a90d8c991a/"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLE",
+      "price": 21781,
+      "mileage": 117226,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/84360674-26c2-46ab-8e1e-292524b76d90/"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 183611,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/d68c0a4a-cef8-4391-8596-17f5941b9f40/"
+    }
+  ]
+}

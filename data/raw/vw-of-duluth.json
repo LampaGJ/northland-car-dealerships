@@ -1,0 +1,321 @@
+{
+  "name": "Volkswagen of Duluth",
+  "slug": "vw-of-duluth",
+  "type": "franchise",
+  "address": "4735 Loberg Ave",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": "218-722-6989",
+  "website": "https://www.vwofduluth.com/",
+  "specialties": [
+    "Volkswagen certified pre-owned",
+    "VW Tiguan and Atlas specialist",
+    "German import vehicles",
+    "SUV and crossover inventory"
+  ],
+  "coverage": "full",
+  "method": "json-endpoint",
+  "notes": "CMS: Kestrel/.NET (server: Kestrel). Native JSON feed at /inventory-used.json discovered via /inventorysitemap.xml sitemap index. Single page of 30 unique vehicles (totalPages: 1, totalVehicles: 30). CPO feed (/inventory-cpo.json) is a full subset \u2014 13 CPO vehicles all present in used feed. All fields extracted directly from JSON.",
+  "inventory": [
+    {
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "2.0T SEL Premium R-Line",
+      "price": 40000,
+      "mileage": 30307,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2fr2ca5rc573924/2024-volkswagen-atlas-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T",
+      "price": 39499,
+      "mileage": 36592,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c4sdjct6nc210990/2022-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "2.0T Peak Edition SE w/Technology",
+      "price": 37999,
+      "mileage": 17520,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2cr2ca2rc582289/2024-volkswagen-atlas-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "3.6L V6 SEL Premium R-Line",
+      "price": 33999,
+      "mileage": 47440,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2fr2ca0pc546868/2023-volkswagen-atlas-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "trim": "2.0T SE w/Technology",
+      "price": 31999,
+      "mileage": 37507,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2ke2caxrc227412/2024-volkswagen-atlas-cross-sport-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "trim": "3.6L V6 SE w/Technology",
+      "price": 30499,
+      "mileage": 40532,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2ke2ca2pc227269/2023-volkswagen-atlas-cross-sport-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn",
+      "price": 29699,
+      "mileage": 89654,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c6srfft9mn654384/2021-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Longhorn",
+      "price": 28999,
+      "mileage": 138171,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c6srfkt2kn633931/2019-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "3.6L V6 SEL",
+      "price": 28499,
+      "mileage": 84490,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2br2ca7nc526421/2022-volkswagen-atlas-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "SE",
+      "price": 27499,
+      "mileage": 9830,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vvvc7b23sm051224/2025-volkswagen-taos-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "SE",
+      "price": 27499,
+      "mileage": 7568,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vvuc7b21sm054490/2025-volkswagen-taos-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "SE",
+      "price": 27499,
+      "mileage": 10476,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vvvc7b24sm052026/2025-volkswagen-taos-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "SE",
+      "price": 27199,
+      "mileage": 24800,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vv2b7ax1rm018199/2024-volkswagen-tiguan-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "ID.4",
+      "trim": "Pro S",
+      "price": 25999,
+      "mileage": 30552,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2wnpe82pc043250/2023-volkswagen-id-4-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "SEL",
+      "price": 25000,
+      "mileage": 44729,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vv2b7ax3mm018357/2021-volkswagen-tiguan-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "SE",
+      "price": 24299,
+      "mileage": 39900,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vv2b7ax7nm100321/2022-volkswagen-tiguan-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Preferred",
+      "price": 21499,
+      "mileage": 67973,
+      "drivetrain": "FWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/lrbazlr43md087973/2021-buick-envision-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited",
+      "price": 20999,
+      "mileage": 86607,
+      "drivetrain": "FWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/2c4rc1gg9lr164994/2020-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "SE",
+      "price": 20000,
+      "mileage": 67019,
+      "drivetrain": "FWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vv3b7ax6pm134922/2023-volkswagen-tiguan-sport-utility"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": 18999,
+      "mileage": 68406,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c4pjmdx6kd430248/2019-jeep-cherokee-sport-utility"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LTZ",
+      "price": 16999,
+      "mileage": 160992,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1gnskjkc5gr203527/2016-chevrolet-suburban-sport-utility"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 15999,
+      "mileage": 183276,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c6rr7vt1hs842264/2017-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "300",
+      "trim": "300C",
+      "price": 15000,
+      "mileage": 117574,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/2c3ccakg9gh349219/2016-chrysler-300-4dr-car"
+    },
+    {
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "3.6L V6 SE w/Technology",
+      "price": 15000,
+      "mileage": 143949,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1v2ur2ca4kc571255/2019-volkswagen-atlas-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "S",
+      "price": 14299,
+      "mileage": 95158,
+      "drivetrain": "AWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/3vv0b7ax7lm119519/2020-volkswagen-tiguan-sport-utility"
+    },
+    {
+      "year": 2012,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Sport",
+      "price": 12999,
+      "mileage": 154147,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c6rd7mt6cs328015/2012-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2015,
+      "make": "Audi",
+      "model": "Q3",
+      "trim": "QUATTRO 4DR 2.0T PROGRESS",
+      "price": 11999,
+      "mileage": 126039,
+      "drivetrain": "Y",
+      "url": "https://www.vwofduluth.com/viewdetails/used/wa1efefsxfr003318/2015-audi-q3-sport-utility"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Impala Limited",
+      "trim": "LT",
+      "price": 11499,
+      "mileage": 120402,
+      "drivetrain": "FWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/2g1wb5e37f1122994/2015-chevrolet-impala-limited-4dr-car"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 7999,
+      "mileage": 227584,
+      "drivetrain": "4WD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/1c4rjfagxcc170677/2012-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2015,
+      "make": "Kia",
+      "model": "Rio",
+      "trim": "LX",
+      "price": 6999,
+      "mileage": 70595,
+      "drivetrain": "FWD",
+      "url": "https://www.vwofduluth.com/viewdetails/used/knadm4a31f6503352/2015-kia-rio-4dr-car"
+    }
+  ]
+}

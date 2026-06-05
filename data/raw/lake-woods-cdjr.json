@@ -1,0 +1,15 @@
+{
+  "name": "Lake Woods Chrysler Dodge Jeep Ram",
+  "slug": "lake-woods-cdjr",
+  "type": "franchise",
+  "address": "815 NW 4th St",
+  "city": "Grand Rapids",
+  "state": "MN",
+  "phone": "218-326-9421",
+  "website": "https://www.dondelingerfordcdjr.com/",
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "Lake Woods CDJR at 815 NW 4th St Grand Rapids MN has been absorbed into Dondelinger Ford CDJR. The original Lake Woods CDJR rooftop relocated from 815 NW 4th St, Grand Rapids MN to 25964 Bear Ridge Dr, Cohasset MN and was rebranded as Dondelinger Ford CDJR (Dondelinger group), offering Ford, Chrysler, Dodge, Jeep, and Ram under one roof. The website dondelingerfordcdjr.com explicitly markets as the destination for Grand Rapids and Cohasset drivers. Cars.com lists 'Dondelinger Chrysler Dodge Jeep Ram' at 815 NW 4th St (the old address) with zero active inventory, confirming the address is stale and inventory has migrated. All CDJR inventory for this geographic market is captured in dondelinger-ford-cdjr.json (56 used vehicles as of 2026-06-05). No vehicles recorded here to avoid double-counting.",
+  "inventory": []
+}

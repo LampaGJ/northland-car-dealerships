@@ -1,0 +1,391 @@
+{
+  "name": "Anderson Motors LLC",
+  "slug": "anderson-motors",
+  "type": "independent",
+  "address": "4955 Rice Lake Rd",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-800-9363",
+  "website": "https://www.andersonmotorsllc.com",
+  "specialties": [
+    "rust-free out-of-state vehicles",
+    "AWD/4WD only",
+    "Subaru specialist",
+    "Honda/Toyota/Volvo/VW"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch (dealer ID 12423, confirmed via imagescdn.dealercarsearch.com/DealerImages/12423/ in source, ASP.NET/IIS headers, SERVERID=dcspcms09 cookie). Feed probes: /api/inventory returned 302; no JSON API. Uses i10r template variant with price-2 span and i10r_opt* feature classes rather than i13r/price-price. Extracted from /newandusedcars?clearall=1 HTML. Inventory is almost entirely AWD/4WD Subaru (Forester/Outback/Ascent/Crosstrek/WRX), Volvo, VW, with some Chevy/GMC/Jeep/Mazda. Consistent with advertised focus on rust-free out-of-state AWD vehicles.",
+  "inventory": [
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "2LT AWD",
+      "price": 20395,
+      "mileage": 108642,
+      "drivetrain": "4WD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23752078/Used-2015-Cadillac-Escalade-Luxury-4WD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LS 1.5 AWD",
+      "price": 17995,
+      "mileage": 110806,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23945940/Used-2022-Chevrolet-Blazer-2LT-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT AWD",
+      "price": 14695,
+      "mileage": 82901,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23777072/Used-2019-Chevrolet-Equinox-LS-15-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "RST 4WD",
+      "price": 14395,
+      "mileage": 100624,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23634699/Used-2021-Chevrolet-Equinox-LT-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra",
+      "trim": "1500 Double Cab 4WD",
+      "price": 31995,
+      "mileage": 120223,
+      "drivetrain": "4WD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23914234/Used-2020-Chevrolet-Suburban-RST-4WD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude 4WD",
+      "price": 16995,
+      "mileage": 126521,
+      "drivetrain": "4WD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23836062/Used-2017-GMC-Sierra-1500-Double-Cab-4WD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "Grand Touring AWD",
+      "price": 17995,
+      "mileage": 47189,
+      "drivetrain": "4WD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23623845/Used-2022-Jeep-Compass-Latitude-4WD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "Grand Touring AWD",
+      "price": 19995,
+      "mileage": 60579,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23242394/Used-2019-Mazda-CX5-Grand-Touring-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV AWD",
+      "price": 15895,
+      "mileage": 126674,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23145736/Used-2019-Mazda-CX5-Grand-Touring-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Premium 7-Passenger",
+      "price": 16495,
+      "mileage": 95910,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23651333/Used-2023-Nissan-Rogue-SV-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Touring",
+      "price": 13495,
+      "mileage": 142985,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23876888/Used-2019-Subaru-Ascent-Premium-7Passenger-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Ascent",
+      "trim": "Touring",
+      "price": 20995,
+      "mileage": 95833,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23391521/Used-2021-Subaru-Ascent-Touring-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium PZEV CVT",
+      "price": 18495,
+      "mileage": 131511,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23731764/Used-2022-Subaru-Ascent-Touring-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Touring 4D SUV",
+      "price": 14995,
+      "mileage": 99275,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23766206/Used-2017-Subaru-Forester-25i-Premium-PZEV-CVT-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i PZEV 6M",
+      "price": 10995,
+      "mileage": 175389,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23860846/Used-2017-Subaru-Forester-25i-Touring-4D-SUV-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium PZEV CVT",
+      "price": 10995,
+      "mileage": 137702,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23945942/Used-2017-Subaru-Forester-25i-PZEV-6M-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Touring",
+      "price": 14995,
+      "mileage": 109327,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23391520/Used-2018-Subaru-Forester-25i-Premium-PZEV-CVT-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium PZEV CVT",
+      "price": 13995,
+      "mileage": 142277,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23917000/Used-2018-Subaru-Forester-25i-Touring-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium AWD",
+      "price": 8495,
+      "mileage": 181977,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23676541/Used-2018-Subaru-Forester-25i-Premium-PZEV-CVT-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Sport",
+      "price": 13995,
+      "mileage": 157752,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23459429/Used-2020-Subaru-Forester-Premium-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Premium",
+      "price": 18995,
+      "mileage": 106502,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23890825/Used-2021-Subaru-Forester-Sport-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "Base",
+      "price": 20395,
+      "mileage": 86853,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23602604/Used-2021-Subaru-Forester-Premium-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2012,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "3.6R Limited",
+      "price": 14695,
+      "mileage": 139446,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23236988/Used-2022-Subaru-Forester-Base-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Limited",
+      "price": 8495,
+      "mileage": 148814,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23916999/Used-2012-Subaru-Outback-36R-Limited-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Limited",
+      "price": 11995,
+      "mileage": 142974,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23930893/Used-2015-Subaru-Outback-25i-Limited-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i",
+      "price": 7995,
+      "mileage": 198132,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23683392/Used-2017-Subaru-Outback-25i-Limited-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "3.6R Limited",
+      "price": 15995,
+      "mileage": 82140,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23550131/Used-2017-Subaru-Outback-25i-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited XT",
+      "price": 12995,
+      "mileage": 160983,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23881332/Used-2018-Subaru-Outback-36R-Limited-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Limited XT",
+      "price": 19295,
+      "mileage": 99781,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23851940/Used-2020-Subaru-Outback-Limited-XT-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2023,
+      "make": "Subaru",
+      "model": "WRX",
+      "trim": "Premium 6M",
+      "price": 23295,
+      "mileage": 86209,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23602603/Used-2023-Subaru-Outback-Limited-XT-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2001,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "4WD",
+      "price": 27995,
+      "mileage": 26192,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/22738504/Used-2023-Subaru-WRX-Premium-6M-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "V6 SEL Premium 4MOTION",
+      "price": 9995,
+      "mileage": 117044,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23840571/Used-2001-Toyota-RAV4-4WD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "SE 4Motion AWD",
+      "price": 17995,
+      "mileage": 123432,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23300050/Used-2021-Volkswagen-Atlas-V6-SEL-Premium-4MOTION-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "S 4Motion",
+      "price": 14995,
+      "mileage": 97515,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23597621/Used-2020-Volkswagen-Tiguan-SE-4Motion-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2017,
+      "make": "Volvo",
+      "model": "S90",
+      "trim": "T6 Inscription AWD",
+      "price": 15995,
+      "mileage": 84482,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23831196/Used-2021-Volkswagen-Tiguan-S-4Motion-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2023,
+      "make": "Volvo",
+      "model": "XC40",
+      "trim": "B5 Plus Bright AWD",
+      "price": 17995,
+      "mileage": 84711,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23945945/Used-2017-Volvo-S90-T6-Inscription-AWD-for-sale-in-Duluth-MN-55803-"
+    },
+    {
+      "year": 2019,
+      "make": "Volvo",
+      "model": "XC90",
+      "trim": "T6 Inscription AWD",
+      "price": 27995,
+      "mileage": 42789,
+      "drivetrain": "AWD",
+      "url": "https://www.andersonmotorsllc.com/vdp/23885938/Used-2023-Volvo-XC40-B5-Plus-Bright-AWD-for-sale-in-Duluth-MN-55803-"
+    }
+  ]
+}

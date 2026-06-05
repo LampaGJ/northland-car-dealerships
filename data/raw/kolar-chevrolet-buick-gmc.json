@@ -1,0 +1,1711 @@
+{
+  "name": "Kolar Chevrolet Buick GMC Cadillac",
+  "slug": "kolar-chevrolet-buick-gmc",
+  "type": "franchise",
+  "address": "4770 W Arrowhead Rd",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": "866-922-7370",
+  "website": "https://www.kolarchevroletbuickgmc.com/",
+  "specialties": [
+    "GM trucks/SUVs (Silverado/Sierra/Tahoe)",
+    "CarBravo certified pre-owned",
+    "domestic trucks (RAM/Jeep)",
+    "wide price range $7k-$88k"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerOn (x-dealeron headers, cdn.dlron.us assets). RSS feed (/rss-usedinventory.aspx) has 25 items, no price. Sitemap had 177 used vehicle URLs; 169 unique VINs extracted via parallel HTML scraping of listing pages. Data extracted from sdDataLayer.vehicleDetails JS object (year/make/model/trim/drivetrain/price) and DOM mileage element. 8 listings returned no sdDataLayer (likely sold/expired during scrape).",
+  "inventory": [
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 19340,
+      "mileage": 150415,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Silverado+1500-LT-1GCVKREC1HZ268747"
+    },
+    {
+      "year": 2018,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Preferred",
+      "price": 13340,
+      "mileage": 145035,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Buick-Encore-Preferred-KL4CJESB9JB510370"
+    },
+    {
+      "year": 2005,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 7340,
+      "mileage": 153386,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2005-Jeep-Grand+Cherokee-Laredo-1J4HR48N95C612343"
+    },
+    {
+      "year": 2020,
+      "make": "Nissan",
+      "model": "TITAN XD",
+      "trim": "Crew Cab SL 4x4",
+      "price": 29340,
+      "mileage": 96042,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-Nissan-TITAN+XD-Crew+Cab+SL+4x4-1N6AA1FB0LN508621"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Laramie Power Wagon",
+      "price": 34794,
+      "mileage": 80167,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-RAM-2500-Laramie+Power+Wagon-3C6TR5FJXGG138979"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 44340,
+      "mileage": 9083,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-Elevation-1GTPUJEK6RZ171914"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 26594,
+      "mileage": 29491,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Chevrolet-Equinox-LT-3GNAXUEG2RL189089"
+    },
+    {
+      "year": 2018,
+      "make": "Lexus",
+      "model": "NX 300",
+      "trim": "NX 300",
+      "price": 31794,
+      "mileage": 35494,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Lexus-+-NX+300-JTJBARBZ2J2163855"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn Crew Cab 4x4 6'4\" Box",
+      "price": 47340,
+      "mileage": 9880,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-RAM-2500-Big+Horn+Crew+Cab+4x4+64+Box-3C6UR5DJ8RG388084"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 27340,
+      "mileage": 74656,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-Ford-Explorer-Limited-1FMSK8FH0LGB24307"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Platinum",
+      "price": 48340,
+      "mileage": 70502,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Toyota-Tundra-Platinum-5TFNA5DB4PX114807"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 41794,
+      "mileage": 75718,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+1500-SLT-3GTUUDEL3NG531180"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn Crew Cab 4x4 6'4\" Box",
+      "price": 47794,
+      "mileage": 53621,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-RAM-2500-Big+Horn+Crew+Cab+4x4+64+Box-3C6UR5DL9MG682247"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 25340,
+      "mileage": 80471,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2015-Chevrolet-Silverado+1500-LTZ-3GCUKSEC2FG315140"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "LT",
+      "price": 19140,
+      "mileage": 80628,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-Chevrolet-Trailblazer-LT-KL79MPSLXNB062770"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "LTZ",
+      "price": 60340,
+      "mileage": 69106,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Chevrolet-Silverado+3500+HD-LTZ-1GC4YUEY4RF204021"
+    },
+    {
+      "year": 2017,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring-L",
+      "price": 12140,
+      "mileage": 164280,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chrysler-Pacifica-Touring+L-2C4RC1BG1HR525407"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 17794,
+      "mileage": 184760,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-GMC-Sierra+1500-SLT-3GTU2NEC8HG296629"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": 9340,
+      "mileage": 203703,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Ford-F+150-STX-1FTFX1EF2DFB21611"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 33794,
+      "mileage": 58596,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-Chevrolet-Silverado+1500-LT-3GCPDDEK5NG538491"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 19794,
+      "mileage": 104731,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Ford-Explorer-XLT-1FM5K8D89KGA05413"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman Crew Cab 4x4 6'4\" Box",
+      "price": 18794,
+      "mileage": 85083,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-RAM-1500-Tradesman+Crew+Cab+4x4+64+Box-1C6RR7ST0HS656798"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 45340,
+      "mileage": 13816,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Chevrolet-Silverado+1500-LT-2GCUKDED7S1101428"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": null,
+      "mileage": 166029,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Chevrolet-Tahoe-LT-1GNSKBE05DR230164"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Work Truck",
+      "price": 10340,
+      "mileage": 246165,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Silverado+1500-Work+Truck-1GCVKNEC5JZ379719"
+    },
+    {
+      "year": 2014,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX",
+      "price": 8130,
+      "mileage": 143875,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2014-Kia-Sportage-LX-KNDPBCAC1E7648027"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": null,
+      "mileage": 23257,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Ford-Edge-SEL-2FMPK4J96RBB11141"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 53794,
+      "mileage": 9730,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2026-Chevrolet-Silverado+1500-RST-1GCUKEED9TZ101753"
+    },
+    {
+      "year": 2018,
+      "make": "Cadillac",
+      "model": "CT6",
+      "trim": "Premium Luxury AWD",
+      "price": 27340,
+      "mileage": 90505,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Cadillac-CT6-Premium+Luxury+AWD-1G6KJ5R66JU154154"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 30340,
+      "mileage": 65315,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Silverado+1500-LT-3GCUKREC4JG566808"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 29094,
+      "mileage": 68220,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Chevrolet-Silverado+1500-LT-1GCRYDED7KZ304315"
+    },
+    {
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "High Altitude Edition",
+      "price": 10340,
+      "mileage": 105794,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-Jeep-Compass-High+Altitude+Edition-1C4NJDEBXGD657881"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "LT",
+      "price": 29127,
+      "mileage": 87455,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Chevrolet-Silverado+2500+HD-LT-1GC1KXC80DF199465"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 14794,
+      "mileage": 132757,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2014-Chevrolet-Silverado+1500-LT-1GCVKREC9EZ201499"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 32794,
+      "mileage": 102130,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-GMC-Yukon+XL-Denali-1GKS2HKJ6KR151869"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "SE",
+      "price": 24340,
+      "mileage": 21164,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Toyota-Corolla-SE-5YFP4MCE3RP200942"
+    },
+    {
+      "year": 2025,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": "Avenir",
+      "price": 52794,
+      "mileage": 20811,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Buick-Enclave-Avenir-5GAEVCRS3SJ107085"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 30340,
+      "mileage": 13800,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Chevrolet-Equinox-LT-3GNAXPEG4SL242429"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "SE",
+      "price": 11340,
+      "mileage": 0,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Ford-Fusion-SE-3FA6P0HD3HR141496"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "price": 17340,
+      "mileage": 164181,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-Chevrolet-Suburban-LT-1GNSKHKC5GR411402"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk 4x4",
+      "price": 18340,
+      "mileage": 87002,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Jeep-Cherokee-Trailhawk+4x4-1C4PJMBX8KD483603"
+    },
+    {
+      "year": 2004,
+      "make": "Subaru",
+      "model": "Legacy Sedan (Natl)",
+      "trim": "L",
+      "price": 7794,
+      "mileage": 90882,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2004-Subaru-Legacy+Sedan+Natl-L-4S3BE625047205398"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 21794,
+      "mileage": 90002,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-Chevrolet-Silverado+1500-LT-1GCVKREC3GZ155056"
+    },
+    {
+      "year": 2007,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "LT w/3LT",
+      "price": 10340,
+      "mileage": 115661,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2007-Chevrolet-Colorado-LT+w3LT-1GCDT13E978170097"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Limited",
+      "price": 60240,
+      "mileage": 73145,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-RAM-3500-Limited-3C63RRPLXNG278311"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 42794,
+      "mileage": 44918,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-Chevrolet-Silverado+1500-RST-1GCUDEEDXNZ557886"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "4WD LT",
+      "price": 22845,
+      "mileage": 101515,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Chevrolet-Colorado-4WD+LT-1GCGTCEN8K1261868"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": null,
+      "mileage": 47885,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-GMC-Sierra+1500-Denali-1GTU9FEL4MZ256804"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium",
+      "price": 10340,
+      "mileage": 158640,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Ford-Escape-Titanium-1FMCU9J96HUB27323"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali",
+      "price": 50340,
+      "mileage": 29280,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Acadia-Denali-1GKENRKS2RJ242441"
+    },
+    {
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "trim": "SEL Convenience",
+      "price": 24340,
+      "mileage": 63580,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Hyundai-Tucson+Hybrid-SEL+Convenience-KM8JFCA19PU128862"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Crew Cab 4x4 5'7\" Box",
+      "price": 33127,
+      "mileage": 117230,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-RAM-1500-Laramie+Crew+Cab+4x4+57+Box-1C6SRFJT8MN577157"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 26340,
+      "mileage": 117775,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Silverado+1500-LT-3GCUKREC3JG637108"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 29794,
+      "mileage": 102503,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-GMC-Sierra+1500-SLT-3GTU2NEJ9JG159297"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "Denali",
+      "price": 44127,
+      "mileage": 94893,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-GMC-Yukon-Denali-1GKS2DKL9MR337337"
+    },
+    {
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "trim": "2.0T SE",
+      "price": 17794,
+      "mileage": 98319,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Volkswagen-Tiguan-20T+SE-3VV2B7AXXMM000258"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 29340,
+      "mileage": 80941,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Silverado+1500-LT-3GCUKREC2JG472653"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 11340,
+      "mileage": 132152,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2014-Ford-Edge-SEL-2FMDK4JC3EBB13065"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude Lux FWD",
+      "price": 26794,
+      "mileage": 9868,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Jeep-Compass-Latitude+Lux+FWD-3C4NJDFN0RT102198"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn Crew Cab 4x4 6'4\" Box",
+      "price": 39340,
+      "mileage": 69083,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-RAM-2500-Big+Horn+Crew+Cab+4x4+64+Box-3C6UR5DJ9NG254565"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "SV",
+      "price": 22849,
+      "mileage": 55511,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Nissan-Frontier-SV-1N6DD0EV8JN704975"
+    },
+    {
+      "year": 2020,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "SX",
+      "price": 22340,
+      "mileage": 136118,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-Kia-Telluride-SX-5XYP5DHC3LG019937"
+    },
+    {
+      "year": 2011,
+      "make": "Cadillac",
+      "model": "SRX",
+      "trim": "Turbo Premium Collection",
+      "price": 10340,
+      "mileage": 182557,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2011-Cadillac-SRX-Turbo+Premium+Collection-3GYFNKE63BS587577"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 22340,
+      "mileage": 50000,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Chevrolet-Equinox-LT-2GNAXUEV7K6200869"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 62879,
+      "mileage": 40845,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Yukon-SLT-1GKS2BKD5RR198702"
+    },
+    {
+      "year": 2019,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Preferred",
+      "price": 17340,
+      "mileage": 103412,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Buick-Envision-Preferred-LRBFX1SA0KD003637"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 26340,
+      "mileage": 130638,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-Ford-F+150-XLT-1FTEW1E4XLFC33617"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 25340,
+      "mileage": 119621,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Ford-F+150-XL-1FTEW1EGXHKD82389"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "SLT",
+      "price": 46340,
+      "mileage": 97655,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+3500+HD-SLT-1GT49UE76NF226391"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": 40340,
+      "mileage": 91577,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Chevrolet-Tahoe-LT-1GNSKNKD9MR148298"
+    },
+    {
+      "year": 2024,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Preferred",
+      "price": 26340,
+      "mileage": 14301,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Buick-Encore+GX-Preferred-KL4AMCSL7RB127535"
+    },
+    {
+      "year": 2026,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "Denali Ultimate",
+      "price": 62340,
+      "mileage": 4840,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2026-GMC-Acadia-Denali+Ultimate-1GKENTKS8TJ233716"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Encore GX",
+      "trim": "Preferred",
+      "price": 22794,
+      "mileage": 54940,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Buick-Encore+GX-Preferred-KL4MMCSLXPB134926"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 38094,
+      "mileage": 51989,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Chevrolet-Silverado+1500-LT-1GCPDDEK1PZ190031"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 19127,
+      "mileage": 117794,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-Chevrolet-Silverado+1500-LT-1GCVKREC9GZ322407"
+    },
+    {
+      "year": 2015,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "price": 10340,
+      "mileage": 198982,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2015-Honda-CR+V-EX+L-5J6RM4H73FL039591"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": null,
+      "mileage": 174098,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2012-Chevrolet-Silverado+1500-LTZ-3GCPKTE71CG112581"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Rebel Crew Cab 4x4 5'7\" Box",
+      "price": 39040,
+      "mileage": 60642,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-RAM-1500-Rebel+Crew+Cab+4x4+57+Box-1C6SRFLT0MN516026"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 43340,
+      "mileage": 60555,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-Elevation-3GTUUCE8XRG150809"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Rogue Select",
+      "trim": "S",
+      "price": null,
+      "mileage": 146121,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2015-Nissan-Rogue+Select-S-JN8AS5MV5FW253858"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk 4x4",
+      "price": 17340,
+      "mileage": 68697,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Jeep-Compass-Trailhawk+4x4-3C4NJDDBXJT211913"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 38340,
+      "mileage": 94522,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Ford-F+150-XLT-1FTEW1EP6MFB00476"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500 Limited",
+      "trim": "SLE",
+      "price": 30340,
+      "mileage": 74805,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+1500+Limited-SLE-1GTR9BED2NZ228945"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 14127,
+      "mileage": 158093,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Ford-F+150-XL-1FTFW1ET0DKE56530"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Sport",
+      "price": 10340,
+      "mileage": 158024,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2012-Jeep-Wrangler+Unlimited-Sport-1C4BJWDG8CL189127"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 43340,
+      "mileage": 31311,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-Elevation-3GTPUJEK7RG304843"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LT",
+      "price": 12340,
+      "mileage": 88200,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Trax-LT-3GNCJPSB3HL184261"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier",
+      "price": 30127,
+      "mileage": 128809,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Suburban-Premier-1GNSKJKC8JR119838"
+    },
+    {
+      "year": 2013,
+      "make": "INFINITI",
+      "model": "G37x",
+      "trim": "x",
+      "price": 15127,
+      "mileage": 154984,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-INFINITI-G37x-x-JN1CV6AR1DM751303"
+    },
+    {
+      "year": 2023,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "Preferred",
+      "price": 30349,
+      "mileage": 25003,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Buick-Envision-Preferred-LRBFZMR40PD139754"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 80348,
+      "mileage": 8598,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Yukon+XL-Denali-1GKS2JKLXRR379411"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "80th Anniversary",
+      "price": 15340,
+      "mileage": 146517,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Jeep-Compass-80th+Anniversary-3C4NJDEB8MT539592"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado LD",
+      "trim": "LT",
+      "price": 28349,
+      "mileage": 76592,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Chevrolet-Silverado+LD-LT-2GCVKPEC8K1177432"
+    },
+    {
+      "year": 2017,
+      "make": "Buick",
+      "model": "LaCrosse",
+      "trim": "Essence",
+      "price": 14994,
+      "mileage": 104220,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Buick-LaCrosse-Essence-1G4ZP5SS7HU150539"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "XLT",
+      "price": 30340,
+      "mileage": 31630,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Ford-Maverick-XLT-3FTTW8J91RRA75939"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "Premier",
+      "price": 30340,
+      "mileage": 9655,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Chevrolet-Equinox-Premier-3GNAXXEG1RL181101"
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "TITAN",
+      "trim": "Platinum Reserve",
+      "price": 28127,
+      "mileage": 95226,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Nissan-TITAN-Platinum+Reserve-1N6AA1E56KN504311"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 16340,
+      "mileage": 151165,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Jeep-Grand+Cherokee-Limited-1C4RJFBG1JC367605"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "LARIAT",
+      "price": 27340,
+      "mileage": 117930,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2015-Ford-F+250-LARIAT-1FT7W2B65FEC88832"
+    },
+    {
+      "year": 2010,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT1",
+      "price": 7794,
+      "mileage": 216726,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2010-GMC-Acadia-SLT1-1GKLVMED2AJ174167"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 12340,
+      "mileage": 168584,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-GMC-Yukon+XL-Denali-1GKS2MEF1DR253728"
+    },
+    {
+      "year": 2007,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "price": 12340,
+      "mileage": 142064,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2007-Jeep-Wrangler-Unlimited+Sahara-1J8GA59187L215504"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Trail Boss",
+      "price": 51794,
+      "mileage": 17794,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Chevrolet-Silverado+1500-LT+Trail+Boss-3GCUDFED5RG210056"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Platinum",
+      "price": 51340,
+      "mileage": 32580,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Toyota-Tundra-Platinum-5TFNA5DB4PX073675"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "trim": "Calligraphy",
+      "price": 49349,
+      "mileage": 84013,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Hyundai-Palisade-Calligraphy-KM8R7DGE4SU814204"
+    },
+    {
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Luxury",
+      "price": 20340,
+      "mileage": 48431,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Cadillac-XTS-Luxury-2G61M5S38K9100288"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 13340,
+      "mileage": 145051,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Equinox-LT-2GNAXSEV3J6158865"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 48340,
+      "mileage": 35360,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-SLT-1GTUUDEDXRZ236799"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Outer Banks",
+      "price": 43340,
+      "mileage": 22005,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Ford-Bronco-Outer+Banks-1FMEE5DP2PLB09950"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "RST",
+      "price": 43794,
+      "mileage": 99902,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Chevrolet-Tahoe-RST-1GNSKRKD0MR485658"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "trim": "S",
+      "price": 18644,
+      "mileage": 75493,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Kia-Seltos-S-KNDEU2AA5P7409979"
+    },
+    {
+      "year": 2014,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 17794,
+      "mileage": 148119,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2014-GMC-Sierra+1500-SLT-3GTU2VEC8EG195702"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Sierra 2500 HD",
+      "trim": "Denali",
+      "price": 44794,
+      "mileage": 101730,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-GMC-Sierra+2500+HD-Denali-1GT12UEY8HF196959"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie",
+      "price": 37340,
+      "mileage": 55755,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-RAM-1500-Laramie-1C6SRFJT2MN652368"
+    },
+    {
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 2500 HD",
+      "trim": "SLE",
+      "price": 62339,
+      "mileage": 7245,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2026-GMC-Sierra+2500+HD-SLE-1GT5UME79TF107072"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Custom Trail Boss",
+      "price": 30794,
+      "mileage": 80165,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Chevrolet-Silverado+1500-Custom+Trail+Boss-3GCPYCEF3MG141409"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "SR",
+      "price": 46594,
+      "mileage": 5395,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Toyota-Tacoma-SR-3TMLB5JN9SM204830"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "RST",
+      "price": 42340,
+      "mileage": 45267,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-Chevrolet-Silverado+1500-RST-1GCRDEED2PZ155370"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Trailhawk 4x4",
+      "price": 21794,
+      "mileage": 29000,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Jeep-Renegade-Trailhawk+4x4-ZACNJDC1XMPM40335"
+    },
+    {
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Grade 4.6L V8",
+      "price": 24340,
+      "mileage": 105470,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Toyota-Tundra-Grade+46L+V8-5TFUM5F16DX050093"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "trim": "Warlock Quad Cab 4x4 6'4\" Box",
+      "price": 23340,
+      "mileage": 145267,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-RAM-1500+Classic-Warlock+Quad+Cab+4x4+64+Box-1C6RR7GG1MS501425"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk 4x4",
+      "price": 27794,
+      "mileage": 28430,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Jeep-Compass-Trailhawk+4x4-3C4NJDDN7RT163423"
+    },
+    {
+      "year": 2021,
+      "make": "Mazda",
+      "model": "Mazda CX-30",
+      "trim": "2.5 Turbo",
+      "price": 19127,
+      "mileage": 116598,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-+-Mazda+CX+30-25+Turbo-3MVDMBAY7MM259561"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Platinum",
+      "price": 33744,
+      "mileage": 88201,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Toyota-Highlander-Platinum-5TDFZRBH1MS097798"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "Touring",
+      "price": 16794,
+      "mileage": 169543,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Honda-CR+V-Touring-7FARW2H96JE015601"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "trim": "GT AWD",
+      "price": 24794,
+      "mileage": 5400,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Dodge-Hornet-GT+AWD-ZACNDFAN5R3A42329"
+    },
+    {
+      "year": 2009,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT",
+      "price": 13340,
+      "mileage": 88504,
+      "drivetrain": "RWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2009-Ford-Mustang-GT-1ZVHT82H095105503"
+    },
+    {
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Touring XT",
+      "price": 46794,
+      "mileage": 700,
+      "drivetrain": "",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2026-Subaru-Outback-Touring+XT-JF2BURJDXTY499965"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "SLT",
+      "price": 62340,
+      "mileage": 30910,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-GMC-Sierra+3500+HD-SLT-1GT4UUE70SF106015"
+    },
+    {
+      "year": 2015,
+      "make": "Lincoln",
+      "model": "MKX",
+      "trim": "AWD",
+      "price": 13340,
+      "mileage": 91099,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2015-Lincoln-MKX-AWD-2LMDJ8JK8FBL23572"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE",
+      "price": 10340,
+      "mileage": 137001,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Ford-Focus-SE-1FADP3F22JL217224"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier",
+      "price": 38794,
+      "mileage": 110630,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Chevrolet-Suburban-Premier-1GNSKFKD9MR137601"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 16340,
+      "mileage": 129629,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Ford-Explorer-XLT-1FM5K8D89HGD01668"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "High Country",
+      "price": 43094,
+      "mileage": 39509,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-Chevrolet-Silverado+1500-High+Country-3GCUYHED4MG280575"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Elevation",
+      "price": 43794,
+      "mileage": 28880,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-Elevation-1GTPUJEK4RZ305531"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Work Truck",
+      "price": 13340,
+      "mileage": 149877,
+      "drivetrain": "RWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Silverado+1500-Work+Truck-1GCNCNEH0HZ371675"
+    },
+    {
+      "year": 2016,
+      "make": "Mazda",
+      "model": "Mazda CX-5",
+      "trim": "Grand Touring",
+      "price": 18794,
+      "mileage": 88152,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-+-Mazda+CX+5-Grand+Touring-JM3KE4DY2G0682799"
+    },
+    {
+      "year": 2025,
+      "make": "Lexus",
+      "model": "GX",
+      "trim": "GX 550 Premium",
+      "price": 88340,
+      "mileage": 6199,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-Lexus-+-GX+550+Premium-JTJTBCDX5S5069012"
+    },
+    {
+      "year": 2014,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Limited 5.7L V8",
+      "price": 27794,
+      "mileage": 123965,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2014-Toyota-Tundra-Limited+57L+V8-5TFBW5F12EX354301"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude 4x4",
+      "price": 16594,
+      "mileage": 55934,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-Jeep-Renegade-Latitude+4x4-ZACNJBBB6KPJ84786"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "trim": "XLT",
+      "price": 51794,
+      "mileage": 0,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Ford-F+350-XLT-1FT8W3BN3REE19648"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 20127,
+      "mileage": 97980,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2016-Chevrolet-Silverado+1500-LT-1GCVKREC4GZ403931"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT",
+      "price": 18794,
+      "mileage": 99296,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2019-GMC-Acadia-SLT-1GKKNULS9KZ168690"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 14340,
+      "mileage": 131502,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2013-Chevrolet-Silverado+1500-LT-1GCRKSE78DZ280335"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "EcoSport",
+      "trim": "S",
+      "price": 14127,
+      "mileage": 62183,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-Ford-EcoSport-S-MAJ6S3FL8LC377692"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "Denali Ultimate",
+      "price": 85340,
+      "mileage": 29247,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+3500+HD-Denali+Ultimate-1GT49YEYXRF107071"
+    },
+    {
+      "year": 2024,
+      "make": "Cadillac",
+      "model": "XT6",
+      "trim": "Premium Luxury",
+      "price": 50340,
+      "mileage": 27364,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-Cadillac-XT6-Premium+Luxury-1GYKPDRS8RZ740883"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 26340,
+      "mileage": 118081,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Chevrolet-Silverado+1500-LT-3GCUKREC8JG102341"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4X",
+      "price": 55127,
+      "mileage": 70551,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2024-GMC-Sierra+1500-AT4X-3GTUUFEL3RG343745"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series III 4x4",
+      "price": 35127,
+      "mileage": 82672,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-Jeep-Wagoneer-Series+III+4x4-1C4SJVDT7NS137116"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 2500 HD",
+      "trim": "Denali",
+      "price": 28340,
+      "mileage": 204090,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+2500+HD-Denali-1GT49RE70NF159431"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT",
+      "price": 20340,
+      "mileage": 80073,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-GMC-Acadia-SLT-1GKKNULS4JZ184990"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 14340,
+      "mileage": 105945,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Malibu-LT-1G1ZE5ST9HF159887"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 18340,
+      "mileage": 134838,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Silverado+1500-LT-1GCVKREC0HZ115549"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "AT4",
+      "price": 30340,
+      "mileage": 94699,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-GMC-Acadia-AT4-1GKKNLLS6PZ187859"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 37340,
+      "mileage": 63908,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-GMC-Sierra+1500-SLT-3GTU9DET5MG426494"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited 4x4",
+      "price": 14340,
+      "mileage": 170063,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2018-Jeep-Grand+Cherokee-Limited+4x4-1C4RJFBG2JC123638"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "SLT",
+      "price": 43127,
+      "mileage": 92500,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2021-GMC-Yukon-SLT-1GKS2BKD6MR208257"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "AT4",
+      "price": 65340,
+      "mileage": 43456,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-GMC-Sierra+3500+HD-AT4-1GT49VEYXPF240764"
+    },
+    {
+      "year": 2020,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 29340,
+      "mileage": 165561,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2020-GMC-Yukon+XL-Denali-1GKS2HKJ9LR205473"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "AT4X",
+      "price": 53340,
+      "mileage": 41558,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+1500-AT4X-3GTUUFEL2NG689716"
+    },
+    {
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "price": 62793,
+      "mileage": 10026,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2025-GMC-Sierra+1500-Denali-1GTUUGEL8SZ187889"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali",
+      "price": 58340,
+      "mileage": 61500,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-GMC-Yukon+XL-Denali-1GKS2JKL3PR133491"
+    },
+    {
+      "year": 2017,
+      "make": "Buick",
+      "model": "LaCrosse",
+      "trim": "Essence",
+      "price": 20340,
+      "mileage": 66189,
+      "drivetrain": "FWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Buick-LaCrosse-Essence-1G4ZP5SS3HU106974"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo",
+      "price": 8340,
+      "mileage": 134558,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2012-Jeep-Grand+Cherokee-Laredo-1C4RJFAG0CC214072"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "price": 14340,
+      "mileage": 96000,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-Chevrolet-Equinox-LT-2GNFLFE31H6229692"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 1500 Limited",
+      "trim": "AT4",
+      "price": 31794,
+      "mileage": 122497,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2022-GMC-Sierra+1500+Limited-AT4-1GTP9EEL3NZ105073"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLT",
+      "price": 39949,
+      "mileage": 73212,
+      "drivetrain": "4WD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2023-GMC-Sierra+1500-SLT-3GTUUDED4PG131494"
+    },
+    {
+      "year": 2017,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "Denali",
+      "price": 17340,
+      "mileage": 84422,
+      "drivetrain": "AWD",
+      "url": "https://www.kolarchevroletbuickgmc.com/used-Hermantown-2017-GMC-Terrain-Denali-2GKFLVE34H6264167"
+    }
+  ]
+}

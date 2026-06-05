@@ -1,0 +1,291 @@
+{
+  "collectedAt": "2026-06-05",
+  "dealers": [
+    {
+      "name": "Duluth Motorsports",
+      "type": "independent",
+      "address": "335 E Central Entrance",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-723-1200",
+      "website": "https://duluthmotorsports.com/",
+      "focusNote": "Family-owned independent used vehicle lot operating since 1995; general used cars and trucks.",
+      "uncertain": false
+    },
+    {
+      "name": "Anderson Motors LLC",
+      "type": "independent",
+      "address": "4955 Rice Lake Rd",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-800-9363",
+      "website": "https://www.andersonmotorsllc.com/",
+      "focusNote": "Specializes in rust-free out-of-state AWD/4WD vehicles (Honda, Toyota, Subaru, Volvo).",
+      "uncertain": false
+    },
+    {
+      "name": "Easy Street Auto LLC",
+      "type": "independent",
+      "address": "5663 Miller Trunk Hwy",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-591-2351",
+      "website": "https://easystreetautollc.com/",
+      "focusNote": "Small locally owned lot focused on value-priced quality used vehicles.",
+      "uncertain": false
+    },
+    {
+      "name": "New Duluth Auto",
+      "type": "independent",
+      "address": "1415 Commonwealth Ave",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-310-6626",
+      "website": "https://newduluthauto.net/",
+      "focusNote": "Independent dealer offering used cars with in-house financing options.",
+      "uncertain": false
+    },
+    {
+      "name": "Duke Boys Auto Sales",
+      "type": "independent",
+      "address": "Duluth",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-722-8885",
+      "website": "https://www.dukeboys.us/",
+      "focusNote": "Affordable used autos and motorcycles plus auto repair, maintenance, and towing.",
+      "uncertain": false
+    },
+    {
+      "name": "Caribou Autos",
+      "type": "independent",
+      "address": "4871 Rice Lake Rd Ste 2",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-590-2220",
+      "website": "https://caribouautos.com/",
+      "focusNote": "Small independent used car dealer on Rice Lake Road.",
+      "uncertain": false
+    },
+    {
+      "name": "Airport Auto Sales of Duluth",
+      "type": "independent",
+      "address": "5294 Rice Lake Rd",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-727-2277",
+      "website": "https://www.airportautos.com/",
+      "focusNote": "Classic and restored cars alongside general used cars and trucks.",
+      "uncertain": false
+    },
+    {
+      "name": "CarHop Auto Sales and Finance",
+      "type": "independent",
+      "address": "328 E Central Entrance",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-464-4003",
+      "website": "https://www.carhop.com/carhop-auto-sales-of-duluth/",
+      "focusNote": "Buy-here-pay-here lot with in-house financing for buyers with poor/no credit.",
+      "uncertain": false
+    },
+    {
+      "name": "Up North Auto",
+      "type": "independent",
+      "address": "5547 Hwy 2",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "218-270-8868",
+      "website": null,
+      "focusNote": "Independent lot offering affordable used cars and SUVs; Facebook/BBB presence, no standalone site found.",
+      "uncertain": false
+    },
+    {
+      "name": "Autobahn Sales and Service",
+      "type": "independent",
+      "address": "5471 Miller Trunk Hwy",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "218-729-7360",
+      "website": "https://www.autobahnsalesandservice.com/",
+      "focusNote": "Independent used-vehicle sales plus service/repair shop.",
+      "uncertain": false
+    },
+    {
+      "name": "Twin Ports Auto Sales",
+      "type": "independent",
+      "address": "921 E Railroad Ave",
+      "city": "Proctor",
+      "state": "MN",
+      "phone": "218-624-0303",
+      "website": "https://www.twinportsautosales.com/",
+      "focusNote": "Independent used car dealer in Proctor.",
+      "uncertain": false
+    },
+    {
+      "name": "Superior Auto Sales",
+      "type": "independent",
+      "address": "327 Tower Ave",
+      "city": "Superior",
+      "state": "WI",
+      "phone": "715-395-2886",
+      "website": null,
+      "focusNote": "Small independent used car lot on Tower Avenue; no dedicated website confirmed.",
+      "uncertain": true
+    },
+    {
+      "name": "Kolar Chevrolet Buick GMC Cadillac",
+      "type": "franchise",
+      "address": "4770 W Arrowhead Rd",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "866-922-7370",
+      "website": "https://www.kolarchevroletbuickgmc.com/",
+      "focusNote": "GM franchise (Chevrolet/Buick/GMC/Cadillac) with new and used inventory; part of Kolar Automotive Group.",
+      "uncertain": false
+    },
+    {
+      "name": "Kolar Toyota",
+      "type": "franchise",
+      "address": "4781 Miller Trunk Hwy",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": null,
+      "website": "https://www.kolarauto.com/",
+      "focusNote": "Toyota franchise with certified pre-owned and used inventory; part of Kolar Automotive Group.",
+      "uncertain": false
+    },
+    {
+      "name": "Kolar Hyundai",
+      "type": "franchise",
+      "address": "5014 Miller Trunk Hwy",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": null,
+      "website": "https://www.kolarhyundai.com/",
+      "focusNote": "Hyundai franchise with new and used inventory; part of Kolar Automotive Group.",
+      "uncertain": false
+    },
+    {
+      "name": "Krenzen Honda Nissan Lincoln (Krenzen Auto Mall)",
+      "type": "franchise",
+      "address": "2500 Mall Dr",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-727-2905",
+      "website": "https://www.krenzen.com/",
+      "focusNote": "Family-owned multi-franchise (Honda/Nissan/Lincoln) with large used inventory; 50+ years in market.",
+      "uncertain": false
+    },
+    {
+      "name": "NorthStar Ford",
+      "type": "franchise",
+      "address": "1420 Miller Trunk Hwy",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-328-2111",
+      "website": "https://www.northstarfordduluth.com/",
+      "focusNote": "Ford franchise with new and used cars, trucks, and SUVs.",
+      "uncertain": false
+    },
+    {
+      "name": "Kia of Duluth",
+      "type": "franchise",
+      "address": "1701 W Michigan St",
+      "city": "Duluth",
+      "state": "MN",
+      "phone": "218-722-4542",
+      "website": "https://www.kiaofduluth.com/",
+      "focusNote": "Kia franchise with new and certified pre-owned/used inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Volkswagen of Duluth",
+      "type": "franchise",
+      "address": "4735 Loberg Ave",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "218-722-6989",
+      "website": "https://www.vwofduluth.com/",
+      "focusNote": "Volkswagen franchise with new and used inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Duluth Dodge (Chrysler Dodge Jeep Ram)",
+      "type": "franchise",
+      "address": "4755 Miller Trunk Hwy",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "218-216-2723",
+      "website": "https://www.duluthdodgeminnesota.com/",
+      "focusNote": "Stellantis (CDJR) franchise with new and pre-owned inventory; addressed as Duluth/Hermantown.",
+      "uncertain": false
+    },
+    {
+      "name": "Luther Miller Hill Subaru",
+      "type": "franchise",
+      "address": "4710 Miller Trunk Hwy",
+      "city": "Hermantown",
+      "state": "MN",
+      "phone": "218-722-5337",
+      "website": "https://www.millerhillsubaru.com/",
+      "focusNote": "Subaru franchise (Luther Automotive group) with new and used inventory.",
+      "uncertain": false
+    },
+    {
+      "name": "Kari Toyota",
+      "type": "franchise",
+      "address": "1002 Tower Ave",
+      "city": "Superior",
+      "state": "WI",
+      "phone": "715-718-3077",
+      "website": "https://www.karitoyota.com/",
+      "focusNote": "Toyota franchise with new and used inventory serving Superior/Duluth.",
+      "uncertain": false
+    },
+    {
+      "name": "Benna Ford Superior",
+      "type": "franchise",
+      "address": "3022 Tower Ave Bldg A",
+      "city": "Superior",
+      "state": "WI",
+      "phone": "715-394-8669",
+      "website": "https://www.bennaford.com/",
+      "focusNote": "Top-rated Ford franchise with large used inventory serving Superior/Cloquet/Duluth.",
+      "uncertain": false
+    },
+    {
+      "name": "Benna Chrysler Dodge Jeep Ram",
+      "type": "franchise",
+      "address": "3022 Tower Ave Bldg B",
+      "city": "Superior",
+      "state": "WI",
+      "phone": "715-394-8669",
+      "website": "https://www.bennaford.com/",
+      "focusNote": "Stellantis (CDJR) franchise co-located with Benna Ford; new and used inventory. Phone/site shared with Benna Ford - verify direct line.",
+      "uncertain": true
+    },
+    {
+      "name": "Northland Chevrolet",
+      "type": "franchise",
+      "address": "1420 Ogden Ave",
+      "city": "Superior",
+      "state": "WI",
+      "phone": "715-718-3288",
+      "website": "https://www.northlandchevrolet.com/",
+      "focusNote": "Chevrolet franchise with new and used inventory serving Superior/Duluth.",
+      "uncertain": false
+    },
+    {
+      "name": "Wood City Motors (Ford / Chrysler Dodge Jeep Ram)",
+      "type": "franchise",
+      "address": "701 Washington Ave",
+      "city": "Cloquet",
+      "state": "MN",
+      "phone": "218-878-5171",
+      "website": "https://www.woodcitymotors.com/",
+      "focusNote": "Multi-franchise (Ford + CDJR) with new plus a certified used-car operation; serves Cloquet/Hermantown/Proctor/Superior.",
+      "uncertain": false
+    }
+  ]
+}

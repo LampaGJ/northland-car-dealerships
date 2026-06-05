@@ -1,0 +1,50 @@
+{
+  "name": "Iron Range Customs",
+  "slug": "iron-range-customs",
+  "type": "independent",
+  "address": "110 S 15th Ave",
+  "city": "Virginia",
+  "state": "MN",
+  "phone": "218-749-8657",
+  "website": "https://ironrangecustoms.com",
+  "specialties": [
+    "Used pickup trucks",
+    "Work trucks",
+    "Budget used vehicles"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch (DCS) platform (site_id=32047, internal_id=21036, confirmed by imagescdn.dealercarsearch.com asset URLs and site_platform=dcs in Tealium data layer). Feed/API checks: DCS public API endpoints (/apiv2/inventory/search, /Handlers/InventoryHandler.ashx) returned errors; DCS renders additional inventory via JavaScript XHR not accessible via static HTML. Inventory count confirmed at 3 vehicles via pagination check (page 2+ returned 0). Vehicle data extracted from compareChecked() JS callback parameters in static HTML: listing ID, price, image URL, year/make/model, plus i10r_optVin, i10r_optMileage, i10r_optDrive elements.",
+  "inventory": [
+    {
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "",
+      "price": 14000,
+      "mileage": 214000,
+      "drivetrain": "2WD",
+      "url": "https://ironrangecustoms.com/vdp/19645395/Used-2005-Chevrolet-Trucks-3500HD-for-sale-in-Virginia-MN-55792"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 18900,
+      "mileage": 92700,
+      "drivetrain": "4WD",
+      "url": "https://ironrangecustoms.com/vdp/23873970/Used-2016-Ford-F150-for-sale-in-Virginia-MN-55792"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 22999,
+      "mileage": 83000,
+      "drivetrain": "4WD",
+      "url": "https://ironrangecustoms.com/vdp/23838987/Used-2018-Ford-F150-4WD-Reg-Cab-141-XL-for-sale-in-Virginia-MN-55792"
+    }
+  ]
+}

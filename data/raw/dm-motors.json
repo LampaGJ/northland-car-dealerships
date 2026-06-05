@@ -1,0 +1,291 @@
+{
+  "name": "DM Motors",
+  "slug": "dm-motors",
+  "type": "independent",
+  "address": "2621 W Division St",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-217-8615",
+  "website": "https://www.dmmotors.net/",
+  "specialties": [
+    "buy-here-pay-here",
+    "used sedans",
+    "used SUVs",
+    "financing"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "Site runs on DriveWebsite/DDS platform (ASP.NET MVC, Cloudflare CDN, dealer lot key 162294). REST API probes (/inventory/getinventory, /Ajax/GetSearchFacets) returned 404 or 411. Inventory extracted from HTML listing at /used-inventory via data-vehicledescription and VIN attributes in CustomerToolbarVehicleData div elements. Mileage extracted from individual detail pages via data-mileage attribute. Prices all show 0 (BHPH pricing by appointment only).",
+  "inventory": [
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "2LT Auto",
+      "price": null,
+      "mileage": 152632,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2015/Chevrolet/Cruze/1G1PE5SB3F7274944"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "LS Fleet",
+      "price": null,
+      "mileage": 75812,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Chevrolet/Impala/2G1WF5E36D1229424"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "trim": "Limited LT Fleet",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2015/Chevrolet/Impala/2G1WB5E39F1106425"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": null,
+      "mileage": 166427,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Chevrolet/Malibu/1G11C5SA1DF350800"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LTZ",
+      "price": null,
+      "mileage": 85070,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Chevrolet/Malibu/1G11H5SA4DF128494"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "trim": "LT Auto",
+      "price": null,
+      "mileage": 163337,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Chevrolet/Sonic/1G1JC6SH4D4127505"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LT",
+      "price": null,
+      "mileage": 193341,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Chevrolet/Tahoe/1GNSKBE0XDR369044"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "LT",
+      "price": null,
+      "mileage": 143336,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2012/Chevrolet/Traverse/1GNKVJED2CJ111697"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LS",
+      "price": null,
+      "mileage": 107226,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2017/Chevrolet/Trax/3GNCJNSB1HL266834"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LS",
+      "price": null,
+      "mileage": 82541,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2015/Chevrolet/Trax/KL7CJKSB5FB251949"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LS",
+      "price": null,
+      "mileage": 120915,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2016/Chevrolet/Trax/3GNCJKSB3GL239986"
+    },
+    {
+      "year": 2012,
+      "make": "Chrysler",
+      "model": "200",
+      "trim": "Limited",
+      "price": null,
+      "mileage": 133174,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2012/Chrysler/200/1C3CCBCB7CN298040"
+    },
+    {
+      "year": 2018,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L",
+      "price": null,
+      "mileage": 141792,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2018/Chrysler/Pacifica/2C4RC1BG3JR172416"
+    },
+    {
+      "year": 2014,
+      "make": "Chrysler",
+      "model": "Town",
+      "trim": "and Country Limited",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2014/Chrysler/Town/2C4RC1GG1ER297929"
+    },
+    {
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand",
+      "trim": "Caravan SE",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2017/Dodge/Grand/2C4RDGBG6HR843765"
+    },
+    {
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand",
+      "trim": "Caravan SE",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2016/Dodge/Grand/2C4RDGBG5GR109987"
+    },
+    {
+      "year": 2014,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "American Value Package",
+      "price": null,
+      "mileage": 114248,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2014/Dodge/Journey/3C4PDCAB0ET267203"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Limited",
+      "price": null,
+      "mileage": 118269,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Ford/Edge/2FMDK4KC6DBC50627"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "S",
+      "price": null,
+      "mileage": 80069,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2018/Ford/Escape/1FMCU0F74JUC95485"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "EL XLT",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2011/Ford/Expedition/1FMJK1J57BEF05890"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Police Interceptor Utility",
+      "price": null,
+      "mileage": 95678,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2020/Ford/Explorer/1FM5K8AB8LGC52665"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "S",
+      "price": null,
+      "mileage": 143631,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2014/Ford/Fusion/3FA6P0G79ER327650"
+    },
+    {
+      "year": 2011,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "SE",
+      "price": null,
+      "mileage": 154547,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2011/Honda/CR-V/5J6RE4H46BL045544"
+    },
+    {
+      "year": 2013,
+      "make": "Nissan",
+      "model": "JUKE",
+      "trim": "S",
+      "price": null,
+      "mileage": 123865,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2013/Nissan/JUKE/JN8AF5MV7DT208097"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": null,
+      "mileage": 117005,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2015/Nissan/Rogue/KNMAT2MV4FP564134"
+    },
+    {
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "price": null,
+      "mileage": 125224,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2016/Nissan/Rogue/KNMAT2MV8GP707300"
+    },
+    {
+      "year": 2012,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE V6",
+      "price": null,
+      "mileage": 150983,
+      "drivetrain": null,
+      "url": "https://www.dmmotors.net/inventory-details/2012/Toyota/Camry/4T1BK1FK8CU016408"
+    }
+  ]
+}

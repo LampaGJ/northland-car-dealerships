@@ -1,0 +1,1291 @@
+{
+  "name": "Gilleland Chevrolet Cadillac",
+  "slug": "gilleland-chevrolet",
+  "type": "franchise",
+  "address": "3019 W Division St",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": "320-281-4290",
+  "website": "https://www.gillelandchevrolet.com/",
+  "specialties": [
+    "Chevrolet trucks and SUVs",
+    "Cadillac luxury vehicles",
+    "CarBravo certified pre-owned",
+    "Work trucks"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerOn (x-dealeron headers, X-Powered-By ASP.NET). SRP /searchused.aspx embeds schema.org ItemList JSON-LD (127 VINs/URLs). All 127 VDP pages fetched; price from Product JSON-LD, mileage from HTML info__value span. 8 vehicles missing price (no Product JSON-LD), 1 missing mileage.",
+  "inventory": [
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited 4x4",
+      "price": 16245,
+      "mileage": 101330,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Jeep-Cherokee-Limited+4x4-1C4PJMDX2KD426231"
+    },
+    {
+      "year": 2019,
+      "make": "RAM",
+      "model": "3500 Chassis Cab",
+      "trim": "Tradesman",
+      "price": 16345,
+      "mileage": 188489,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-RAM-3500+Chassis+Cab-Tradesman-3C7WRSBL1KG563479"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Expedition EL",
+      "trim": "Limited 4x4",
+      "price": 14645,
+      "mileage": 145136,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2017-Ford-Expedition+EL-Limited+4x4-1FMJK2AT5HEA25912"
+    },
+    {
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "LE",
+      "price": 7149,
+      "mileage": 162884,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2013-Nissan-Murano-LE-JN8AZ1MW0DW307660"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "LS AWD",
+      "price": 16940,
+      "mileage": 45356,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Chevrolet-Trax-LS+AWD-KL7CJNSM2MB375208"
+    },
+    {
+      "year": 2011,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "EX V6",
+      "price": 8349,
+      "mileage": 122037,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2011-Kia-Sorento-EX+V6-5XYKUDA21BG151186"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Work Truck",
+      "price": 16345,
+      "mileage": 168035,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Chevrolet-Silverado+2500+HD-Work+Truck-1GC0KUEG3JZ332938"
+    },
+    {
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "4WD 4dr Rubicon",
+      "price": 17045,
+      "mileage": 115310,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2015-Jeep-Wrangler+Unlimited-4WD+4dr+Rubicon-1C4BJWFG5FL694849"
+    },
+    {
+      "year": 2020,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "EX Premium DCT",
+      "price": 17540,
+      "mileage": 54109,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-Kia-Optima-EX+Premium+DCT-5XXGU4L16LG394816"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 19040,
+      "mileage": 40368,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Malibu-LT-1G1ZD5ST7SF126770"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L AWD",
+      "price": 18245,
+      "mileage": 137904,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Honda-Pilot-EX+L+AWD-5FNYF6H59JB072872"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD LT",
+      "price": 19040,
+      "mileage": 50363,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-Chevrolet-Equinox-AWD+LT-3GNAXUEV0LS641603"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Base",
+      "price": 19545,
+      "mileage": 0,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2016-Chevrolet-Silverado+1500-+-3GCUKREC3GG181071"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT All Star Edition",
+      "price": 19945,
+      "mileage": 134249,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+All+Star+Edition-3GCUKREC0JG347926"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude 4x4",
+      "price": 20340,
+      "mileage": 11168,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Jeep-Compass-Latitude+4x4-3C4NJDBB0KT669870"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 20340,
+      "mileage": 50860,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-Ford-Escape-SEL-1FMCU9H90LUC53580"
+    },
+    {
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "AWD SV",
+      "price": 20340,
+      "mileage": 57662,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Nissan-Rogue-AWD+SV-JN8AT3BB7MW224644"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 20140,
+      "mileage": 98989,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2015-Chevrolet-Silverado+1500-LT-1GCNKREC4FZ284213"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "price": 21040,
+      "mileage": 27493,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Malibu-LT-1G1ZE5ST6RF191679"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Rubicon 4x4",
+      "price": 20345,
+      "mileage": 156105,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Jeep-Wrangler+Unlimited-Rubicon+4x4-1C4HJXFG7JW128649"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Crew Cab Short Box 4-Wheel Drive Z71",
+      "price": 22540,
+      "mileage": 76096,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2016-Chevrolet-Colorado-Crew+Cab+Short+Box+4+Wheel+Drive+Z71-1GCGTDE32G1131340"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active AWD",
+      "price": 22740,
+      "mileage": 17180,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Ford-Escape-Active+AWD-1FMCU9GN5SUB21735"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited 4x4",
+      "price": 21540,
+      "mileage": 51910,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-Jeep-Cherokee-Limited+4x4-1C4PJMDX7LD554336"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active AWD",
+      "price": 22740,
+      "mileage": 19601,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Ford-Escape-Active+AWD-1FMCU9GN9SUB20958"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "FWD LS",
+      "price": 22740,
+      "mileage": 16931,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Equinox-FWD+LS-3GNAXHEG6RL273486"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "FWD LS",
+      "price": 23040,
+      "mileage": 21950,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Equinox-FWD+LS-3GNAXHEG6RL373569"
+    },
+    {
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE CVT (Natl)",
+      "price": 23340,
+      "mileage": 6031,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Toyota-Corolla-LE+CVT+Natl-5YFB4MDE0RP124346"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD 4dr RS",
+      "price": 23040,
+      "mileage": 58778,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Equinox-AWD+4dr+RS-3GNAXWEG1PS139959"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited 4x4",
+      "price": 23940,
+      "mileage": 18432,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Jeep-Compass-Limited+4x4-3C4NJDCN7PT541142"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "AWD 4dr LT",
+      "price": 23240,
+      "mileage": 25167,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Trailblazer-AWD+4dr+LT-KL79MRSL4PB177587"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie Crew Cab 4x4 5'7\" Box",
+      "price": 23545,
+      "mileage": 141917,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-RAM-1500-Laramie+Crew+Cab+4x4+57+Box-1C6RRFJG9LN227603"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT All Star Edition",
+      "price": 24840,
+      "mileage": 97527,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+1500-Crew+Cab+Standard+Box+4+Wheel+Drive+LT+All+Star+Edition-1GCUYDED5KZ357802"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LTZ",
+      "price": 25645,
+      "mileage": 138886,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LTZ-3GCUYGED2KG135185"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD 4dr RS",
+      "price": 23940,
+      "mileage": 57112,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Equinox-AWD+4dr+RS-2GNAXWEV1N6128289"
+    },
+    {
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "Limited IVT",
+      "price": 24440,
+      "mileage": 14367,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Hyundai-Elantra-Limited+IVT-KMHLP4DG4SU890923"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "FWD LT",
+      "price": 26240,
+      "mileage": 17797,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Equinox-FWD+LT-3GNAXHEG7SL283322"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT All Star Edition",
+      "price": 25045,
+      "mileage": 106499,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+All+Star+Edition-1GCUYDED0KZ220718"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude Lux 4x4",
+      "price": 26040,
+      "mileage": 7353,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Jeep-Compass-Latitude+Lux+4x4-3C4NJDFN1PT520167"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive SLT SLT Premium Plus Package",
+      "price": 26745,
+      "mileage": 108887,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-GMC-Sierra+1500-Crew+Cab+Short+Box+4+Wheel+Drive+SLT+SLT+Premium+Plus+Package-3GTU2NEJ5JG363739"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "LT AWD",
+      "price": 28640,
+      "mileage": 13661,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Blazer-LT+AWD-3GNKBHR48SS228855"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "4WD LS Custom Edition",
+      "price": 26540,
+      "mileage": 83692,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Tahoe-4WD+LS+Custom+Edition-1GNSKAKCXKR274120"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD 4dr RS",
+      "price": 26540,
+      "mileage": 26703,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Equinox-AWD+4dr+RS-3GNAXWEGXPL153269"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive SLE",
+      "price": 26940,
+      "mileage": 73745,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-GMC-Sierra+1500-Crew+Cab+Short+Box+4+Wheel+Drive+SLE-3GTU2MEC7JG341317"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Double Cab Standard Box 4-Wheel Drive LTZ",
+      "price": 27545,
+      "mileage": 101567,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+1500-Double+Cab+Standard+Box+4+Wheel+Drive+LTZ-1GCRYGED7KZ331256"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited 4x4",
+      "price": 28740,
+      "mileage": 47820,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Jeep-Grand+Cherokee-Limited+4x4-1C4RJFBG0MC667186"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn Crew Cab 4x4 5'7\" Box",
+      "price": 29540,
+      "mileage": 80394,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2020-RAM-1500-Big+Horn+Crew+Cab+4x4+57+Box-1C6SRFFT0LN292721"
+    },
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Rubicon 4x4",
+      "price": 29340,
+      "mileage": 84777,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Jeep-Wrangler+Unlimited-Rubicon+4x4-1C4HJXFN1KW648796"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Outer Banks 4x4",
+      "price": 30340,
+      "mileage": 15325,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Ford-Bronco+Sport-Outer+Banks+4x4-3FMCR9C60RRE93453"
+    },
+    {
+      "year": 2024,
+      "make": "Mazda",
+      "model": "Mazda CX-5",
+      "trim": "CX-5 2.5 S Premium Plus Package AWD",
+      "price": 30340,
+      "mileage": 28895,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-+-Mazda+CX+5-25+S+Premium+Plus+Package+AWD-JM3KFBEL1R0529340"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "AWD 4dr RS",
+      "price": 29540,
+      "mileage": 5955,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Trailblazer-AWD+4dr+RS-KL79MUSL3SB094891"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "E-Transit-350 Cargo Van",
+      "trim": "Base",
+      "price": 30340,
+      "mileage": 5838,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Ford-E+Transit+350+Cargo+Van-+-1FTBW9CK4PKB39510"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "RS AWD",
+      "price": 29540,
+      "mileage": 23633,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Chevrolet-Blazer-RS+AWD-3GNKBKRS3MS573256"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "Premier",
+      "price": 30340,
+      "mileage": 79070,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2017-Chevrolet-Suburban-Premier-1GNSKJKC8HR335408"
+    },
+    {
+      "year": 2021,
+      "make": "Audi",
+      "model": "A6 Sedan",
+      "trim": "Premium Plus 55 TFSI quattro",
+      "price": 30640,
+      "mileage": 44336,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Audi-A6+Sedan-Premium+Plus+55+TFSI+quattro-WAUL2AF23MN060432"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT RST Edition",
+      "price": 30349,
+      "mileage": 173342,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Chevrolet-Suburban-LT+RST+Edition-1GNSKHKC9JR306305"
+    },
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": 30349,
+      "mileage": 112720,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2014-Chevrolet-Silverado+1500-LTZ-1GCVKSEC7EZ154660"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Line AWD",
+      "price": 30840,
+      "mileage": 22616,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Kia-Sportage-X+Line+AWD-5XYK6CDF7RG226860"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 31240,
+      "mileage": 55034,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Ford-F+150-XL-1FTEW1E47KFA86610"
+    },
+    {
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "Hybrid XSE AWD (Natl)",
+      "price": 31240,
+      "mileage": 85381,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Toyota-RAV4+Hybrid-XSE+AWD+Natl-JTME6RFV7ND521065"
+    },
+    {
+      "year": 2023,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "trim": "Sport AWD",
+      "price": 31340,
+      "mileage": 34096,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Honda-Ridgeline-Sport+AWD-5FPYK3F18PB053837"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "trim": "4dr RS",
+      "price": 32040,
+      "mileage": 8600,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Equinox+EV-4dr+RS-3GN7DSRR0SS245058"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Tradesman 4x2 Quad Cab 6'4\" Box",
+      "price": 32140,
+      "mileage": 52276,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-RAM-1500-Tradesman+4x2+Quad+Cab+64+Box-1C6SRFVT7MN659780"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT 1LT",
+      "price": 31345,
+      "mileage": 114161,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+1LT-2GCUDDED4R1241277"
+    },
+    {
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Line AWD",
+      "price": 34340,
+      "mileage": 1074,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2026-Kia-Sportage-X+Line+AWD-5XYK6CDF5TG377171"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "trim": "SR5 V6",
+      "price": 33740,
+      "mileage": 58294,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Toyota-Tacoma-SR5+V6-5TFDZ5BN1MX063618"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT 1LT",
+      "price": 33340,
+      "mileage": 49450,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+1LT-1GCPDDEK7NZ595856"
+    },
+    {
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited",
+      "price": 33740,
+      "mileage": 41990,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chrysler-Pacifica-Limited-2C4RC1GG4SR553007"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT",
+      "price": 35140,
+      "mileage": 5518,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Colorado-Crew+Cab+Short+Box+4+Wheel+Drive+LT-1GCPTCEK1P1254998"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LTZ",
+      "price": 35240,
+      "mileage": 78702,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LTZ-3GCUYGEL2MG398870"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "4WD LT",
+      "price": 35645,
+      "mileage": 121190,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Suburban-4WD+LT-1GNSKCKD1NR271096"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4WD SuperCrew 5.5' Box",
+      "price": 35240,
+      "mileage": 53372,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Ford-F+150-XLT+4WD+SuperCrew+55+Box-1FTFW1E85MFA31812"
+    },
+    {
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT AWD",
+      "price": 36340,
+      "mileage": 10755,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2026-Dodge-Durango-GT+AWD-1C4RDJDG7TC212762"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 35840,
+      "mileage": 97495,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-2GCUKEED7S1104111"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD ACTIV",
+      "price": 36640,
+      "mileage": 6832,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2026-Chevrolet-Equinox-AWD+ACTIV-3GNAXSEG9TL224030"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4x4 Crew Cab 5'7\" Box",
+      "price": 36840,
+      "mileage": 34453,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-RAM-1500-Big+Horn+4x4+Crew+Cab+57+Box-1C6RRFFG8PN675314"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT 1LT",
+      "price": 38840,
+      "mileage": 22095,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+1LT-1GCUDDED6PZ291585"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "Crew Cab Short Box 4-Wheel Drive Trail Boss",
+      "price": 38240,
+      "mileage": 9732,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Colorado-Crew+Cab+Short+Box+4+Wheel+Drive+Trail+Boss-1GCPTEEK1P1160681"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT 2FL",
+      "price": 39040,
+      "mileage": 20181,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+2FL-1GCPDKEK1RZ266936"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 38340,
+      "mileage": 82944,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-2GCUDEED1R1216567"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "4WD LT",
+      "price": 39345,
+      "mileage": 117470,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Tahoe-4WD+LT-1GNSKNKD5NR217778"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn Crew Cab 4x4 5'7\" Box",
+      "price": 39140,
+      "mileage": 19342,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-RAM-1500-Big+Horn+Crew+Cab+4x4+57+Box-1C6SRFFP8SN719631"
+    },
+    {
+      "year": 2025,
+      "make": "Subaru",
+      "model": "WRX",
+      "trim": "tS Manual",
+      "price": 42040,
+      "mileage": 2631,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Subaru-WRX-tS+Manual-JF1VBAZ67S9809903"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 41540,
+      "mileage": 35729,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-1GCUDEE85PZ212187"
+    },
+    {
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "trim": "Reserve",
+      "price": 40040,
+      "mileage": 55780,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Lincoln-Aviator-Reserve-5LM5J7XCXNGL14094"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 43040,
+      "mileage": 34413,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-1GCUDEE86PZ146345"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 42240,
+      "mileage": 34164,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-1GCUDEED7PZ255054"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "Z71",
+      "price": 43540,
+      "mileage": 32092,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Traverse-Z71-1GNEVJKS0RJ201603"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Tradesman 4x4 Crew Cab 8' Box",
+      "price": 43640,
+      "mileage": 64313,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-RAM-3500-Tradesman+4x4+Crew+Cab+8+Box-3C63R3GL0NG113977"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LTZ",
+      "price": 44640,
+      "mileage": 49914,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LTZ-1GCUDGEL4PZ301555"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LTZ",
+      "price": 44640,
+      "mileage": 53153,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Standard+Box+4+Wheel+Drive+LTZ-3GCUDGEL8PG192842"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Express Passenger",
+      "trim": "3500 Extended Wheelbase Rear-Wheel Drive 1LT",
+      "price": 45840,
+      "mileage": 18827,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Express+Passenger-3500+Extended+Wheelbase+Rear+Wheel+Drive+1LT-1GAZGPF70S1163012"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive RST",
+      "price": 45140,
+      "mileage": 34313,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+RST-1GCUDEE84PZ258822"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "SR5",
+      "price": 45340,
+      "mileage": 30610,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Toyota-Tundra-SR5-5TFLA5DB4PX096056"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LT Trail Boss",
+      "price": 45340,
+      "mileage": 30091,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LT+Trail+Boss-3GCUDFED6RG165810"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "4WD LS",
+      "price": 46240,
+      "mileage": 50451,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Tahoe-4WD+LS-1GNSKMET5PR531320"
+    },
+    {
+      "year": 2024,
+      "make": "Cadillac",
+      "model": "LYRIQ",
+      "trim": "4dr Sport w/1SJ",
+      "price": 46340,
+      "mileage": 17427,
+      "drivetrain": "Certified Pre-Owned",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Cadillac-LYRIQ-4dr+Sport+w1SJ-1GYKPVRL4RZ128176"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "Z71",
+      "price": 47340,
+      "mileage": 17271,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Traverse-Z71-1GNEVJRS9SJ186224"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT Trail Boss",
+      "price": 46840,
+      "mileage": 22309,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Silverado+1500-Crew+Cab+Standard+Box+4+Wheel+Drive+LT+Trail+Boss-3GCUDFED2NG589723"
+    },
+    {
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Limited 4x4 Crew Cab 5'7\" Box",
+      "price": 48240,
+      "mileage": 48601,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-RAM-1500-Limited+4x4+Crew+Cab+57+Box-1C6SRFHT0PN532286"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LTZ",
+      "price": 47840,
+      "mileage": 82125,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LTZ-1GC4KXEY6KF174139"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Corvette Stingray",
+      "trim": "2LT",
+      "price": 47340,
+      "mileage": 25046,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2017-Chevrolet-Corvette+Stingray-2LT-1G1YD2D77H5102865"
+    },
+    {
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "GLE 450",
+      "trim": "4MATIC\u00ae SUV",
+      "price": 48540,
+      "mileage": 58425,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Mercedes+Benz-+-GLE+450+4MATIC+SUV-4JGFB5KE6PA914800"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT",
+      "price": 49140,
+      "mileage": 68520,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+2500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LT-1GC1YNE70RF315195"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive High Country",
+      "price": 49145,
+      "mileage": 131356,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+High+Country-1GC4YVEYXPF106503"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "LT",
+      "price": 50340,
+      "mileage": 86182,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+3500+HD-LT-2GC4YTEY7R1212082"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "LTZ",
+      "price": 51140,
+      "mileage": 63037,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-Chevrolet-Silverado+3500+HD-LTZ-1GC4YUE71NF261844"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LTZ",
+      "price": 51340,
+      "mileage": 56120,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2019-Chevrolet-Silverado+2500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LTZ-1GC1KTEY9KF164040"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT",
+      "price": 54340,
+      "mileage": 37935,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Silverado+2500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LT-2GC4KNE72S1141500"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT",
+      "price": 57240,
+      "mileage": 25554,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Silverado+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LT-2GC4KTE72S1115080"
+    },
+    {
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive SLT",
+      "price": 52540,
+      "mileage": 12555,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-GMC-Sierra+1500-Crew+Cab+Short+Box+4+Wheel+Drive+SLT-3GTUUDED2RG434308"
+    },
+    {
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive LTZ",
+      "price": 58540,
+      "mileage": 9932,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2026-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+LTZ-2GCUKGED2T1133240"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive ZR2",
+      "price": 57340,
+      "mileage": 34001,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-Crew+Cab+Short+Box+4+Wheel+Drive+ZR2-3GCUDHEL6RG205905"
+    },
+    {
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive LT",
+      "price": 58640,
+      "mileage": 5935,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2025-Chevrolet-Silverado+2500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+LT-2GC4KNE77S1214876"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "4WD High Country",
+      "price": 65240,
+      "mileage": 32822,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Suburban-4WD+High+Country-1GNSKGKL4PR479555"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive High Country",
+      "price": 64340,
+      "mileage": 64261,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+High+Country-1GC4YVEY1RF161165"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive High Country",
+      "price": 62340,
+      "mileage": 37506,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Silverado+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+High+Country-1GC4YVEY7PF110248"
+    },
+    {
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "Crew Cab Standard Box 4-Wheel Drive Denali",
+      "price": 66040,
+      "mileage": 29350,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-GMC-Sierra+3500+HD-Crew+Cab+Standard+Box+4+Wheel+Drive+Denali-1GT49WEY2PF242661"
+    },
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "trim": "4WD Premium Luxury Platinum",
+      "price": 70240,
+      "mileage": 65884,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Cadillac-Escalade-4WD+Premium+Luxury+Platinum-1GYS4DKL4PR167845"
+    },
+    {
+      "year": 2007,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "Work Truck",
+      "price": null,
+      "mileage": 159448,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2007-Chevrolet-Silverado+2500+HD-Work+Truck-1GCHC24K67E555405"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "trim": "LT",
+      "price": null,
+      "mileage": 100476,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2015-Chevrolet-Silverado+2500+HD-LT-1GC1KVEG3FF594817"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Corvette Stingray",
+      "trim": "Stingray Convertible 3LT",
+      "price": 73240,
+      "mileage": 7793,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Chevrolet-Corvette+Stingray-Convertible+3LT-1G1YC3D43P5137397"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT All Star Edition",
+      "price": null,
+      "mileage": 102578,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Chevrolet-Silverado+1500-LT+All+Star+Edition-1GCUKREC9JF112605"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Midnight Edition",
+      "price": null,
+      "mileage": 81996,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2018-Chevrolet-Silverado+1500-LT+Midnight+Edition-1GCVKREC7JZ208817"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "4WD LT",
+      "price": null,
+      "mileage": 120561,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2021-Chevrolet-Colorado-4WD+LT-1GCGTCEN5M1135082"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "trim": "Regular Cab Long Box 4-Wheel Drive SLE",
+      "price": null,
+      "mileage": 27135,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2022-GMC-Sierra+3500+HD-Regular+Cab+Long+Box+4+Wheel+Drive+SLE-1GT39TE79NF258497"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "SR5",
+      "price": null,
+      "mileage": 29138,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2023-Toyota-Tundra-SR5-5TFLA5DB5PX090184"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LTZ",
+      "price": null,
+      "mileage": 49355,
+      "drivetrain": "Used",
+      "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2024-Chevrolet-Silverado+1500-LTZ-1GCUDGEL4RZ100449"
+    }
+  ]
+}

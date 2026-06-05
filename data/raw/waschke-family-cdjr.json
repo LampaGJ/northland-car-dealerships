@@ -1,0 +1,141 @@
+{
+  "name": "Waschke Family Chrysler Dodge Jeep Ram",
+  "slug": "waschke-family-cdjr",
+  "type": "franchise",
+  "address": "910 N 6th Ave",
+  "city": "Virginia",
+  "state": "MN",
+  "phone": "218-741-9925",
+  "website": "https://www.waschkefamilycdjr.com",
+  "specialties": [
+    "Jeep SUVs and 4x4s",
+    "Ram trucks",
+    "Dodge muscle cars",
+    "Chrysler vehicles"
+  ],
+  "coverage": "partial",
+  "method": "embedded-structured-data",
+  "notes": "CMS: Dealer.com/CDK platform (dealereprocess.com image CDN, XHTML 1.0 page structure). Site returns Cloudflare managed challenge to standard bot UAs (HTTP 403); accessible via facebookexternalhit/1.1 UA. Page declares 28 used vehicles but bot-served HTML contains Vehicle JSON-LD for only 12 listings; remaining 16 are JavaScript-rendered. Prices not present in static HTML or JSON-LD. VINs matched to vehicle names via JSON-LD ordering. Individual VDP pages return HTTP 403 for all UAs tested. Coverage: 12/28 vehicles, no prices.",
+  "inventory": [
+    {
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Limited",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4x4",
+      "url": null
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Latitude",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4x4",
+      "url": null
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Wrangler JK Unlimited",
+      "trim": "Sahara",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "trim": "Sahara",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited",
+      "price": null,
+      "mileage": 11385,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Overland",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Laredo X",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": null
+    },
+    {
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude",
+      "price": null,
+      "mileage": 514,
+      "drivetrain": null,
+      "url": null
+    },
+    {
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Charger",
+      "trim": "GT",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "AWD",
+      "url": null
+    }
+  ]
+}

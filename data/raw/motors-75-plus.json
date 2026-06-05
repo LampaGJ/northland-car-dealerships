@@ -1,0 +1,22 @@
+{
+  "name": "Motors 75 Plus",
+  "slug": "motors-75-plus",
+  "type": "independent",
+  "address": "528 Main St E",
+  "city": "Saint Stephen",
+  "state": "MN",
+  "phone": "(320) 492-6977",
+  "website": "https://www.motors75plus.com",
+  "specialties": ["budget and value vehicles", "SUVs", "trucks", "collector/specialty vehicles"],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "Address confirmed as 528 Main St E, Saint Stephen MN 56375 via Yelp and Google (not St. Cloud as listed in task — Saint Stephen is a small town approximately 10 miles northwest of St. Cloud). motors75plus.com returns Cloudflare JS challenge to non-browser clients. CarGurus dealer page sp407189 returned 6 active listings with full detail. CarGurus lists phone as (320) 433-6227 but dealer's own site and Google Business list (320) 492-6977 — task-provided number used. Inventory sourced from CarGurus. 6 vehicles is likely the complete current lot based on search snippets indicating prices starting at $4,975.",
+  "inventory": [
+    {"year": 2013, "make": "Buick", "model": "Regal", "trim": "Sedan", "price": 8975, "mileage": 116655, "drivetrain": null, "url": "https://www.cargurus.com/details/444708981"},
+    {"year": 2010, "make": "Chevrolet", "model": "Cobalt", "trim": "2LT Sedan FWD", "price": 5975, "mileage": 149390, "drivetrain": "FWD", "url": "https://www.cargurus.com/details/447206872"},
+    {"year": 2016, "make": "GMC", "model": "Terrain", "trim": "SLT", "price": 5975, "mileage": 240429, "drivetrain": null, "url": "https://www.cargurus.com/details/447206871"},
+    {"year": 2003, "make": "Hummer", "model": "H2", "trim": "Luxury", "price": 21975, "mileage": 104813, "drivetrain": null, "url": "https://www.cargurus.com/details/424719904"},
+    {"year": 1999, "make": "Jeep", "model": "Wrangler", "trim": "Sport", "price": 9975, "mileage": 148122, "drivetrain": null, "url": "https://www.cargurus.com/details/424656756"},
+    {"year": 2014, "make": "INFINITI", "model": "QX80", "trim": "AWD", "price": 15975, "mileage": 122411, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/444708980"}
+  ]
+}

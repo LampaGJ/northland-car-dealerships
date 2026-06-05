@@ -1,0 +1,521 @@
+{
+  "name": "Aitkin Motor Co.",
+  "slug": "aitkin-motor-co",
+  "type": "franchise",
+  "address": "108 Second St NE",
+  "city": "Aitkin",
+  "state": "MN",
+  "phone": "218-927-2169",
+  "website": "https://www.aitkinmotorco.com",
+  "specialties": [
+    "Ford trucks",
+    "Ford SUVs",
+    "Ford CPO",
+    "Lincoln"
+  ],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "CMS: Dealer.com (DDC) confirmed via DDC.postalCode cookies and window.DDC globals. Direct DDC inventory APIs blocked by Akamai WAF (HTTP 403/Too many requests on all probe paths including /apis/widget/, /used-inventory/index.htm yields hproduct CSS only \u2014 inventory is JS-rendered SPA with no server-side HTML). Fallback to Cars.com aggregator (dealer ID 158388). Cars.com shows 51 vehicles; 50 captured across pages 1-2 plus 2 from partial page 3 rendering. Price null for 3 unlisted vehicles.",
+  "inventory": [
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": 18995,
+      "mileage": 100263,
+      "drivetrain": "4WD",
+      "url": "https://www.cars.com/vehicledetail/1FTEW1EPXJKF36041/"
+    },
+    {
+      "year": 2017,
+      "make": "Lexus",
+      "model": "RX 350",
+      "trim": "",
+      "price": 19595,
+      "mileage": 137368,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "trim": "Premiere",
+      "price": 57995,
+      "mileage": 10013,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Longhorn",
+      "price": 19995,
+      "mileage": 241182,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 6995,
+      "mileage": 223066,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Limited",
+      "price": 25995,
+      "mileage": 85205,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Taurus",
+      "trim": "Limited",
+      "price": 12995,
+      "mileage": 117514,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "price": 23995,
+      "mileage": 73452,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SE",
+      "price": 7995,
+      "mileage": 123708,
+      "drivetrain": "FWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "trim": "XLT",
+      "price": 45995,
+      "mileage": 39678,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Sport",
+      "price": 13995,
+      "mileage": 102939,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": "Black Label",
+      "price": 67995,
+      "mileage": 12687,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Active",
+      "price": 59995,
+      "mileage": 25234,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 32995,
+      "mileage": 13120,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Outer Banks",
+      "price": 25495,
+      "mileage": 39840,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": 12995,
+      "mileage": 83067,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 14995,
+      "mileage": 95699,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 18995,
+      "mileage": 103272,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 40995,
+      "mileage": 32936,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "price": 42995,
+      "mileage": 26224,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "price": 19995,
+      "mileage": 115124,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": 37995,
+      "mileage": 39842,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 55495,
+      "mileage": 32638,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium",
+      "price": 37995,
+      "mileage": 17566,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 12995,
+      "mileage": 214998,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 30995,
+      "mileage": 14843,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 20995,
+      "mileage": 122826,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 29995,
+      "mileage": 20374,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 21995,
+      "mileage": 137425,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 26995,
+      "mileage": 90083,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Platinum",
+      "price": 21995,
+      "mileage": 113205,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL",
+      "price": 25995,
+      "mileage": 16401,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 29995,
+      "mileage": 20780,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "price": 25995,
+      "mileage": 32571,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 26995,
+      "mileage": 36301,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active",
+      "price": 36995,
+      "mileage": 25967,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "trim": "XL",
+      "price": 48995,
+      "mileage": 16,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST-Line",
+      "price": 26995,
+      "mileage": null,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "trim": "Premium",
+      "price": 36995,
+      "mileage": 10205,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 8995,
+      "mileage": 162999,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Transit-350",
+      "trim": "XLT",
+      "price": 17995,
+      "mileage": 129617,
+      "drivetrain": "RWD",
+      "url": ""
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 17995,
+      "mileage": 84508,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": null,
+      "mileage": 47512,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 30995,
+      "mileage": 13325,
+      "drivetrain": "AWD",
+      "url": ""
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Limited",
+      "price": 27995,
+      "mileage": 49105,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 49995,
+      "mileage": 29414,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "",
+      "price": null,
+      "mileage": 114114,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude",
+      "price": 14995,
+      "mileage": 113849,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2012,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": null,
+      "mileage": 173645,
+      "drivetrain": "4WD",
+      "url": ""
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Transit-250",
+      "trim": "148 WB Medium Roof Cargo",
+      "price": null,
+      "mileage": 188902,
+      "drivetrain": "RWD",
+      "url": ""
+    }
+  ]
+}

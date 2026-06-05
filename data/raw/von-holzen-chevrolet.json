@@ -1,0 +1,29 @@
+{
+  "name": "Von Holzen Chevrolet GMC",
+  "slug": "von-holzen-chevrolet",
+  "type": "franchise",
+  "address": "1606 Lake Shore Dr E",
+  "city": "Ashland",
+  "state": "WI",
+  "phone": "715-682-8141",
+  "website": "https://www.vonholzen.com",
+  "specialties": ["Chevrolet", "GMC", "Heavy-duty trucks", "AWD/4WD SUVs"],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "CMS: Dealer Inspire on WordPress (gm.websites.dealerinspire.com backend confirmed via Cloudflare block page; /wp-admin/ and /wp-content/uploads/inventory/ in robots.txt; x-cars-signature-v1 header on all vonholzen.com and vonholzenchevrolet.com requests). All direct HTTP access to both domains blocked by Cloudflare Bot Management (403 on every path including /wp-json/, /used-inventory/, /robots.txt, and homepage). Cars.com (dealer 158394) also blocks curl. Autotrader blocked by Akamai. Inventory sourced from CarGurus dealer page (https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259) which returned 13 used vehicle listings. Autotrader confirmed 13 vehicles available. One vehicle (2024 Equinox EV) had no listed price on CarGurus.",
+  "inventory": [
+    {"year": 2021, "make": "Chevrolet", "model": "Blazer", "trim": "RS AWD", "price": 23240, "mileage": 83946, "drivetrain": "AWD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2025, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT Crew Cab 4WD", "price": 40242, "mileage": 35651, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2025, "make": "Chevrolet", "model": "Equinox", "trim": "RS AWD", "price": 32721, "mileage": 18300, "drivetrain": "AWD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2023, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT Crew Cab 4WD", "price": 37074, "mileage": 40368, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2021, "make": "Jeep", "model": "Cherokee", "trim": "Trailhawk 4WD", "price": 25247, "mileage": 33303, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2022, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LTZ Crew Cab 4WD", "price": 39247, "mileage": 57885, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2021, "make": "GMC", "model": "Sierra 1500", "trim": "SLE Crew Cab 4WD", "price": 30241, "mileage": 70998, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2023, "make": "Chevrolet", "model": "Blazer", "trim": "2LT AWD", "price": 27247, "mileage": 39254, "drivetrain": "AWD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2024, "make": "GMC", "model": "Sierra 1500", "trim": "SLT Crew Cab 4WD", "price": 48247, "mileage": 27071, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2020, "make": "GMC", "model": "Sierra 1500", "trim": "SLT Crew Cab 4WD", "price": 40247, "mileage": 29853, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2023, "make": "Chevrolet", "model": "Traverse", "trim": "LT Cloth AWD", "price": 29247, "mileage": 47280, "drivetrain": "AWD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2025, "make": "Jeep", "model": "Grand Cherokee", "trim": "Altitude X 4WD", "price": 37247, "mileage": 13469, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"},
+    {"year": 2024, "make": "Chevrolet", "model": "Equinox EV", "trim": "Launch Edition FWD", "price": null, "mileage": 3748, "drivetrain": "FWD", "url": "https://www.cargurus.com/Cars/m-Von-Holzen-Chevrolet-GMC-Inc-sp53259"}
+  ]
+}

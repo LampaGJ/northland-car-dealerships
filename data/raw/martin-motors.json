@@ -1,0 +1,221 @@
+{
+  "name": "Martin Motors, Inc.",
+  "slug": "martin-motors",
+  "type": "independent",
+  "address": "12 Central Ave N",
+  "city": "Chisholm",
+  "state": "MN",
+  "phone": "218-421-8646",
+  "website": "https://www.martinmotorsmn.com",
+  "specialties": [
+    "Used pickup trucks and work trucks",
+    "Budget vehicles and classics",
+    "Powersports and specialty vehicles",
+    "American muscle and project cars"
+  ],
+  "coverage": "full",
+  "method": "embedded-structured-data",
+  "notes": "CMS: CarsforsAle.com white-label platform (cdn09.carsforsale.com asset URLs, google-site-verification TfRlc2ZKnHbgG8o0gSUFSam-5Rd-IbQTtQqufCRydVY). Direct site access returns DataDome HTTP 403 (x-datadome header). Homepage and /cars-for-sale accessible via facebookexternalhit/1.1 UA. All 20 Vehicle schema.org JSON-LD entries extracted from /cars-for-sale page. Prices from offers.price field. Mileage not present in JSON-LD or visible HTML (CarsforsAle.com does not embed mileage in structured data). Trim not available in JSON-LD name field.",
+  "inventory": [
+    {
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "price": 10999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "price": 8999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "price": 11999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2003,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": null,
+      "price": 10999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2009,
+      "make": "Dodge",
+      "model": "Ram 3500",
+      "trim": null,
+      "price": 18500,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 19999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2006,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 6999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2009,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 9999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "price": 24999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2006,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "trim": null,
+      "price": 12999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 1985,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": null,
+      "price": 14999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2008,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": null,
+      "price": 9999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": null,
+      "price": 8999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2018,
+      "make": "KTM",
+      "model": "SX65",
+      "trim": null,
+      "price": 2999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2003,
+      "make": "KTM",
+      "model": "50 Sx Senior",
+      "trim": null,
+      "price": 1500,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 1994,
+      "make": "Oldsmobile",
+      "model": "Cutlass Supreme",
+      "trim": null,
+      "price": 4999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2018,
+      "make": "Polaris",
+      "model": "RZR 1000 Turbo XP 4",
+      "trim": null,
+      "price": 16999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 1967,
+      "make": "Pontiac",
+      "model": "Tempest",
+      "trim": null,
+      "price": 20000,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2017,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "trim": null,
+      "price": 22999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "ProMaster",
+      "trim": null,
+      "price": 12999,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.martinmotorsmn.com/cars-for-sale"
+    }
+  ]
+}

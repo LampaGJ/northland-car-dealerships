@@ -1,0 +1,931 @@
+{
+  "name": "Duluth Dodge",
+  "slug": "duluth-dodge",
+  "type": "franchise",
+  "address": "4755 Miller Trunk Hwy",
+  "city": "Hermantown",
+  "state": "MN",
+  "phone": "218-216-2723",
+  "website": "https://www.duluthdodgeminnesota.com",
+  "specialties": [
+    "Jeep SUVs and 4WD vehicles",
+    "RAM trucks",
+    "Chrysler minivans",
+    "CDJR certified pre-owned"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: Team Velocity (secureoffersites.com CDN, teamvelocityportal.com API). Inventory endpoint is Vue.js client-rendered; vehicle data embedded as server-side rendered HTML cards with price/VIN in @click handler JSON and mileage in text content. 3 pages scraped (page 1-3). 91 unique used vehicles, no truncation. API attempts to websites.api.teamvelocityportal.com and /tvm-services/inventory returned 404; local /api endpoints returned 406 without browser UA.",
+  "inventory": [
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL FWD",
+      "price": 6420,
+      "mileage": 187849,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2fmdk3jcxdba27339/2013-ford-edge-sport-utility"
+    },
+    {
+      "year": 2005,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "4WD",
+      "price": 6491,
+      "mileage": 163684,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1ftpx14545na33034/2005-ford-f-150-extended-cab-pickup"
+    },
+    {
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Liberty",
+      "trim": "Sport Latitude 4WD",
+      "price": 9824,
+      "mileage": 69773,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4pjmak4cw181530/2012-jeep-liberty-sport-utility"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee Summit 4WD",
+      "price": 9991,
+      "mileage": 163880,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjfjg6ec435503/2014-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2017,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring-L FWD",
+      "price": 10610,
+      "mileage": 137429,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg8hr538929/2017-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium 4WD",
+      "price": 12491,
+      "mileage": 94662,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1fmcu9j98gub38256/2016-ford-escape-sport-utility"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4WD",
+      "price": 12891,
+      "mileage": 173669,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1ftew1ep7gkd23802/2016-ford-f-150-crew-cab-pickup"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Express 4WD",
+      "price": 12991,
+      "mileage": 185280,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7ft3gs219953/2016-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2013,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Express 4WD",
+      "price": 13491,
+      "mileage": 111052,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7kt2ds559161/2013-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "EL XLT 4WD",
+      "price": 13991,
+      "mileage": 153915,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1fmjk1jt1hea33404/2017-ford-expedition-el-sport-utility"
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 13991,
+      "mileage": 165313,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7gt0fs646861/2015-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2015,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Wagon RWD",
+      "price": 14991,
+      "mileage": 111199,
+      "drivetrain": "RWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1fdyk1zm6fkb05918/2015-ford-transit-wagon-full-size-passenger-van"
+    },
+    {
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 15258,
+      "mileage": 137353,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7tt2fs769048/2015-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 17791,
+      "mileage": 118341,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c6rr7lt5gg190886/2016-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SV FWD",
+      "price": 18791,
+      "mileage": 66584,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1n4bl4dv5rn323821/2024-nissan-altima-4dr-car"
+    },
+    {
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 SV FWD",
+      "price": 18991,
+      "mileage": 63426,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1n4bl4dv8rn340287/2024-nissan-altima-4dr-car"
+    },
+    {
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee Overland 4WD",
+      "price": 18991,
+      "mileage": 69582,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjfcg5hc778241/2017-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Jaguar",
+      "model": "F-PACE",
+      "trim": "R-Dynamic S AWD",
+      "price": 19491,
+      "mileage": 146345,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/sadct2fu1ma664435/2021-jaguar-f-pace-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring AWD",
+      "price": 19991,
+      "mileage": 131909,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc3fg4mr563570/2021-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Latitude Lux 4WD",
+      "price": 19991,
+      "mileage": 45436,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4pjmmx7md101948/2021-jeep-cherokee-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "AWD Luxury AWD",
+      "price": 19991,
+      "mileage": 102371,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1gyknbr45pz143831/2023-cadillac-xt5-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude Lux 4WD",
+      "price": 20230,
+      "mileage": 64563,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c4njdfn2rt102199/2024-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT FWD",
+      "price": 22491,
+      "mileage": 26167,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3gnaxkeg4rl364303/2024-chevrolet-equinox-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 22499,
+      "mileage": 86239,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg3rr123289/2024-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT FWD",
+      "price": 22991,
+      "mileage": 20585,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3gnaxkeg4rl353477/2024-chevrolet-equinox-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 23080,
+      "mileage": 77152,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg9pr620098/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 23210,
+      "mileage": 76224,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg1pr597089/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Active AWD",
+      "price": 23391,
+      "mileage": 25298,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1fmcu9gnxsua85220/2025-ford-escape-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 23500,
+      "mileage": null,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg9rr106335/2024-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "trim": "GT AWD",
+      "price": 23989,
+      "mileage": 123898,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/zacndfanxr3a39720/2024-dodge-hornet-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST-Line AWD",
+      "price": 23791,
+      "mileage": 28394,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1fmcu9mn4rua68296/2024-ford-escape-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 23860,
+      "mileage": null,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg9pr571856/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "trim": "GT AWD",
+      "price": 23988,
+      "mileage": 14002,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/zacndfanxr3a37711/2024-dodge-hornet-sport-utility"
+    },
+    {
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee High Altitude 4WD",
+      "price": 23991,
+      "mileage": 105547,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjfcg0jc207133/2018-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 24220,
+      "mileage": 69090,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg9pr521040/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL AWD",
+      "price": 24391,
+      "mileage": 45099,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2fmpk4j92rba78543/2024-ford-edge-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 24891,
+      "mileage": 63874,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/2c4rc1bg9pr627973/2023-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2017,
+      "make": "Lexus",
+      "model": "RX",
+      "trim": "RX 350 FWD",
+      "price": 24991,
+      "mileage": 82934,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2t2zzmca1hc088630/2017-lexus-rx-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4WD",
+      "price": 25991,
+      "mileage": 94517,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1ftfw1e54lkd10048/2020-ford-f-150-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Limited 4WD",
+      "price": 25991,
+      "mileage": 19125,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/3c4njdcn1st600985/2025-jeep-compass-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Classic Warlock 4WD",
+      "price": 26391,
+      "mileage": 83094,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7gg9ns121153/2022-ram-1500-classic-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Touring L FWD",
+      "price": 26430,
+      "mileage": 62457,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg1rr123033/2024-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe 4xe 4WD",
+      "price": 26730,
+      "mileage": 61872,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjyb64rc720255/2024-jeep-grand-cherokee-4xe-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe 4xe 4WD",
+      "price": 26830,
+      "mileage": 60960,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjyb66rc142692/2024-jeep-grand-cherokee-4xe-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe 4xe 4WD",
+      "price": 26880,
+      "mileage": 60336,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjyb64rc116074/2024-jeep-grand-cherokee-4xe-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium AWD",
+      "price": 26891,
+      "mileage": 32132,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2fmpk4k9xnbb07814/2022-ford-edge-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "XLE AWD",
+      "price": 27360,
+      "mileage": 139831,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/5tdjskfc2ms003030/2021-toyota-sienna-mini-van,-passenger"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "King Ranch 4WD",
+      "price": 27991,
+      "mileage": 98790,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1ftew1egxhfc03275/2017-ford-f-150-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium AWD",
+      "price": 27891,
+      "mileage": 31537,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2fmpk4k9xrba50262/2024-ford-edge-sport-utility"
+    },
+    {
+      "year": 2018,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Big Horn 4WD",
+      "price": 27991,
+      "mileage": 109954,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c63r3dj5jg353958/2018-ram-3500-crew-cab-pickup"
+    },
+    {
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Classic Warlock 4WD",
+      "price": 27991,
+      "mileage": 64309,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6rr7gtxms588285/2021-ram-1500-classic-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sahara 4WD",
+      "price": 28391,
+      "mileage": 63530,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4hjxenxpw695141/2023-jeep-wrangler-convertible"
+    },
+    {
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Select FWD",
+      "price": 28491,
+      "mileage": 60326,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1bg1sr520585/2025-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Super",
+      "trim": "Duty F-250 SRW LARIAT 4WD",
+      "price": 28991,
+      "mileage": 218859,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1ft7w2bt5kec55006/2019-ford-super-duty-f-250-srw-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee L Overland 4WD",
+      "price": 28854,
+      "mileage": 95793,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjkdg4p8781155/2023-jeep-grand-cherokee-l-sport-utility"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Tradesman 4WD",
+      "price": 29991,
+      "mileage": 40937,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c6mr5aj5lg315220/2020-ram-2500-regular-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT Plus AWD",
+      "price": 29991,
+      "mileage": 59985,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rdjdg8rc147137/2024-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500 LTD LTZ 4WD",
+      "price": 30791,
+      "mileage": 112973,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3gcuyged5ng143155/2022-chevrolet-silverado-1500-ltd-crew-cab-pickup"
+    },
+    {
+      "year": 2020,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn 4WD",
+      "price": 32991,
+      "mileage": 109690,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/3c6ur5dj3lg144897/2020-ram-2500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited FWD",
+      "price": 33291,
+      "mileage": 63011,
+      "drivetrain": "FWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/2c4rc1gg8sr524724/2025-chrysler-pacifica-mini-van,-passenger"
+    },
+    {
+      "year": 2025,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "GT AWD",
+      "price": 33391,
+      "mileage": 34760,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rdjdg9sc533930/2025-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "BMW",
+      "model": "7",
+      "trim": "Series 740i xDrive AWD",
+      "price": 33991,
+      "mileage": 69709,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/wba7t4c05nch59192/2022-bmw-7-series-4dr-car"
+    },
+    {
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "X-Line EX AWD",
+      "price": 33991,
+      "mileage": 31342,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/5xyrhdjf2rg286550/2024-kia-sorento-sport-utility"
+    },
+    {
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon 4WD",
+      "price": 33991,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4hjxfn3mw711772/2021-jeep-wrangler-convertible"
+    },
+    {
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "Citadel AWD",
+      "price": 33991,
+      "mileage": 38688,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rdjeg3nc188445/2022-dodge-durango-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 35791,
+      "mileage": 50863,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srffp8sn562151/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "Kia",
+      "model": "Telluride",
+      "trim": "SX AWD",
+      "price": 36491,
+      "mileage": 43966,
+      "drivetrain": "AWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/5xyp5dgcxpg342115/2023-kia-telluride-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 36691,
+      "mileage": 48699,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srffp1sn562198/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn 4WD",
+      "price": 36991,
+      "mileage": 42065,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srffp9sn562269/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "ProMaster",
+      "trim": "Cargo Van Tradesman 2500 Low Roof 136 WB w/Pass Seat",
+      "price": 36991,
+      "mileage": 18782,
+      "drivetrain": null,
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c6lrvvg9se514906/2025-ram-promaster-cargo-van-full-size-cargo-van"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee Altitude 4WD",
+      "price": 36991,
+      "mileage": 20753,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/1c4rjhag2sc325247/2025-jeep-grand-cherokee-sport-utility"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Rubicon 4WD",
+      "price": 39096,
+      "mileage": 51578,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/1c4jjxfg2pw657887/2023-jeep-wrangler-convertible"
+    },
+    {
+      "year": 2021,
+      "make": "GMC",
+      "model": "Yukon",
+      "trim": "XL Denali 4WD",
+      "price": 39729,
+      "mileage": 113491,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1gks2jklxmr301283/2021-gmc-yukon-xl-sport-utility"
+    },
+    {
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Rubicon 4WD",
+      "price": 39791,
+      "mileage": 26754,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4pjxfn9sw527865/2025-jeep-wrangler-convertible"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe 4xe 4WD",
+      "price": 40327,
+      "mileage": 38989,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjyb67p8788484/2023-jeep-grand-cherokee-4xe-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Rebel 4WD",
+      "price": 42487,
+      "mileage": 59245,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srflt7rn213834/2024-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra",
+      "trim": "3500HD AT4 4WD",
+      "price": 42897,
+      "mileage": 139731,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1gt49ve75nf157599/2022-gmc-sierra-3500hd-crew-cab-pickup"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn 4WD",
+      "price": 44094,
+      "mileage": 67470,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c6ur5dl9ng282397/2022-ram-2500-crew-cab-pickup"
+    },
+    {
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie 4WD",
+      "price": 46889,
+      "mileage": 22171,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srfjp8sn505018/2025-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee 4xe 4xe 4WD",
+      "price": 49491,
+      "mileage": 1120,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjyb60p8774300/2023-jeep-grand-cherokee-4xe-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Wagoneer L Series II 4WD",
+      "price": 49620,
+      "mileage": 75829,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4sjsfp7rs130798/2024-jeep-grand-wagoneer-l-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Wagoneer L Series II 4WD",
+      "price": 49670,
+      "mileage": 75756,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4sjsfp7rs137783/2024-jeep-grand-wagoneer-l-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Big Horn 4WD",
+      "price": 49991,
+      "mileage": 51228,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/cpo/3c63r3hl4rg338911/2024-ram-3500-crew-cab-pickup"
+    },
+    {
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Wagoneer L Series II 4WD",
+      "price": 50491,
+      "mileage": 70360,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4sjsfp2rs107719/2024-jeep-grand-wagoneer-l-sport-utility"
+    },
+    {
+      "year": 2022,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Laramie 4WD",
+      "price": 52821,
+      "mileage": 51504,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c63r3el4ng338695/2022-ram-3500-crew-cab-pickup"
+    },
+    {
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Laramie 4WD",
+      "price": 53491,
+      "mileage": 16653,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c6srfjp0tn259079/2026-ram-1500-crew-cab-pickup"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "4xe Unlimited Sahara 4WD",
+      "price": 56997,
+      "mileage": 841,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4jjxp61nw281024/2022-jeep-wrangler-4xe-convertible"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "1LT RWD",
+      "price": 64991,
+      "mileage": 3132,
+      "drivetrain": "RWD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1g1ya2d47r5114241/2024-chevrolet-corvette-2dr-car"
+    },
+    {
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Land",
+      "trim": "Cruiser Base 4WD",
+      "price": 65991,
+      "mileage": 13261,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/jteabfaj3sk043534/2025-toyota-land-cruiser-sport-utility"
+    },
+    {
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "trim": "Limited 4WD",
+      "price": 75991,
+      "mileage": 15568,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/3c63rrrl3rg148826/2024-ram-3500-crew-cab-pickup"
+    },
+    {
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand",
+      "trim": "Cherokee L Limited 4WD",
+      "price": null,
+      "mileage": null,
+      "drivetrain": "4WD",
+      "url": "https://www.duluthdodgeminnesota.com/viewdetails/used/1c4rjkbgxn8580862/2022-jeep-grand-cherokee-l-sport-utility"
+    }
+  ]
+}

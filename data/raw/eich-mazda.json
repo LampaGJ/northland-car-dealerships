@@ -1,0 +1,15 @@
+{
+  "name": "Eich Mazda",
+  "slug": "eich-mazda",
+  "type": "franchise",
+  "address": "1921 W Division St",
+  "city": "St. Cloud",
+  "state": "MN",
+  "phone": null,
+  "website": "https://www.eichmotor.com/",
+  "specialties": ["Mazda"],
+  "coverage": "summary-only",
+  "method": "html",
+  "notes": "CMS identified as Cars Commerce platform (x-cars-signature-v1 header, Cloudflare) — identical signature to eichvw.com. Eich VW and Eich Mazda are confirmed sibling rooftops of Eich Motor Company sharing one unified Cars Commerce inventory feed. The eichmotor.com /inventory/?type=used and /pre-owned/ endpoints return zero results ('No vehicles found matching your criteria'). All used inventory for both rooftops is served exclusively through eichvw.com. See eich-volkswagen.json for the complete combined inventory of 55 used vehicles, which includes 17 Mazda units. No separate inventory exists for this rooftop.",
+  "inventory": []
+}

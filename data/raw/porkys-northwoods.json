@@ -1,0 +1,15 @@
+{
+  "name": "Porkys Northwoods Auto Traders",
+  "slug": "porkys-northwoods",
+  "type": "independent",
+  "address": "809 Thomas St",
+  "city": "Mellen",
+  "state": "WI",
+  "phone": "715-274-2886",
+  "website": null,
+  "specialties": [],
+  "coverage": "summary-only",
+  "method": "aggregator",
+  "notes": "No dealer website. Domain porkysautos.com exists (301 redirect to HTTPS) but returns empty response (0 bytes). Cars.com dealer page (ID 5372371) timed out. CarGurus: no dealer profile found. Carsforsale.com: no dealer profile found. Driverbase shows 0 active listings. No Facebook inventory page accessible via public web fetch. No inventory found on any reachable platform at time of extraction.",
+  "inventory": []
+}

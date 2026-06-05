@@ -1,0 +1,25 @@
+{
+  "name": "Cloverland Motors, Inc.",
+  "slug": "cloverland-motors",
+  "type": "independent",
+  "address": "300 E Cloverland Dr",
+  "city": "Ironwood",
+  "state": "MI",
+  "phone": "906-932-1202",
+  "website": "http://cloverlandmotorsmi.com",
+  "specialties": ["used cars and trucks", "compact SUVs", "pickup trucks", "minivans"],
+  "coverage": "partial",
+  "method": "aggregator",
+  "notes": "Primary website http://cloverlandmotorsmi.com was unreachable (ECONNREFUSED) during extraction. Note: distinct from affiliated Cloverland Motorsports (powersports) at same address - only car/truck inventory included per instructions. CarGurus profile URL 404'd. Inventory sourced from web2carz.com dealer page (https://www.web2carz.com/16202/dealers/cloverland-motors-inc) which confirmed 9 vehicles matching the site's feed. Mileage not available from this aggregator. Prices confirmed from web2carz modal data. Three vehicles listed as 'contact seller' (no public price). Also confirmed by web2carz.com earlier data: 2023 and 2024 model-year vehicles appeared in year dropdown but no corresponding listing blocks were present, so the 9 listed here represent the complete feed as of extraction date.",
+  "inventory": [
+    {"year": 2022, "make": "Chevrolet", "model": "Silverado 1500 Limited", "trim": "LT", "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863446/2022/chevrolet/silverado-1500-limited/used-cars/for-sale"},
+    {"year": 2021, "make": "RAM", "model": "1500", "trim": null, "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863445/2021/ram/1500/used-cars/for-sale"},
+    {"year": 2014, "make": "Ford", "model": "Escape", "trim": "SE", "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863444/2014/ford/escape/used-cars/for-sale"},
+    {"year": 2009, "make": "Kia", "model": "Sedona", "trim": "LX", "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863447/2009/kia/sedona/used-cars/for-sale"},
+    {"year": 2013, "make": "Ford", "model": "Escape", "trim": "SE", "price": 9999, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/397299490/2013/ford/escape/used-cars/for-sale"},
+    {"year": 2009, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT", "price": 12999, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/397299587/2009/chevrolet/silverado-1500/used-cars/for-sale"},
+    {"year": 2008, "make": "Nissan", "model": "Pathfinder", "trim": "S", "price": 7999, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863448/2008/nissan/pathfinder/used-cars/for-sale"},
+    {"year": 2006, "make": "Chevrolet", "model": "TrailBlazer EXT", "trim": "LT", "price": 8999, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/402218677/2006/chevrolet/trailblazer-ext/used-cars/for-sale"},
+    {"year": 2005, "make": "Jeep", "model": "Grand Cherokee", "trim": "Laredo", "price": 6999, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/397299269/2005/jeep/grand-cherokee/used-cars/for-sale"}
+  ]
+}

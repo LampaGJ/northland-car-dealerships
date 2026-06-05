@@ -1,0 +1,261 @@
+{
+  "name": "Duluth Motorsports",
+  "slug": "duluth-motorsports",
+  "type": "independent",
+  "address": "335 E Central Entrance",
+  "city": "Duluth",
+  "state": "MN",
+  "phone": "218-723-1200",
+  "website": "https://duluthmotorsports.com",
+  "specialties": [
+    "mixed used cars and trucks",
+    "AWD/4WD",
+    "budget $5k-$35k",
+    "boats/powersports"
+  ],
+  "coverage": "full",
+  "method": "html",
+  "notes": "CMS: DealerCarSearch (dealer ID 5361, confirmed via imagescdn.dealercarsearch.com/DealerImages/5361/ in source and ASP.NET/IIS headers). Feed probes: /api/inventory 200 empty, /inventory/getinventory and /Home/GetInventory returned 302; no JSON API accessible. Embedded structured data: no JSON-LD. Extracted from /newandusedcars?clearall=1 HTML using i13r template data attributes (data-inventory-id, alt text, i13r_optMileage/Drive, price-price span). One boat (2012 Lund 1675) excluded from inventory count as non-automotive.",
+  "inventory": [
+    {
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "Premium Luxury AWD",
+      "price": 38995,
+      "mileage": 21000,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23884927/Used-2023-Cadillac-XT5-Premium-Luxury-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2014,
+      "make": "Cadillac",
+      "model": "XTS",
+      "trim": "Luxury AWD",
+      "price": 10995,
+      "mileage": 91660,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23915977/Used-2014-Cadillac-XTS-Luxury-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "2LT Convertible",
+      "price": 18995,
+      "mileage": 92550,
+      "drivetrain": "RWD",
+      "url": "https://duluthmotorsports.com/vdp/23944356/Used-2017-Chevrolet-Camaro-2LT-Convertible-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500 LT Double Cab 4WD",
+      "price": 14995,
+      "mileage": 135023,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23936990/Used-2015-Chevrolet-Silverado-1500-LT-Double-Cab-4WD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": "2LT AWD",
+      "price": 8995,
+      "mileage": 133257,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23798367/Used-2012-Chevrolet-Traverse-2LT-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2010,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT SuperCrew 5.5-ft. Bed 4WD",
+      "price": 9995,
+      "mileage": 148120,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23815208/Used-2010-Ford-F150-XLT-SuperCrew-55ft-Bed-4WD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-350",
+      "trim": "SD Lariat Crew Cab Long Bed DRW 4WD",
+      "price": 34995,
+      "mileage": 64316,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23802842/Used-2012-Ford-F350-SD-Lariat-Crew-Cab-Long-Bed-DRW-4WD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "GT Deluxe Convertible",
+      "price": 12995,
+      "mileage": 74146,
+      "drivetrain": "RWD",
+      "url": "https://duluthmotorsports.com/vdp/21384426/Used-2001-Ford-Mustang-GT-Deluxe-Convertible-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2011,
+      "make": "Harley-Davidson",
+      "model": "XL1200X",
+      "trim": null,
+      "price": 5995,
+      "mileage": 1838,
+      "drivetrain": "RWD",
+      "url": "https://duluthmotorsports.com/vdp/23643713/Used-2011-HarleyDavidson-XL1200X-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2011,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "EX-L V-6 Sedan AT",
+      "price": 11995,
+      "mileage": 103260,
+      "drivetrain": "FWD",
+      "url": "https://duluthmotorsports.com/vdp/23940983/Used-2011-Honda-Accord-EXL-V6-Sedan-AT-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2019,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "LX AWD",
+      "price": 14995,
+      "mileage": 84930,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23943532/Used-2019-Honda-HRV-LX-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2012,
+      "make": "Lund",
+      "model": "1675",
+      "trim": "Impact",
+      "price": 18995,
+      "mileage": null,
+      "drivetrain": "",
+      "url": "https://duluthmotorsports.com/vdp/23824231/Used-2012-Lund-1675-Impact-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "Platinum",
+      "price": 14495,
+      "mileage": 79250,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23826443/Used-2015-Nissan-Armada-Platinum-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SV AWD",
+      "price": 8495,
+      "mileage": 84068,
+      "drivetrain": "4WD",
+      "url": "https://duluthmotorsports.com/vdp/23803011/Used-2013-Nissan-Rogue-SV-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S AWD",
+      "price": 7995,
+      "mileage": 111068,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23943941/Used-2016-Nissan-Rogue-S-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S AWD",
+      "price": 8995,
+      "mileage": 145592,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23862564/Used-2016-Nissan-Rogue-S-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Sport SV AWD",
+      "price": 13995,
+      "mileage": 18790,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23884137/Used-2018-Nissan-Rogue-Sport-SV-AWD-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2004,
+      "make": "Pontiac",
+      "model": "GTO",
+      "trim": "Coupe",
+      "price": 21500,
+      "mileage": 48901,
+      "drivetrain": "RWD",
+      "url": "https://duluthmotorsports.com/vdp/23817066/Used-2004-Pontiac-GTO-Coupe-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Premium",
+      "price": 7495,
+      "mileage": 172050,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23944272/Used-2015-Subaru-Forester-25i-Premium-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Limited",
+      "price": 13995,
+      "mileage": 91416,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23928137/Used-2016-Subaru-Forester-25i-Limited-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Premium",
+      "price": 21995,
+      "mileage": 74581,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23815062/Used-2022-Subaru-Outback-Premium-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2013,
+      "make": "Subaru",
+      "model": "XV",
+      "trim": "Crosstrek 2.0i Premium CVT",
+      "price": 8995,
+      "mileage": 138190,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23815239/Used-2013-Subaru-XV-Crosstrek-20i-Premium-CVT-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "LE",
+      "price": 12995,
+      "mileage": 139700,
+      "drivetrain": "FWD",
+      "url": "https://duluthmotorsports.com/vdp/23915794/Used-2015-Toyota-Camry-LE-for-sale-in-Duluth-MN-55811"
+    },
+    {
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Limited AWD V6",
+      "price": 17995,
+      "mileage": 98132,
+      "drivetrain": "AWD",
+      "url": "https://duluthmotorsports.com/vdp/23824365/Used-2015-Toyota-Highlander-Limited-AWD-V6-for-sale-in-Duluth-MN-55811"
+    }
+  ]
+}
