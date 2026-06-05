@@ -15,7 +15,7 @@
   ],
   "coverage": "full",
   "method": "embedded-structured-data",
-  "notes": "CMS: Team Velocity (tid=39433e91). Inventory extracted from schema.org Vehicle JSON-LD blocks embedded on paginated /inventory/used pages. 3 pages scraped. All 75 used vehicles captured. Prices represent asking cash price from offers.price field.",
+  "notes": "CMS: Team Velocity (tid=39433e91). Inventory extracted from schema.org Vehicle JSON-LD blocks embedded on paginated /inventory/used pages. 3 pages scraped. All 75 used vehicles captured. Prices represent asking cash price from offers.price field. | 3 aged high-mileage units carried an identical $100,349 placeholder price in the site structured data — set to null in post-processing.",
   "inventory": [
     {
       "year": 2014,
@@ -23,7 +23,7 @@
       "model": "Patriot",
       "trim": "Latitude",
       "vin": "1C4NJRFBXED713634",
-      "price": 5850.0,
+      "price": 5850,
       "mileage": 186160,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1c4njrfbxed713634/2014-jeep-patriot-sport-utility"
@@ -34,7 +34,7 @@
       "model": "Silverado 2500 Crew Cab",
       "trim": "2500 Crew Cab LS",
       "vin": "1GCGK23U84F114978",
-      "price": 9350.0,
+      "price": 9350,
       "mileage": 180285,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1gcgk23u84f114978/2004-chevrolet-silverado-2500-crew-cab-crew-cab-pickup"
@@ -45,7 +45,7 @@
       "model": "Santa Fe",
       "trim": "Fe SE",
       "vin": "5NMS2CAD5LH193823",
-      "price": 12350.0,
+      "price": 12350,
       "mileage": 157036,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nms2cad5lh193823/2020-hyundai-santa-fe-sport-utility"
@@ -56,7 +56,7 @@
       "model": "Cruze",
       "trim": "LT",
       "vin": "1G1BE5SM8J7146106",
-      "price": 14350.0,
+      "price": 14350,
       "mileage": 44791,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1g1be5sm8j7146106/2018-chevrolet-cruze-4dr-car"
@@ -67,7 +67,7 @@
       "model": "Edge",
       "trim": null,
       "vin": "2FMPK4J97LBA48820",
-      "price": 14850.0,
+      "price": 14850,
       "mileage": 106176,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/2fmpk4j97lba48820/2020-ford-edge-sport-utility"
@@ -78,7 +78,7 @@
       "model": "F-150",
       "trim": null,
       "vin": "1FTEX1CM8EKF28564",
-      "price": 15350.0,
+      "price": 15350,
       "mileage": 94884,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1ftex1cm8ekf28564/2014-ford-f-150-extended-cab-pickup"
@@ -89,7 +89,7 @@
       "model": "Forester",
       "trim": "Limited",
       "vin": "JF2SKAUC8LH539275",
-      "price": 18350.0,
+      "price": 18350,
       "mileage": 128896,
       "drivetrain": "CVT",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/jf2skauc8lh539275/2020-subaru-forester-sport-utility"
@@ -100,7 +100,7 @@
       "model": "Santa Fe",
       "trim": "Fe Limited",
       "vin": "5NMS5CAD0LH181148",
-      "price": 20350.0,
+      "price": 20350,
       "mileage": 95363,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nms5cad0lh181148/2020-hyundai-santa-fe-sport-utility"
@@ -111,7 +111,7 @@
       "model": "Seltos",
       "trim": "SX",
       "vin": "KNDETCA27N7255502",
-      "price": 21850.0,
+      "price": 21850,
       "mileage": 43909,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/kndetca27n7255502/2022-kia-seltos-sport-utility"
@@ -122,7 +122,7 @@
       "model": "Tucson",
       "trim": "Limited",
       "vin": "KM8J3CAL8KU963564",
-      "price": 22350.0,
+      "price": 22350,
       "mileage": 38363,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8j3cal8ku963564/2019-hyundai-tucson-sport-utility"
@@ -133,7 +133,7 @@
       "model": "Equinox",
       "trim": "LT",
       "vin": "3GNAXUEG6RL339138",
-      "price": 22850.0,
+      "price": 22850,
       "mileage": 40443,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/3gnaxueg6rl339138/2024-chevrolet-equinox-sport-utility"
@@ -144,7 +144,7 @@
       "model": "Equinox",
       "trim": "LT",
       "vin": "3GNAXUEG1RS227157",
-      "price": 22850.0,
+      "price": 22850,
       "mileage": 35380,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/3gnaxueg1rs227157/2024-chevrolet-equinox-sport-utility"
@@ -155,7 +155,7 @@
       "model": "Ranger",
       "trim": null,
       "vin": "1FTER4FH5LLA71861",
-      "price": 23350.0,
+      "price": 23350,
       "mileage": 72667,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1fter4fh5lla71861/2020-ford-ranger-crew-cab-pickup"
@@ -166,7 +166,7 @@
       "model": "Elantra",
       "trim": "SEL Sport",
       "vin": "KMHLM4DG3SU923810",
-      "price": 23350.0,
+      "price": 23350,
       "mileage": 22920,
       "drivetrain": "CVT",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/kmhlm4dg3su923810/2025-hyundai-elantra-4dr-car"
@@ -177,7 +177,7 @@
       "model": "Trailblazer",
       "trim": "LS",
       "vin": "KL79MNSL2SB195524",
-      "price": 23350.0,
+      "price": 23350,
       "mileage": 24070,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/kl79mnsl2sb195524/2025-chevrolet-trailblazer-sport-utility"
@@ -188,7 +188,7 @@
       "model": "Trailblazer",
       "trim": "LS",
       "vin": "KL79MNSL6SB195073",
-      "price": 23350.0,
+      "price": 23350,
       "mileage": 24729,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/kl79mnsl6sb195073/2025-chevrolet-trailblazer-sport-utility"
@@ -199,7 +199,7 @@
       "model": "Highlander",
       "trim": "Limited",
       "vin": "5TDDZRFH5JS801529",
-      "price": 24350.0,
+      "price": 24350,
       "mileage": 105326,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5tddzrfh5js801529/2018-toyota-highlander-sport-utility"
@@ -210,7 +210,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJB3AE1PH248620",
-      "price": 24350.0,
+      "price": 24350,
       "mileage": 23733,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5nmjb3ae1ph248620/2023-hyundai-tucson-sport-utility"
@@ -221,7 +221,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJFCAE7PH226934",
-      "price": 24350.0,
+      "price": 24350,
       "mileage": 64077,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5nmjfcae7ph226934/2023-hyundai-tucson-sport-utility"
@@ -232,7 +232,7 @@
       "model": "Edge",
       "trim": "Titanium",
       "vin": "2FMPK4K95RBA16729",
-      "price": 24350.0,
+      "price": 24350,
       "mileage": 72733,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/2fmpk4k95rba16729/2024-ford-edge-sport-utility"
@@ -243,7 +243,7 @@
       "model": "Sonata",
       "trim": "SEL",
       "vin": "KMHL14JAXPA326378",
-      "price": 24850.0,
+      "price": 24850,
       "mileage": 20645,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/kmhl14jaxpa326378/2023-hyundai-sonata-4dr-car"
@@ -254,7 +254,7 @@
       "model": "Super Duty F-250 SRW",
       "trim": "Duty F-250 SRW",
       "vin": "1FT7W2B69GED43588",
-      "price": 25350.0,
+      "price": 25350,
       "mileage": 98105,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1ft7w2b69ged43588/2016-ford-super-duty-f-250-srw-crew-cab-pickup"
@@ -265,7 +265,7 @@
       "model": "Elantra",
       "trim": "Limited",
       "vin": "KMHLP4DG8SU868102",
-      "price": 25350.0,
+      "price": 25350,
       "mileage": 10795,
       "drivetrain": "CVT",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/kmhlp4dg8su868102/2025-hyundai-elantra-4dr-car"
@@ -276,7 +276,7 @@
       "model": "Santa Fe",
       "trim": "Fe Limited",
       "vin": "5NMS4DAL8NH411358",
-      "price": 25350.0,
+      "price": 25350,
       "mileage": 70135,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nms4dal8nh411358/2022-hyundai-santa-fe-sport-utility"
@@ -287,7 +287,7 @@
       "model": "Elantra Hybrid",
       "trim": "Hybrid SEL Sport",
       "vin": "KMHLM4DJXSU130032",
-      "price": 25350.0,
+      "price": 25350,
       "mileage": 8047,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/kmhlm4djxsu130032/2025-hyundai-elantra-hybrid-4dr-car"
@@ -298,7 +298,7 @@
       "model": "Sonata",
       "trim": "SE",
       "vin": "KMHL24JA5SA487145",
-      "price": 25850.0,
+      "price": 25850,
       "mileage": 7267,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/kmhl24ja5sa487145/2025-hyundai-sonata-4dr-car"
@@ -309,7 +309,7 @@
       "model": "Bronco Sport",
       "trim": "Sport Big Bend",
       "vin": "3FMCR9B69MRA32598",
-      "price": 26350.0,
+      "price": 26350,
       "mileage": 32729,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/3fmcr9b69mra32598/2021-ford-bronco-sport-sport-utility"
@@ -320,7 +320,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJBCDEXSH543865",
-      "price": 26850.0,
+      "price": 26850,
       "mileage": 20205,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmjbcdexsh543865/2025-hyundai-tucson-sport-utility"
@@ -331,7 +331,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJBCDE3SH543786",
-      "price": 26850.0,
+      "price": 26850,
       "mileage": 17822,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmjbcde3sh543786/2025-hyundai-tucson-sport-utility"
@@ -342,7 +342,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJBCDE5SH543496",
-      "price": 26850.0,
+      "price": 26850,
       "mileage": 19081,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmjbcde5sh543496/2025-hyundai-tucson-sport-utility"
@@ -353,7 +353,7 @@
       "model": "Canyon",
       "trim": "4WD All Terrain w/Cloth",
       "vin": "1GTG6FEN9K1317728",
-      "price": 27850.0,
+      "price": 27850,
       "mileage": 58364,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1gtg6fen9k1317728/2019-gmc-canyon-crew-cab-pickup"
@@ -364,7 +364,7 @@
       "model": "Santa Cruz",
       "trim": "Cruz SEL Premium",
       "vin": "5NTJDDAFXNH011229",
-      "price": 28350.0,
+      "price": 28350,
       "mileage": 27711,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5ntjddafxnh011229/2022-hyundai-santa-cruz-crew-cab-pickup"
@@ -375,7 +375,7 @@
       "model": "Santa Cruz",
       "trim": "Cruz SEL",
       "vin": "5NTJBDAE2RH093458",
-      "price": 29350.0,
+      "price": 29350,
       "mileage": 14981,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5ntjbdae2rh093458/2024-hyundai-santa-cruz-crew-cab-pickup"
@@ -386,7 +386,7 @@
       "model": "Tucson Hybrid",
       "trim": "Hybrid N Line",
       "vin": "KM8JFCD1XRU155793",
-      "price": 29350.0,
+      "price": 29350,
       "mileage": 42870,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/km8jfcd1xru155793/2024-hyundai-tucson-hybrid-sport-utility"
@@ -397,7 +397,7 @@
       "model": "Crosstrek",
       "trim": "Limited",
       "vin": "4S4GUHM6XR3812655",
-      "price": 29850.0,
+      "price": 29850,
       "mileage": 10990,
       "drivetrain": "CVT",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/4s4guhm6xr3812655/2024-subaru-crosstrek-sport-utility"
@@ -408,7 +408,7 @@
       "model": "Santa Cruz",
       "trim": "Cruz Limited",
       "vin": "5NTJEDAF6RH091101",
-      "price": 29850.0,
+      "price": 29850,
       "mileage": 26062,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5ntjedaf6rh091101/2024-hyundai-santa-cruz-crew-cab-pickup"
@@ -419,7 +419,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "3KMJBCDE8SE020414",
-      "price": 31350.0,
+      "price": 31350,
       "mileage": 6712,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/3kmjbcde8se020414/2025-hyundai-tucson-sport-utility"
@@ -430,7 +430,7 @@
       "model": "Tucson",
       "trim": "SEL",
       "vin": "5NMJBCDEXSH574923",
-      "price": 31350.0,
+      "price": 31350,
       "mileage": 7326,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmjbcdexsh574923/2025-hyundai-tucson-sport-utility"
@@ -441,7 +441,7 @@
       "model": "Aviator",
       "trim": "Reserve",
       "vin": "5LM5J7XC6LGL32332",
-      "price": 31350.0,
+      "price": 31350,
       "mileage": 101828,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5lm5j7xc6lgl32332/2020-lincoln-aviator-sport-utility"
@@ -452,7 +452,7 @@
       "model": "Palisade",
       "trim": "Calligraphy",
       "vin": "KM8R7DHE3NU373989",
-      "price": 31850.0,
+      "price": 31850,
       "mileage": 96985,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8r7dhe3nu373989/2022-hyundai-palisade-sport-utility"
@@ -463,7 +463,7 @@
       "model": "CR-V",
       "trim": "EX-L",
       "vin": "7FARS4H70PE018041",
-      "price": 32350.0,
+      "price": 32350,
       "mileage": 10005,
       "drivetrain": "CVT",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/7fars4h70pe018041/2023-honda-cr-v-sport-utility"
@@ -474,7 +474,7 @@
       "model": "Tucson",
       "trim": "SEL Convenience",
       "vin": "5NMJCCDEXSH575132",
-      "price": 32350.0,
+      "price": 32350,
       "mileage": 9932,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5nmjccdexsh575132/2025-hyundai-tucson-sport-utility"
@@ -485,7 +485,7 @@
       "model": "Silverado 1500",
       "trim": "1500 LT",
       "vin": "3GCUYDED7MG380615",
-      "price": 32350.0,
+      "price": 32350,
       "mileage": 59784,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/3gcuyded7mg380615/2021-chevrolet-silverado-1500-crew-cab-pickup"
@@ -496,7 +496,7 @@
       "model": "Tucson",
       "trim": "SEL Convenience",
       "vin": "5NMJCCDE3SH454510",
-      "price": 32350.0,
+      "price": 32350,
       "mileage": 6288,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5nmjccde3sh454510/2025-hyundai-tucson-sport-utility"
@@ -507,7 +507,7 @@
       "model": "Santa Cruz",
       "trim": "Cruz SEL Activity",
       "vin": "5NTJCDDE0SH151338",
-      "price": 33350.0,
+      "price": 33350,
       "mileage": 9241,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5ntjcdde0sh151338/2025-hyundai-santa-cruz-crew-cab-pickup"
@@ -518,7 +518,7 @@
       "model": "Frontier",
       "trim": "PRO-4X",
       "vin": "1N6ED1EK1PN654784",
-      "price": 34350.0,
+      "price": 34350,
       "mileage": 42674,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1n6ed1ek1pn654784/2023-nissan-frontier-crew-cab-pickup"
@@ -529,7 +529,7 @@
       "model": "Sportage",
       "trim": "SX-Prestige",
       "vin": "5XYK5CDF2SG291818",
-      "price": 34850.0,
+      "price": 34850,
       "mileage": 16476,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5xyk5cdf2sg291818/2025-kia-sportage-sport-utility"
@@ -540,7 +540,7 @@
       "model": "Palisade",
       "trim": "SEL 7P",
       "vin": "KM8R4DGE0RU651019",
-      "price": 36350.0,
+      "price": 36350,
       "mileage": 36845,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8r4dge0ru651019/2024-hyundai-palisade-sport-utility"
@@ -551,7 +551,7 @@
       "model": "Santa Fe Hybrid",
       "trim": "Fe Hybrid SE",
       "vin": "5NMP1DG19TH078086",
-      "price": 37350.0,
+      "price": 37350,
       "mileage": 7051,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmp1dg19th078086/2026-hyundai-santa-fe-hybrid-sport-utility"
@@ -562,7 +562,7 @@
       "model": "Santa Fe Hybrid",
       "trim": "Fe Hybrid Limited",
       "vin": "5NMP3DG17SH070481",
-      "price": 39350.0,
+      "price": 39350,
       "mileage": 21299,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/5nmp3dg17sh070481/2025-hyundai-santa-fe-hybrid-sport-utility"
@@ -573,7 +573,7 @@
       "model": "Pilot",
       "trim": null,
       "vin": "5FNYG1H42SB013591",
-      "price": 39850.0,
+      "price": 39850,
       "mileage": 42405,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5fnyg1h42sb013591/2025-honda-pilot-sport-utility"
@@ -584,7 +584,7 @@
       "model": "Santa Fe Hybrid",
       "trim": "Fe Hybrid SEL",
       "vin": "5NMP2DG15TH076316",
-      "price": 39850.0,
+      "price": 39850,
       "mileage": 9980,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmp2dg15th076316/2026-hyundai-santa-fe-hybrid-sport-utility"
@@ -595,7 +595,7 @@
       "model": "Palisade",
       "trim": "SE",
       "vin": "KM8RFES28TU059761",
-      "price": 41850.0,
+      "price": 41850,
       "mileage": 7168,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8rfes28tu059761/2026-hyundai-palisade-sport-utility"
@@ -606,7 +606,7 @@
       "model": "Palisade",
       "trim": "SE",
       "vin": "KM8RFES21TU060489",
-      "price": 42850.0,
+      "price": 42850,
       "mileage": 6922,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8rfes21tu060489/2026-hyundai-palisade-sport-utility"
@@ -617,7 +617,7 @@
       "model": "Palisade",
       "trim": "SEL Convenience",
       "vin": "KM8RGES21TU022287",
-      "price": 45850.0,
+      "price": 45850,
       "mileage": 6972,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/km8rges21tu022287/2026-hyundai-palisade-sport-utility"
@@ -628,7 +628,7 @@
       "model": "Santa Fe Hybrid",
       "trim": "Fe Hybrid Limited 6P",
       "vin": "5NMP3DG18TH074461",
-      "price": 47350.0,
+      "price": 47350,
       "mileage": 7210,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmp3dg18th074461/2026-hyundai-santa-fe-hybrid-sport-utility"
@@ -639,7 +639,7 @@
       "model": "Santa Fe Hybrid",
       "trim": "Fe Hybrid Limited 6P",
       "vin": "5NMP3DG19TH078843",
-      "price": 47350.0,
+      "price": 47350,
       "mileage": 7344,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5nmp3dg19th078843/2026-hyundai-santa-fe-hybrid-sport-utility"
@@ -650,7 +650,7 @@
       "model": "Palisade",
       "trim": "Calligraphy",
       "vin": "KM8RMES20TU037839",
-      "price": 55350.0,
+      "price": 55350,
       "mileage": 6487,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/cpo/km8rmes20tu037839/2026-hyundai-palisade-sport-utility"
@@ -661,7 +661,7 @@
       "model": "Outlook",
       "trim": "XR",
       "vin": "5GZER33747J135135",
-      "price": 100349.0,
+      "price": null,
       "mileage": 246714,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/5gzer33747j135135/2007-saturn-outlook-sport-utility"
@@ -672,7 +672,7 @@
       "model": "Escalade ESV",
       "trim": "ESV",
       "vin": "1GYFK66857R376519",
-      "price": 100349.0,
+      "price": null,
       "mileage": 283279,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/1gyfk66857r376519/2007-cadillac-escalade-esv-sport-utility"
@@ -683,7 +683,7 @@
       "model": "Grand Caravan",
       "trim": "Caravan SXT",
       "vin": "2D4GP44LX6R727198",
-      "price": 100349.0,
+      "price": null,
       "mileage": 147838,
       "drivetrain": "Automatic",
       "url": "https://www.stcloudhyundai.com/viewdetails/used/2d4gp44lx6r727198/2006-dodge-grand-caravan-mini-van,-passenger"
