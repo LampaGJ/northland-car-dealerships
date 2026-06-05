@@ -15,6 +15,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "CMS: DealerCarSearch (DCS) platform (site_id=32047, internal_id=21036, confirmed by imagescdn.dealercarsearch.com asset URLs and site_platform=dcs in Tealium data layer). Feed/API checks: DCS public API endpoints (/apiv2/inventory/search, /Handlers/InventoryHandler.ashx) returned errors; DCS renders additional inventory via JavaScript XHR not accessible via static HTML. Inventory count confirmed at 3 vehicles via pagination check (page 2+ returned 0). Vehicle data extracted from compareChecked() JS callback parameters in static HTML: listing ID, price, image URL, year/make/model, plus i10r_optVin, i10r_optMileage, i10r_optDrive elements.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 3,
+    "rebuiltFound": 0,
+    "note": "All 3 DealerCarSearch VDP pages sampled; none disclosed title status. Inventory marked AS-IS. Homepage makes no title claims. Small lot with work/budget trucks; no branded-title evidence but no clean-title assertion either."
+  },
   "inventory": [
     {
       "year": 2005,

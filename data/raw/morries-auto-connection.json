@@ -16,6 +16,12 @@
   "coverage": "partial",
   "method": "html",
   "notes": "CMS: TeamVelocity (secureoffersites.com CDN, accountId=75856, r1DealerId=ZY5KX). Inventory API at websites.api.teamvelocityportal.com returns empty array [] for all GET variants tried (/inventory/search, /Inventory/GetInventory, /api/inventory). TeamVelocity SPA loads inventory via Vue.js from the same origin API. Local proxy at /api/inventory/search also returns []. Page source shows 37 total vehicles but vehicles are rendered by JavaScript. WebFetch captured 20 of 37 vehicles from the first page render. Page 2 fetch returned same 20 records confirming JS rendering limitation. Coverage partial: 20/37 visible vehicles captured. Drivetrain not surfaced in server-rendered HTML.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "TeamVelocity VDPs show Carfax one-owner badge but no explicit title status field; no rebuilt/clean/salvage language found on any sampled listing or homepage; CPO-style inventory suggests clean-title posture but unconfirmed."
+  },
   "inventory": [
     {
       "year": 2025,

@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "embedded-structured-data",
   "notes": "CMS: CarsforsAle.com white-label platform (cdn09.carsforsale.com asset URLs, google-site-verification TfRlc2ZKnHbgG8o0gSUFSam-5Rd-IbQTtQqufCRydVY). Direct site access returns DataDome HTTP 403 (x-datadome header). Homepage and /cars-for-sale accessible via facebookexternalhit/1.1 UA. All 20 Vehicle schema.org JSON-LD entries extracted from /cars-for-sale page. Prices from offers.price field. Mileage not present in JSON-LD or visible HTML (CarsforsAle.com does not embed mileage in structured data). Trim not available in JSON-LD name field.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "6 CarsforsAle VDP pages probed via facebookexternalhit UA bypass; no title-status text found in HTML of any VDP or the /cars-for-sale listing page. CarsforsAle platform does not embed title status in JSON-LD or visible page fields. No sitewide title claims on homepage. Insufficient platform data to determine title posture."
+  },
   "inventory": [
     {
       "year": 2014,

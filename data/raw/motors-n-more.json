@@ -15,78 +15,8 @@
   ],
   "coverage": "full",
   "method": "html",
-  "notes": "DealerCarSearch platform (imagescdn.dealercarsearch.com, dealer ID 8668, 'site_platform':'dcs'). Price and make/model/trim extracted from compareChecked() JS function calls in SRP HTML. Mileage extracted from VDP pages via '{X} miles,' text pattern. 3 SRP pages (57 total vehicles) + 57 VDP pages fetched. Feed/API probes: /api/inventory/search (empty response), /InventoryModule/GetInventoryList (empty response), DCS JSON API (404). DCS SRP does not embed mileage in listing HTML; VDP required.",
+  "notes": "DealerCarSearch platform (imagescdn.dealercarsearch.com, dealer ID 8668, 'site_platform':'dcs'). Price and make/model/trim extracted from compareChecked() JS function calls in SRP HTML. Mileage extracted from VDP pages via '{X} miles,' text pattern. 3 SRP pages (57 total vehicles) + 57 VDP pages fetched. Feed/API probes: /api/inventory/search (empty response), /InventoryModule/GetInventoryList (empty response), DCS JSON API (404). DCS SRP does not embed mileage in listing HTML; VDP required. | Non-vehicle items (portable buildings/sheds) removed in post-processing: 7 dropped.",
   "inventory": [
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Cabin",
-      "trim": "CABIN",
-      "price": 4995,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645124/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Cottage Shed",
-      "trim": "SHED",
-      "price": 3395,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645147/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Garage",
-      "trim": "GARAGE",
-      "price": 8595,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645614/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Lofted Barn",
-      "trim": "SHED",
-      "price": 3795,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645205/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Lofted Barn Cabin",
-      "trim": "CABIN",
-      "price": 5995,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645264/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Lofted Garage",
-      "trim": "GARAGE",
-      "price": 9495,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645509/"
-    },
-    {
-      "year": 2025,
-      "make": "Premier",
-      "model": "Portable Buildings Utility",
-      "trim": "UTILITY",
-      "price": 3495,
-      "mileage": null,
-      "drivetrain": null,
-      "url": "https://motorsnmore.com/vdp/20645535/"
-    },
     {
       "year": 2025,
       "make": "RAM",
@@ -587,5 +517,11 @@
       "drivetrain": "4WD",
       "url": "https://motorsnmore.com/vdp/23943302/"
     }
-  ]
+  ],
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "DealerCarSearch VDPs show CARFAX badges but no title field; homepage has no title claims; 0 rebuilt indicators found across 8 sampled vehicle pages"
+  }
 }

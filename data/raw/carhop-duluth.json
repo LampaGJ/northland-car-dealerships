@@ -11,6 +11,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "Site is Dealer Inspire platform (confirmed by footer copyright 'Advanced Automotive Dealer Websites by Dealer Inspire'). Dedicated Duluth domain carhopofduluth.com returns 100 vehicles via /used-vehicles/?view=all. The corporate carhop.com/inventory/?location=duluth-mn also returns 100 matching vehicles. Homepage briefly showed '16 Pre-Owned Vehicles' count but the full inventory page yields 100, consistent between both domains. Prices are shown (buy-here-pay-here but not hidden). All 100 captured here. Drivetrain derived from VIN-slug where explicit.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "5 VDPs and the dealer homepage checked; no title status language found anywhere — CarHop does not disclose title status on its Dealer Inspire platform listings and makes no sitewide clean-title claim."
+  },
   "inventory": [
     {"year": 2014, "make": "Ford", "model": "Edge", "trim": "SEL FWD", "price": 14795, "mileage": 92878, "drivetrain": "FWD", "url": "https://www.carhopofduluth.com/inventory/used-2014-ford-edge-sel-fwd-front-wheel-drive-4d-suv-2fmdk3jc9ebb18510/"},
     {"year": 2013, "make": "Honda", "model": "Pilot", "trim": null, "price": 14295, "mileage": 171976, "drivetrain": "4WD", "url": "https://www.carhopofduluth.com/inventory/used-2013-honda-pilot-four-wheel-drive-4d-suv-5fnyf4h24db006065/"},

@@ -28,6 +28,7 @@ Used/pre-owned inventory only — new vehicles at franchise dealers are excluded
 - `coverage: full` — complete online inventory captured; `partial` — sample (site blocked or JS-rendered); `summary-only` — dealer operational but no online inventory found
 - `method` records how each dealer's data was obtained (native JSON endpoint, RSS/feed, sitemap, HTML, or aggregator fallback)
 - Prices and mileage are `null` when the dealer didn't list them — never estimated
+- `titleAudit` (independents only): sampled title-status audit — `rebuilt-specialist` / `mixed` / `clean-advertised` / `unknown`. Most listing platforms don't disclose title status, so `unknown` is common; vehicles individually confirmed rebuilt carry `titleStatus: "rebuilt"` and are flagged Ⓡ in the dashboard
 
 ## Rebuilding
 

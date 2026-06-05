@@ -267,5 +267,11 @@
       "drivetrain": "4WD",
       "url": "https://www.lakesareaautosolutions.com/vdp/23695299/"
     }
-  ]
+  ],
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "DealerCarSearch VDPs show CARFAX links but no title status field; homepage has no title claims; 0 rebuilt indicators found across 8 sampled pages"
+  }
 }

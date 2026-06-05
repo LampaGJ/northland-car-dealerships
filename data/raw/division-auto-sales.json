@@ -16,6 +16,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "Site runs on Dealer Inspire (WordPress-based) with Cloudflare bot protection blocking all direct HTTP access. Inventory sourced from AutosToday aggregator __NEXT_DATA__ JSON payload (dealer ID 11040380). AutosToday caps at 20 unique vehicles; confirmed total is 44. Remaining 24 vehicles not accessible without JS execution.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 4,
+    "rebuiltFound": 0,
+    "note": "DealerInspire VDP paths redirect to inventory list (Cloudflare bot protection); AutosToday VDP URLs 404; no individual vehicle detail pages accessible, no title data found."
+  },
   "inventory": [
     {
       "year": 2017,

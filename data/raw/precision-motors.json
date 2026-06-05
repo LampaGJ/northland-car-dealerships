@@ -16,6 +16,12 @@
   "coverage": "partial",
   "method": "html",
   "notes": "SCRAPE JUSTIFICATION MEMO: CMS is carsforsale.com platform (identified by cdn09.carsforsale.com asset CDN, GTM-NZQT6FM tag, b-code/c-code URL patterns in sitemap). DataDome anti-bot is deployed on ALL non-JS requests including curl, wget, and Googlebot UA \u2014 every probe returned HTTP 403 with x-datadome: protected header. Probes attempted: (1) /sitemap.xml \u2014 accessible, confirmed platform and returned category-page URLs only, no individual VDP URLs; (2) /robots.txt \u2014 accessible, no feed disallow entries found; (3) /rss-usedinventory.aspx, /feed, /feed.xml, /inventory.json \u2014 all 403; (4) /api/inventory \u2014 403; (5) carsforsale.com /api/inventory?dealerId=666422 \u2014 bot-challenge page; (6) carsforsale.com /used-car-dealer/precision-motors-hibbing-mn-d666422 \u2014 bot-challenge page; (7) AutoTrader dealer search \u2014 not listed; (8) One successful HTML render was captured via curl with valid DataDome session cookie before cookie expiry, yielding 4 JSON-LD Vehicle records from schema.org markup on /cars-for-sale. Session cookie expired before full inventory could be enumerated. Web search indicates approximately 7 vehicles total. Inventory here represents 4 vehicles from that single successful render; mileage not present in JSON-LD.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 4,
+    "rebuiltFound": 0,
+    "note": "All 4 CarsforsAle VDP pages probed via facebookexternalhit UA bypass; no title-status text found in HTML. CarsforsAle platform does not surface title status in listing fields or JSON-LD. DataDome blocks most probes; facebookexternalhit bypass yielded HTML but no title disclosure. Insufficient data to determine title posture."
+  },
   "inventory": [
     {
       "year": 2017,

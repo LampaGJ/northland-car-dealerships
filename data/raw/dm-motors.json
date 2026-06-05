@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "Site runs on DriveWebsite/DDS platform (ASP.NET MVC, Cloudflare CDN, dealer lot key 162294). REST API probes (/inventory/getinventory, /Ajax/GetSearchFacets) returned 404 or 411. Inventory extracted from HTML listing at /used-inventory via data-vehicledescription and VIN attributes in CustomerToolbarVehicleData div elements. Mileage extracted from individual detail pages via data-mileage attribute. Prices all show 0 (BHPH pricing by appointment only).",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "DDS/DriveWebsite platform does not expose a Title field in VDP specs; BHPH lot with no price disclosures; no rebuilt or clean-title language anywhere on site or listings; title status indeterminate."
+  },
   "inventory": [
     {
       "year": 2015,

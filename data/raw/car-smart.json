@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "WordPress site (wp-json/ present, REST API blocked for public queries). Platform is autodealersdigital.com (dealer ID 105296, CDN images from cdn-thumbor.autodealersdigital.com). Inventory extracted from HTML listing page /all-inventory/ (9 vehicle IDs) then VIN and price confirmed from detail pages via data-priceprimary and dollar-sign span. Mileage not exposed in HTML data attributes on these pages.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "autodealersdigital VDP pages show no 'Title:' field (unlike sister rebuilt-specialist New Duluth Auto on same platform); no rebuilt language on site or any listing; prices suggest clean retail stock but no explicit clean-title claim found."
+  },
   "inventory": [
     {
       "year": 2018,

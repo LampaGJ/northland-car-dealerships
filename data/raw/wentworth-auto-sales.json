@@ -11,6 +11,12 @@
   "coverage": "full",
   "method": "embedded-structured-data",
   "notes": "CMS fingerprint: The original domain wentworth-autosales.com is a GoDaddy parked/squatted domain (redirects all paths to /lander; sitemap.xml lists only /lander). The dealer's actual website is wentworthauto.us, confirmed by X-Powered-By: Next.js and x-nextjs-prerender response headers (Next.js App Router, nginx/1.24.0 on Ubuntu). A second domain wentworthautosalesllc.com runs Squarespace but is password-protected (private site). Feed/API discovery: No /wp-json/, /jsonapi/, /feed, RSS, Atom, or OpenAPI endpoint exists. /api/inventory and /api/vehicles return 404. No embedded JSON-LD on inventory page. The inventory page uses React Suspense with a client component that loads data at runtime; RSC payload ships only a loading skeleton. However, the static data module (module 3172) is bundled in the Next.js static chunk /_next/static/chunks/172-e2676d50b919be58.js, which embeds the entire inventory array as a JavaScript literal (n=[...]) exported as U2. All 14 vehicles were extracted directly from this bundle — this is the data model upstream of the render. No drivetrain field is present in the spec; VINs and stock numbers are included. Phone in bundle is (715) 515-7196 (differs from the 715-529-0035 listed on external directories; both recorded). Extraction date: 2026-06-05.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "6 wentworthauto.us VDP pages sampled (Corvette Z06, 1961 Impala, 1966 Mustang, Pontiac Solstice, 2006 Mustang, Dodge RAM 1500 RT); none disclosed title status. Homepage describes 'curated collection of America's finest classic and muscle cars' with no title claims. The RAM 1500 RT listing mentions 'rebuilt front end and new headlights' as a mechanical/cosmetic description, not a title designation. Classic/collector car titles often carry bill-of-sale or MSO arrangements; no branded-title indicators found but not confirmed clean either."
+  },
   "inventory": [
     {
       "year": 2008,

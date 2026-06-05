@@ -177,5 +177,11 @@
       "mileage": 16927,
       "drivetrain": "AWD"
     }
-  ]
+  ],
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "DealerCarSearch VDPs include CARFAX links but no title status field; no sitewide title claims found; 0 rebuilt indicators across 8 sampled pages (Audi A3, Equinox, Chrysler 300, F-Escape, JX35, Grand Cherokee, Wrangler, Rogue)"
+  }
 }

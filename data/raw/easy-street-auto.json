@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "CMS: DealerCarSearch (dealer ID 25376, confirmed via imagescdn.dealercarsearch.com/DealerImages/25376/ and ASP.NET/IIS headers). Feed probes: /newandusedcars?clearall=1 returned the homepage (zero inventory hits); correct inventory URL is /inventory?clearall=1 which yielded 5 vehicles. Uses i17r template with lblPriceH2 price span. Two of 5 vehicles show no price (Dodge Durango, Jeep Gladiator) \u2014 listed as null per schema rules. 5-vehicle lot is consistent with a small-batch specialty dealer.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "All 5 VDPs checked (full inventory); no title status disclosed on any listing and no sitewide claim found — cannot determine title status without direct contact or Carfax pull."
+  },
   "inventory": [
     {
       "year": 2017,

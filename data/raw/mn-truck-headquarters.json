@@ -16,6 +16,12 @@
   "coverage": "partial",
   "method": "html",
   "notes": "CMS: DealerInspire (retail.websites.dealerinspire.com). Cloudflare blocks all direct curl requests (403 with x-cars-signature-v1 header). Inventory extracted via WebFetch rendering proxy from /inventory/. First page showed 100 vehicles total; second page fetch returned same 100 vehicles confirming 100-vehicle inventory. No JSON endpoint accessible (/api/inventory returns 403, sitemap blocked). Method: html via WebFetch. Affiliated with PAW (Public Auto Wholesale) \u2014 VIN cross-check performed.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "DealerInspire VDPs render full inventory list, not individual vehicle detail; no title field disclosed on any page and no sitewide clean/rebuilt claims found on homepage."
+  },
   "inventory": [
     {
       "year": 2021,

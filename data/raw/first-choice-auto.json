@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "No separate website distinguishing '1st Choice Auto' from 'Choice Auto' at this address — both names appear in CarGurus and Cars.com for the same 2700 2nd St S location. Inventory pulled from CarGurus dealer page sp341634 and Cars.com dealer 5354966 cross-referenced. CarGurus reports 40 total vehicles; 40 unique listings captured across two pages. Dealer website choiceauto.net returned 403. No native feed or JSON API found.",
+  "titleAudit": {
+    "status": "clean-advertised",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "All 8 CarGurus listings sampled explicitly show 'Clean title / No issues reported' in the vehicle History section; no rebuilt or salvage titles found."
+  },
   "inventory": [
     {"year": 2016, "make": "RAM", "model": "1500", "trim": "Big Horn Quad Cab 4WD", "price": 16990, "mileage": 94153, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/431664384"},
     {"year": 2019, "make": "RAM", "model": "1500", "trim": "Classic Express Crew Cab 4WD", "price": 25990, "mileage": 67196, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/436989193"},

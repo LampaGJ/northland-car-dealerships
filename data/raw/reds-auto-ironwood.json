@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "WordPress (Divi 4.27, Yoast SEO) site embeds AutoFind.com iframe (dealer ID 6227, cdn.getauto.com). WP REST API /wp-json/wp/v2/ has no active vehicle CPT. Inventory extracted by paginating all 4 pages of the AutoFind iframe listing endpoint (https://www.autofind.com/dealer/listing/6227?page=N), then fetching each vehicle detail page for JSON-LD schema.org/Car data (mileage, trim, drivetrain, price). One 2026 Ford F-250 Super Duty (VIN 1FT7W2BN8TEC64575) has no price or mileage on detail page - likely incoming/not yet priced. Operates two lots: main at 1231 E Cloverland Dr and budget lot at 1333 E Cloverland Dr; both share the AutoFind feed.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 7,
+    "rebuiltFound": 0,
+    "note": "7 AutoFind VDP pages sampled (including budget/high-mileage vehicles); none disclosed title status in any field. Homepage claims 'FINEST QUALITY' stock but no explicit clean-title assertion. CarFax links present on VDPs but not resolved. No evidence of rebuilt/salvage, no evidence of clean-title guarantee."
+  },
   "inventory": [
     {
       "year": 2026,

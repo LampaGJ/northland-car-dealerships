@@ -57,6 +57,8 @@
     padding: 18px;
   }
   .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .charts .panel { min-width: 0; }     /* grid blowout guard */
+  .charts svg { max-width: 100%; }
   @media (max-width: 980px) { .charts { grid-template-columns: 1fr; } }
   .chart-title { font-weight: 600; margin-bottom: 8px; }
   .chart-note { color: var(--muted); font-size: 12px; margin-top: 6px; }
@@ -143,6 +145,31 @@
   }
   footer { color: var(--muted); font-size: 12px; margin-top: 34px; }
   footer ul { margin: 6px 0 0; padding-left: 18px; }
+
+  .preset {
+    font: inherit; padding: 6px 12px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line); background: #fff; color: var(--ink);
+  }
+  .preset.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .rflag { color: var(--red); font-weight: 700; cursor: help; }
+
+  /* Mobile */
+  @media (max-width: 700px) {
+    header { padding: 14px 16px 12px; }
+    header h1 { font-size: 17px; }
+    main { padding: 12px 12px 40px; }
+    .stats { gap: 8px; }
+    .stat { min-width: calc(50% - 4px); flex: 1 1 calc(50% - 4px); padding: 9px 12px; }
+    .stat .num { font-size: 17px; }
+    .charts { grid-template-columns: 1fr; }
+    .filters { position: static; gap: 8px; }
+    .filters input[type="search"] { width: 100%; }
+    .filters select { max-width: 130px; }
+    .filters .count { flex-basis: 100%; margin-left: 0; }
+    .cards { grid-template-columns: 1fr; }
+    table { font-size: 12px; }
+    tbody td, thead th { padding: 6px 8px; }
+  }
 </style>
 </head>
 <body>
@@ -181,12 +208,10 @@
     </select></label>
     <label>$ <input type="number" id="f-pmin" placeholder="min" step="1000"> – <input type="number" id="f-pmax" placeholder="max" step="1000"></label>
     <label>Max mi <input type="number" id="f-mmax" placeholder="any" step="10000" style="width:90px"></label>
+    <button class="preset" id="f-family" title="Minivans and 3-row SUVs that fit three child seats: sliding doors or captain's-chair walk-through to row 3">👶 3-kid friendly</button>
     <button id="f-clear">Clear</button>
     <span class="count" id="f-count"></span>
   </div>
-
-  <h2>Dealers <span style="color:var(--muted);font-weight:400;font-size:13px">(click a card to filter the table)</span></h2>
-  <div class="cards" id="cards"></div>
 
   <h2>Vehicles</h2>
   <div class="tablewrap">
@@ -196,6 +221,9 @@
     </table>
     <div class="morebar" id="morebar" hidden><button id="more">Show more</button></div>
   </div>
+
+  <h2>Dealers <span style="color:var(--muted);font-weight:400;font-size:13px">(click a card to filter the table)</span></h2>
+  <div class="cards" id="cards"></div>
 
   <footer id="foot"></footer>
 </main>
@@ -230,8 +258,16 @@ const statsEl = document.getElementById('stats');
 });
 
 // ---------- filter state ----------
-const F = { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null };
+const F = { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null, family: false };
 let sortKey = 'price', sortDir = 1, shown = 200;
+
+// Minivans (sliding doors, easy 3-across + walk-through) and 3-row SUVs with
+// available captain's chairs / adult-usable third rows. Captain's-chair config
+// must still be verified per listing.
+const FAMILY_RX = /odyssey|sienna|pacifica|carnival|grand caravan|town & country|town and country|sedona|quest|suburban|yukon|tahoe|expedition|telluride|palisade|traverse|atlas(?! cross)|pilot|durango|explorer|acadia|highlander|grand highlander|wagoneer|sequoia|armada|cx-9|cx-90|ascent|aviator|enclave/i;
+const isFamily = v => FAMILY_RX.test(v.model || '');
+const isRebuilt = v => v.titleStatus === 'rebuilt' ||
+  (v.titleStatus !== 'clean' && dealerBySlug.get(v.slug)?.titleAudit?.status === 'rebuilt-specialist');
 
 function filtered() {
   const q = F.search.toLowerCase();
@@ -243,7 +279,8 @@ function filtered() {
     (!F.type || v.dtype === F.type) &&
     (F.pmin == null || (v.price != null && v.price >= F.pmin)) &&
     (F.pmax == null || (v.price != null && v.price <= F.pmax)) &&
-    (F.mmax == null || (v.mileage != null && v.mileage <= F.mmax))
+    (F.mmax == null || (v.mileage != null && v.mileage <= F.mmax)) &&
+    (!F.family || isFamily(v))
   );
 }
 
@@ -318,6 +355,8 @@ function renderCards() {
         <div class="badges">
           <span class="badge ${d.type}">${d.type}</span>
           <span class="badge ${d.coverage}">${d.coverage === 'summary-only' ? 'no online stock' : d.coverage + ' coverage'}</span>
+          ${d.titleAudit?.status === 'rebuilt-specialist' ? '<span class="badge summary-only" title="' + (d.titleAudit.note || '') + '">rebuilt titles</span>' : ''}
+          ${d.titleAudit?.status === 'mixed' ? '<span class="badge partial" title="' + (d.titleAudit.note || '') + '">some rebuilt titles</span>' : ''}
         </div>
         <div class="chips">${(d.specialties || []).map(s => `<span class="chip">${s}</span>`).join('')}</div>
         <div class="meta"><b>${d.inventory.length}</b> vehicles captured · ${range}</div>
@@ -361,7 +400,7 @@ function renderTable(data) {
     <tr>
       <td>${v.year ?? '—'}</td><td>${v.make ?? '—'}</td><td>${v.model ?? '—'}</td>
       <td class="mut">${v.trim ?? ''}</td>
-      <td class="num">${v.price != null ? fmt$(v.price) : '<span class="mut">call</span>'}</td>
+      <td class="num">${v.price != null ? fmt$(v.price) : '<span class="mut">call</span>'}${isRebuilt(v) ? ' <span class="rflag" title="rebuilt/branded title — not comparable to clean-title pricing">Ⓡ</span>' : ''}</td>
       <td class="num">${fmtMi(v.mileage)}</td>
       <td class="mut">${v.drivetrain ?? ''}</td>
       <td>${v.dealer}</td><td class="mut">${v.city}, ${v.state}</td>
@@ -383,6 +422,10 @@ function render() {
   const data = filtered();
   renderHead();
   renderTable(data);
+  // clear both chart containers BEFORE measuring widths — otherwise the other
+  // chart's old (wider) SVG props the layout open and clientWidth never shrinks
+  document.getElementById('histogram').innerHTML = '';
+  document.getElementById('bydealer').innerHTML = '';
   drawHistogram(data);
   drawByDealer(data);
   document.querySelectorAll('.dcard').forEach(c => c.classList.toggle('active', c.dataset.slug === F.dealer));
@@ -407,12 +450,22 @@ on('f-type', 'change', e => setFilter('type', e.target.value));
 on('f-pmin', 'change', e => setFilter('pmin', e.target.value === '' ? null : +e.target.value));
 on('f-pmax', 'change', e => setFilter('pmax', e.target.value === '' ? null : +e.target.value));
 on('f-mmax', 'change', e => setFilter('mmax', e.target.value === '' ? null : +e.target.value));
+on('f-family', 'click', () => {
+  F.family = !F.family;
+  document.getElementById('f-family').classList.toggle('on', F.family);
+  shown = 200; render();
+});
 on('f-clear', 'click', () => {
-  Object.assign(F, { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null });
+  Object.assign(F, { search: '', region: '', make: '', dealer: '', type: '', pmin: null, pmax: null, mmax: null, family: false });
   ['f-search', 'f-region', 'f-make', 'f-dealer', 'f-type', 'f-pmin', 'f-pmax', 'f-mmax'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('f-family').classList.remove('on');
   shown = 200; render();
 });
 on('more', 'click', () => { shown += 400; render(); });
+
+// redraw charts on resize/orientation change (mobile)
+let rsT;
+window.addEventListener('resize', () => { clearTimeout(rsT); rsT = setTimeout(render, 200); });
 
 document.getElementById('foot').innerHTML =
   `<b>Data notes</b><ul>${DATA.meta.notes.map(n => `<li>${n}</li>`).join('')}</ul>`;

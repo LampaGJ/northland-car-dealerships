@@ -38,6 +38,7 @@ const dealers = files.map(f => {
     price: typeof v.price === 'number' && v.price > 0 ? v.price : null, // some APIs encode "call for price" as 0
     mileage: typeof v.mileage === 'number' ? v.mileage : null,
     drivetrain: v.drivetrain ?? null,
+    titleStatus: v.titleStatus ?? null, // from title-status audit; null = not individually sampled
     url: v.url ?? null,
   }));
   return d;

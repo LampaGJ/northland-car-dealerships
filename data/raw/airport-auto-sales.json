@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "html",
   "notes": "CMS fingerprint: airportautos.com is a static HTML site with no inventory management system — no API, no JSON-LD, no feed, no sitemap, no robots.txt Sitemap: directive. All paths beyond homepage and map.html return 404. A second domain airport-auto-sales.com is built on Wix (confirmed by static.wixstatic.com asset CDN) and shows an inventory listing page — however, this site uses a Florida phone number (386-437-2403) suggesting it may be a different business or an outdated mirror. The airportautos.com homepage mentions a 'classic cars page' but the link does not resolve. All 14 vehicles below are from the airport-auto-sales.com Wix inventory listing page. Prices and mileage are almost entirely absent — the site displays photo tiles with minimal metadata. Only one vehicle shows a price. Coverage is partial: the listing appears current (Wix site) but data completeness is very low.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 1,
+    "rebuiltFound": 0,
+    "note": "Inventory is a single Wix tile-gallery page with no individual VDPs; airportautos.com homepage also checked — neither site discloses title status for any vehicle."
+  },
   "inventory": [
     {"year": 1996, "make": "Volkswagen", "model": "Cabrio", "trim": null, "price": null, "mileage": null, "drivetrain": null, "url": "https://www.airport-auto-sales.com/inventory-listing"},
     {"year": 2002, "make": "Chevrolet", "model": "Tahoe", "trim": null, "price": null, "mileage": null, "drivetrain": null, "url": "https://www.airport-auto-sales.com/inventory-listing"},

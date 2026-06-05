@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "Website autobahnsalesandservice.com is protected by Cloudflare managed challenge (HTTP 403 with cf-mitigated: challenge header) on all paths including the homepage — no direct access was possible. Fell back to CarGurus dealer page (cargurus.com/Cars/m-Autobahn-Sales-Service-LLC-sp444467) which showed 34 vehicles total. Two sort-order queries extracted 30 distinct vehicles; 4 additional vehicles were identified from the mileage-sort pass (2013 Jeep Wrangler, 2009 Nissan Rogue, 2010 Mercedes C300, 2013 Land Rover Range Rover Evoque, 2017 Subaru Outback, 2014 BMW 328i xDrive). Final deduplicated count is 30 unique vehicles confirmed from CarGurus. Remaining 4 of the 34 were not recovered due to pagination truncation across multiple CarGurus queries. Several vehicles have no price listed on CarGurus. Scrape-justification: direct site blocked by Cloudflare; /inventory/ path also 403; no XML sitemap accessible; robots.txt inaccessible; no JSON-LD detectable; no API endpoint reachable. CarGurus is the deepest accessible source.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 0,
+    "rebuiltFound": 0,
+    "note": "Direct site blocked by Cloudflare (HTTP 403); CarGurus dealer page sp444467 shows 34 listings but no title status on any listing card; individual CarGurus listing URLs return HTTP 404 (listings rotated out) — no title data reachable."
+  },
   "inventory": [
     {"year": 2018, "make": "Chevrolet", "model": "Camaro", "trim": "1LT Coupe RWD", "price": 19995, "mileage": 29222, "drivetrain": "RWD", "url": "https://www.cargurus.com/Cars/new/nl_new_left_nav_new_listing_overview_d-listing/444024917"},
     {"year": 2013, "make": "Jeep", "model": "Wrangler", "trim": null, "price": 20995, "mileage": 77870, "drivetrain": "4WD", "url": "https://www.cargurus.com/Cars/m-Autobahn-Sales-Service-LLC-sp444467"},

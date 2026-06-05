@@ -7,34 +7,267 @@
   "state": "MN",
   "phone": "320-333-1752",
   "website": "https://www.midwesttrucks371.com",
-  "specialties": ["4WD pickup trucks", "heavy-duty trucks", "full-size SUVs", "work trucks"],
+  "specialties": [
+    "4WD pickup trucks",
+    "heavy-duty trucks",
+    "full-size SUVs",
+    "work trucks"
+  ],
   "coverage": "partial",
   "method": "aggregator",
   "notes": "Site returns HTTP 403 on all pages including /cars-for-sale and /pickup-for-sale. URL pattern (/cars-for-sale, /pickup-for-sale-b100006) matches Carsforsale.com hosted platform. CarGurus dealer page (cargurus.com/Cars/m-Midwest-Trucks-Motorsports-sp441100) was accessible and returned 34 total vehicles; 24 were fully detailed in the response, 10 were truncated. All 24 extracted vehicles are street-legal cars/trucks/SUVs. ATVs, snowmobiles, motorcycles, and trailers were not present in the CarGurus listing. Inventory below represents 24 of ~34 confirmed vehicles.",
   "inventory": [
-    {"year": 2008, "make": "Ford", "model": "F-150", "trim": "XLT LB 4WD", "price": 5995, "mileage": 182832, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/446176424"},
-    {"year": 2013, "make": "Ford", "model": "Taurus", "trim": "Police Interceptor AWD", "price": 8995, "mileage": 84780, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/447086518"},
-    {"year": 2014, "make": "Nissan", "model": "Armada", "trim": "Platinum 4WD", "price": 8995, "mileage": 162083, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/437652229"},
-    {"year": 2006, "make": "Chevrolet", "model": "Avalanche", "trim": "1500 LT 4WD", "price": 7995, "mileage": 136496, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/447644924"},
-    {"year": 2013, "make": "Ford", "model": "Edge", "trim": "SEL AWD", "price": 7995, "mileage": 156342, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/446028307"},
-    {"year": 2017, "make": "Ford", "model": "Escape", "trim": "Titanium AWD", "price": 10995, "mileage": 131366, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/444921233"},
-    {"year": 2015, "make": "GMC", "model": "Yukon XL", "trim": "Denali 4WD", "price": 14995, "mileage": 173055, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/446028309"},
-    {"year": 2019, "make": "Ford", "model": "Explorer", "trim": "XLT AWD", "price": 18995, "mileage": 105045, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/446943701"},
-    {"year": 2021, "make": "Ford", "model": "Explorer", "trim": "XLT AWD", "price": 21995, "mileage": 92745, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/432017947"},
-    {"year": 2018, "make": "Ford", "model": "F-150", "trim": "Lariat SuperCrew 4WD", "price": 21995, "mileage": 155559, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/445246387"},
-    {"year": 2018, "make": "GMC", "model": "Sierra 1500", "trim": "SLE Crew Cab 4WD", "price": 21995, "mileage": 139360, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/446060440"},
-    {"year": 2020, "make": "Chevrolet", "model": "Silverado 2500HD", "trim": "Work Truck Crew Cab 4WD", "price": 21995, "mileage": 210940, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/442627269"},
-    {"year": 2017, "make": "RAM", "model": "1500", "trim": "Big Horn Crew Cab 4WD", "price": 23995, "mileage": 84513, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/449511131"},
-    {"year": 2019, "make": "Chevrolet", "model": "Silverado 2500HD", "trim": "LT Crew Cab 4WD", "price": 23995, "mileage": 153574, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/445529760"},
-    {"year": 2019, "make": "Chevrolet", "model": "Silverado 2500HD", "trim": "Work Truck Double Cab LB 4WD", "price": 23995, "mileage": 153467, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/442534778"},
-    {"year": 2019, "make": "Chevrolet", "model": "Tahoe", "trim": "Premier 4WD", "price": 28995, "mileage": 110234, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/441526200"},
-    {"year": 2018, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT Z71 Crew Cab 4WD", "price": 29995, "mileage": 83461, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/441347889"},
-    {"year": 2020, "make": "Ford", "model": "F-150", "trim": "XL SuperCab 4WD", "price": 29995, "mileage": 14919, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/447086517"},
-    {"year": 2013, "make": "GMC", "model": "Sierra 2500HD", "trim": "SLE LB 4WD", "price": null, "mileage": 90000, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/449624678"},
-    {"year": 2012, "make": "GMC", "model": "Yukon XL", "trim": "Denali 4WD", "price": null, "mileage": 151000, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/449511130"},
-    {"year": 2017, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT Z71 Crew Cab 4WD", "price": null, "mileage": 117000, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/447521107"},
-    {"year": 2005, "make": "Chevrolet", "model": "Silverado 1500", "trim": "Z71 Crew Cab 4WD", "price": null, "mileage": 68000, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/445005717"},
-    {"year": 2015, "make": "Chevrolet", "model": "Silverado 2500HD", "trim": "LTZ Crew Cab 4WD", "price": null, "mileage": 120000, "drivetrain": "4WD", "url": "https://www.cargurus.com/details/449624679"},
-    {"year": 2017, "make": "Ford", "model": "Escape", "trim": "Titanium AWD", "price": null, "mileage": 126000, "drivetrain": "AWD", "url": "https://www.cargurus.com/details/445911646"}
-  ]
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT LB 4WD",
+      "price": 5995,
+      "mileage": 182832,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/446176424",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Taurus",
+      "trim": "Police Interceptor AWD",
+      "price": 8995,
+      "mileage": 84780,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/447086518"
+    },
+    {
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Armada",
+      "trim": "Platinum 4WD",
+      "price": 8995,
+      "mileage": 162083,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/437652229"
+    },
+    {
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Avalanche",
+      "trim": "1500 LT 4WD",
+      "price": 7995,
+      "mileage": 136496,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/447644924",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2013,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL AWD",
+      "price": 7995,
+      "mileage": 156342,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/446028307"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium AWD",
+      "price": 10995,
+      "mileage": 131366,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/444921233"
+    },
+    {
+      "year": 2015,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali 4WD",
+      "price": 14995,
+      "mileage": 173055,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/446028309",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT AWD",
+      "price": 18995,
+      "mileage": 105045,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/446943701"
+    },
+    {
+      "year": 2021,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "XLT AWD",
+      "price": 21995,
+      "mileage": 92745,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/432017947"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat SuperCrew 4WD",
+      "price": 21995,
+      "mileage": 155559,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/445246387",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE Crew Cab 4WD",
+      "price": 21995,
+      "mileage": 139360,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/446060440"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Work Truck Crew Cab 4WD",
+      "price": 21995,
+      "mileage": 210940,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/442627269"
+    },
+    {
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Big Horn Crew Cab 4WD",
+      "price": 23995,
+      "mileage": 84513,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/449511131"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT Crew Cab 4WD",
+      "price": 23995,
+      "mileage": 153574,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/445529760"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Work Truck Double Cab LB 4WD",
+      "price": 23995,
+      "mileage": 153467,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/442534778"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "Premier 4WD",
+      "price": 28995,
+      "mileage": 110234,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/441526200"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Z71 Crew Cab 4WD",
+      "price": 29995,
+      "mileage": 83461,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/441347889",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL SuperCab 4WD",
+      "price": 29995,
+      "mileage": 14919,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/447086517"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "trim": "SLE LB 4WD",
+      "price": null,
+      "mileage": 90000,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/449624678"
+    },
+    {
+      "year": 2012,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "trim": "Denali 4WD",
+      "price": null,
+      "mileage": 151000,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/449511130",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT Z71 Crew Cab 4WD",
+      "price": null,
+      "mileage": 117000,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/447521107"
+    },
+    {
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Z71 Crew Cab 4WD",
+      "price": null,
+      "mileage": 68000,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/445005717"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LTZ Crew Cab 4WD",
+      "price": null,
+      "mileage": 120000,
+      "drivetrain": "4WD",
+      "url": "https://www.cargurus.com/details/449624679"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Titanium AWD",
+      "price": null,
+      "mileage": 126000,
+      "drivetrain": "AWD",
+      "url": "https://www.cargurus.com/details/445911646"
+    }
+  ],
+  "titleAudit": {
+    "status": "clean-advertised",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "CarGurus VDPs (dealer site 403s) all show 'Clean title. No issues reported.' across 8 sampled listings including 2008 F-150, 2006 Avalanche, 2015 Yukon XL, 2018 F-150, 2018 Silverado, 2012 Yukon XL; 0 rebuilt found"
+  }
 }

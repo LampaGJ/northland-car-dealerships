@@ -257,5 +257,11 @@
       "mileage": 183955,
       "drivetrain": "4WD"
     }
-  ]
+  ],
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 0,
+    "rebuiltFound": 0,
+    "note": "Site TLS cert invalid (cert is for dealerwebsite.com); VDPs inaccessible for direct sampling; web search shows site meta title 'clean and reliable used cars'; 'wholesale lot' refers to high-mileage dealership trade-ins, not branded titles per about page description; no rebuilt/salvage evidence found via web search or aggregators"
+  }
 }

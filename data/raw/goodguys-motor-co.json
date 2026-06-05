@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "CMS: DealerCarSearch (site_id=24338, dealer_id=2585). Inventory listing HTML fully server-rendered. 49 vehicles across 2 pages fetched from /newandusedcars. Prices and mileage extracted from individual VDP pages via /vdp/{id}/. LumEx plugin is payment calculator only, not inventory. DCS JSON API (/VehicleData/GetVehiclesByDealer) returned 302 to HTML shell. Drivetrain inferred from VIN prefix and trim string.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "DealerCarSearch VDPs show Carfax snapshot badge (1-owner noted) but no explicit title field; no rebuilt/clean/salvage language found on any sampled listing or homepage."
+  },
   "inventory": [
     {
       "year": 2017,

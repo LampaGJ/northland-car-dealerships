@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "CMS: DealerCarSearch (dealer ID 5361, confirmed via imagescdn.dealercarsearch.com/DealerImages/5361/ in source and ASP.NET/IIS headers). Feed probes: /api/inventory 200 empty, /inventory/getinventory and /Home/GetInventory returned 302; no JSON API accessible. Embedded structured data: no JSON-LD. Extracted from /newandusedcars?clearall=1 HTML using i13r template data attributes (data-inventory-id, alt text, i13r_optMileage/Drive, price-price span). One boat (2012 Lund 1675) excluded from inventory count as non-automotive.",
+  "titleAudit": {
+    "status": "mixed",
+    "sampled": 7,
+    "rebuiltFound": 4,
+    "note": "4 of 7 VDPs explicitly state 'THIS VEHICLE HAS A DAMAGE DISCLOSED TITLE' (2019 HR-V, 2018 Rogue Sport, 2015 Armada, 2013 Rogue); 1 VDP states 'Title Status: Clean' (2012 F-350); 2 VDPs have no disclosure. No sitewide clean-title claim."
+  },
   "inventory": [
     {
       "year": 2023,
@@ -85,7 +91,8 @@
       "price": 34995,
       "mileage": 64316,
       "drivetrain": "4WD",
-      "url": "https://duluthmotorsports.com/vdp/23802842/Used-2012-Ford-F350-SD-Lariat-Crew-Cab-Long-Bed-DRW-4WD-for-sale-in-Duluth-MN-55811"
+      "url": "https://duluthmotorsports.com/vdp/23802842/Used-2012-Ford-F350-SD-Lariat-Crew-Cab-Long-Bed-DRW-4WD-for-sale-in-Duluth-MN-55811",
+      "titleStatus": "clean"
     },
     {
       "year": 2001,
@@ -125,7 +132,8 @@
       "price": 14995,
       "mileage": 84930,
       "drivetrain": "4WD",
-      "url": "https://duluthmotorsports.com/vdp/23943532/Used-2019-Honda-HRV-LX-AWD-for-sale-in-Duluth-MN-55811"
+      "url": "https://duluthmotorsports.com/vdp/23943532/Used-2019-Honda-HRV-LX-AWD-for-sale-in-Duluth-MN-55811",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2012,
@@ -145,7 +153,8 @@
       "price": 14495,
       "mileage": 79250,
       "drivetrain": "4WD",
-      "url": "https://duluthmotorsports.com/vdp/23826443/Used-2015-Nissan-Armada-Platinum-for-sale-in-Duluth-MN-55811"
+      "url": "https://duluthmotorsports.com/vdp/23826443/Used-2015-Nissan-Armada-Platinum-for-sale-in-Duluth-MN-55811",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2013,
@@ -155,7 +164,8 @@
       "price": 8495,
       "mileage": 84068,
       "drivetrain": "4WD",
-      "url": "https://duluthmotorsports.com/vdp/23803011/Used-2013-Nissan-Rogue-SV-AWD-for-sale-in-Duluth-MN-55811"
+      "url": "https://duluthmotorsports.com/vdp/23803011/Used-2013-Nissan-Rogue-SV-AWD-for-sale-in-Duluth-MN-55811",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2016,
@@ -185,7 +195,8 @@
       "price": 13995,
       "mileage": 18790,
       "drivetrain": "AWD",
-      "url": "https://duluthmotorsports.com/vdp/23884137/Used-2018-Nissan-Rogue-Sport-SV-AWD-for-sale-in-Duluth-MN-55811"
+      "url": "https://duluthmotorsports.com/vdp/23884137/Used-2018-Nissan-Rogue-Sport-SV-AWD-for-sale-in-Duluth-MN-55811",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2004,

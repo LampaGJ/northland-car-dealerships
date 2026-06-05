@@ -7,35 +7,265 @@
   "state": "MN",
   "phone": "218-744-4821",
   "website": "https://www.lundgrenford.com",
-  "specialties": ["Ford trucks", "Used pickup trucks", "Ford SUVs", "Multi-brand used vehicles"],
+  "specialties": [
+    "Ford trucks",
+    "Used pickup trucks",
+    "Ford SUVs",
+    "Multi-brand used vehicles"
+  ],
   "coverage": "full",
   "method": "feed",
   "notes": "CMS identified as DealerOn v23.47.0 via X-DealerOn response headers and cdn.dlron.us assets. Feed discovery: /robots.txt disclosed /rss-usedinventory.aspx (RSS 2.0, DealerOn platform). All 25 used vehicles extracted from RSS feed (year/make/model/trim/VIN/mileage/URL). Pricing extracted from schema.org Vehicle + Product JSON-LD on individual VDP pages (offers.price field). 5 vehicles had no price in JSON-LD offers block, confirming they are listed as call-for-price. driveWheelConfiguration not present in DealerOn JSON-LD for this dealer. dealerId=21203, sincrowebId=motp-lundgren.",
   "inventory": [
-    {"year": 2011, "make": "Ford", "model": "Edge", "trim": "Limited", "price": 9995, "mileage": 123933, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2011-Ford-Edge-Limited-2FMDK4KC9BBA30220"},
-    {"year": 2012, "make": "Ford", "model": "F-150", "trim": "Lariat", "price": 15895, "mileage": 101001, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-Lariat-1FTFX1ETXCFA05366"},
-    {"year": 2012, "make": "Ford", "model": "F-150", "trim": "STX", "price": 13985, "mileage": 97172, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-STX-1FTFX1EF4CFC98921"},
-    {"year": 2012, "make": "Ford", "model": "F-150", "trim": "XL", "price": null, "mileage": 155173, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-XL-1FTMF1EF1CKD96788"},
-    {"year": 2013, "make": "Honda", "model": "Accord", "trim": "EX-L", "price": 12895, "mileage": 111172, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2013-Honda-Accord-EX+L-1HGCR2F89DA081397"},
-    {"year": 2014, "make": "Ford", "model": "F-150", "trim": "Lariat", "price": 17995, "mileage": 92000, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-Lariat-1FTFW1CF4EKE21455"},
-    {"year": 2014, "make": "Ford", "model": "F-150", "trim": "Lariat", "price": 16895, "mileage": 114688, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-Lariat-1FTFW1EFXEKF38390"},
-    {"year": 2014, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 9995, "mileage": 115046, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-XLT-1FTFW1ET0EKF92609"},
-    {"year": 2016, "make": "RAM", "model": "1500", "trim": "Rebel", "price": 29998, "mileage": 59939, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2016-RAM-1500-Rebel-1C6RR7YT8GS200201"},
-    {"year": 2016, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 18490, "mileage": 133729, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2016-Ford-F+150-XLT-1FTFX1EFXGFB11221"},
-    {"year": 2016, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 18795, "mileage": 126907, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2016-Ford-F+150-XLT-1FTEW1EP5GKF05174"},
-    {"year": 2017, "make": "Ford", "model": "F-150", "trim": "Lariat", "price": 26990, "mileage": 95670, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-Lariat-1FTEW1EF7HFB66869"},
-    {"year": 2017, "make": "Ford", "model": "F-150", "trim": "XLT", "price": null, "mileage": 88692, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-XLT-1FTEW1EP8HFA10591"},
-    {"year": 2017, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 19495, "mileage": 147746, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-XLT-1FTFW1EG8HFA58337"},
-    {"year": 2018, "make": "Chevrolet", "model": "Colorado", "trim": "LT", "price": 21990, "mileage": 101377, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2018-Chevrolet-Colorado-LT-1GCGTCENXJ1186346"},
-    {"year": 2018, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 22745, "mileage": 96498, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTEX1EP0JFB59113"},
-    {"year": 2018, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 19495, "mileage": 148330, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTFW1EG5JFB71488"},
-    {"year": 2018, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 24995, "mileage": 103496, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTEW1EG2JFB45121"},
-    {"year": 2018, "make": "Ford", "model": "Edge", "trim": "Titanium", "price": null, "mileage": 90179, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-Edge-Titanium-2FMPK4K93JBC44491"},
-    {"year": 2019, "make": "Ford", "model": "Edge", "trim": "SEL", "price": 12995, "mileage": 142244, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2019-Ford-Edge-SEL-2FMPK4J91KBB15412"},
-    {"year": 2019, "make": "Chevrolet", "model": "Silverado 2500HD", "trim": "LT", "price": null, "mileage": 1, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2019-Chevrolet-Silverado+2500HD-LT-2GC2KSEG5K1228068"},
-    {"year": 2019, "make": "Kia", "model": "Sorento", "trim": "EX", "price": 16490, "mileage": 81013, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2019-Kia-Sorento-EX-5XYPHDA5XKG527274"},
-    {"year": 2019, "make": "GMC", "model": "Acadia", "trim": "SLT-2", "price": 23895, "mileage": 63473, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2019-GMC-Acadia-SLT+2-1GKKNWLS4KZ165465"},
-    {"year": 2020, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT", "price": 25895, "mileage": 123515, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2020-Chevrolet-Silverado+1500-LT-3GCUYDEDXLG280832"},
-    {"year": 2020, "make": "Jeep", "model": "Cherokee", "trim": "Trailhawk", "price": null, "mileage": 78600, "drivetrain": null, "url": "https://www.lundgrenford.com/used-Eveleth-2020-Jeep-Cherokee-Trailhawk-1C4PJMBX9LD588524"}
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Limited",
+      "price": 9995,
+      "mileage": 123933,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2011-Ford-Edge-Limited-2FMDK4KC9BBA30220"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 15895,
+      "mileage": 101001,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-Lariat-1FTFX1ETXCFA05366"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "STX",
+      "price": 13985,
+      "mileage": 97172,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-STX-1FTFX1EF4CFC98921"
+    },
+    {
+      "year": 2012,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XL",
+      "price": null,
+      "mileage": 155173,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2012-Ford-F+150-XL-1FTMF1EF1CKD96788"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "EX-L",
+      "price": 12895,
+      "mileage": 111172,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2013-Honda-Accord-EX+L-1HGCR2F89DA081397"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 17995,
+      "mileage": 92000,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-Lariat-1FTFW1CF4EKE21455"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 16895,
+      "mileage": 114688,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-Lariat-1FTFW1EFXEKF38390"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 9995,
+      "mileage": 115046,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2014-Ford-F+150-XLT-1FTFW1ET0EKF92609"
+    },
+    {
+      "year": 2016,
+      "make": "RAM",
+      "model": "1500",
+      "trim": "Rebel",
+      "price": 29998,
+      "mileage": 59939,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2016-RAM-1500-Rebel-1C6RR7YT8GS200201"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 18490,
+      "mileage": 133729,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2016-Ford-F+150-XLT-1FTFX1EFXGFB11221"
+    },
+    {
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 18795,
+      "mileage": 126907,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2016-Ford-F+150-XLT-1FTEW1EP5GKF05174"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Lariat",
+      "price": 26990,
+      "mileage": 95670,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-Lariat-1FTEW1EF7HFB66869"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 88692,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-XLT-1FTEW1EP8HFA10591"
+    },
+    {
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 19495,
+      "mileage": 147746,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2017-Ford-F+150-XLT-1FTFW1EG8HFA58337"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "trim": "LT",
+      "price": 21990,
+      "mileage": 101377,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2018-Chevrolet-Colorado-LT-1GCGTCENXJ1186346"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 22745,
+      "mileage": 96498,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTEX1EP0JFB59113"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 19495,
+      "mileage": 148330,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTFW1EG5JFB71488"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "price": 24995,
+      "mileage": 103496,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-F+150-XLT-1FTEW1EG2JFB45121"
+    },
+    {
+      "year": 2018,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "Titanium",
+      "price": null,
+      "mileage": 90179,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2018-Ford-Edge-Titanium-2FMPK4K93JBC44491"
+    },
+    {
+      "year": 2019,
+      "make": "Ford",
+      "model": "Edge",
+      "trim": "SEL",
+      "price": 12995,
+      "mileage": 142244,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2019-Ford-Edge-SEL-2FMPK4J91KBB15412"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "LT",
+      "price": null,
+      "mileage": null,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2019-Chevrolet-Silverado+2500HD-LT-2GC2KSEG5K1228068"
+    },
+    {
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "EX",
+      "price": 16490,
+      "mileage": 81013,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2019-Kia-Sorento-EX-5XYPHDA5XKG527274"
+    },
+    {
+      "year": 2019,
+      "make": "GMC",
+      "model": "Acadia",
+      "trim": "SLT-2",
+      "price": 23895,
+      "mileage": 63473,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2019-GMC-Acadia-SLT+2-1GKKNWLS4KZ165465"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 25895,
+      "mileage": 123515,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2020-Chevrolet-Silverado+1500-LT-3GCUYDEDXLG280832"
+    },
+    {
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "price": null,
+      "mileage": 78600,
+      "drivetrain": null,
+      "url": "https://www.lundgrenford.com/used-Eveleth-2020-Jeep-Cherokee-Trailhawk-1C4PJMBX9LD588524"
+    }
   ]
 }

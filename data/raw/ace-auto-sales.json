@@ -623,7 +623,7 @@
       "model": "Other",
       "trim": "ATI",
       "price": 19999,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": null,
       "url": "https://www.brainerdaceauto.com/vehicle-details/2019-prime-time-ati-ati--27dbs--b46d6ab8f92d4e0785b3fde898823c6f"
     },
@@ -2203,7 +2203,7 @@
       "model": "Sierra 1500",
       "trim": "SL",
       "price": 9999,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": "RWD",
       "url": "https://www.brainerdaceauto.com/vehicle-details/2001-gmc-sierra-1500-sl-truck-9f5dcabca30f45d3af13742c2240392f"
     },
@@ -2243,7 +2243,7 @@
       "model": "HMMWV",
       "trim": "1 1/4 TON 4X4",
       "price": 25000,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": null,
       "url": "https://www.brainerdaceauto.com/vehicle-details/1989-a-m--general-corp--hmmwv-1-1-4-ton-4x4-9d6eda4882c5431ba6706a70258b0b7b"
     },
@@ -2253,7 +2253,7 @@
       "model": "C/K Pickup 1500",
       "trim": "K10",
       "price": 24999,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": "4WD",
       "url": "https://www.brainerdaceauto.com/vehicle-details/1986-chevrolet-k10-truck-4d465a0557504cf59c9ac6f03fe89c8b"
     },
@@ -2273,7 +2273,7 @@
       "model": "F-150",
       "trim": "",
       "price": 44999,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": "4WD",
       "url": "https://www.brainerdaceauto.com/vehicle-details/1979-ford-f-150-truck-fa2d6cbf032e4281b74714a02aeb08fb"
     },
@@ -2293,7 +2293,7 @@
       "model": "Other",
       "trim": "",
       "price": 49999,
-      "mileage": 1,
+      "mileage": null,
       "drivetrain": "RWD",
       "url": "https://www.brainerdaceauto.com/vehicle-details/1968-gmc-c15-truck-034ee8b871ee4ecb9e50008baef9f396"
     },
@@ -2313,9 +2313,15 @@
       "model": "Other",
       "trim": "",
       "price": 44999,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": "RWD",
       "url": "https://www.brainerdaceauto.com/vehicle-details/1961-chevrolet-bel-air-coupe-6f66cb72710d49d0af2be35570c477bd"
     }
-  ]
+  ],
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "AutoManager VDPs show no title field; sitewide copy mentions rust-free sourcing from Arizona but no explicit title status claim; 0 rebuilt indicators found across 8 sampled pages"
+  }
 }

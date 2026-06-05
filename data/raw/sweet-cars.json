@@ -7,24 +7,171 @@
   "state": "MN",
   "phone": "218-820-3159",
   "website": "https://www.buyasweetcar.com",
-  "specialties": ["used trucks", "used SUVs", "classic and vintage vehicles", "Jeep Wranglers"],
+  "specialties": [
+    "used trucks",
+    "used SUVs",
+    "classic and vintage vehicles",
+    "Jeep Wranglers"
+  ],
   "coverage": "full",
   "method": "html",
-  "notes": "Platform identified as AutoManager (footer attribution, AutoManager blob storage image URLs). No public JSON feed found. Primary inventory extracted from buyasweetcar.com/view-inventory (pages 1-2). Cross-referenced with CarGurus (sp407655) and MyNextRide (dealers/10201). The 2026 Bighorn Explorer 550 4x4 appearing on the native site is an off-road UTV and excluded per street-legal-only rule. CarGurus confirmed 10 street-legal vehicles with prices. MyNextRide showed 4 additional entries (2001 Silverado, 2018 Silverado, 2007 F-150, 2014 Transit Connect) with 'Call for Pricing' — included with null prices as they appear to be active inventory. Total: 14 street-legal vehicles. The dealer also stocks RVs, pontoon boats, and ATV/UTVs which are excluded.",
+  "notes": "Platform identified as AutoManager (footer attribution, AutoManager blob storage image URLs). No public JSON feed found. Primary inventory extracted from buyasweetcar.com/view-inventory (pages 1-2). Cross-referenced with CarGurus (sp407655) and MyNextRide (dealers/10201). The 2026 Bighorn Explorer 550 4x4 appearing on the native site is an off-road UTV and excluded per street-legal-only rule. CarGurus confirmed 10 street-legal vehicles with prices. MyNextRide showed 4 additional entries (2001 Silverado, 2018 Silverado, 2007 F-150, 2014 Transit Connect) with 'Call for Pricing' \u2014 included with null prices as they appear to be active inventory. Total: 14 street-legal vehicles. The dealer also stocks RVs, pontoon boats, and ATV/UTVs which are excluded.",
   "inventory": [
-    {"year": 1987, "make": "Chevrolet", "model": "Corvette", "trim": "Convertible", "price": 10900, "mileage": 58260, "drivetrain": "RWD", "url": "https://www.buyasweetcar.com/vehicle-details/1987-chevrolet-corvette-convertible-7651b981636e446b84780b34bdc46c0d"},
-    {"year": 1997, "make": "Pontiac", "model": "Firebird", "trim": "Formula", "price": 8900, "mileage": 101901, "drivetrain": null, "url": "https://www.buyasweetcar.com/vehicle-details/1997-pontiac-firebird-formula-convertible-2f50d5e77ed0435a9a2ec9018981a1c5"},
-    {"year": 1998, "make": "Chevrolet", "model": "Suburban", "trim": "K1500", "price": 10900, "mileage": 217915, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/1998-chevrolet-suburban-k1500-suv-6e6799f98fab41a285a534fc1f7a97a1"},
-    {"year": 1999, "make": "Jeep", "model": "Wrangler", "trim": "SE", "price": 4900, "mileage": 161506, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/1999-jeep-wrangler-se-suv-unknown"},
-    {"year": 2001, "make": "Chevrolet", "model": "Silverado 1500", "trim": null, "price": null, "mileage": 168450, "drivetrain": null, "url": "https://www.buyasweetcar.com/view-inventory"},
-    {"year": 2007, "make": "Ford", "model": "F-150", "trim": "Supercrew", "price": null, "mileage": 184539, "drivetrain": null, "url": "https://www.buyasweetcar.com/view-inventory"},
-    {"year": 2011, "make": "Ford", "model": "F-350 Super Duty", "trim": "XLT", "price": 10900, "mileage": 205537, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/2011-ford-f-350-super-duty-truck-7218ff7d4c8d468aa2d58021fdef9398"},
-    {"year": 2013, "make": "GMC", "model": "Sierra 1500", "trim": "SLE", "price": 17500, "mileage": 77225, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/2013-gmc-sierra-1500-1500-sle-truck-466d9d6bf7124ba1b976188cb218ca02"},
-    {"year": 2014, "make": "Ford", "model": "Transit Connect", "trim": "XLT", "price": null, "mileage": 187690, "drivetrain": null, "url": "https://www.buyasweetcar.com/view-inventory"},
-    {"year": 2014, "make": "Jeep", "model": "Wrangler", "trim": "Sport", "price": 12900, "mileage": 116546, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/2014-jeep-wrangler-sport-suv-751cfe3dd00f4ce8bebeb1dc2637de16"},
-    {"year": 2016, "make": "Chevrolet", "model": "Silverado 1500", "trim": "LT", "price": 16900, "mileage": 139096, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/2016-chevrolet-silverado-1500-lt-truck-11abef223ea44fc8bad073a8c3dcabcf"},
-    {"year": 2016, "make": "Chevrolet", "model": "Suburban", "trim": "1500 LTZ", "price": 12900, "mileage": 170115, "drivetrain": "4WD", "url": "https://www.buyasweetcar.com/vehicle-details/2016-chevrolet-suburban-1500-ltz-suv-1edc7ef9254143108248f51d98d37484"},
-    {"year": 2018, "make": "Chevrolet", "model": "Silverado 1500", "trim": null, "price": null, "mileage": 187287, "drivetrain": null, "url": "https://www.buyasweetcar.com/view-inventory"},
-    {"year": 2020, "make": "Chevrolet", "model": "Equinox", "trim": "LT 2.0", "price": 8750, "mileage": 194463, "drivetrain": "AWD", "url": "https://www.buyasweetcar.com/vehicle-details/2020-chevrolet-equinox-lt-suv-unknown"}
-  ]
+    {
+      "year": 1987,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Convertible",
+      "price": 10900,
+      "mileage": 58260,
+      "drivetrain": "RWD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/1987-chevrolet-corvette-convertible-7651b981636e446b84780b34bdc46c0d",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 1997,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "trim": "Formula",
+      "price": 8900,
+      "mileage": 101901,
+      "drivetrain": null,
+      "url": "https://www.buyasweetcar.com/vehicle-details/1997-pontiac-firebird-formula-convertible-2f50d5e77ed0435a9a2ec9018981a1c5",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 1998,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "K1500",
+      "price": 10900,
+      "mileage": 217915,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/1998-chevrolet-suburban-k1500-suv-6e6799f98fab41a285a534fc1f7a97a1",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 1999,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "SE",
+      "price": 4900,
+      "mileage": 161506,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/1999-jeep-wrangler-se-suv-unknown",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2001,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "price": null,
+      "mileage": 168450,
+      "drivetrain": null,
+      "url": "https://www.buyasweetcar.com/view-inventory"
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "Supercrew",
+      "price": null,
+      "mileage": 184539,
+      "drivetrain": null,
+      "url": "https://www.buyasweetcar.com/view-inventory"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "trim": "XLT",
+      "price": 10900,
+      "mileage": 205537,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2011-ford-f-350-super-duty-truck-7218ff7d4c8d468aa2d58021fdef9398",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2013,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "SLE",
+      "price": 17500,
+      "mileage": 77225,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2013-gmc-sierra-1500-1500-sle-truck-466d9d6bf7124ba1b976188cb218ca02",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2014,
+      "make": "Ford",
+      "model": "Transit Connect",
+      "trim": "XLT",
+      "price": null,
+      "mileage": 187690,
+      "drivetrain": null,
+      "url": "https://www.buyasweetcar.com/view-inventory"
+    },
+    {
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport",
+      "price": 12900,
+      "mileage": 116546,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2014-jeep-wrangler-sport-suv-751cfe3dd00f4ce8bebeb1dc2637de16",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "LT",
+      "price": 16900,
+      "mileage": 139096,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2016-chevrolet-silverado-1500-lt-truck-11abef223ea44fc8bad073a8c3dcabcf",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "1500 LTZ",
+      "price": 12900,
+      "mileage": 170115,
+      "drivetrain": "4WD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2016-chevrolet-suburban-1500-ltz-suv-1edc7ef9254143108248f51d98d37484",
+      "titleStatus": "clean"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "price": null,
+      "mileage": 187287,
+      "drivetrain": null,
+      "url": "https://www.buyasweetcar.com/view-inventory"
+    },
+    {
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT 2.0",
+      "price": 8750,
+      "mileage": 194463,
+      "drivetrain": "AWD",
+      "url": "https://www.buyasweetcar.com/vehicle-details/2020-chevrolet-equinox-lt-suv-unknown",
+      "titleStatus": "clean"
+    }
+  ],
+  "titleAudit": {
+    "status": "clean-advertised",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "AutoManager VDPs include 'Title: Clear' on all 6 accessible VDP pages sampled (1987 Corvette, 1997 Firebird, 2013 GMC Sierra, 2014 Jeep Wrangler, 2016 Suburban, 2011 F-350); 0 rebuilt or salvage found"
+  }
 }

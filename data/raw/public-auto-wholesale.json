@@ -16,6 +16,12 @@
   "coverage": "partial",
   "method": "html",
   "notes": "CMS: DealerInspire (same x-cars-signature-v1 header as MTH \u2014 affiliated operation confirmed by shared platform). Cloudflare blocks direct curl (403). Inventory extracted via WebFetch from /inventory/. Both pages returned same 100 vehicles confirming 100-vehicle total. VIN overlap check with MTH: 0 shared VINs \u2014 inventories are distinct despite shared DealerInspire platform. Method: html via WebFetch.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "DealerInspire VDPs render full inventory list, not individual vehicle detail; no title field disclosed on any page and no sitewide clean/rebuilt/as-is claims found on homepage despite 'wholesale' branding."
+  },
   "inventory": [
     {
       "year": 2013,

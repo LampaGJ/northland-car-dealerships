@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "No website found. Facebook page exists (facebook.com/upnorthautosales/) but was inaccessible via WebFetch. CarEdge, Driverbase, BBB, and Yelp all confirm business details but show no inventory. autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto lists 10 vehicles with listings dated 05/20/2026 through 05/29/2026 — these are the most current accessible data. A prior web search surfaced additional vehicles (2012 Hyundai Santa Fe $5,995/147k mi, 2011 Honda Pilot $5,995/211k mi, 2008 Toyota Sienna $4,995/208k mi, 2010 Honda Element $5,995/182k mi, 2009 Pontiac Vibe $4,995/208k mi, 2002 Acura TL $5,995/104k mi) that are not represented on autoyas.com, suggesting those have sold or the autoyas.com list is incomplete. The 10 autoyas.com vehicles are used as the inventory here. Upnorthautosales.com referenced in search results was not resolvable. Coverage is partial.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 0,
+    "rebuiltFound": 0,
+    "note": "No dealer website; autoyas.com listing page checked — no title status disclosed for any of the 10 vehicles; Facebook page inaccessible; no other source with title data found."
+  },
   "inventory": [
     {"year": 2006, "make": "Ford", "model": "Fusion", "trim": "SE", "price": 4495, "mileage": 180000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},
     {"year": 2009, "make": "Honda", "model": "Fit", "trim": "Sport", "price": 4995, "mileage": 177000, "drivetrain": null, "url": "https://www.autoyas.com/US/Hermantown/1567992779920232/Up-North-Auto"},

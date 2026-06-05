@@ -143,7 +143,7 @@
       "model": "Silverado 1500",
       "trim": "Base",
       "price": 19545,
-      "mileage": 0,
+      "mileage": null,
       "drivetrain": "Used",
       "url": "https://www.gillelandchevrolet.com/used-St+Cloud-2016-Chevrolet-Silverado+1500-+-3GCUKREC3GG181071"
     },
@@ -1031,7 +1031,7 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLE 450",
-      "trim": "4MATIC\u00ae SUV",
+      "trim": "4MATIC® SUV",
       "price": 48540,
       "mileage": 58425,
       "drivetrain": "Used",

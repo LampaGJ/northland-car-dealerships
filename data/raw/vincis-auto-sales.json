@@ -11,6 +11,12 @@
   "coverage": "full",
   "method": "aggregator",
   "notes": "Primary website https://www.vinciautosalesinc.com blocked by DataDome anti-bot (HTTP 403 with x-datadome header). Inventory sourced from MyNextRide platform (https://www.mynextride.com/dealers/5630/vinci-auto-sales-inc-bessemer-mi/inventory) which returned 24 vehicles with complete year/make/model/trim/price/mileage/VIN data. AutosToday.com confirmed 16 vehicles (count discrepancy likely reflects their data lag; MyNextRide data was more current with 24). AutoTrader also listed 10 vehicles but site was returning errors during extraction. Four vehicles listed at 'Call for Pricing' - prices recorded as null.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 6,
+    "rebuiltFound": 0,
+    "note": "MyNextRide dealer inventory page and 6 individual VDP URLs sampled (VDP direct links returned 404; dealer inventory page confirmed no title fields). MyNextRide platform does not surface title status in listing data. Primary vinciautosalesinc.com blocked by DataDome; no title claims reachable. Insufficient data to determine title posture."
+  },
   "inventory": [
     {"year": 2025, "make": "Dodge", "model": "Durango", "trim": "R/T", "price": 46888, "mileage": 12493, "drivetrain": null, "url": "https://www.mynextride.com/5630/1C4SDJCT4SC539053"},
     {"year": 2025, "make": "Nissan", "model": "Rogue", "trim": "SV", "price": 27888, "mileage": 26904, "drivetrain": null, "url": "https://www.mynextride.com/5630/JN8BT3BA6SW344041"},

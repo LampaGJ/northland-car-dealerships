@@ -16,6 +16,12 @@
   "coverage": "full",
   "method": "html",
   "notes": "CMS: WordPress (confirmed via Link: rel=https://api.w.org/ header and nginx server) with AutoDealersDigital inventory plugin (cdn-websites.autodealersdigital.com CDN, dealer ID 104463). WordPress REST API probed: /wp-json/wp/v2/posts returned 500; /wp-json/wp/v2/types returned 500 (server error, not CORS). No inventory post type exposed via REST. AutoDealersDigital has no public JSON endpoint discoverable. Extracted from /all-inventory/ paginated HTML (3 pages, 25+25+15=65 vehicles). Vehicle URLs encode year/make/model as /vehicles/{id}-{year}-{make}-{model}/. Drivetrain and trim not available in listing cards (would require individual VDP fetches). 65 vehicles dominated by Subaru (Forester, Outback, Crosstrek, Impreza, Ascent) — heavy Subaru specialist. | IMPORTANT: dealer specializes in REBUILT-TITLE vehicles — listings carry 'Title: Rebuilt' (verified 2026-06-05 on VDP pages). Prices reflect branded-title discount vs clean-title market; do not compare directly against clean-title stock.",
+  "titleAudit": {
+    "status": "rebuilt-specialist",
+    "sampled": 8,
+    "rebuiltFound": 8,
+    "note": "All 8 VDPs show 'Title: Rebuilt' in the vehicle info table — confirmed 100% rebuilt-title inventory including non-Subaru makes (Cadillac SRX, Honda Odyssey, Honda HR-V, 2019 Crosstrek x2, 2022 Ascent, 2023 Forester, 2004 Thunderbird)."
+  },
   "inventory": [
     {
       "year": 2012,
@@ -25,7 +31,8 @@
       "price": 9999,
       "mileage": 80746,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11995464-2012-Cadillac-SRX/"
+      "url": "https://newduluthauto.net/vehicles/11995464-2012-Cadillac-SRX/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2004,
@@ -35,7 +42,8 @@
       "price": 14999,
       "mileage": null,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/10811963-2004-Ford-Thunderbird/"
+      "url": "https://newduluthauto.net/vehicles/10811963-2004-Ford-Thunderbird/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2022,
@@ -45,7 +53,8 @@
       "price": 17999,
       "mileage": 48252,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11928568-2022-Honda-HR-V/"
+      "url": "https://newduluthauto.net/vehicles/11928568-2022-Honda-HR-V/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2014,
@@ -55,7 +64,8 @@
       "price": 7999,
       "mileage": null,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11340674-2014-Honda-Odyssey/"
+      "url": "https://newduluthauto.net/vehicles/11340674-2014-Honda-Odyssey/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2019,
@@ -85,7 +95,8 @@
       "price": 23999,
       "mileage": null,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11760830-2022-Subaru-Ascent/"
+      "url": "https://newduluthauto.net/vehicles/11760830-2022-Subaru-Ascent/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2020,
@@ -125,7 +136,8 @@
       "price": 16999,
       "mileage": null,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11928471-2020-Subaru-Crosstrek/"
+      "url": "https://newduluthauto.net/vehicles/11928471-2020-Subaru-Crosstrek/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2019,
@@ -135,7 +147,8 @@
       "price": 22999,
       "mileage": 24714,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/9530644-2019-Subaru-Crosstrek/"
+      "url": "https://newduluthauto.net/vehicles/9530644-2019-Subaru-Crosstrek/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2019,
@@ -235,7 +248,8 @@
       "price": 22999,
       "mileage": null,
       "drivetrain": null,
-      "url": "https://newduluthauto.net/vehicles/11866296-2023-Subaru-Forester/"
+      "url": "https://newduluthauto.net/vehicles/11866296-2023-Subaru-Forester/",
+      "titleStatus": "rebuilt"
     },
     {
       "year": 2020,

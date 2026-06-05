@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "Primary website http://cloverlandmotorsmi.com was unreachable (ECONNREFUSED) during extraction. Note: distinct from affiliated Cloverland Motorsports (powersports) at same address - only car/truck inventory included per instructions. CarGurus profile URL 404'd. Inventory sourced from web2carz.com dealer page (https://www.web2carz.com/16202/dealers/cloverland-motors-inc) which confirmed 9 vehicles matching the site's feed. Mileage not available from this aggregator. Prices confirmed from web2carz modal data. Three vehicles listed as 'contact seller' (no public price). Also confirmed by web2carz.com earlier data: 2023 and 2024 model-year vehicles appeared in year dropdown but no corresponding listing blocks were present, so the 9 listed here represent the complete feed as of extraction date.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 4,
+    "rebuiltFound": 0,
+    "note": "4 web2carz listing pages sampled; none disclosed title status. web2carz promotes a CARFAX 'title brand check' link but does not surface title data in listing content. Dealer's primary site unreachable. Insufficient data to determine title posture."
+  },
   "inventory": [
     {"year": 2022, "make": "Chevrolet", "model": "Silverado 1500 Limited", "trim": "LT", "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863446/2022/chevrolet/silverado-1500-limited/used-cars/for-sale"},
     {"year": 2021, "make": "RAM", "model": "1500", "trim": null, "price": null, "mileage": null, "drivetrain": null, "url": "https://www.web2carz.com/414863445/2021/ram/1500/used-cars/for-sale"},

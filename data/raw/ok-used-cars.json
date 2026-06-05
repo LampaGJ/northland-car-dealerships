@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "okusedcarsmn.com returns HTTP 403 to non-browser clients. Cars.com dealer 159226 shows dealer profile but no active inventory. Carsoup.com dealer 1633 returned full 8-vehicle inventory with prices and mileage — used as primary source. Carsforsale.com page also returned 403. Founded 1992 per dealer description. No VINs or stock numbers available from Carsoup extraction.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 8,
+    "rebuiltFound": 0,
+    "note": "All 8 vehicles sourced from Carsoup dealer page (no individual VDP URLs); Carsoup listing page mentions 'Exclude Salvage Titles' filter but flags no vehicles as salvage/rebuilt; no explicit clean-title claims; individual vehicle history not accessible via aggregator."
+  },
   "inventory": [
     {"year": 2002, "make": "Oldsmobile", "model": "Bravada", "trim": "", "price": 6999, "mileage": 129205, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},
     {"year": 2009, "make": "Jeep", "model": "Liberty", "trim": "", "price": 8999, "mileage": 99601, "drivetrain": null, "url": "https://www.carsoup.com/find-dealers/OK-Used-Cars/1633/inventory"},

@@ -11,6 +11,12 @@
   "coverage": "partial",
   "method": "aggregator",
   "notes": "CMS fingerprinted as stockNum/AutoCorner system (cgi-bin/vdp_vehicles.cgi, autocorner.com photo hosting). Native inventory page at /docs/vehicle_search.html returns empty HTML (JS-rendered, no server-side data). Physical address confirmed as 2225 Roosevelt Rd, Saint Cloud MN per Cars.com dealer page 5389227; Google also shows 6602 Gregory Park Rd S, St Augusta for the same dealer (possible dual location or address update). Inventory pulled from Cars.com dealer 5389227 and cross-checked with MyNextRide dealer 8852. 28 vehicles listed, all street-legal cars/trucks/SUVs — powersports excluded per task instructions. Note: Cars.com prices have a $350 premium vs. MyNextRide; Cars.com figures used as primary source.",
+  "titleAudit": {
+    "status": "unknown",
+    "sampled": 5,
+    "rebuiltFound": 0,
+    "note": "Cars.com VDP pages timed out during sampling; no title history section accessible; no rebuilt or clean-title language on dealer homepage or inventory page; title status indeterminate."
+  },
   "inventory": [
     {"year": 2014, "make": "Honda", "model": "Civic", "trim": "LX", "price": 10350, "mileage": 146642, "drivetrain": "FWD", "url": "https://www.cars.com/vehicledetail/78fbaa1e-9d53-490b-85a1-8ac6c23b0d78/"},
     {"year": 2017, "make": "Ford", "model": "F-150", "trim": "XLT", "price": 23350, "mileage": 130824, "drivetrain": "4WD", "url": "https://www.cars.com/vehicledetail/bca8d159-8b71-4e55-b290-21c15f885d2a/"},
